@@ -1,0 +1,1599 @@
+[MCQ]
+QUESTION: Which finding most strongly suggests fluid volume excess?
+A: Dry mucous membranes
+B: Sudden weight gain
+C: Weak, thready pulse
+D: Poor skin turgor
+ANSWER: B
+RATIONALE: Sudden weight gain is a sensitive indicator of fluid retention because excess fluid increases body weight.
+END
+
+[MCQ]
+QUESTION: Which assessment finding is most consistent with fluid volume excess?
+A: Flat neck veins
+B: Bounding pulse
+C: Concentrated urine
+D: Orthostatic hypotension
+ANSWER: B
+RATIONALE: Fluid volume excess can increase vascular volume and produce a bounding pulse.
+END
+
+[MCQ]
+QUESTION: A patient gains 2 kg in 2 days. What does this most likely indicate?
+A: Loss of muscle mass
+B: Increased fat storage
+C: Fluid retention
+D: Decreased metabolism
+ANSWER: C
+RATIONALE: A rapid 2-kg weight gain is most likely fluid because fat or muscle changes do not occur that quickly.
+END
+
+[MCQ]
+QUESTION: Which finding would the nurse expect in a patient with fluid volume excess?
+A: Crackles
+B: Dry tongue
+C: Poor skin turgor
+D: Sunken eyes
+ANSWER: A
+RATIONALE: Excess fluid can accumulate in the lungs, producing crackles.
+END
+
+[MCQ]
+QUESTION: Which finding is most concerning in a patient with severe fluid volume excess?
+A: Mild ankle edema
+B: Moist mucous membranes
+C: Severe dyspnea with crackles
+D: Slight weight gain
+ANSWER: C
+RATIONALE: Severe dyspnea and crackles may indicate pulmonary edema, which can rapidly impair oxygenation.
+END
+
+[MCQ]
+QUESTION: Which measurement is most useful for monitoring changes in fluid balance?
+A: Height
+B: Daily weight
+C: Head circumference
+D: Waist circumference
+ANSWER: B
+RATIONALE: Daily weight is a sensitive indicator of fluid changes because rapid weight changes often reflect fluid gain or loss.
+END
+
+[MCQ]
+QUESTION: A patient gains 1 kg overnight. The nurse should recognize this as approximately how much retained fluid?
+A: 100 mL
+B: 500 mL
+C: 1 L
+D: 2 L
+ANSWER: C
+RATIONALE: Approximately 1 kg of rapid body-weight gain corresponds to about 1 liter of retained fluid.
+END
+
+[MCQ]
+QUESTION: Which patient is at greatest risk for fluid volume excess?
+A: Patient with prolonged vomiting
+B: Patient with severe renal impairment
+C: Patient with excessive sweating
+D: Patient with diarrhea
+ANSWER: B
+RATIONALE: Impaired renal function reduces the kidneys' ability to excrete sodium and water, increasing the risk of fluid retention.
+END
+
+[MCQ]
+QUESTION: Why does renal impairment commonly cause fluid retention?
+A: The kidneys produce too much insulin
+B: The kidneys cannot adequately excrete sodium and water
+C: The kidneys increase stool production
+D: The kidneys destroy plasma proteins
+ANSWER: B
+RATIONALE: Reduced kidney function decreases the ability to eliminate sodium and water, promoting volume expansion.
+END
+
+[MCQ]
+QUESTION: Which hormone directly promotes sodium retention by the kidneys?
+A: Insulin
+B: Aldosterone
+C: Calcitonin
+D: Glucagon
+ANSWER: B
+RATIONALE: Aldosterone increases sodium reabsorption in the distal nephron, and water follows sodium.
+END
+
+[MCQ]
+QUESTION: Aldosterone primarily causes the kidneys to retain which substance?
+A: Sodium
+B: Calcium
+C: Magnesium
+D: Phosphate
+ANSWER: A
+RATIONALE: Aldosterone promotes sodium reabsorption while increasing potassium excretion.
+END
+
+[MCQ]
+QUESTION: What usually follows sodium retention in the body?
+A: Water follows sodium
+B: Water leaves the bloodstream immediately
+C: Potassium enters the bloodstream
+D: Calcium is excreted
+ANSWER: A
+RATIONALE: Water follows sodium osmotically, so sodium retention can contribute to increased extracellular fluid volume.
+END
+
+[MCQ]
+QUESTION: Which sequence correctly describes the RAAS response to decreased renal perfusion?
+A: Renin → angiotensin II → aldosterone
+B: Aldosterone → renin → insulin
+C: ADH → insulin → renin
+D: Renin → insulin → aldosterone
+ANSWER: A
+RATIONALE: Reduced renal perfusion stimulates renin release, leading to angiotensin II formation and aldosterone secretion.
+END
+
+[MCQ]
+QUESTION: What is the primary effect of angiotensin II that contributes to fluid retention?
+A: Promotes sodium loss
+B: Causes vasodilation only
+C: Stimulates aldosterone release
+D: Blocks ADH
+ANSWER: C
+RATIONALE: Angiotensin II stimulates aldosterone secretion, which increases renal sodium reabsorption.
+END
+
+[MCQ]
+QUESTION: Which hormone primarily increases water reabsorption in the collecting ducts?
+A: ADH
+B: Insulin
+C: Glucagon
+D: Calcitonin
+ANSWER: A
+RATIONALE: ADH increases water permeability of the collecting ducts, allowing more water to be reabsorbed.
+END
+
+[MCQ]
+QUESTION: A patient has increased ADH secretion. Which finding is expected?
+A: Increased free-water retention
+B: Massive sodium loss
+C: Severe dehydration
+D: Increased urine volume
+ANSWER: A
+RATIONALE: ADH causes the kidneys to retain water, decreasing urine volume.
+END
+
+[MCQ]
+QUESTION: Which urine finding would be expected when ADH secretion is high?
+A: Large amounts of dilute urine
+B: Reduced urine output
+C: Completely absent urine formation
+D: Increased glucose excretion
+ANSWER: B
+RATIONALE: ADH promotes water reabsorption, resulting in reduced urine output and more concentrated urine.
+END
+
+[MCQ]
+QUESTION: Which hormone promotes both vasoconstriction and stimulation of aldosterone secretion?
+A: Angiotensin II
+B: ADH only
+C: Insulin
+D: Atrial natriuretic peptide
+ANSWER: A
+RATIONALE: Angiotensin II causes vasoconstriction and stimulates aldosterone release.
+END
+
+[MCQ]
+QUESTION: Which hormone works to promote sodium and water excretion when the atria are stretched by increased volume?
+A: ANP
+B: Aldosterone
+C: ADH
+D: Renin
+ANSWER: A
+RATIONALE: Atrial natriuretic peptide promotes natriuresis and helps reduce excess circulating volume.
+END
+
+[MCQ]
+QUESTION: Which condition commonly activates RAAS despite the patient having total-body fluid excess?
+A: Heart failure
+B: Excessive water intake only
+C: Hyperthyroidism
+D: Fever
+ANSWER: A
+RATIONALE: In heart failure, reduced effective arterial circulation can activate RAAS even when total body fluid is already excessive.
+END
+
+[MCQ]
+QUESTION: Why can a patient with heart failure develop fluid retention?
+A: The kidneys interpret reduced perfusion as volume depletion
+B: The kidneys stop producing urine immediately
+C: The heart destroys sodium
+D: The lungs directly produce aldosterone
+ANSWER: A
+RATIONALE: Reduced effective cardiac output can decrease renal perfusion, activating RAAS and promoting sodium and water retention.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has worsening bilateral ankle edema. What is the most likely mechanism?
+A: Increased sodium and water retention
+B: Decreased extracellular fluid
+C: Increased renal water loss
+D: Severe intracellular dehydration
+ANSWER: A
+RATIONALE: Heart failure can activate neurohormonal mechanisms that promote sodium and water retention, contributing to edema.
+END
+
+[MCQ]
+QUESTION: Which finding commonly accompanies right-sided heart failure?
+A: Peripheral edema
+B: Dry mucous membranes
+C: Hematemesis
+D: Severe polyuria
+ANSWER: A
+RATIONALE: Right-sided heart failure causes systemic venous congestion, which commonly produces peripheral edema.
+END
+
+[MCQ]
+QUESTION: Which finding is particularly associated with systemic venous congestion?
+A: Jugular venous distention
+B: Flat neck veins
+C: Dry skin
+D: Decreased abdominal pressure
+ANSWER: A
+RATIONALE: Increased systemic venous pressure can cause jugular venous distention.
+END
+
+[MCQ]
+QUESTION: A patient with fluid overload develops crackles. What does this finding most likely indicate?
+A: Fluid in the alveolar/interstitial spaces
+B: Severe dehydration
+C: Low blood glucose
+D: Decreased airway secretions
+ANSWER: A
+RATIONALE: Excess intravascular pressure can drive fluid into pulmonary interstitial and alveolar spaces, causing crackles.
+END
+
+[MCQ]
+QUESTION: Which finding suggests pulmonary edema rather than simple peripheral edema?
+A: Mild ankle swelling
+B: Sudden severe dyspnea
+C: Slight weight gain
+D: Trace pedal edema
+ANSWER: B
+RATIONALE: Sudden severe dyspnea can indicate fluid accumulation in the lungs and requires immediate attention.
+END
+
+[MCQ]
+QUESTION: A patient with fluid overload suddenly becomes severely short of breath. What is the nurse's priority?
+A: Encourage oral fluids
+B: Place the patient flat
+C: Assess airway and breathing and provide appropriate oxygen support
+D: Encourage ambulation
+ANSWER: C
+RATIONALE: Severe dyspnea may indicate pulmonary edema, so airway and breathing are immediate priorities.
+END
+
+[MCQ]
+QUESTION: Which position is generally helpful for a patient experiencing dyspnea from pulmonary fluid overload?
+A: High-Fowler's
+B: Flat supine
+C: Trendelenburg
+D: Prone with legs elevated
+ANSWER: A
+RATIONALE: High-Fowler's positioning can improve lung expansion and ease breathing.
+END
+
+[MCQ]
+QUESTION: Which assessment finding would most strongly support pulmonary congestion?
+A: Bilateral crackles
+B: Dry lips
+C: Poor skin turgor
+D: Sunken eyes
+ANSWER: A
+RATIONALE: Bilateral crackles are commonly associated with fluid accumulation in the lungs.
+END
+
+[MCQ]
+QUESTION: Which pulse characteristic may occur with fluid volume excess?
+A: Bounding
+B: Absent
+C: Always weak and thready
+D: Irregular only
+ANSWER: A
+RATIONALE: Increased intravascular volume can produce a stronger or bounding pulse.
+END
+
+[MCQ]
+QUESTION: Which blood pressure pattern may occur with fluid volume excess?
+A: Increased blood pressure
+B: Always severe hypotension
+C: Always zero diastolic pressure
+D: No possible change
+ANSWER: A
+RATIONALE: Increased circulating volume can increase vascular pressure and contribute to hypertension.
+END
+
+[MCQ]
+QUESTION: Which finding indicates peripheral fluid accumulation?
+A: Pitting edema
+B: Dry mucous membranes
+C: Decreased body weight
+D: Flat neck veins
+ANSWER: A
+RATIONALE: Pitting edema occurs when excess interstitial fluid produces an indentation after pressure is applied.
+END
+
+[MCQ]
+QUESTION: What causes pitting edema?
+A: Excess interstitial fluid
+B: Decreased body water only
+C: Increased intracellular potassium
+D: Loss of all plasma proteins
+ANSWER: A
+RATIONALE: Pitting edema results from accumulation of fluid in the interstitial space.
+END
+
+[MCQ]
+QUESTION: Which factor can promote edema by increasing hydrostatic pressure?
+A: Heart failure
+B: Dehydration
+C: Severe vomiting
+D: Excessive sweating
+ANSWER: A
+RATIONALE: Heart failure can increase venous and capillary hydrostatic pressure, pushing fluid into the interstitial space.
+END
+
+[MCQ]
+QUESTION: How does increased capillary hydrostatic pressure contribute to edema?
+A: It pushes fluid out of the capillaries
+B: It pulls water into cells
+C: It destroys sodium
+D: It prevents filtration
+ANSWER: A
+RATIONALE: Increased hydrostatic pressure promotes movement of fluid from the vascular space into the interstitial space.
+END
+
+[MCQ]
+QUESTION: Which condition can cause edema through decreased plasma oncotic pressure?
+A: Hypoalbuminemia
+B: Hypernatremia
+C: Hypertension alone
+D: Hyperglycemia alone
+ANSWER: A
+RATIONALE: Albumin contributes to plasma oncotic pressure. Low albumin reduces the force pulling fluid into the vascular space.
+END
+
+[MCQ]
+QUESTION: A patient with severe liver disease develops generalized edema. Which mechanism may contribute?
+A: Reduced albumin production
+B: Excess insulin secretion
+C: Increased red blood cell production
+D: Increased calcium absorption
+ANSWER: A
+RATIONALE: The liver produces albumin. Reduced albumin levels decrease plasma oncotic pressure and promote fluid movement into tissues.
+END
+
+[MCQ]
+QUESTION: Which condition commonly causes third spacing?
+A: Severe burns
+B: Mild thirst
+C: Simple short-term fasting
+D: Normal exercise
+ANSWER: A
+RATIONALE: Severe burns can increase capillary permeability, allowing fluid to move from the intravascular space into interstitial tissues.
+END
+
+[MCQ]
+QUESTION: What is third spacing?
+A: Fluid moving into a space where it is not readily available for normal circulation
+B: Fluid entering the bloodstream
+C: Sodium moving into cells
+D: Normal urine production
+ANSWER: A
+RATIONALE: Third spacing refers to fluid shifting into nonfunctional or poorly accessible compartments, reducing effective circulating volume.
+END
+
+[MCQ]
+QUESTION: A patient with severe burns has massive edema but low blood pressure. How can this occur?
+A: Fluid has shifted out of the intravascular space
+B: The patient has too much circulating blood
+C: Sodium has completely disappeared
+D: The kidneys have produced excessive plasma
+ANSWER: A
+RATIONALE: Capillary leak can move fluid into tissues, causing edema while reducing effective intravascular volume.
+END
+
+[MCQ]
+QUESTION: Which finding may occur with third spacing despite visible edema?
+A: Decreased effective circulating volume
+B: Increased effective circulating volume
+C: Severe hypervolemia inside the vessels
+D: Increased urine output
+ANSWER: A
+RATIONALE: Third-spaced fluid is not effectively available to maintain circulation, so intravascular volume may decrease.
+END
+
+[MCQ]
+QUESTION: Which nursing assessment is most important when monitoring a patient receiving large amounts of IV fluid?
+A: Lung sounds
+B: Hair texture
+C: Visual acuity
+D: Nail length
+ANSWER: A
+RATIONALE: Lung assessment can identify early pulmonary congestion from fluid overload.
+END
+
+[MCQ]
+QUESTION: A patient receiving IV fluids develops new crackles and dyspnea. What should the nurse suspect?
+A: Fluid volume excess
+B: Improved hydration
+C: Normal response
+D: Dehydration
+ANSWER: A
+RATIONALE: New crackles and dyspnea during IV therapy can indicate fluid overload and pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: Which action is appropriate when fluid overload is suspected during IV therapy?
+A: Continue the infusion at a faster rate
+B: Assess the patient and IV therapy immediately
+C: Encourage additional oral fluids
+D: Ignore mild respiratory changes
+ANSWER: B
+RATIONALE: New respiratory symptoms require prompt assessment and evaluation of the IV infusion.
+END
+
+[MCQ]
+QUESTION: Which IV fluid is isotonic and can increase intravascular volume?
+A: 0.9% normal saline
+B: 0.45% saline
+C: 3% saline
+D: Sterile water
+ANSWER: A
+RATIONALE: 0.9% normal saline is an isotonic crystalloid that expands extracellular and intravascular volume.
+END
+
+[MCQ]
+QUESTION: Why must isotonic IV fluids be used cautiously in patients at risk for fluid overload?
+A: They can increase extracellular and intravascular volume
+B: They always cause hypoglycemia
+C: They remove all sodium
+D: They prevent urine formation permanently
+ANSWER: A
+RATIONALE: Isotonic fluids remain primarily in the extracellular space and can expand circulating volume.
+END
+
+[MCQ]
+QUESTION: Which patient requires particularly careful monitoring during IV fluid administration?
+A: Patient with heart failure
+B: Healthy patient with no medical conditions
+C: Patient with a healed paper cut
+D: Patient with normal renal function and no fluid restrictions
+ANSWER: A
+RATIONALE: Heart failure reduces the body's ability to tolerate additional fluid volume.
+END
+
+[MCQ]
+QUESTION: Which patient is at highest risk for fluid overload from excessive IV therapy?
+A: Patient with renal failure
+B: Patient with mild headache
+C: Patient with a healed fracture
+D: Patient with normal kidney function
+ANSWER: A
+RATIONALE: Renal failure reduces the ability to excrete excess water and sodium.
+END
+
+[MCQ]
+QUESTION: Which finding should be reported when monitoring a patient for fluid retention?
+A: Rapid increase in daily weight
+B: Stable weight
+C: Normal urine output
+D: Moist mucous membranes
+ANSWER: A
+RATIONALE: Rapid weight gain is a sensitive indicator of fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Which nursing intervention is commonly used to monitor fluid retention?
+A: Daily weights at consistent times
+B: Weekly height measurements
+C: Monthly temperature checks
+D: Measuring arm length
+ANSWER: A
+RATIONALE: Daily weights should be obtained under consistent conditions to accurately identify fluid changes.
+END
+
+[MCQ]
+QUESTION: Why should daily weights be taken under similar conditions?
+A: To improve accuracy when comparing fluid changes
+B: To prevent sodium absorption
+C: To increase urine output
+D: To prevent edema
+ANSWER: A
+RATIONALE: Consistent timing, clothing, and equipment reduce variables that could falsely appear as fluid changes.
+END
+
+[MCQ]
+QUESTION: A patient gains 2 kg over 48 hours. What should the nurse consider first?
+A: Possible fluid retention
+B: Increased muscle mass
+C: Increased bone density
+D: Normal aging
+ANSWER: A
+RATIONALE: Rapid weight gain over a short period strongly suggests fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with fluid volume excess rather than fluid volume deficit?
+A: JVD
+B: Tachycardia with weak pulse
+C: Dry mucous membranes
+D: Orthostatic hypotension
+ANSWER: A
+RATIONALE: Jugular venous distention indicates increased venous pressure and can occur with fluid volume excess.
+END
+
+[MCQ]
+QUESTION: Which finding is more consistent with fluid volume deficit?
+A: Bounding pulse
+B: JVD
+C: Poor skin turgor
+D: Pulmonary crackles
+ANSWER: C
+RATIONALE: Poor skin turgor is commonly associated with dehydration and fluid volume deficit.
+END
+
+[MCQ]
+QUESTION: Which assessment finding would make the nurse suspect fluid overload rather than dehydration?
+A: Increased urine concentration
+B: Peripheral edema
+C: Dry mouth
+D: Thirst
+ANSWER: B
+RATIONALE: Peripheral edema indicates excess fluid in the interstitial space.
+END
+
+[MCQ]
+QUESTION: A patient has edema, crackles, and a 3-kg weight gain. Which condition is most likely?
+A: Fluid volume excess
+B: Fluid volume deficit
+C: Isolated dehydration
+D: Hypovolemia
+ANSWER: A
+RATIONALE: Edema, pulmonary crackles, and rapid weight gain strongly support fluid volume excess.
+END
+
+[MCQ]
+QUESTION: Which laboratory finding may be seen when excess water dilutes serum sodium?
+A: Hyponatremia
+B: Hypernatremia
+C: Hypercalcemia
+D: Hypermagnesemia only
+ANSWER: A
+RATIONALE: Excess free water can dilute serum sodium, producing dilutional hyponatremia.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has a low serum sodium level and significant edema. Which explanation is most appropriate?
+A: Dilution from excess body water may contribute
+B: The patient definitely has sodium depletion only
+C: Edema proves dehydration
+D: Sodium cannot change with fluid balance
+ANSWER: A
+RATIONALE: In heart failure, water retention can exceed sodium retention, producing dilutional hyponatremia.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is commonly lost when aldosterone promotes sodium reabsorption?
+A: Potassium
+B: Sodium
+C: Chloride only
+D: Calcium
+ANSWER: A
+RATIONALE: Aldosterone promotes sodium reabsorption while increasing potassium secretion in the distal nephron.
+END
+
+[MCQ]
+QUESTION: A patient receiving a medication that increases aldosterone activity should be monitored for which electrolyte problem?
+A: Hyperkalemia
+B: Hypokalemia
+C: Hypercalcemia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: Increased aldosterone activity promotes potassium excretion and can cause hypokalemia.
+END
+
+[MCQ]
+QUESTION: Which medication class can reduce aldosterone-mediated sodium and water retention in heart failure?
+A: Aldosterone antagonists
+B: Antacids
+C: Antihistamines
+D: Antitussives
+ANSWER: A
+RATIONALE: Aldosterone antagonists block aldosterone effects and reduce sodium and water retention.
+END
+
+[MCQ]
+QUESTION: Which medication is classified as a loop diuretic?
+A: Furosemide
+B: Acetaminophen
+C: Omeprazole
+D: Loratadine
+ANSWER: A
+RATIONALE: Furosemide is a loop diuretic that promotes sodium and water excretion.
+END
+
+[MCQ]
+QUESTION: What is the primary purpose of a diuretic in a patient with fluid volume excess?
+A: Promote removal of excess fluid
+B: Increase sodium retention
+C: Increase ADH secretion
+D: Decrease urine production
+ANSWER: A
+RATIONALE: Diuretics increase renal excretion of sodium and water, helping reduce excess fluid volume.
+END
+
+[MCQ]
+QUESTION: Which finding suggests that a diuretic is having the intended effect?
+A: Decreased edema and weight
+B: Increased JVD
+C: New crackles
+D: Rapid weight gain
+ANSWER: A
+RATIONALE: Decreased edema and weight can indicate successful removal of excess fluid.
+END
+
+[MCQ]
+QUESTION: A patient taking furosemide has a significant increase in urine output. What should the nurse monitor closely?
+A: Electrolytes
+B: Hair growth
+C: Hearing only
+D: Vision only
+ANSWER: A
+RATIONALE: Diuresis can cause electrolyte losses, especially potassium and magnesium with loop diuretics.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is a concern with loop diuretic therapy?
+A: Hypokalemia
+B: Hypernatremia only
+C: Hyperkalemia only
+D: Hypercalcemia only
+ANSWER: A
+RATIONALE: Loop diuretics can increase potassium excretion and cause hypokalemia.
+END
+
+[MCQ]
+QUESTION: Which finding suggests excessive diuresis?
+A: Hypotension and dizziness
+B: Increased edema
+C: Increased JVD
+D: Rapid weight gain
+ANSWER: A
+RATIONALE: Excessive fluid removal can decrease circulating volume and cause hypotension and dizziness.
+END
+
+[MCQ]
+QUESTION: A patient with fluid overload is prescribed a fluid restriction. What is the main purpose?
+A: Prevent additional fluid accumulation
+B: Increase sodium retention
+C: Cause dehydration intentionally
+D: Increase blood glucose
+ANSWER: A
+RATIONALE: Fluid restriction limits additional water intake when the body cannot safely handle excess fluid.
+END
+
+[MCQ]
+QUESTION: Which nursing action is most appropriate for maintaining an accurate intake and output record?
+A: Measure fluids consistently
+B: Estimate all urine volumes
+C: Record intake only
+D: Record output only once daily
+ANSWER: A
+RATIONALE: Accurate measurement of intake and output helps evaluate fluid balance.
+END
+
+[MCQ]
+QUESTION: Which item should be included as fluid intake?
+A: Oral water
+B: Solid medication tablets only
+C: Dry crackers
+D: Clothing
+ANSWER: A
+RATIONALE: Oral water contributes directly to fluid intake.
+END
+
+[MCQ]
+QUESTION: Which should be included when calculating output?
+A: Urine
+B: Food intake
+C: Oral medications
+D: Solid meals
+ANSWER: A
+RATIONALE: Urine is a major measurable source of fluid output.
+END
+
+[MCQ]
+QUESTION: A patient has an intake of 2,500 mL and an output of 1,000 mL. What is the fluid balance?
+A: +500 mL
+B: +1,000 mL
+C: +1,500 mL
+D: -1,500 mL
+ANSWER: C
+RATIONALE: Fluid balance is intake minus output: 2,500 mL − 1,000 mL = +1,500 mL.
+END
+
+[MCQ]
+QUESTION: A patient has an intake of 1,200 mL and output of 1,800 mL. What is the fluid balance?
+A: +600 mL
+B: -600 mL
+C: +1,800 mL
+D: -1,800 mL
+ANSWER: B
+RATIONALE: Fluid balance is 1,200 mL − 1,800 mL = -600 mL.
+END
+
+[MCQ]
+QUESTION: A positive fluid balance over several days may indicate:
+A: Fluid accumulation
+B: Guaranteed dehydration
+C: Guaranteed electrolyte loss
+D: No change in fluid status
+ANSWER: A
+RATIONALE: Persistent positive fluid balance can indicate that fluid intake exceeds measurable output and may contribute to retention.
+END
+
+[MCQ]
+QUESTION: Which finding should the nurse monitor closely in a patient with worsening fluid retention?
+A: Urine output
+B: Hair color
+C: Pupil color
+D: Height
+ANSWER: A
+RATIONALE: Urine output provides important information about kidney function and fluid elimination.
+END
+
+[MCQ]
+QUESTION: A patient with severe fluid overload develops decreasing urine output. What should the nurse recognize?
+A: Possible worsening renal function or reduced renal perfusion
+B: Guaranteed improvement
+C: Normal response to fluid overload
+D: Evidence of dehydration only
+ANSWER: A
+RATIONALE: Decreasing urine output may indicate impaired renal function or inadequate effective renal perfusion.
+END
+
+[MCQ]
+QUESTION: Which urine output finding is concerning in an adult?
+A: Persistently low urine output
+B: Normal urine production
+C: Increased output after prescribed diuretic therapy
+D: Clear urine after drinking water
+ANSWER: A
+RATIONALE: Persistently low urine output can indicate impaired renal perfusion, kidney dysfunction, or severe fluid imbalance.
+END
+
+[MCQ]
+QUESTION: Which finding can indicate worsening systemic venous congestion?
+A: Increasing JVD
+B: Decreasing edema
+C: Weight loss
+D: Increased urine output
+ANSWER: A
+RATIONALE: Increasing JVD reflects elevated venous pressure and worsening congestion.
+END
+
+[MCQ]
+QUESTION: Which finding indicates that peripheral edema is worsening?
+A: Increasing depth of pitting
+B: Decreased ankle circumference
+C: Weight loss
+D: Improved mobility
+ANSWER: A
+RATIONALE: Increasing pitting depth can indicate increasing interstitial fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Why should the nurse assess the patient's skin when edema is present?
+A: Edematous tissue is vulnerable to skin breakdown
+B: Edema always causes infection
+C: Skin assessment determines serum sodium
+D: Edema prevents pressure injuries
+ANSWER: A
+RATIONALE: Excess interstitial fluid can reduce tissue integrity and increase susceptibility to skin breakdown.
+END
+
+[MCQ]
+QUESTION: Which patient is most at risk for pressure injury related to severe edema?
+A: Patient with prolonged edema and limited mobility
+B: Patient with normal mobility
+C: Patient with normal hydration
+D: Patient who walks frequently
+ANSWER: A
+RATIONALE: Edema combined with immobility increases pressure injury risk and can impair tissue integrity.
+END
+
+[MCQ]
+QUESTION: Which intervention may help reduce dependent edema when appropriate?
+A: Elevating the affected extremity
+B: Keeping the extremity dependent continuously
+C: Increasing sodium intake
+D: Restricting all movement
+ANSWER: A
+RATIONALE: Elevation can promote venous return and reduce dependent interstitial fluid accumulation when clinically appropriate.
+END
+
+[MCQ]
+QUESTION: Why may sodium restriction be prescribed for a patient with fluid retention?
+A: Sodium promotes water retention
+B: Sodium destroys albumin
+C: Sodium prevents urine formation permanently
+D: Sodium directly causes hypoglycemia
+ANSWER: A
+RATIONALE: Sodium retention promotes water retention, so limiting sodium can help reduce fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Which food choice is generally more appropriate for a patient prescribed a low-sodium diet?
+A: Fresh fruit
+B: Canned soup
+C: Processed meats
+D: Instant noodles
+ANSWER: A
+RATIONALE: Fresh fruits are naturally low in sodium compared with many processed and packaged foods.
+END
+
+[MCQ]
+QUESTION: Which food is likely to contain a high amount of sodium?
+A: Instant noodles
+B: Fresh apple
+C: Fresh cucumber
+D: Unsalted rice
+ANSWER: A
+RATIONALE: Processed foods such as instant noodles commonly contain significant amounts of sodium.
+END
+
+[MCQ]
+QUESTION: A patient with fluid retention asks why sodium intake matters. What is the best response?
+A: "Sodium can cause the body to retain water."
+B: "Sodium immediately destroys your kidneys."
+C: "Sodium prevents all urine production."
+D: "Sodium only affects your bones."
+ANSWER: A
+RATIONALE: Sodium retention promotes water retention and can worsen extracellular fluid volume excess.
+END
+
+[MCQ]
+QUESTION: Which assessment should the nurse prioritize when fluid overload is suspected?
+A: Respiratory status
+B: Hair condition
+C: Appetite alone
+D: Nail shape
+ANSWER: A
+RATIONALE: Fluid overload can progress to pulmonary edema, making respiratory assessment a priority.
+END
+
+[MCQ]
+QUESTION: A patient with fluid overload has an oxygen saturation of 88% and severe dyspnea. What is the priority?
+A: Assess and support oxygenation
+B: Offer a large glass of water
+C: Encourage ambulation
+D: Delay assessment until the next vital signs
+ANSWER: A
+RATIONALE: Hypoxemia and severe dyspnea indicate impaired oxygenation and require immediate attention.
+END
+
+[MCQ]
+QUESTION: Which finding suggests that fluid overload is affecting the lungs?
+A: Orthopnea
+B: Dry mouth
+C: Increased thirst
+D: Poor skin turgor
+ANSWER: A
+RATIONALE: Orthopnea, or difficulty breathing when lying flat, can occur with pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: A patient reports needing three pillows to sleep because lying flat causes shortness of breath. What does this suggest?
+A: Orthopnea related to possible pulmonary congestion
+B: Dehydration
+C: Improved cardiac function
+D: Hypoglycemia
+ANSWER: A
+RATIONALE: Orthopnea is commonly associated with pulmonary congestion, particularly in heart failure.
+END
+
+[MCQ]
+QUESTION: Which finding may occur when fluid backs up into the lungs due to left-sided heart failure?
+A: Crackles
+B: Severe dry skin
+C: Flat neck veins
+D: Increased urine output
+ANSWER: A
+RATIONALE: Left-sided heart failure can cause pulmonary congestion and crackles.
+END
+
+[MCQ]
+QUESTION: Which finding is more characteristic of right-sided heart failure?
+A: Peripheral edema
+B: Pulmonary crackles only
+C: Hemoptysis only
+D: Dry mucous membranes
+ANSWER: A
+RATIONALE: Right-sided heart failure causes systemic venous congestion, commonly resulting in peripheral edema.
+END
+
+[MCQ]
+QUESTION: Which finding can indicate worsening heart failure-related fluid retention?
+A: Rapid weight gain
+B: Improved exercise tolerance
+C: Decreased edema
+D: Increased urine output
+ANSWER: A
+RATIONALE: Rapid weight gain can reflect worsening fluid retention in heart failure.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure gains 2 kg in three days. What should the nurse do?
+A: Recognize possible fluid accumulation and assess further
+B: Tell the patient this is expected
+C: Encourage unlimited fluids
+D: Ignore the change
+ANSWER: A
+RATIONALE: Rapid weight gain in heart failure may indicate fluid retention and worsening congestion.
+END
+
+[MCQ]
+QUESTION: Which mechanism explains why reduced cardiac output can eventually worsen fluid retention?
+A: Reduced renal perfusion activates RAAS
+B: Reduced cardiac output always increases urine output
+C: The kidneys stop responding to sodium
+D: ADH is completely suppressed
+ANSWER: A
+RATIONALE: Reduced effective renal perfusion can activate RAAS, increasing sodium and water retention.
+END
+
+[MCQ]
+QUESTION: Which statement best describes the relationship between RAAS and fluid retention?
+A: RAAS helps conserve sodium and water
+B: RAAS always causes fluid loss
+C: RAAS prevents vasoconstriction
+D: RAAS blocks aldosterone
+ANSWER: A
+RATIONALE: RAAS promotes vasoconstriction and sodium and water retention to restore effective circulating volume.
+END
+
+[MCQ]
+QUESTION: Which statement best describes ADH?
+A: ADH promotes water reabsorption
+B: ADH causes sodium to be completely excreted
+C: ADH prevents water movement into the bloodstream
+D: ADH always causes dehydration
+ANSWER: A
+RATIONALE: ADH increases water reabsorption in the renal collecting ducts.
+END
+
+[MCQ]
+QUESTION: A patient has excessive ADH secretion. Which complication can result from excessive water retention?
+A: Dilutional hyponatremia
+B: Severe hypernatremia
+C: Immediate hyperkalemia
+D: Severe calcium loss
+ANSWER: A
+RATIONALE: Excessive water retention can dilute serum sodium and produce hyponatremia.
+END
+
+[MCQ]
+QUESTION: Which finding would be expected with significant fluid volume excess?
+A: Increased body weight
+B: Decreased blood volume
+C: Dry mucous membranes
+D: Concentrated urine from dehydration only
+ANSWER: A
+RATIONALE: Excess retained fluid increases total body weight.
+END
+
+[MCQ]
+QUESTION: Which patient statement suggests worsening fluid retention?
+A: "My shoes feel tighter than usual."
+B: "I am urinating normally."
+C: "My breathing is easier."
+D: "My weight is decreasing."
+ANSWER: A
+RATIONALE: Tight shoes can indicate increasing dependent edema.
+END
+
+[MCQ]
+QUESTION: Which finding should the nurse associate with fluid accumulation in the abdomen?
+A: Ascites
+B: Hematuria
+C: Dysuria
+D: Polyuria
+ANSWER: A
+RATIONALE: Ascites is accumulation of fluid within the peritoneal cavity.
+END
+
+[MCQ]
+QUESTION: A patient with liver disease has abdominal distention caused by fluid accumulation. What is this called?
+A: Ascites
+B: Hemothorax
+C: Pneumothorax
+D: Atelectasis
+ANSWER: A
+RATIONALE: Ascites refers to abnormal accumulation of fluid in the abdominal cavity.
+END
+
+[MCQ]
+QUESTION: Which condition can contribute to ascites?
+A: Liver cirrhosis
+B: Simple dehydration
+C: Mild fever
+D: Hyperventilation
+ANSWER: A
+RATIONALE: Cirrhosis can contribute to portal hypertension, hypoalbuminemia, and sodium and water retention, promoting ascites.
+END
+
+[MCQ]
+QUESTION: Which finding in a patient with severe fluid retention requires the most immediate attention?
+A: Mild pedal edema
+B: Sudden severe respiratory distress
+C: Slight weight gain
+D: Mild abdominal swelling
+ANSWER: B
+RATIONALE: Sudden severe respiratory distress may indicate acute pulmonary edema and threatens oxygenation.
+END
+
+[MCQ]
+QUESTION: A patient with fluid overload suddenly develops pink, frothy sputum. What should the nurse suspect?
+A: Acute pulmonary edema
+B: Mild dehydration
+C: Simple nasal congestion
+D: Hypoglycemia
+ANSWER: A
+RATIONALE: Pink, frothy sputum can occur when fluid enters the alveolar spaces during acute pulmonary edema.
+END
+
+[MCQ]
+QUESTION: Which finding is most concerning for acute pulmonary edema?
+A: Pink frothy sputum
+B: Mild ankle edema
+C: Slight weight gain
+D: Dry lips
+ANSWER: A
+RATIONALE: Pink frothy sputum is a classic warning sign of severe pulmonary fluid accumulation.
+END
+
+[MCQ]
+QUESTION: A patient with pulmonary edema is extremely anxious and gasping for air. What is the priority?
+A: Support airway and breathing and seek immediate assistance
+B: Encourage oral fluids
+C: Place the patient flat
+D: Delay intervention until laboratory results return
+ANSWER: A
+RATIONALE: Acute pulmonary edema is an emergency because impaired gas exchange can rapidly become life-threatening.
+END
+
+[MCQ]
+QUESTION: Which finding would suggest that fluid management is improving a patient's condition?
+A: Decreased edema and improved breathing
+B: Increasing crackles
+C: Increasing JVD
+D: Rapid weight gain
+ANSWER: A
+RATIONALE: Reduced edema and improved respiratory status indicate decreasing fluid congestion.
+END
+
+[MCQ]
+QUESTION: Which trend would suggest successful treatment of fluid volume excess?
+A: Gradual weight decrease with improved respiratory status
+B: Rapid weight gain
+C: Increasing edema
+D: Worsening JVD
+ANSWER: A
+RATIONALE: A gradual decrease in weight accompanied by improved symptoms suggests removal of excess fluid.
+END
+
+[MCQ]
+QUESTION: A patient's weight decreases by 2 kg after diuretic therapy. What is the most likely explanation?
+A: Approximately 2 L of fluid may have been lost
+B: The patient lost 2 kg of bone
+C: The patient gained 2 kg of muscle
+D: The patient lost 2 kg of fat overnight
+ANSWER: A
+RATIONALE: Rapid weight loss during diuresis generally reflects fluid loss; approximately 1 kg corresponds to 1 L.
+END
+
+[MCQ]
+QUESTION: Which finding suggests that diuresis may be excessive?
+A: New dizziness and hypotension
+B: Decreased edema with stable blood pressure
+C: Improved breathing
+D: Gradual weight reduction
+ANSWER: A
+RATIONALE: Excessive fluid removal can reduce circulating volume and cause hypotension and dizziness.
+END
+
+[MCQ]
+QUESTION: Which patient should the nurse assess first?
+A: Patient with mild ankle edema
+B: Patient with a 0.5-kg weight gain
+C: Patient with new severe dyspnea and crackles
+D: Patient asking about a low-sodium diet
+ANSWER: C
+RATIONALE: Severe dyspnea and crackles may indicate pulmonary edema and impaired oxygenation, making this patient the priority.
+END
+
+[MCQ]
+QUESTION: Which patient should be seen first?
+A: Patient with chronic 1+ pedal edema
+B: Patient with new confusion and severe hyponatremia symptoms
+C: Patient requesting dietary teaching
+D: Patient with stable weight
+ANSWER: B
+RATIONALE: Severe symptomatic hyponatremia can cause neurologic complications and requires prompt assessment.
+END
+
+[MCQ]
+QUESTION: Which finding in a patient with fluid retention requires immediate follow-up?
+A: New confusion and seizure activity
+B: Mild ankle swelling
+C: 1-kg weight gain over several days
+D: Slightly tight shoes
+ANSWER: A
+RATIONALE: Severe neurologic changes may occur with significant electrolyte disturbances such as acute hyponatremia.
+END
+
+[MCQ]
+QUESTION: A patient with fluid overload has increasing edema but decreasing blood pressure and urine output. What should the nurse suspect?
+A: Possible decreased effective circulating volume or worsening cardiac/renal function
+B: Definite improvement
+C: Normal hydration
+D: Simple increased appetite
+ANSWER: A
+RATIONALE: Edema can coexist with reduced effective circulation when cardiac or renal function deteriorates.
+END
+
+[MCQ]
+QUESTION: Which statement best explains why edema does not always mean adequate circulating volume?
+A: Fluid can move from the vascular space into tissues
+B: Edema always increases cardiac output
+C: Edema means all body fluid is intravascular
+D: Edema prevents third spacing
+ANSWER: A
+RATIONALE: Fluid can shift into interstitial or third spaces, producing edema while effective circulating volume remains inadequate.
+END
+
+[MCQ]
+QUESTION: A patient has generalized edema and low serum albumin. Which mechanism is most likely?
+A: Decreased plasma oncotic pressure
+B: Increased plasma oncotic pressure
+C: Increased intracellular sodium only
+D: Complete absence of capillary filtration
+ANSWER: A
+RATIONALE: Low albumin decreases plasma oncotic pressure, allowing more fluid to leave the vascular space.
+END
+
+[MCQ]
+QUESTION: Which Starling force normally helps pull water back into the vascular space?
+A: Plasma oncotic pressure
+B: Capillary hydrostatic pressure
+C: Atmospheric pressure
+D: Intracellular pressure only
+ANSWER: A
+RATIONALE: Plasma proteins, especially albumin, generate oncotic pressure that helps retain fluid within the vascular compartment.
+END
+
+[MCQ]
+QUESTION: What happens when capillary hydrostatic pressure becomes too high?
+A: More fluid is pushed into the interstitial space
+B: More fluid remains inside capillaries
+C: Sodium disappears from plasma
+D: Albumin production immediately increases
+ANSWER: A
+RATIONALE: Increased hydrostatic pressure promotes filtration of fluid out of capillaries into the interstitial space.
+END
+
+[MCQ]
+QUESTION: Which mechanism can worsen edema in a patient with venous congestion?
+A: Increased hydrostatic pressure
+B: Increased plasma oncotic pressure
+C: Decreased capillary filtration
+D: Increased lymphatic drainage
+ANSWER: A
+RATIONALE: Venous congestion raises hydrostatic pressure and promotes movement of fluid into tissues.
+END
+
+[MCQ]
+QUESTION: Which body system is primarily responsible for regulating sodium and water excretion?
+A: Renal system
+B: Integumentary system
+C: Skeletal system
+D: Reproductive system
+ANSWER: A
+RATIONALE: The kidneys play the central role in regulating sodium and water balance through filtration, reabsorption, and excretion.
+END
+
+[MCQ]
+QUESTION: Why is kidney function important in preventing fluid overload?
+A: The kidneys excrete excess water and electrolytes
+B: The kidneys produce all plasma proteins
+C: The kidneys prevent all edema
+D: The kidneys stop RAAS permanently
+ANSWER: A
+RATIONALE: Functional kidneys can adjust sodium and water excretion to maintain fluid balance.
+END
+
+[MCQ]
+QUESTION: A patient with acute kidney injury develops edema and decreasing urine output. What is the likely concern?
+A: Fluid volume excess
+B: Improved renal clearance
+C: Dehydration only
+D: Increased sodium excretion
+ANSWER: A
+RATIONALE: Acute kidney injury can reduce fluid excretion, leading to fluid accumulation and edema.
+END
+
+[MCQ]
+QUESTION: Which assessment is most useful for detecting dependent fluid retention?
+A: Inspecting and palpating the lower extremities for edema
+B: Measuring pupil size
+C: Testing hearing
+D: Measuring height
+ANSWER: A
+RATIONALE: Dependent edema commonly appears in the lower extremities, especially when the patient is upright.
+END
+
+[MCQ]
+QUESTION: Why is edema often more noticeable in the ankles of a patient who stands for long periods?
+A: Gravity increases fluid accumulation in dependent tissues
+B: The kidneys stop working while standing
+C: Sodium disappears from the blood
+D: Albumin immediately increases
+ANSWER: A
+RATIONALE: Gravity promotes movement and accumulation of interstitial fluid in dependent areas.
+END
+
+[MCQ]
+QUESTION: Which intervention may help prevent worsening dependent edema when appropriate?
+A: Frequent repositioning and appropriate limb elevation
+B: Keeping the legs dependent all day
+C: Increasing sodium intake
+D: Restricting all movement
+ANSWER: A
+RATIONALE: Repositioning and elevation can promote circulation and reduce dependent fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Which finding suggests that fluid retention is improving?
+A: Decreasing daily weight
+B: Increasing JVD
+C: Increasing edema
+D: Increasing crackles
+ANSWER: A
+RATIONALE: A gradual decrease in weight can indicate loss of excess retained fluid.
+END
+
+[MCQ]
+QUESTION: A patient with fluid overload asks why the nurse keeps checking lung sounds. What is the best explanation?
+A: "Extra fluid can accumulate in your lungs and affect your breathing."
+B: "Lung sounds determine your sodium level."
+C: "Lung sounds measure your kidney function."
+D: "Lung sounds tell us your blood glucose."
+ANSWER: A
+RATIONALE: Fluid overload can cause pulmonary congestion and edema, making respiratory assessment important.
+END
+
+[MCQ]
+QUESTION: Which finding suggests fluid is accumulating in the vascular system?
+A: Jugular venous distention
+B: Dry mucous membranes
+C: Poor skin turgor
+D: Sunken eyes
+ANSWER: A
+RATIONALE: JVD reflects elevated venous pressure and can indicate increased circulating volume or venous congestion.
+END
+
+[MCQ]
+QUESTION: Which combination most strongly indicates fluid volume excess?
+A: Weight gain, edema, crackles
+B: Weight loss, dry mouth, tachycardia
+C: Orthostatic hypotension, thirst, concentrated urine
+D: Poor skin turgor, weak pulse, decreased weight
+ANSWER: A
+RATIONALE: Weight gain, edema, and crackles are classic findings associated with excess fluid.
+END
+
+[MCQ]
+QUESTION: Which combination most strongly indicates pulmonary congestion?
+A: Crackles, orthopnea, dyspnea
+B: Dry mouth, thirst, poor skin turgor
+C: Flat neck veins, weight loss, tachycardia
+D: Sunken eyes, oliguria, dry skin
+ANSWER: A
+RATIONALE: Crackles, orthopnea, and dyspnea commonly occur when fluid accumulates in the lungs.
+END
+
+[MCQ]
+QUESTION: A patient with fluid retention asks why the nurse weighs them every morning. What is the best response?
+A: "Rapid weight changes can show changes in your fluid level."
+B: "Weight tells us your potassium level."
+C: "Weight determines your blood type."
+D: "Weight prevents edema."
+ANSWER: A
+RATIONALE: Rapid changes in body weight are useful indicators of fluid gain or loss.
+END
+
+[MCQ]
+QUESTION: Which patient has the greatest risk of developing fluid volume excess?
+A: Patient with heart failure and renal impairment
+B: Patient with mild nausea
+C: Patient with a minor skin abrasion
+D: Patient with normal cardiac and renal function
+ANSWER: A
+RATIONALE: Both heart failure and renal impairment promote fluid retention and reduce the body's ability to tolerate excess volume.
+END
+
+[MCQ]
+QUESTION: Which finding would indicate worsening fluid retention in a patient with renal disease?
+A: Increasing edema and decreasing urine output
+B: Decreasing edema and increased urine output
+C: Stable weight and normal breathing
+D: Improved appetite
+ANSWER: A
+RATIONALE: Increasing edema with decreasing urine output suggests worsening fluid accumulation and impaired renal excretion.
+END
+
+[MCQ]
+QUESTION: Which nursing diagnosis is most appropriate for a patient with edema, crackles, rapid weight gain, and JVD?
+A: Excess Fluid Volume
+B: Deficient Fluid Volume
+C: Impaired Oral Intake only
+D: Risk for Constipation
+ANSWER: A
+RATIONALE: The cluster of findings strongly supports excess fluid volume.
+END
+
+[MCQ]
+QUESTION: Which outcome best indicates improvement in excess fluid volume?
+A: Patient maintains stable weight with reduced edema and clear lung sounds
+B: Patient gains 2 kg overnight
+C: Patient develops increasing crackles
+D: Patient develops worsening JVD
+ANSWER: A
+RATIONALE: Stable weight, reduced edema, and improved lung sounds indicate better fluid balance.
+END
+
+[MCQ]
+QUESTION: Which finding should make the nurse question whether fluid overload treatment is becoming excessive?
+A: Rapid weight loss with hypotension
+B: Decreased edema
+C: Improved oxygen saturation
+D: Reduced JVD
+ANSWER: A
+RATIONALE: Rapid fluid removal can cause intravascular volume depletion, resulting in hypotension.
+END
+
+[MCQ]
+QUESTION: A patient has severe edema but low blood pressure. Which concept should the nurse remember?
+A: Edema does not guarantee adequate intravascular volume
+B: Edema always means hypervolemia inside blood vessels
+C: Edema always means the patient needs more IV fluid
+D: Edema means renal function is normal
+ANSWER: A
+RATIONALE: Fluid can shift into interstitial or third spaces, producing edema while effective circulating volume remains low.
+END
+
+[MCQ]
+QUESTION: Which hormone would the body release to conserve water when plasma osmolality increases?
+A: ADH
+B: ANP
+C: Insulin
+D: Calcitonin
+ANSWER: A
+RATIONALE: Increased plasma osmolality stimulates ADH release, increasing renal water reabsorption.
+END
+
+[MCQ]
+QUESTION: Which hormone promotes sodium and water excretion when cardiac chambers are stretched by increased volume?
+A: ANP
+B: Aldosterone
+C: ADH
+D: Renin
+ANSWER: A
+RATIONALE: ANP is released with atrial stretch and promotes sodium and water excretion.
+END
+
+[MCQ]
+QUESTION: Which mechanism would decrease fluid retention?
+A: Increased sodium excretion
+B: Increased aldosterone secretion
+C: Increased ADH secretion
+D: Increased renin secretion
+ANSWER: A
+RATIONALE: Excreting sodium reduces extracellular fluid volume because water follows sodium.
+END
+
+[MCQ]
+QUESTION: Which mechanism would increase fluid retention?
+A: Increased aldosterone
+B: Increased sodium excretion
+C: Increased ANP
+D: Increased diuresis
+ANSWER: A
+RATIONALE: Aldosterone increases sodium reabsorption, and water follows sodium.
+END
+
+[MCQ]
+QUESTION: Which mechanism would increase free-water retention?
+A: Increased ADH
+B: Increased ANP
+C: Increased urine production
+D: Decreased collecting-duct water permeability
+ANSWER: A
+RATIONALE: ADH increases collecting-duct permeability to water, promoting water reabsorption.
+END
+
+[MCQ]
+QUESTION: Which finding would indicate that the patient's kidneys are successfully eliminating excess fluid?
+A: Increased urine output with decreasing edema
+B: Decreasing urine output with increasing edema
+C: Increasing JVD
+D: Rapid weight gain
+ANSWER: A
+RATIONALE: Increased urine output accompanied by decreasing edema suggests effective removal of excess fluid.
+END
+
+[MCQ]
+QUESTION: Which trend is most concerning in a patient being treated for fluid overload?
+A: Weight increasing while urine output decreases
+B: Weight decreasing while edema improves
+C: Respiratory status improving
+D: JVD decreasing
+ANSWER: A
+RATIONALE: Increasing weight with decreasing urine output suggests worsening fluid retention and impaired fluid elimination.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is prescribed a low-sodium diet, daily weights, and fluid restriction. What is the overall goal?
+A: Prevent and monitor fluid accumulation
+B: Increase sodium retention
+C: Cause dehydration
+D: Increase cardiac workload
+ANSWER: A
+RATIONALE: These interventions reduce sodium and water accumulation and help detect worsening fluid status early.
+END
+
+[MCQ]
+QUESTION: Which patient statement indicates correct understanding of daily weight monitoring?
+A: "I should weigh myself around the same time each day using the same scale."
+B: "I only need to weigh myself when my ankles swell."
+C: "I should weigh myself once a month."
+D: "The time of day does not matter."
+ANSWER: A
+RATIONALE: Consistent conditions make daily weights more reliable for detecting fluid changes.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure says, "I gained 2 kg since yesterday, but I feel fine." What should the nurse do?
+A: Take the weight change seriously and assess for fluid retention
+B: Tell the patient it is definitely fat
+C: Encourage unrestricted fluids
+D: Ignore the finding because there are no symptoms
+ANSWER: A
+RATIONALE: Rapid weight gain can precede obvious symptoms of worsening fluid retention.
+END
+
+[MCQ]
+QUESTION: Which assessment finding would be least consistent with fluid volume excess?
+A: Dry mucous membranes
+B: JVD
+C: Peripheral edema
+D: Crackles
+ANSWER: A
+RATIONALE: Dry mucous membranes are more consistent with fluid volume deficit than fluid volume excess.
+END
+
+[MCQ]
+QUESTION: Which finding would most strongly indicate that fluid overload is affecting cardiac workload?
+A: Increased blood pressure and JVD
+B: Dry mucous membranes
+C: Weight loss
+D: Orthostatic hypotension
+ANSWER: A
+RATIONALE: Increased circulating volume and venous congestion can increase cardiac workload and produce JVD and elevated blood pressure.
+END
+
+[MCQ]
+QUESTION: Which statement about fluid retention is correct?
+A: Sodium retention promotes water retention
+B: Sodium retention always causes dehydration
+C: ADH causes sodium to be excreted directly
+D: Aldosterone causes potassium retention
+ANSWER: A
+RATIONALE: Sodium is osmotically active, so retaining sodium promotes retention of water.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with successful treatment of pulmonary fluid overload?
+A: Reduced dyspnea and fewer crackles
+B: Increased respiratory distress
+C: New pink frothy sputum
+D: Increasing oxygen requirement
+ANSWER: A
+RATIONALE: Improved breathing and reduced crackles indicate decreasing pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: A patient with fluid overload has worsening crackles, increasing oxygen requirements, and severe dyspnea. What does this suggest?
+A: Worsening pulmonary congestion
+B: Improved fluid balance
+C: Dehydration
+D: Normal treatment response
+ANSWER: A
+RATIONALE: Increasing respiratory symptoms and oxygen requirements suggest worsening pulmonary fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Which finding should the nurse report promptly in a patient with fluid retention?
+A: New onset of shortness of breath
+B: Stable 1+ edema
+C: Stable weight
+D: Improved appetite
+ANSWER: A
+RATIONALE: New shortness of breath may indicate worsening pulmonary congestion or edema.
+END
+
+[MCQ]
+QUESTION: Which intervention directly helps remove excess sodium and water from the body?
+A: Diuretic therapy
+B: Increasing sodium intake
+C: Increasing fluid intake
+D: Increasing ADH secretion
+ANSWER: A
+RATIONALE: Diuretics promote renal excretion of sodium and water.
+END
+
+[MCQ]
+QUESTION: Which finding suggests that fluid retention is becoming systemic rather than limited to one extremity?
+A: Bilateral peripheral edema
+B: One small bruise
+C: Localized redness
+D: One superficial abrasion
+ANSWER: A
+RATIONALE: Bilateral edema suggests a systemic process such as fluid volume excess or venous congestion.
+END
+
+[MCQ]
+QUESTION: Which finding would be expected when fluid retention becomes severe?
+A: Pulmonary edema
+B: Improved oxygenation
+C: Decreased body weight
+D: Increased urine concentration from dehydration only
+ANSWER: A
+RATIONALE: Severe fluid volume excess can overwhelm the cardiovascular system and cause pulmonary edema.
+END
+
+[MCQ]
+QUESTION: A patient with fluid volume excess has a new third heart sound, S3. What may this indicate?
+A: Volume overload and increased ventricular filling
+B: Severe dehydration
+C: Decreased circulating volume
+D: Normal finding in all adults
+ANSWER: A
+RATIONALE: An S3 can be associated with increased ventricular filling and volume overload, particularly in heart failure.
+END
+
+[MCQ]
+QUESTION: Which combination suggests worsening heart failure with fluid retention?
+A: S3, crackles, JVD, and rapid weight gain
+B: Dry mouth, weight loss, and poor skin turgor
+C: Increased urine output and decreased edema
+D: Stable weight and clear lungs
+ANSWER: A
+RATIONALE: S3, pulmonary crackles, JVD, and rapid weight gain together strongly suggest worsening volume overload.
+END
+
+[MCQ]
+QUESTION: What is the best overall indicator that a patient with fluid volume excess is responding to treatment?
+A: Improved clinical findings with appropriate weight reduction
+B: Increasing edema
+C: Increasing crackles
+D: Decreasing urine output
+ANSWER: A
+RATIONALE: Improvement is reflected by reduced congestion, improved respiratory status, and appropriate reduction in excess fluid.
+END
