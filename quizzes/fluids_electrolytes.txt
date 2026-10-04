@@ -1,0 +1,1679 @@
+[MCQ]
+QUESTION: What is osmosis?
+A: Movement of solutes from high to low concentration
+B: Movement of water across a semipermeable membrane toward higher solute concentration
+C: Movement of particles using cellular energy
+D: Movement of fluid caused by hydrostatic pressure
+ANSWER: B
+RATIONALE: Osmosis is the movement of water across a semipermeable membrane from an area of lower solute concentration toward an area of higher solute concentration.
+END
+
+[MCQ]
+QUESTION: Which process involves movement of particles from an area of higher concentration to an area of lower concentration without using cellular energy?
+A: Active transport
+B: Osmosis
+C: Diffusion
+D: Filtration
+ANSWER: C
+RATIONALE: Diffusion is the passive movement of particles down their concentration gradient.
+END
+
+[MCQ]
+QUESTION: Which process requires cellular energy to move substances against a concentration gradient?
+A: Active transport
+B: Diffusion
+C: Osmosis
+D: Filtration
+ANSWER: A
+RATIONALE: Active transport requires energy, usually ATP, to move substances against their concentration gradient.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is the major extracellular cation?
+A: Potassium
+B: Magnesium
+C: Calcium
+D: Sodium
+ANSWER: D
+RATIONALE: Sodium is the major positively charged electrolyte in the extracellular fluid.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is the major intracellular cation?
+A: Potassium
+B: Sodium
+C: Calcium
+D: Chloride
+ANSWER: A
+RATIONALE: Potassium is the major intracellular cation and is important for neuromuscular and cardiac function.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is primarily found in the extracellular fluid?
+A: Potassium
+B: Sodium
+C: Phosphate
+D: Magnesium
+ANSWER: B
+RATIONALE: Sodium is the principal cation in extracellular fluid.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is primarily found inside cells?
+A: Potassium
+B: Sodium
+C: Chloride
+D: Bicarbonate
+ANSWER: A
+RATIONALE: Potassium is the major intracellular cation.
+END
+
+[MCQ]
+QUESTION: What is the main function of the sodium-potassium pump?
+A: Move sodium into the cell and potassium out of the cell
+B: Move calcium into the cell and sodium out of the cell
+C: Move sodium out of the cell and potassium into the cell
+D: Move water into the cell and sodium out of the cell
+ANSWER: C
+RATIONALE: The sodium-potassium pump uses ATP to move sodium out of the cell and potassium into the cell.
+END
+
+[MCQ]
+QUESTION: Which type of fluid contains the largest proportion of total body water?
+A: Intracellular fluid
+B: Plasma
+C: Interstitial fluid
+D: Transcellular fluid
+ANSWER: A
+RATIONALE: Intracellular fluid is the fluid located inside cells and contains the largest proportion of total body water.
+END
+
+[MCQ]
+QUESTION: Which fluid compartment contains plasma?
+A: Intracellular fluid
+B: Extracellular fluid
+C: Transcellular fluid only
+D: Intracellular and transcellular fluid
+ANSWER: B
+RATIONALE: Plasma is part of the extracellular fluid compartment.
+END
+
+[MCQ]
+QUESTION: Which fluid compartment surrounds the cells and is found between the cells and blood vessels?
+A: Intracellular fluid
+B: Plasma
+C: Interstitial fluid
+D: Intracellular fluid matrix
+ANSWER: C
+RATIONALE: Interstitial fluid surrounds tissue cells and is part of the extracellular fluid.
+END
+
+[MCQ]
+QUESTION: Which statement best describes isotonic fluid?
+A: It causes cells to swell
+B: It causes cells to shrink
+C: It causes no significant net movement of water into or out of cells
+D: It causes rapid movement of sodium into cells
+ANSWER: C
+RATIONALE: An isotonic solution has an effective osmolality similar to that of plasma and does not cause significant cellular swelling or shrinking.
+END
+
+[MCQ]
+QUESTION: What happens to a cell placed in a hypotonic solution?
+A: The cell loses water and shrinks
+B: The cell gains water and may swell
+C: The cell remains unchanged
+D: The cell immediately loses sodium
+ANSWER: B
+RATIONALE: A hypotonic solution has a lower effective solute concentration than the cell, causing water to move into the cell.
+END
+
+[MCQ]
+QUESTION: What happens to a cell placed in a hypertonic solution?
+A: Water moves into the cell
+B: The cell swells
+C: Water moves out of the cell and the cell shrinks
+D: Sodium immediately leaves the solution
+ANSWER: C
+RATIONALE: A hypertonic solution has a higher effective solute concentration outside the cell, causing water to leave the cell.
+END
+
+[MCQ]
+QUESTION: Which force pushes fluid from the capillaries into the surrounding tissues?
+A: Oncotic pressure
+B: Hydrostatic pressure
+C: Osmotic pressure only
+D: Intracellular pressure
+ANSWER: B
+RATIONALE: Hydrostatic pressure is the force exerted by fluid against the vessel wall and promotes movement of fluid out of capillaries.
+END
+
+[MCQ]
+QUESTION: Which force helps pull water into the vascular space because of plasma proteins?
+A: Hydrostatic pressure
+B: Capillary pressure
+C: Oncotic pressure
+D: Intracellular pressure
+ANSWER: C
+RATIONALE: Plasma proteins, especially albumin, create colloid oncotic pressure that helps retain water within the vascular space.
+END
+
+[MCQ]
+QUESTION: Which plasma protein contributes most to colloid oncotic pressure?
+A: Hemoglobin
+B: Albumin
+C: Fibrinogen
+D: Globulin only
+ANSWER: B
+RATIONALE: Albumin is the major plasma protein responsible for maintaining colloid oncotic pressure.
+END
+
+[MCQ]
+QUESTION: A patient with severe hypoalbuminemia develops generalized edema. Which mechanism best explains this finding?
+A: Increased intracellular potassium
+B: Decreased plasma oncotic pressure
+C: Increased intracellular osmolality
+D: Increased sodium excretion
+ANSWER: B
+RATIONALE: Low albumin decreases plasma oncotic pressure, allowing more fluid to move from the vascular space into the interstitial tissues.
+END
+
+[MCQ]
+QUESTION: Which hormone primarily promotes water reabsorption by the kidneys?
+A: ADH
+B: Insulin
+C: Calcitonin
+D: Glucagon
+ANSWER: A
+RATIONALE: Antidiuretic hormone, or ADH, promotes water reabsorption by increasing water permeability in the renal collecting ducts.
+END
+
+[MCQ]
+QUESTION: A patient becomes dehydrated after prolonged vomiting. Which hormonal response helps conserve water?
+A: Decreased ADH secretion
+B: Increased ADH secretion
+C: Decreased aldosterone secretion
+D: Increased insulin secretion
+ANSWER: B
+RATIONALE: Dehydration increases ADH secretion, promoting renal water reabsorption.
+END
+
+[MCQ]
+QUESTION: What is the primary effect of aldosterone?
+A: Promotes sodium reabsorption and potassium excretion
+B: Promotes sodium excretion and potassium retention
+C: Causes glucose to enter cells
+D: Prevents all water reabsorption
+ANSWER: A
+RATIONALE: Aldosterone increases sodium reabsorption in the kidneys and promotes potassium excretion.
+END
+
+[MCQ]
+QUESTION: Which system is activated when renal perfusion decreases?
+A: RAAS
+B: CNS only
+C: Digestive system
+D: Thyroid axis
+ANSWER: A
+RATIONALE: Decreased renal perfusion can activate the renin-angiotensin-aldosterone system, which promotes vasoconstriction and sodium and water retention.
+END
+
+[MCQ]
+QUESTION: Which hormone is released by the kidneys to initiate the renin-angiotensin-aldosterone system?
+A: ADH
+B: Renin
+C: Aldosterone
+D: Atrial natriuretic peptide
+ANSWER: B
+RATIONALE: Renin is released by the kidneys when renal perfusion or sodium delivery is reduced.
+END
+
+[MCQ]
+QUESTION: Which hormone directly promotes sodium reabsorption in the distal nephron as part of RAAS?
+A: Aldosterone
+B: ADH
+C: Insulin
+D: Parathyroid hormone
+ANSWER: A
+RATIONALE: Aldosterone increases sodium reabsorption and potassium secretion in the distal nephron.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with fluid volume deficit?
+A: Bounding pulse
+B: Peripheral edema
+C: Orthostatic hypotension
+D: Crackles
+ANSWER: C
+RATIONALE: Fluid volume deficit can decrease circulating volume and cause orthostatic hypotension.
+END
+
+[MCQ]
+QUESTION: Which assessment finding is most concerning for fluid volume excess?
+A: Dry mucous membranes
+B: Poor skin turgor
+C: Crackles and increasing weight
+D: Orthostatic hypotension
+ANSWER: C
+RATIONALE: Crackles and rapid weight gain can indicate excess fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Which assessment finding is most consistent with dehydration?
+A: Moist mucous membranes
+B: Dry mucous membranes
+C: Pulmonary edema
+D: Bounding pulse
+ANSWER: B
+RATIONALE: Dry mucous membranes are a common finding associated with dehydration.
+END
+
+[MCQ]
+QUESTION: Which measurement is most sensitive for detecting short-term changes in fluid balance?
+A: Height
+B: Daily body weight
+C: Blood type
+D: Waist circumference
+ANSWER: B
+RATIONALE: Daily weight changes can reflect changes in total body fluid. A rapid increase or decrease may indicate fluid gain or loss.
+END
+
+[MCQ]
+QUESTION: A patient gains 2 kg over 2 days. Which interpretation is most appropriate?
+A: The patient gained approximately 2 kg of muscle
+B: The patient likely has significant fluid retention
+C: The patient has developed anemia
+D: The patient has lost extracellular fluid
+ANSWER: B
+RATIONALE: Rapid weight gain is commonly associated with fluid retention rather than true tissue gain.
+END
+
+[MCQ]
+QUESTION: Which laboratory value is within the normal serum sodium range?
+A: 125 mEq/L
+B: 130 mEq/L
+C: 140 mEq/L
+D: 155 mEq/L
+ANSWER: C
+RATIONALE: The commonly accepted normal serum sodium range is approximately 135–145 mEq/L.
+END
+
+[MCQ]
+QUESTION: A serum sodium level of 128 mEq/L indicates:
+A: Hypernatremia
+B: Hyponatremia
+C: Hyperkalemia
+D: Hypokalemia
+ANSWER: B
+RATIONALE: Hyponatremia refers to a serum sodium level below the normal range, commonly less than 135 mEq/L.
+END
+
+[MCQ]
+QUESTION: Which patient is at greatest risk for hyponatremia?
+A: A patient with excessive free-water intake
+B: A patient receiving potassium replacement
+C: A patient with hypercalcemia
+D: A patient with low magnesium
+ANSWER: A
+RATIONALE: Excessive free-water intake can dilute serum sodium and produce hyponatremia.
+END
+
+[MCQ]
+QUESTION: Which neurologic finding is most concerning in a patient with severe hyponatremia?
+A: Seizure
+B: Increased appetite
+C: Constipation
+D: Flushed skin
+ANSWER: A
+RATIONALE: Severe hyponatremia can cause cerebral edema and serious neurologic manifestations, including seizures.
+END
+
+[MCQ]
+QUESTION: Which nursing intervention is appropriate for a patient with severe symptomatic hyponatremia?
+A: Initiate seizure precautions
+B: Encourage unlimited water intake
+C: Restrict all dietary sodium permanently
+D: Encourage rapid ambulation
+ANSWER: A
+RATIONALE: Severe hyponatremia can cause neurologic complications and seizures, making seizure precautions appropriate.
+END
+
+[MCQ]
+QUESTION: Which serum sodium level indicates hypernatremia?
+A: 128 mEq/L
+B: 133 mEq/L
+C: 140 mEq/L
+D: 152 mEq/L
+ANSWER: D
+RATIONALE: Hypernatremia generally refers to a serum sodium level above 145 mEq/L.
+END
+
+[MCQ]
+QUESTION: Which finding is commonly associated with hypernatremia?
+A: Confusion
+B: Positive Trousseau sign
+C: U waves
+D: Flaccid paralysis only
+ANSWER: A
+RATIONALE: Hypernatremia can cause neurologic changes such as restlessness, confusion, and altered mental status.
+END
+
+[MCQ]
+QUESTION: Which serum potassium level is within the expected normal range?
+A: 2.8 mEq/L
+B: 3.1 mEq/L
+C: 4.2 mEq/L
+D: 6.0 mEq/L
+ANSWER: C
+RATIONALE: The commonly accepted normal serum potassium range is approximately 3.5–5.0 mEq/L.
+END
+
+[MCQ]
+QUESTION: A serum potassium level of 2.9 mEq/L indicates:
+A: Hyperkalemia
+B: Hypokalemia
+C: Hypernatremia
+D: Hypocalcemia
+ANSWER: B
+RATIONALE: Hypokalemia refers to a serum potassium level below the normal range.
+END
+
+[MCQ]
+QUESTION: Which patient is at increased risk for hypokalemia?
+A: A patient with prolonged vomiting and diarrhea
+B: A patient with untreated renal failure
+C: A patient receiving potassium supplements
+D: A patient with severe tissue breakdown
+ANSWER: A
+RATIONALE: Gastrointestinal losses such as prolonged vomiting and diarrhea can cause significant potassium depletion.
+END
+
+[MCQ]
+QUESTION: Which ECG finding is associated with hypokalemia?
+A: Peaked T waves
+B: U waves
+C: Shortened QT interval
+D: ST elevation only
+ANSWER: B
+RATIONALE: Hypokalemia can produce flattened T waves, ST depression, and prominent U waves.
+END
+
+[MCQ]
+QUESTION: A patient receiving furosemide reports weakness and an irregular heartbeat. Which electrolyte imbalance should the nurse suspect?
+A: Hypernatremia
+B: Hypokalemia
+C: Hypercalcemia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: Furosemide increases renal potassium loss. Hypokalemia can cause muscle weakness and cardiac dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which finding is most concerning in a patient with severe hypokalemia?
+A: Cardiac dysrhythmia
+B: Increased bowel sounds
+C: Increased salivation
+D: Warm skin
+ANSWER: A
+RATIONALE: Potassium is essential for cardiac electrical activity, and severe hypokalemia can cause life-threatening dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which action is safest when administering IV potassium chloride?
+A: Administer it by IV push
+B: Give it undiluted
+C: Dilute it and administer it using an infusion pump
+D: Inject it rapidly into a central line
+ANSWER: C
+RATIONALE: IV potassium must be diluted and administered carefully using a controlled infusion. It should never be given by IV push.
+END
+
+[MCQ]
+QUESTION: Why should potassium chloride never be administered by IV push?
+A: It causes immediate hypoglycemia
+B: It can cause fatal cardiac dysrhythmias
+C: It causes severe hypertension only
+D: It prevents sodium absorption
+ANSWER: B
+RATIONALE: Rapid IV administration of potassium can cause severe cardiac conduction disturbances and potentially fatal dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which serum potassium level indicates hyperkalemia?
+A: 2.8 mEq/L
+B: 3.2 mEq/L
+C: 4.0 mEq/L
+D: 6.2 mEq/L
+ANSWER: D
+RATIONALE: Hyperkalemia generally refers to a serum potassium level above 5.0 mEq/L.
+END
+
+[MCQ]
+QUESTION: Which ECG change is classically associated with hyperkalemia?
+A: Peaked T waves
+B: Prominent U waves
+C: Prolonged QT interval
+D: ST elevation in every lead
+ANSWER: A
+RATIONALE: Tall, peaked T waves are a classic early ECG manifestation of hyperkalemia.
+END
+
+[MCQ]
+QUESTION: A patient has a potassium level of 6.8 mEq/L and peaked T waves. Which action should the nurse prioritize?
+A: Encourage oral fluids
+B: Notify the healthcare provider immediately
+C: Encourage ambulation
+D: Give potassium supplements
+ANSWER: B
+RATIONALE: Severe hyperkalemia with ECG changes is a medical emergency because it can cause life-threatening cardiac dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which treatment helps temporarily shift potassium from the blood into the cells?
+A: Insulin with glucose
+B: Calcium gluconate alone
+C: Oral sodium restriction
+D: Potassium chloride
+ANSWER: A
+RATIONALE: Insulin promotes cellular uptake of potassium. Glucose is given to prevent hypoglycemia.
+END
+
+[MCQ]
+QUESTION: What is the primary purpose of IV calcium gluconate in severe hyperkalemia?
+A: Remove potassium from the body
+B: Stabilize the cardiac membrane
+C: Increase potassium absorption
+D: Increase serum sodium
+ANSWER: B
+RATIONALE: IV calcium gluconate helps stabilize the cardiac membrane in severe hyperkalemia but does not directly remove potassium from the body.
+END
+
+[MCQ]
+QUESTION: A patient with hyperkalemia receives insulin and dextrose. What is the purpose of this treatment?
+A: To permanently remove potassium from the body
+B: To shift potassium into cells
+C: To increase intestinal potassium absorption
+D: To increase serum calcium
+ANSWER: B
+RATIONALE: Insulin temporarily shifts potassium from the extracellular fluid into cells, while dextrose helps prevent hypoglycemia.
+END
+
+[MCQ]
+QUESTION: Which serum calcium value is within the commonly accepted normal total calcium range?
+A: 6.5 mg/dL
+B: 7.4 mg/dL
+C: 9.2 mg/dL
+D: 12.5 mg/dL
+ANSWER: C
+RATIONALE: A commonly used normal total serum calcium range is approximately 8.5–10.5 mg/dL.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with hypocalcemia?
+A: Constipation
+B: Positive Trousseau sign
+C: Decreased neuromuscular excitability
+D: Flaccid muscles only
+ANSWER: B
+RATIONALE: Hypocalcemia increases neuromuscular excitability and can produce positive Trousseau and Chvostek signs.
+END
+
+[MCQ]
+QUESTION: A patient develops tingling around the mouth and fingers after thyroid surgery. Which electrolyte imbalance should the nurse suspect?
+A: Hyperkalemia
+B: Hypocalcemia
+C: Hypernatremia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: Thyroid or parathyroid surgery can affect parathyroid function and lead to hypocalcemia, which may cause perioral and finger tingling.
+END
+
+[MCQ]
+QUESTION: Which ECG finding is associated with hypocalcemia?
+A: Shortened QT interval
+B: Prolonged QT interval
+C: Peaked T waves
+D: U waves only
+ANSWER: B
+RATIONALE: Hypocalcemia can prolong the QT interval and increase the risk of dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which finding is commonly associated with hypercalcemia?
+A: Constipation
+B: Tetany
+C: Positive Trousseau sign
+D: Hyperactive reflexes
+ANSWER: A
+RATIONALE: Hypercalcemia can decrease neuromuscular excitability and commonly causes weakness and constipation.
+END
+
+[MCQ]
+QUESTION: A patient has a low total calcium level and severe hypoalbuminemia. Which interpretation is most appropriate?
+A: The patient definitely has low ionized calcium
+B: Low albumin may contribute to the low total calcium level
+C: The patient definitely has hypercalcemia
+D: Albumin has no relationship to total calcium
+ANSWER: B
+RATIONALE: Much of circulating calcium is protein-bound, especially to albumin. Low albumin can lower total calcium without necessarily lowering ionized calcium.
+END
+
+[MCQ]
+QUESTION: Which form of calcium is biologically active and directly available to tissues?
+A: Protein-bound calcium
+B: Ionized calcium
+C: Calcium stored in bone
+D: Calcium bound to albumin only
+ANSWER: B
+RATIONALE: Ionized calcium is the biologically active form of calcium in the blood.
+END
+
+[MCQ]
+QUESTION: Which laboratory test is most useful for determining the biologically active portion of serum calcium?
+A: Total calcium
+B: Ionized calcium
+C: Serum sodium
+D: Serum albumin only
+ANSWER: B
+RATIONALE: Ionized calcium measures the free, biologically active form of calcium.
+END
+
+[MCQ]
+QUESTION: Which serum magnesium value is within the commonly accepted normal range?
+A: 0.8 mg/dL
+B: 1.2 mg/dL
+C: 2.0 mg/dL
+D: 3.5 mg/dL
+ANSWER: C
+RATIONALE: A commonly accepted serum magnesium range is approximately 1.7–2.2 mg/dL.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with hypomagnesemia?
+A: Decreased neuromuscular excitability
+B: Tremors and hyperreflexia
+C: Respiratory depression
+D: Flaccid paralysis only
+ANSWER: B
+RATIONALE: Low magnesium can increase neuromuscular excitability, causing tremors, hyperreflexia, and potentially seizures.
+END
+
+[MCQ]
+QUESTION: Which patient is at increased risk for hypomagnesemia?
+A: A patient with prolonged diarrhea
+B: A patient receiving magnesium replacement
+C: A patient with severe renal failure and magnesium retention
+D: A patient with hyperparathyroidism only
+ANSWER: A
+RATIONALE: Prolonged gastrointestinal losses can cause magnesium depletion.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with hypermagnesemia?
+A: Hyperactive deep tendon reflexes
+B: Tremors
+C: Decreased deep tendon reflexes
+D: Positive Trousseau sign
+ANSWER: C
+RATIONALE: High magnesium levels depress neuromuscular activity and may cause decreased or absent deep tendon reflexes.
+END
+
+[MCQ]
+QUESTION: A patient with severe hypermagnesemia develops respiratory depression. Which medication may be prescribed to counteract the effects of magnesium?
+A: Calcium gluconate
+B: Potassium chloride
+C: Sodium bicarbonate only
+D: Insulin
+ANSWER: A
+RATIONALE: IV calcium gluconate can antagonize the neuromuscular and cardiac effects of magnesium toxicity.
+END
+
+[MCQ]
+QUESTION: Which patient is most at risk for hypermagnesemia?
+A: A patient with severe renal impairment
+B: A patient with prolonged diarrhea
+C: A patient with inadequate dietary intake
+D: A patient taking a loop diuretic
+ANSWER: A
+RATIONALE: The kidneys normally excrete magnesium, so severe renal impairment can cause magnesium accumulation.
+END
+
+[MCQ]
+QUESTION: Which serum phosphorus level is within the commonly accepted normal range?
+A: 1.2 mg/dL
+B: 2.0 mg/dL
+C: 3.5 mg/dL
+D: 6.5 mg/dL
+ANSWER: C
+RATIONALE: A commonly accepted serum phosphorus range is approximately 2.5–4.5 mg/dL.
+END
+
+[MCQ]
+QUESTION: Which patient is at increased risk for hyperphosphatemia?
+A: A patient with chronic kidney disease
+B: A patient with prolonged vomiting
+C: A patient with severe malnutrition only
+D: A patient receiving phosphate-free fluids
+ANSWER: A
+RATIONALE: Impaired renal function decreases phosphorus excretion and can cause hyperphosphatemia.
+END
+
+[MCQ]
+QUESTION: Which electrolyte abnormality is a major concern in refeeding syndrome?
+A: Hypernatremia
+B: Hypophosphatemia
+C: Hypercalcemia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: Refeeding after prolonged malnutrition can cause a rapid intracellular shift of phosphate, resulting in hypophosphatemia.
+END
+
+[MCQ]
+QUESTION: A malnourished patient begins nutritional therapy and develops muscle weakness and respiratory difficulty. Which electrolyte imbalance should the nurse suspect?
+A: Hypophosphatemia
+B: Hypernatremia
+C: Hypercalcemia
+D: Hypermagnesemia
+ANSWER: A
+RATIONALE: Severe hypophosphatemia during refeeding can impair ATP production and cause muscle weakness and respiratory muscle dysfunction.
+END
+
+[MCQ]
+QUESTION: Which serum chloride value is within the commonly accepted normal range?
+A: 82 mEq/L
+B: 94 mEq/L
+C: 102 mEq/L
+D: 118 mEq/L
+ANSWER: C
+RATIONALE: A commonly accepted serum chloride range is approximately 98–106 mEq/L.
+END
+
+[MCQ]
+QUESTION: A patient has prolonged vomiting. Which electrolyte imbalance is commonly associated with this condition?
+A: Hyperchloremia
+B: Hypochloremia
+C: Hyperphosphatemia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: Prolonged vomiting causes loss of gastric hydrochloric acid and can contribute to hypochloremia.
+END
+
+[MCQ]
+QUESTION: A patient with prolonged nasogastric suction is at risk for which combination?
+A: Increased potassium and increased chloride
+B: Decreased potassium and decreased chloride
+C: Increased calcium and increased magnesium
+D: Decreased sodium and increased phosphate only
+ANSWER: B
+RATIONALE: Gastric suction can remove hydrochloric acid and potassium, contributing to hypochloremia and hypokalemia.
+END
+
+[MCQ]
+QUESTION: Which patient should the nurse assess first?
+A: A patient with sodium of 138 mEq/L
+B: A patient with potassium of 6.8 mEq/L and peaked T waves
+C: A patient with calcium of 9.4 mg/dL
+D: A patient with magnesium of 2.0 mg/dL
+ANSWER: B
+RATIONALE: Severe hyperkalemia with ECG changes is an immediate threat to cardiac function and requires urgent intervention.
+END
+
+[MCQ]
+QUESTION: Which patient should receive the most immediate attention?
+A: A patient with potassium of 2.5 mEq/L and cardiac dysrhythmia
+B: A patient with sodium of 140 mEq/L
+C: A patient with calcium of 9.0 mg/dL
+D: A patient with chloride of 102 mEq/L
+ANSWER: A
+RATIONALE: Severe hypokalemia with a cardiac dysrhythmia is potentially life-threatening.
+END
+
+[MCQ]
+QUESTION: A patient has a sodium level of 124 mEq/L and is confused. What is the nurse's priority?
+A: Encourage unlimited oral water intake
+B: Implement appropriate neurologic and seizure precautions
+C: Encourage strenuous exercise
+D: Administer potassium without an order
+ANSWER: B
+RATIONALE: Severe hyponatremia with neurologic symptoms increases the risk of seizures and requires immediate safety measures.
+END
+
+[MCQ]
+QUESTION: Which IV fluid is isotonic?
+A: 0.9% sodium chloride
+B: 0.45% sodium chloride
+C: 3% sodium chloride
+D: Sterile water
+ANSWER: A
+RATIONALE: 0.9% sodium chloride is an isotonic crystalloid commonly used for extracellular volume replacement.
+END
+
+[MCQ]
+QUESTION: Which IV solution is hypotonic compared with plasma?
+A: 0.9% sodium chloride
+B: 0.45% sodium chloride
+C: 3% sodium chloride
+D: Lactated Ringer's only
+ANSWER: B
+RATIONALE: 0.45% sodium chloride is hypotonic and can move water into cells.
+END
+
+[MCQ]
+QUESTION: Which IV solution is hypertonic?
+A: 0.45% sodium chloride
+B: 0.9% sodium chloride
+C: 3% sodium chloride
+D: Sterile water
+ANSWER: C
+RATIONALE: 3% sodium chloride is hypertonic and increases extracellular osmolality.
+END
+
+[MCQ]
+QUESTION: Why must hypertonic saline be administered carefully?
+A: It can cause excessive fluid and sodium shifts
+B: It always causes hypoglycemia
+C: It rapidly lowers serum sodium
+D: It causes potassium to enter the urine immediately
+ANSWER: A
+RATIONALE: Hypertonic saline can cause rapid changes in serum sodium and fluid distribution and requires careful monitoring.
+END
+
+[MCQ]
+QUESTION: Which assessment finding suggests fluid volume excess?
+A: Flat neck veins
+B: Sudden weight gain
+C: Dry tongue
+D: Poor skin turgor
+ANSWER: B
+RATIONALE: Rapid weight gain is a sensitive indicator of fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with fluid volume deficit?
+A: Peripheral edema
+B: Crackles
+C: Tachycardia and weak pulse
+D: Jugular venous distention
+ANSWER: C
+RATIONALE: Reduced circulating volume can cause tachycardia and a weak, thready pulse.
+END
+
+[MCQ]
+QUESTION: A patient with fluid volume excess develops shortness of breath and bilateral crackles. What complication should the nurse suspect?
+A: Pulmonary edema
+B: Hypoglycemia
+C: Hypocalcemia
+D: Metabolic alkalosis only
+ANSWER: A
+RATIONALE: Excess fluid can accumulate in the lungs and produce pulmonary edema, causing dyspnea and crackles.
+END
+
+[MCQ]
+QUESTION: Which intervention is appropriate when monitoring a patient at risk for fluid overload?
+A: Measure daily weight at approximately the same time
+B: Avoid monitoring intake
+C: Encourage unlimited sodium intake
+D: Measure weight only once per month
+ANSWER: A
+RATIONALE: Consistent daily weights provide useful information about changes in fluid balance.
+END
+
+[MCQ]
+QUESTION: Which finding indicates that a patient may have decreased circulating volume?
+A: Orthostatic hypotension
+B: Bounding pulse
+C: Pulmonary crackles
+D: Jugular venous distention
+ANSWER: A
+RATIONALE: Orthostatic hypotension may occur when circulating volume is insufficient to maintain blood pressure during position changes.
+END
+
+[MCQ]
+QUESTION: Which condition commonly causes fluid volume deficit?
+A: Severe diarrhea
+B: Heart failure with fluid retention
+C: Renal failure with oliguria
+D: Excessive IV fluid administration
+ANSWER: A
+RATIONALE: Severe diarrhea causes gastrointestinal fluid and electrolyte losses.
+END
+
+[MCQ]
+QUESTION: Which condition commonly causes fluid volume excess?
+A: Severe burns without replacement
+B: Heart failure
+C: Prolonged diarrhea
+D: Excessive sweating
+ANSWER: B
+RATIONALE: Heart failure can impair effective circulation and promote sodium and water retention, resulting in fluid volume excess.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance can result from excessive free-water intake?
+A: Hypernatremia
+B: Hyponatremia
+C: Hypercalcemia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: Excessive free water can dilute serum sodium and produce hyponatremia.
+END
+
+[MCQ]
+QUESTION: Which hormone helps the body retain water during dehydration?
+A: ADH
+B: Atrial natriuretic peptide
+C: Insulin
+D: Calcitonin
+ANSWER: A
+RATIONALE: ADH increases water reabsorption by the kidneys and helps conserve body water.
+END
+
+[MCQ]
+QUESTION: Which hormone promotes sodium and water retention during activation of RAAS?
+A: Aldosterone
+B: Insulin
+C: Calcitonin
+D: Glucagon
+ANSWER: A
+RATIONALE: Aldosterone increases renal sodium reabsorption, and water follows sodium, contributing to volume restoration.
+END
+
+[MCQ]
+QUESTION: A patient with hypovolemia has decreased renal perfusion. Which response should the nurse expect?
+A: Suppression of RAAS
+B: Activation of RAAS
+C: Complete suppression of ADH
+D: Increased urinary sodium loss
+ANSWER: B
+RATIONALE: Reduced renal perfusion activates RAAS, promoting vasoconstriction and sodium and water retention.
+END
+
+[MCQ]
+QUESTION: Which statement best describes filtration?
+A: Movement of water and small solutes across a membrane due to pressure differences
+B: Movement of water toward higher solute concentration only
+C: Movement requiring ATP
+D: Movement of potassium into cells only
+ANSWER: A
+RATIONALE: Filtration is movement of water and small solutes across a membrane as a result of hydrostatic pressure differences.
+END
+
+[MCQ]
+QUESTION: A patient has increased capillary hydrostatic pressure. What is the likely effect?
+A: Increased movement of fluid into tissues
+B: Increased movement of fluid into cells only
+C: Decreased filtration
+D: Complete prevention of edema
+ANSWER: A
+RATIONALE: Increased capillary hydrostatic pressure pushes more fluid out of the vascular space and into the interstitial space.
+END
+
+[MCQ]
+QUESTION: Which condition can increase capillary hydrostatic pressure and contribute to edema?
+A: Heart failure
+B: Severe dehydration
+C: Hypoalbuminemia only
+D: Excessive sweating
+ANSWER: A
+RATIONALE: Heart failure can increase venous and capillary hydrostatic pressure, promoting movement of fluid into tissues.
+END
+
+[MCQ]
+QUESTION: Which condition primarily causes edema by reducing plasma oncotic pressure?
+A: Hypoalbuminemia
+B: Hypernatremia
+C: Hyperkalemia
+D: Hypophosphatemia
+ANSWER: A
+RATIONALE: Low albumin decreases plasma oncotic pressure, reducing the force that normally retains fluid in the vascular space.
+END
+
+[MCQ]
+QUESTION: A patient has severe vomiting and develops weakness, muscle cramps, and an irregular pulse. Which electrolyte should the nurse monitor closely?
+A: Potassium
+B: Calcium only
+C: Phosphorus only
+D: Sodium only
+ANSWER: A
+RATIONALE: Gastrointestinal losses can cause hypokalemia, which may produce weakness, muscle symptoms, and cardiac dysrhythmias.
+END
+
+[MCQ]
+QUESTION: A patient taking a loop diuretic has potassium of 3.0 mEq/L. Which nursing action is most appropriate?
+A: Recognize the risk for hypokalemia and notify the appropriate provider
+B: Administer additional potassium without an order
+C: Encourage the patient to avoid all potassium-containing foods
+D: Ignore the result because it is normal
+ANSWER: A
+RATIONALE: A potassium level of 3.0 mEq/L is below normal and requires assessment and appropriate management.
+END
+
+[MCQ]
+QUESTION: A patient with potassium of 6.4 mEq/L has muscle weakness. Which complication is the priority concern?
+A: Cardiac dysrhythmia
+B: Constipation
+C: Increased appetite
+D: Dry skin
+ANSWER: A
+RATIONALE: Hyperkalemia can interfere with cardiac conduction and cause potentially fatal dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most associated with muscle tetany?
+A: Hypocalcemia
+B: Hypercalcemia
+C: Hypermagnesemia
+D: Hypernatremia
+ANSWER: A
+RATIONALE: Hypocalcemia increases neuromuscular excitability and can cause tetany, muscle spasms, and positive Trousseau or Chvostek signs.
+END
+
+[MCQ]
+QUESTION: Which finding would the nurse expect in a patient with hypercalcemia?
+A: Muscle spasms and tetany
+B: Constipation and weakness
+C: Positive Trousseau sign
+D: Hyperreflexia
+ANSWER: B
+RATIONALE: Hypercalcemia can reduce neuromuscular excitability and commonly causes weakness and constipation.
+END
+
+[MCQ]
+QUESTION: A patient with hypomagnesemia is at increased risk for which complication?
+A: Neuromuscular irritability
+B: Severe constipation only
+C: Decreased reflexes
+D: Respiratory depression from magnesium excess
+ANSWER: A
+RATIONALE: Low magnesium increases neuromuscular excitability and can cause tremors, hyperreflexia, and seizures.
+END
+
+[MCQ]
+QUESTION: Which assessment finding is most consistent with magnesium toxicity?
+A: Hyperactive reflexes
+B: Respiratory depression
+C: Severe tremors
+D: Positive Trousseau sign
+ANSWER: B
+RATIONALE: Severe hypermagnesemia depresses neuromuscular function and can cause decreased reflexes, hypotension, and respiratory depression.
+END
+
+[MCQ]
+QUESTION: Which electrolyte should be closely monitored in a patient beginning nutrition after prolonged starvation?
+A: Phosphorus
+B: Sodium only
+C: Chloride only
+D: Calcium only
+ANSWER: A
+RATIONALE: Refeeding can cause a rapid intracellular shift of phosphorus, leading to potentially severe hypophosphatemia.
+END
+
+[MCQ]
+QUESTION: Which patient is at greatest risk for hyperphosphatemia?
+A: A patient with chronic kidney disease
+B: A patient with prolonged vomiting
+C: A patient with excessive sweating
+D: A patient with mild dehydration
+ANSWER: A
+RATIONALE: The kidneys excrete phosphorus, so impaired renal function can cause phosphorus retention.
+END
+
+[MCQ]
+QUESTION: A patient has prolonged nasogastric suction. Which laboratory pattern would the nurse expect?
+A: Increased chloride and increased potassium
+B: Decreased chloride and decreased potassium
+C: Increased magnesium and increased phosphorus
+D: Increased calcium and increased sodium
+ANSWER: B
+RATIONALE: Gastric suction removes hydrochloric acid and can also cause potassium losses, resulting in low chloride and potassium levels.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with fluid volume excess?
+A: Weight loss
+B: Dry mucous membranes
+C: Peripheral edema
+D: Weak, thready pulse
+ANSWER: C
+RATIONALE: Peripheral edema occurs when excess fluid accumulates in the interstitial tissues.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with fluid volume deficit?
+A: Peripheral edema
+B: Dry mucous membranes
+C: Crackles
+D: Jugular venous distention
+ANSWER: B
+RATIONALE: Loss of body fluid can cause dry mucous membranes and other signs of dehydration.
+END
+
+[MCQ]
+QUESTION: Which patient statement indicates correct understanding of daily weight monitoring?
+A: "I will weigh myself at different times each day."
+B: "I will weigh myself under similar conditions each day."
+C: "I only need to weigh myself when I feel swollen."
+D: "I will weigh myself once a month."
+ANSWER: B
+RATIONALE: Weighing under similar conditions improves the accuracy of comparisons between days.
+END
+
+[MCQ]
+QUESTION: Which change should be reported promptly in a patient being monitored for heart failure?
+A: Weight gain of 2 kg over several days
+B: Weight change of 0.1 kg
+C: Stable daily weight
+D: Slight variation after meals
+ANSWER: A
+RATIONALE: Rapid weight gain may indicate fluid retention and worsening heart failure.
+END
+
+[MCQ]
+QUESTION: A patient with severe hyponatremia becomes confused and then has a seizure. What is the most likely explanation?
+A: Cellular dehydration of the brain
+B: Cerebral edema caused by water shifting into brain cells
+C: Increased calcium deposition
+D: Potassium shifting into bone
+ANSWER: B
+RATIONALE: Severe hyponatremia lowers extracellular osmolality, allowing water to move into brain cells and cause cerebral edema.
+END
+
+[MCQ]
+QUESTION: A patient with hypernatremia is extremely thirsty. Which mechanism best explains this finding?
+A: Increased serum osmolality stimulates thirst
+B: Decreased serum osmolality suppresses thirst
+C: Low potassium directly causes thirst
+D: Low calcium causes immediate thirst
+ANSWER: A
+RATIONALE: Increased serum osmolality stimulates hypothalamic osmoreceptors, promoting thirst and ADH release.
+END
+
+[MCQ]
+QUESTION: Which statement about active transport is correct?
+A: It always moves substances down their concentration gradient
+B: It requires cellular energy
+C: It only transports water
+D: It cannot occur across cell membranes
+ANSWER: B
+RATIONALE: Active transport requires cellular energy to move substances against their concentration gradient.
+END
+
+[MCQ]
+QUESTION: Which process allows water to move across a semipermeable membrane?
+A: Osmosis
+B: Active transport
+C: Phagocytosis
+D: Protein synthesis
+ANSWER: A
+RATIONALE: Osmosis is the passive movement of water across a semipermeable membrane in response to differences in solute concentration.
+END
+
+[MCQ]
+QUESTION: Which statement best explains why water follows sodium?
+A: Sodium is a major determinant of extracellular osmolality
+B: Sodium destroys water molecules
+C: Sodium prevents all filtration
+D: Sodium is the major intracellular protein
+ANSWER: A
+RATIONALE: Sodium is the major extracellular cation and strongly influences extracellular osmolality, so water tends to follow sodium.
+END
+
+[MCQ]
+QUESTION: A patient receives a hypotonic IV solution. Which cellular effect should the nurse anticipate?
+A: Water moves into cells
+B: Water moves out of cells
+C: Cells immediately lose potassium
+D: No movement of water occurs
+ANSWER: A
+RATIONALE: Hypotonic solutions have lower effective osmolality than plasma, causing water to move into cells.
+END
+
+[MCQ]
+QUESTION: A patient receives a hypertonic IV solution. Which effect should the nurse anticipate?
+A: Water moves from the extracellular space into cells
+B: Water moves from cells into the extracellular space
+C: Cells immediately rupture
+D: No change in water distribution occurs
+ANSWER: B
+RATIONALE: Hypertonic solutions increase extracellular osmolality and draw water from cells into the extracellular space.
+END
+
+[MCQ]
+QUESTION: Which assessment finding would suggest that a patient is developing pulmonary fluid accumulation?
+A: Crackles
+B: Dry mucous membranes
+C: Poor skin turgor
+D: Flat neck veins
+ANSWER: A
+RATIONALE: Crackles can occur when fluid accumulates in the alveoli and interstitial lung tissue.
+END
+
+[MCQ]
+QUESTION: Which patient finding requires the most immediate nursing action?
+A: Sodium 140 mEq/L
+B: Potassium 6.8 mEq/L with ECG changes
+C: Calcium 9.5 mg/dL
+D: Magnesium 2.0 mg/dL
+ANSWER: B
+RATIONALE: Severe hyperkalemia with ECG changes can rapidly cause life-threatening dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most likely to cause a prolonged QT interval?
+A: Hypocalcemia
+B: Hyperkalemia
+C: Hypernatremia
+D: Hypermagnesemia
+ANSWER: A
+RATIONALE: Hypocalcemia can prolong ventricular repolarization and produce a prolonged QT interval.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is associated with peaked T waves?
+A: Hypokalemia
+B: Hyperkalemia
+C: Hypocalcemia
+D: Hypomagnesemia
+ANSWER: B
+RATIONALE: Peaked T waves are a classic ECG manifestation of hyperkalemia.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is associated with prominent U waves?
+A: Hyperkalemia
+B: Hypokalemia
+C: Hypercalcemia
+D: Hypernatremia
+ANSWER: B
+RATIONALE: Prominent U waves are commonly associated with hypokalemia.
+END
+
+[MCQ]
+QUESTION: Which patient has the highest priority for assessment?
+A: Patient with mild thirst and sodium of 138 mEq/L
+B: Patient with potassium of 6.7 mEq/L and peaked T waves
+C: Patient with calcium of 9.1 mg/dL
+D: Patient with magnesium of 2.1 mg/dL
+ANSWER: B
+RATIONALE: Severe hyperkalemia with ECG changes represents an immediate risk for fatal cardiac dysrhythmia.
+END
+
+[MCQ]
+QUESTION: A patient with chronic kidney disease has elevated potassium and phosphorus levels. Which explanation is most appropriate?
+A: The kidneys have reduced ability to excrete these electrolytes
+B: The liver is producing excess potassium
+C: The lungs are retaining phosphorus
+D: The thyroid is directly causing both abnormalities
+ANSWER: A
+RATIONALE: Reduced kidney function decreases renal excretion of potassium and phosphorus, allowing both to accumulate.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance should the nurse suspect in a patient with tremors, muscle cramps, and hyperactive reflexes?
+A: Hypomagnesemia
+B: Hypermagnesemia
+C: Hypercalcemia
+D: Hypernatremia
+ANSWER: A
+RATIONALE: Hypomagnesemia increases neuromuscular excitability and can cause tremors, muscle cramps, and hyperreflexia.
+END
+
+[MCQ]
+QUESTION: A patient has absent deep tendon reflexes and respiratory depression after receiving magnesium therapy. Which complication should the nurse suspect?
+A: Hypomagnesemia
+B: Magnesium toxicity
+C: Hypocalcemia only
+D: Hypokalemia
+ANSWER: B
+RATIONALE: Decreased reflexes and respiratory depression are serious manifestations of excessive magnesium levels.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is commonly associated with prolonged vomiting?
+A: Hypochloremia
+B: Hyperchloremia
+C: Hyperphosphatemia
+D: Hypermagnesemia
+ANSWER: A
+RATIONALE: Vomiting causes loss of gastric hydrochloric acid and can decrease serum chloride.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance should the nurse anticipate after significant gastrointestinal fluid losses?
+A: Hypokalemia
+B: Hyperkalemia only
+C: Hypermagnesemia only
+D: Hyperphosphatemia only
+ANSWER: A
+RATIONALE: Gastrointestinal losses can result in significant potassium depletion and hypokalemia.
+END
+
+[MCQ]
+QUESTION: Which intervention is most appropriate when administering IV potassium?
+A: Monitor the IV infusion carefully and use an infusion pump
+B: Administer it by IV push
+C: Mix it with no fluid
+D: Give it as rapidly as possible
+ANSWER: A
+RATIONALE: IV potassium requires controlled administration because rapid infusion can cause dangerous cardiac effects.
+END
+
+[MCQ]
+QUESTION: Which statement about ionized calcium is correct?
+A: It is the biologically active form of calcium
+B: It is completely bound to albumin
+C: It cannot affect neuromuscular function
+D: It is unrelated to total calcium
+ANSWER: A
+RATIONALE: Ionized calcium is free in the blood and is the biologically active form involved in neuromuscular and cardiac function.
+END
+
+[MCQ]
+QUESTION: A patient has low total calcium but normal ionized calcium. Which explanation is most likely?
+A: Low albumin may have lowered total calcium
+B: The patient definitely has severe hypocalcemia
+C: The patient has hypercalcemia
+D: Calcium is not affected by albumin
+ANSWER: A
+RATIONALE: Low albumin can decrease measured total calcium while the biologically active ionized calcium remains normal.
+END
+
+[MCQ]
+QUESTION: Which patient is most likely to develop fluid volume deficit?
+A: A patient with persistent vomiting and diarrhea
+B: A patient receiving excessive IV fluids
+C: A patient with heart failure and edema
+D: A patient with renal sodium retention
+ANSWER: A
+RATIONALE: Persistent gastrointestinal losses can significantly decrease circulating fluid volume.
+END
+
+[MCQ]
+QUESTION: Which patient is most likely to develop fluid volume excess?
+A: A patient with severe diarrhea
+B: A patient with heart failure and impaired renal perfusion
+C: A patient with prolonged sweating
+D: A patient with repeated vomiting
+ANSWER: B
+RATIONALE: Heart failure can activate RAAS and promote sodium and water retention, contributing to fluid volume excess.
+END
+
+[MCQ]
+QUESTION: Which finding best indicates that an intervention for fluid volume deficit has been effective?
+A: Improved blood pressure and urine output
+B: Increasing crackles
+C: Increasing edema
+D: Rapid weight gain
+ANSWER: A
+RATIONALE: Improved blood pressure and adequate urine output can indicate improved circulating volume and renal perfusion.
+END
+
+[MCQ]
+QUESTION: Which finding best indicates worsening fluid volume excess?
+A: Decreased daily weight
+B: Increasing peripheral edema and crackles
+C: Dry mucous membranes
+D: Orthostatic hypotension
+ANSWER: B
+RATIONALE: Increasing edema and crackles indicate worsening fluid accumulation in tissues and potentially the lungs.
+END
+
+[MCQ]
+QUESTION: Which statement best explains the relationship between osmolality and water movement?
+A: Water tends to move toward the area with greater effective solute concentration
+B: Water always moves toward lower solute concentration
+C: Solutes never affect water movement
+D: Water movement requires ATP
+ANSWER: A
+RATIONALE: Osmosis causes water to move toward the side with greater effective solute concentration across a semipermeable membrane.
+END
+
+[MCQ]
+QUESTION: Which substance is most responsible for maintaining extracellular fluid volume and osmolality?
+A: Sodium
+B: Potassium
+C: Magnesium
+D: Phosphate
+ANSWER: A
+RATIONALE: Sodium is the major extracellular cation and is a major determinant of extracellular fluid volume and osmolality.
+END
+
+[MCQ]
+QUESTION: A patient with excessive free-water loss develops a serum sodium of 154 mEq/L. Which imbalance is present?
+A: Hyponatremia
+B: Hypernatremia
+C: Hypokalemia
+D: Hypercalcemia
+ANSWER: B
+RATIONALE: A serum sodium level above approximately 145 mEq/L indicates hypernatremia.
+END
+
+[MCQ]
+QUESTION: A patient with severe diarrhea has a potassium level of 2.7 mEq/L. Which ECG finding should the nurse monitor for?
+A: Peaked T waves
+B: U waves
+C: Shortened QT interval
+D: Widened QRS caused by hyperkalemia
+ANSWER: B
+RATIONALE: Severe hypokalemia can cause prominent U waves and other cardiac conduction abnormalities.
+END
+
+[MCQ]
+QUESTION: A patient with a potassium level of 6.5 mEq/L receives calcium gluconate. What should the nurse understand about this treatment?
+A: It removes potassium from the body
+B: It protects the heart by stabilizing the cardiac membrane
+C: It increases potassium absorption
+D: It lowers serum sodium
+ANSWER: B
+RATIONALE: Calcium gluconate does not lower serum potassium but helps stabilize cardiac membranes during severe hyperkalemia.
+END
+
+[MCQ]
+QUESTION: Which finding would most strongly suggest hypocalcemia?
+A: Positive Trousseau sign
+B: Decreased bowel sounds with constipation
+C: Decreased neuromuscular excitability
+D: Generalized muscle weakness without tingling
+ANSWER: A
+RATIONALE: A positive Trousseau sign indicates increased neuromuscular excitability associated with hypocalcemia.
+END
+
+[MCQ]
+QUESTION: Which finding would most strongly suggest hypercalcemia?
+A: Tetany
+B: Positive Chvostek sign
+C: Constipation and weakness
+D: Perioral tingling
+ANSWER: C
+RATIONALE: Hypercalcemia decreases neuromuscular excitability and can cause weakness and constipation.
+END
+
+[MCQ]
+QUESTION: A patient with severe renal impairment has a magnesium level of 4.0 mg/dL. Which finding should the nurse monitor for?
+A: Respiratory depression
+B: Hyperactive reflexes
+C: Tremors
+D: Positive Trousseau sign
+ANSWER: A
+RATIONALE: Renal impairment can cause magnesium accumulation, and severe hypermagnesemia can depress neuromuscular and respiratory function.
+END
+
+[MCQ]
+QUESTION: Which statement best describes why the kidneys are important in electrolyte balance?
+A: They regulate electrolyte excretion and reabsorption
+B: They only regulate calcium
+C: They only remove water
+D: They have no role in potassium regulation
+ANSWER: A
+RATIONALE: The kidneys are major regulators of fluid and electrolyte balance through selective reabsorption and excretion.
+END
+
+[MCQ]
+QUESTION: A patient has severe fluid loss. Which compensatory mechanism helps maintain blood pressure?
+A: Activation of RAAS
+B: Suppression of ADH
+C: Increased sodium excretion
+D: Decreased sympathetic activity
+ANSWER: A
+RATIONALE: RAAS activation promotes vasoconstriction and sodium and water retention to help restore circulating volume and blood pressure.
+END
+
+[MCQ]
+QUESTION: Which assessment should be prioritized in a patient receiving IV potassium replacement?
+A: Cardiac rhythm
+B: Hair growth
+C: Visual acuity
+D: Bowel color
+ANSWER: A
+RATIONALE: Potassium directly affects cardiac conduction, so cardiac rhythm monitoring is important during significant potassium replacement.
+END
+
+[MCQ]
+QUESTION: Which finding indicates that a patient may be experiencing severe electrolyte-related cardiac instability?
+A: New irregular cardiac rhythm
+B: Mild thirst
+C: Dry lips only
+D: Slight hunger
+ANSWER: A
+RATIONALE: Electrolyte abnormalities, particularly potassium and calcium disturbances, can cause dangerous cardiac conduction abnormalities.
+END
+
+[MCQ]
+QUESTION: Which statement about extracellular fluid is correct?
+A: It includes plasma and interstitial fluid
+B: It is found only inside cells
+C: It contains almost no sodium
+D: It is identical to intracellular fluid
+ANSWER: A
+RATIONALE: Extracellular fluid includes plasma and interstitial fluid and is characterized by a relatively high sodium concentration.
+END
+
+[MCQ]
+QUESTION: Which statement about intracellular fluid is correct?
+A: It contains potassium as its major cation
+B: It contains sodium as its major cation
+C: It is located only in plasma
+D: It contains no electrolytes
+ANSWER: A
+RATIONALE: Potassium is the major cation inside cells.
+END
+
+[MCQ]
+QUESTION: A patient receives 0.45% sodium chloride. Which effect should the nurse anticipate?
+A: Water movement into cells
+B: Water movement out of cells
+C: No effect on cellular water
+D: Immediate potassium replacement
+ANSWER: A
+RATIONALE: 0.45% sodium chloride is hypotonic and can shift water into cells.
+END
+
+[MCQ]
+QUESTION: Which patient should the nurse question before receiving a large amount of hypotonic fluid?
+A: A patient at risk for cerebral edema
+B: A patient with mild thirst
+C: A patient with normal sodium
+D: A patient with stable weight
+ANSWER: A
+RATIONALE: Hypotonic fluids can move water into cells and may worsen cellular edema, which is particularly concerning when cerebral edema is a risk.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is especially important for maintaining normal cardiac electrical activity?
+A: Potassium
+B: Phosphorus only
+C: Chloride only
+D: Albumin
+ANSWER: A
+RATIONALE: Potassium plays a major role in cardiac membrane potential and conduction.
+END
+
+[MCQ]
+QUESTION: Which combination requires the most urgent intervention?
+A: Potassium 6.8 mEq/L and peaked T waves
+B: Sodium 140 mEq/L and calcium 9.2 mg/dL
+C: Magnesium 2.0 mg/dL and phosphorus 3.5 mg/dL
+D: Chloride 102 mEq/L and potassium 4.0 mEq/L
+ANSWER: A
+RATIONALE: Severe hyperkalemia with ECG changes is an immediate cardiac emergency.
+END
+
+[MCQ]
+QUESTION: Which finding would support the diagnosis of fluid volume deficit?
+A: Decreased urine output
+B: Pulmonary crackles
+C: Peripheral edema
+D: Jugular venous distention
+ANSWER: A
+RATIONALE: Reduced circulating volume can decrease renal perfusion and urine output.
+END
+
+[MCQ]
+QUESTION: Which finding would support the diagnosis of fluid volume excess?
+A: Decreased urine output with edema and crackles
+B: Dry mucous membranes
+C: Orthostatic hypotension
+D: Poor skin turgor
+ANSWER: A
+RATIONALE: Fluid volume excess may produce edema and pulmonary congestion, while reduced urine output can occur with impaired renal perfusion.
+END
+
+[MCQ]
+QUESTION: Which patient teaching is most appropriate for a patient at risk for fluid retention?
+A: Monitor daily weight and report rapid increases
+B: Ignore swelling unless painful
+C: Drink unlimited fluids regardless of instructions
+D: Stop all medications when weight increases
+ANSWER: A
+RATIONALE: Daily weight monitoring can detect fluid retention early, and rapid increases should be reported.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure gains 2 kg rapidly and develops crackles. What does this most likely indicate?
+A: Fluid volume excess
+B: Fluid volume deficit
+C: Hypocalcemia
+D: Hypomagnesemia
+ANSWER: A
+RATIONALE: Rapid weight gain combined with pulmonary crackles strongly suggests fluid accumulation.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most likely when a patient has a potassium level of 6.8 mEq/L?
+A: Hypokalemia
+B: Hyperkalemia
+C: Hypocalcemia
+D: Hyponatremia
+ANSWER: B
+RATIONALE: A potassium level of 6.8 mEq/L is significantly elevated and indicates hyperkalemia.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most likely when a patient has a calcium level of 7.0 mg/dL?
+A: Hypercalcemia
+B: Hypocalcemia
+C: Hyperkalemia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: A total calcium level of 7.0 mg/dL is below the commonly accepted normal range of approximately 8.5–10.5 mg/dL.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most likely when a patient has a magnesium level of 1.0 mg/dL?
+A: Hypermagnesemia
+B: Hypomagnesemia
+C: Hypercalcemia
+D: Hyperphosphatemia
+ANSWER: B
+RATIONALE: A magnesium level of 1.0 mg/dL is below the commonly accepted normal range of approximately 1.7–2.2 mg/dL.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most likely when a patient has a phosphorus level of 6.0 mg/dL?
+A: Hypophosphatemia
+B: Hyperphosphatemia
+C: Hypocalcemia only
+D: Hypomagnesemia
+ANSWER: B
+RATIONALE: A phosphorus level of 6.0 mg/dL is above the commonly accepted normal range of approximately 2.5–4.5 mg/dL.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most likely when a patient has a chloride level of 90 mEq/L?
+A: Hyperchloremia
+B: Hypochloremia
+C: Hyperkalemia
+D: Hypernatremia
+ANSWER: B
+RATIONALE: A chloride level of 90 mEq/L is below the commonly accepted normal range of approximately 98–106 mEq/L.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most likely when a patient has a sodium level of 150 mEq/L?
+A: Hyponatremia
+B: Hypernatremia
+C: Hypokalemia
+D: Hypocalcemia
+ANSWER: B
+RATIONALE: A sodium level of 150 mEq/L is above the commonly accepted normal range of approximately 135–145 mEq/L.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is most likely when a patient has a potassium level of 3.0 mEq/L?
+A: Hyperkalemia
+B: Hypokalemia
+C: Hypernatremia
+D: Hypercalcemia
+ANSWER: B
+RATIONALE: A potassium level of 3.0 mEq/L is below the commonly accepted normal range of approximately 3.5–5.0 mEq/L.
+END
+
+[MCQ]
+QUESTION: A patient with severe hyponatremia is prescribed fluid restriction. What is the purpose of this intervention?
+A: Prevent further dilution of serum sodium
+B: Increase free-water intake
+C: Increase potassium loss
+D: Lower serum calcium
+ANSWER: A
+RATIONALE: In appropriate cases, restricting free water can help prevent further dilution of serum sodium.
+END
+
+[MCQ]
+QUESTION: Which patient is at greatest risk for developing electrolyte imbalance?
+A: A patient with prolonged vomiting and diarrhea
+B: A patient with normal intake and output
+C: A patient with stable laboratory values
+D: A patient with no fluid losses
+ANSWER: A
+RATIONALE: Prolonged gastrointestinal losses can cause substantial fluid and electrolyte depletion.
+END
+
+[MCQ]
+QUESTION: Which assessment finding should the nurse recognize as a possible early sign of fluid imbalance?
+A: Rapid change in daily weight
+B: Stable appetite
+C: Normal temperature
+D: Normal height
+ANSWER: A
+RATIONALE: Rapid changes in daily weight can reflect changes in total body fluid.
+END
+
+[MCQ]
+QUESTION: Which intervention is most appropriate for a patient with severe fluid volume deficit?
+A: Assess vital signs, urine output, and prescribed fluid replacement
+B: Encourage unlimited sodium restriction
+C: Restrict all fluids
+D: Place the patient in a hot environment
+ANSWER: A
+RATIONALE: Fluid volume deficit requires close assessment of circulation and renal perfusion and appropriate replacement as prescribed.
+END
+
+[MCQ]
+QUESTION: Which finding indicates that a patient with fluid volume deficit may be worsening?
+A: Increasing tachycardia and decreasing blood pressure
+B: Improved urine output
+C: Stable weight
+D: Moist mucous membranes
+ANSWER: A
+RATIONALE: Worsening tachycardia and hypotension can indicate progressive loss of circulating volume.
+END
+
+[MCQ]
+QUESTION: Which finding indicates possible improvement in dehydration?
+A: Improved urine output and moist mucous membranes
+B: Increasing tachycardia
+C: Increasing orthostatic hypotension
+D: Decreasing blood pressure
+ANSWER: A
+RATIONALE: Improved urine output and hydration of mucous membranes can indicate improved fluid status.
+END
+
+[MCQ]
+QUESTION: Which statement best describes the nurse's role when monitoring electrolyte abnormalities?
+A: Identify abnormal findings, monitor for complications, and implement prescribed interventions
+B: Independently prescribe electrolyte replacement
+C: Ignore laboratory values if the patient feels well
+D: Administer IV electrolytes by any route
+ANSWER: A
+RATIONALE: Nurses monitor laboratory results and clinical manifestations, recognize complications, and safely implement prescribed treatment.
+END
