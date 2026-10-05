@@ -83,7 +83,32 @@ body {
 .answer-option:hover {
     background: #f5f5f5;
 }
+/* ========================================
+   ANSWER FEEDBACK
+   ======================================== */
 
+.answer-option.correct-answer {
+    background: #dff3e4;
+    border-color: #2e8b57;
+    color: #155724;
+}
+
+.answer-option.wrong-answer {
+    background: #f8d7da;
+    border-color: #dc3545;
+    color: #721c24;
+}
+
+
+/* Keep feedback visible after hover */
+
+.answer-option.correct-answer:hover {
+    background: #dff3e4;
+}
+
+.answer-option.wrong-answer:hover {
+    background: #f8d7da;
+}
 .answer-option input {
     margin-top: 4px;
     flex-shrink: 0;
