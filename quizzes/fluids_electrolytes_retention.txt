@@ -1,1599 +1,1049 @@
 [MCQ]
-QUESTION: Which finding most strongly suggests fluid volume excess?
-A: Dry mucous membranes
-B: Sudden weight gain
-C: Weak, thready pulse
-D: Poor skin turgor
+QUESTION: Which fluid compartment contains the largest proportion of total body water in a healthy adult?
+A: Intracellular fluid
+B: Intravascular fluid
+C: Interstitial fluid
+D: Transcellular fluid
+ANSWER: A
+RATIONALE: Intracellular fluid (ICF) contains the largest proportion of total body water because most body water is located inside cells. Intravascular and interstitial fluid are components of extracellular fluid and contain less water than the intracellular compartment. Transcellular fluid, such as cerebrospinal and synovial fluid, makes up only a small portion of total body water.
+END
+
+[MCQ]
+QUESTION: Which fluid compartment is located outside the cells and includes the fluid surrounding tissue cells?
+A: Intracellular fluid
+B: Interstitial fluid
+C: Cytoplasmic fluid
+D: Intracellular matrix fluid
 ANSWER: B
-RATIONALE: Sudden weight gain is a sensitive indicator of fluid retention because excess fluid increases body weight.
+RATIONALE: Interstitial fluid is located outside the cells and surrounds tissue cells, making it a major component of extracellular fluid. Intracellular fluid is found inside cells. Cytoplasmic fluid is also intracellular. Intracellular matrix fluid is not a standard major body-fluid compartment.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is the major cation of extracellular fluid?
+A: Potassium
+B: Calcium
+C: Sodium
+D: Magnesium
+ANSWER: C
+RATIONALE: Sodium is the major cation of extracellular fluid and plays a major role in maintaining extracellular fluid volume and osmotic balance. Potassium is the major intracellular cation. Calcium is an important extracellular electrolyte but is not the predominant cation. Magnesium is primarily intracellular.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is the major cation of intracellular fluid?
+A: Sodium
+B: Potassium
+C: Calcium
+D: Chloride
+ANSWER: B
+RATIONALE: Potassium is the major intracellular cation and is essential for maintaining the resting membrane potential and normal nerve and muscle function. Sodium is the major extracellular cation. Calcium has important cellular functions but is present in much lower free concentrations inside cells. Chloride is primarily an extracellular anion.
+END
+
+[MCQ]
+QUESTION: What is the normal serum sodium level for an adult?
+A: 125–135 mEq/L
+B: 135–145 mEq/L
+C: 145–155 mEq/L
+D: 155–165 mEq/L
+ANSWER: B
+RATIONALE: The commonly accepted normal serum sodium range is 135–145 mEq/L. A level below 135 mEq/L indicates hyponatremia, while a level above 145 mEq/L indicates hypernatremia. The other ranges therefore fall partially or entirely outside the normal range.
+END
+
+[MCQ]
+QUESTION: What is the normal serum potassium level for an adult?
+A: 2.5–3.5 mEq/L
+B: 3.5–5.0 mEq/L
+C: 5.0–6.5 mEq/L
+D: 6.5–8.0 mEq/L
+ANSWER: B
+RATIONALE: The commonly accepted normal serum potassium range is 3.5–5.0 mEq/L. Values below this range indicate hypokalemia, while values above it indicate hyperkalemia. Potassium abnormalities are clinically important because they can affect cardiac conduction and muscle function.
+END
+
+[MCQ]
+QUESTION: Which process describes the movement of water across a selectively permeable membrane toward the area with greater effective solute concentration?
+A: Diffusion
+B: Filtration
+C: Osmosis
+D: Active transport
+ANSWER: C
+RATIONALE: Osmosis is the passive movement of water across a selectively permeable membrane toward the side with greater effective solute concentration. Diffusion refers to movement of particles down their concentration gradient. Filtration is driven primarily by pressure differences. Active transport requires cellular energy to move substances against a concentration gradient.
+END
+
+[MCQ]
+QUESTION: Which process moves particles from an area of higher concentration to an area of lower concentration without requiring cellular energy?
+A: Active transport
+B: Diffusion
+C: Osmosis
+D: Endocytosis
+ANSWER: B
+RATIONALE: Diffusion is the passive movement of particles from an area of higher concentration to an area of lower concentration. Active transport requires energy and can move substances against a concentration gradient. Osmosis specifically refers to water movement across a selectively permeable membrane. Endocytosis uses cellular energy to move material into a cell.
+END
+
+[MCQ]
+QUESTION: Which process requires cellular energy to move substances against their concentration gradient?
+A: Diffusion
+B: Osmosis
+C: Active transport
+D: Filtration
+ANSWER: C
+RATIONALE: Active transport requires cellular energy, commonly ATP, to move substances against their concentration gradient. Diffusion and osmosis are passive processes. Filtration is primarily driven by hydrostatic or pressure differences rather than direct ATP use for the movement itself.
+END
+
+[MCQ]
+QUESTION: During one cycle of the sodium-potassium pump, how many sodium ions are transported out of the cell?
+A: 2
+B: 3
+C: 4
+D: 5
+ANSWER: B
+RATIONALE: The sodium-potassium pump transports 3 sodium ions out of the cell while moving 2 potassium ions into the cell during each cycle. Two is the number of potassium ions transported inward, not sodium ions outward. Four and five are not part of the standard 3-to-2 exchange.
+END
+
+[MCQ]
+QUESTION: During one cycle of the sodium-potassium pump, how many potassium ions are transported into the cell?
+A: 1
+B: 2
+C: 3
+D: 4
+ANSWER: B
+RATIONALE: The sodium-potassium pump moves 2 potassium ions into the cell while moving 3 sodium ions out. One, three, and four potassium ions do not represent the standard transport ratio of the pump.
+END
+
+[MCQ]
+QUESTION: Which hormone primarily promotes water reabsorption by the kidneys?
+A: Aldosterone
+B: Antidiuretic hormone
+C: Atrial natriuretic peptide
+D: Parathyroid hormone
+ANSWER: B
+RATIONALE: Antidiuretic hormone (ADH) increases water reabsorption by the kidneys, helping the body conserve water. Aldosterone primarily promotes sodium reabsorption and potassium secretion. Atrial natriuretic peptide promotes sodium and water excretion. Parathyroid hormone primarily regulates calcium and phosphate balance.
+END
+
+[MCQ]
+QUESTION: Which hormone promotes sodium reabsorption and potassium secretion in the distal nephron?
+A: Antidiuretic hormone
+B: Aldosterone
+C: Atrial natriuretic peptide
+D: Parathyroid hormone
+ANSWER: B
+RATIONALE: Aldosterone promotes sodium reabsorption and potassium secretion in the distal nephron. ADH primarily increases water reabsorption. Atrial natriuretic peptide promotes sodium excretion rather than sodium retention. Parathyroid hormone regulates calcium and phosphate rather than this sodium-potassium exchange.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is the major determinant of extracellular fluid volume?
+A: Sodium
+B: Potassium
+C: Magnesium
+D: Phosphate
+ANSWER: A
+RATIONALE: Sodium is the major extracellular cation and is a major determinant of extracellular fluid volume because water follows sodium in maintaining osmotic balance. Potassium is primarily intracellular. Magnesium and phosphate have important metabolic and cellular functions but are not the primary determinants of extracellular fluid volume.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is particularly important for maintaining normal cardiac rhythm and neuromuscular function?
+A: Potassium
+B: Chloride
+C: Phosphate
+D: Bicarbonate
+ANSWER: A
+RATIONALE: Potassium plays a major role in maintaining the resting membrane potential and normal cardiac and neuromuscular function. Chloride contributes to fluid and acid-base balance. Phosphate is important in energy metabolism and buffering. Bicarbonate is primarily involved in acid-base regulation.
+END
+
+[MCQ]
+QUESTION: Which condition is most directly associated with a decrease in serum sodium below 135 mEq/L?
+A: Hypernatremia
+B: Hyponatremia
+C: Hyperkalemia
+D: Hypokalemia
+ANSWER: B
+RATIONALE: Hyponatremia refers to a serum sodium concentration below the normal range, commonly less than 135 mEq/L. Hypernatremia refers to elevated sodium. Hyperkalemia and hypokalemia describe abnormalities in potassium rather than sodium.
+END
+
+[MCQ]
+QUESTION: Which condition is most directly associated with a serum sodium level above 145 mEq/L?
+A: Hyponatremia
+B: Hypernatremia
+C: Hypokalemia
+D: Hyperkalemia
+ANSWER: B
+RATIONALE: Hypernatremia refers to an elevated serum sodium concentration, commonly above 145 mEq/L. Hyponatremia occurs when sodium is below the normal range. Hypokalemia and hyperkalemia refer to low and high potassium levels, respectively.
+END
+
+[MCQ]
+QUESTION: Which condition is present when the serum potassium level is below 3.5 mEq/L?
+A: Hypernatremia
+B: Hyponatremia
+C: Hypokalemia
+D: Hyperkalemia
+ANSWER: C
+RATIONALE: Hypokalemia refers to a serum potassium level below the normal range, commonly below 3.5 mEq/L. Hyperkalemia refers to elevated potassium. Hypernatremia and hyponatremia involve sodium rather than potassium.
+END
+
+[MCQ]
+QUESTION: Which condition is present when the serum potassium level is above 5.0 mEq/L?
+A: Hypokalemia
+B: Hyperkalemia
+C: Hyponatremia
+D: Hypernatremia
+ANSWER: B
+RATIONALE: Hyperkalemia refers to a serum potassium concentration above the normal range, commonly above 5.0 mEq/L. Hypokalemia refers to low potassium. Hyponatremia and hypernatremia are abnormalities of sodium rather than potassium.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is classically associated with peaked T waves on an ECG?
+A: Hypokalemia
+B: Hyperkalemia
+C: Hyponatremia
+D: Hypocalcemia
+ANSWER: B
+RATIONALE: Hyperkalemia is classically associated with peaked T waves, particularly in its earlier ECG manifestations. Hypokalemia is more commonly associated with flattened T waves and prominent U waves. Hyponatremia primarily produces neurological manifestations when severe. Hypocalcemia is associated with QT prolongation rather than the classic peaked T-wave pattern.
+END
+
+[MCQ]
+QUESTION: Which ECG finding is classically associated with hypokalemia?
+A: Peaked T waves
+B: Prominent U waves
+C: Shortened QT interval
+D: Widened QRS as the earliest classic finding
+ANSWER: B
+RATIONALE: Hypokalemia can cause prominent U waves and other changes in cardiac repolarization. Peaked T waves are classically associated with hyperkalemia. Hypokalemia does not characteristically cause a shortened QT interval. A widened QRS can occur with severe potassium disturbances but is not the classic early finding used to identify hypokalemia.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance can cause water to shift into cells because of decreased extracellular osmolality?
+A: Hypernatremia
+B: Hyponatremia
+C: Hyperkalemia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: Hyponatremia can decrease extracellular osmolality, causing water to move into cells. Hypernatremia increases extracellular osmolality and tends to pull water out of cells. Potassium and magnesium abnormalities do not primarily produce this characteristic osmotic effect through extracellular sodium concentration.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance can cause water to shift out of cells because of increased extracellular osmolality?
+A: Hyponatremia
+B: Hypernatremia
+C: Hypokalemia
+D: Hypomagnesemia
+ANSWER: B
+RATIONALE: Hypernatremia increases extracellular osmolality, causing water to move from the intracellular compartment toward the extracellular compartment. Hyponatremia generally has the opposite osmotic effect. Potassium and magnesium abnormalities are not the primary determinants of this extracellular osmotic shift.
+END
+
+[MCQ]
+QUESTION: Which type of IV solution generally has an effective osmolality similar to plasma and causes minimal net movement of water into or out of cells?
+A: Hypotonic
+B: Isotonic
+C: Hypertonic
+D: Colloid-only
+ANSWER: B
+RATIONALE: An isotonic solution has an effective osmolality similar to plasma and generally does not cause a major net shift of water across cell membranes. Hypotonic solutions have a lower effective osmolality and tend to move water into cells. Hypertonic solutions have a higher effective osmolality and tend to draw water out of cells. "Colloid-only" is not a tonicity classification.
+END
+
+[MCQ]
+QUESTION: Which IV solution is classified as hypotonic relative to normal plasma?
+A: 0.45% sodium chloride
+B: 0.9% sodium chloride
+C: 3% sodium chloride
+D: Lactated Ringer's solution
+ANSWER: A
+RATIONALE: 0.45% sodium chloride is commonly classified as a hypotonic solution and tends to move water into cells. 0.9% sodium chloride is isotonic. 3% sodium chloride is hypertonic. Lactated Ringer's is generally classified as an isotonic crystalloid.
+END
+
+[MCQ]
+QUESTION: Which IV solution is classified as hypertonic?
+A: 0.45% sodium chloride
+B: 0.9% sodium chloride
+C: 3% sodium chloride
+D: 5% dextrose in water after metabolism of dextrose
+ANSWER: C
+RATIONALE: 3% sodium chloride is a hypertonic solution because it has a substantially higher effective sodium concentration than plasma. 0.45% sodium chloride is hypotonic. 0.9% sodium chloride is isotonic. Dextrose-containing solutions can have different physiologic effects after the dextrose is metabolized, so it is not the best answer for a hypertonic sodium chloride solution.
+END
+
+[MCQ]
+QUESTION: What is the normal total serum calcium level for an adult?
+A: 6.5–8.0 mg/dL
+B: 8.5–10.5 mg/dL
+C: 10.5–12.5 mg/dL
+D: 12.5–14.5 mg/dL
+ANSWER: B
+RATIONALE: The commonly used normal total serum calcium range is approximately 8.5–10.5 mg/dL. Values below this range indicate hypocalcemia, while values above it indicate hypercalcemia. The other ranges are outside the usual adult reference range.
+END
+
+[MCQ]
+QUESTION: Which form of calcium is physiologically active and directly available for cellular functions?
+A: Protein-bound calcium
+B: Ionized calcium
+C: Calcium bound to albumin only
+D: Calcium stored in bone
+ANSWER: B
+RATIONALE: Ionized calcium is the physiologically active form of calcium in the blood and participates directly in neuromuscular activity, cardiac function, and other cellular processes. Protein-bound calcium is not immediately available for these functions. Albumin-bound calcium is a major portion of total calcium but is not the freely active form. Bone calcium serves primarily as a major body store rather than circulating active calcium.
+END
+
+[MCQ]
+QUESTION: Which protein has the greatest influence on the protein-bound portion of serum calcium?
+A: Albumin
+B: Hemoglobin
+C: Fibrinogen
+D: Globulin
+ANSWER: A
+RATIONALE: Albumin binds a significant portion of circulating calcium. A decrease in albumin can lower measured total calcium without necessarily causing a corresponding decrease in ionized calcium. Hemoglobin, fibrinogen, and globulins do not account for the major protein-bound calcium fraction.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is most closely associated with neuromuscular excitability and muscle contraction in addition to its role in bone structure?
+A: Calcium
+B: Chloride
+C: Phosphate
+D: Sodium
+ANSWER: A
+RATIONALE: Calcium is essential for neuromuscular transmission, muscle contraction, blood coagulation, and bone structure. Chloride is primarily involved in fluid and acid-base balance. Phosphate has important roles in energy metabolism and bone structure. Sodium is important for extracellular fluid balance and nerve impulse transmission but is not the primary electrolyte described here.
+END
+
+[MCQ]
+QUESTION: Which manifestation is commonly associated with hypocalcemia?
+A: Muscle spasms and tetany
+B: Decreased neuromuscular excitability
+C: Flaccid paralysis as the defining finding
+D: Increased serum calcium
+ANSWER: A
+RATIONALE: Hypocalcemia increases neuromuscular excitability and can cause muscle spasms, paresthesias, and tetany. Decreased neuromuscular excitability is not the typical effect. Flaccid paralysis is not the defining manifestation of hypocalcemia. Increased serum calcium would indicate hypercalcemia rather than hypocalcemia.
+END
+
+[MCQ]
+QUESTION: Which ECG change is classically associated with hypocalcemia?
+A: Shortened QT interval
+B: Prolonged QT interval
+C: Peaked T waves
+D: Prominent U waves
+ANSWER: B
+RATIONALE: Hypocalcemia is classically associated with prolongation of the QT interval. A shortened QT interval is more associated with hypercalcemia. Peaked T waves are classically associated with hyperkalemia. Prominent U waves are commonly associated with hypokalemia.
+END
+
+[MCQ]
+QUESTION: Which ECG change is classically associated with hypercalcemia?
+A: Prolonged QT interval
+B: Shortened QT interval
+C: Prominent U waves
+D: Peaked T waves
+ANSWER: B
+RATIONALE: Hypercalcemia classically shortens the QT interval. Hypocalcemia is associated with QT prolongation. Prominent U waves are associated with hypokalemia, while peaked T waves are classically associated with hyperkalemia.
+END
+
+[MCQ]
+QUESTION: What is the commonly used normal serum magnesium range for an adult?
+A: 0.5–1.0 mg/dL
+B: 1.7–2.4 mg/dL
+C: 2.5–3.5 mg/dL
+D: 3.5–4.5 mg/dL
+ANSWER: B
+RATIONALE: The commonly used adult serum magnesium range is approximately 1.7–2.4 mg/dL, although laboratory reference ranges can vary slightly. Values below the reference range indicate hypomagnesemia, while elevated values indicate hypermagnesemia. The other ranges do not represent the usual adult serum magnesium range.
+END
+
+[MCQ]
+QUESTION: Which electrolyte abnormality can make hypokalemia difficult to correct if it is not also treated?
+A: Hypomagnesemia
+B: Hypercalcemia
+C: Hypernatremia
+D: Hyperchloremia
+ANSWER: A
+RATIONALE: Hypomagnesemia can contribute to ongoing renal potassium losses and make hypokalemia difficult to correct. Correcting potassium alone may be ineffective when significant magnesium deficiency remains. Hypercalcemia, hypernatremia, and hyperchloremia do not have this characteristic relationship with refractory hypokalemia.
+END
+
+[MCQ]
+QUESTION: Which manifestation is commonly associated with hypomagnesemia?
+A: Neuromuscular excitability
+B: Severe cellular dehydration
+C: Decreased nerve and muscle excitability as the primary effect
+D: Peaked T waves as the defining finding
+ANSWER: A
+RATIONALE: Hypomagnesemia can increase neuromuscular excitability and may produce tremors, muscle cramps, weakness, or dysrhythmias. Cellular dehydration is more directly associated with hypertonic states. Decreased neuromuscular excitability is more consistent with significant magnesium excess. Peaked T waves are classically associated with hyperkalemia.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with hypermagnesemia?
+A: Hyperactive reflexes
+B: Hyporeflexia
+C: Tetany
+D: Severe muscle spasms
+ANSWER: B
+RATIONALE: Hypermagnesemia depresses neuromuscular activity and can cause diminished or absent deep tendon reflexes. Hyperactive reflexes, tetany, and muscle spasms are more consistent with increased neuromuscular excitability, which can occur with low magnesium or low calcium.
+END
+
+[MCQ]
+QUESTION: What is the commonly used normal serum chloride range for an adult?
+A: 70–80 mEq/L
+B: 80–90 mEq/L
+C: 98–106 mEq/L
+D: 110–120 mEq/L
+ANSWER: C
+RATIONALE: The commonly used normal serum chloride range is approximately 98–106 mEq/L. Values substantially below this range indicate hypochloremia, while values above it indicate hyperchloremia. The other ranges do not represent the usual adult reference interval.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is the major extracellular anion?
+A: Sodium
+B: Potassium
+C: Chloride
+D: Calcium
+ANSWER: C
+RATIONALE: Chloride is the major extracellular anion and contributes to extracellular fluid balance and acid-base regulation. Sodium and potassium are cations. Calcium is also a cation rather than an anion.
+END
+
+[MCQ]
+QUESTION: Which electrolyte commonly shifts with bicarbonate as part of maintaining electrical neutrality and acid-base balance?
+A: Chloride
+B: Potassium only
+C: Calcium only
+D: Magnesium only
+ANSWER: A
+RATIONALE: Chloride participates in acid-base balance and can shift in relation to bicarbonate, including through the chloride shift and changes associated with bicarbonate concentration. Potassium, calcium, and magnesium have important physiologic roles but are not the principal extracellular anion involved in this relationship.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is an important component of ATP and nucleic acids and is also stored extensively in bone?
+A: Phosphate
+B: Chloride
+C: Sodium
+D: Potassium
+ANSWER: A
+RATIONALE: Phosphate is an important component of ATP, nucleic acids, phospholipids, and bone mineral. Chloride is mainly involved in fluid and acid-base balance. Sodium is the major extracellular cation. Potassium is the major intracellular cation but is not the electrolyte described as a major structural component of bone mineral.
+END
+
+[MCQ]
+QUESTION: Which hormone increases intestinal calcium absorption indirectly by promoting activation of vitamin D?
+A: Parathyroid hormone
+B: Aldosterone
+C: Antidiuretic hormone
+D: Atrial natriuretic peptide
+ANSWER: A
+RATIONALE: Parathyroid hormone increases calcium availability partly by promoting renal activation of vitamin D, which increases intestinal calcium absorption. Aldosterone regulates sodium and potassium. ADH regulates water balance. Atrial natriuretic peptide promotes sodium and water excretion.
+END
+
+[MCQ]
+QUESTION: Which hormone is primarily released when serum calcium levels decrease?
+A: Parathyroid hormone
+B: Aldosterone
+C: Antidiuretic hormone
+D: Insulin
+ANSWER: A
+RATIONALE: A decrease in serum calcium stimulates parathyroid hormone release. PTH acts to increase serum calcium through effects on bone, kidneys, and vitamin D activation. Aldosterone regulates sodium and potassium, ADH regulates water, and insulin primarily regulates glucose metabolism.
+END
+
+[MCQ]
+QUESTION: Which hormone generally promotes sodium and water excretion when the atria are stretched by increased blood volume?
+A: Aldosterone
+B: Antidiuretic hormone
+C: Atrial natriuretic peptide
+D: Parathyroid hormone
+ANSWER: C
+RATIONALE: Atrial natriuretic peptide is released in response to atrial stretch and promotes sodium excretion, with water following sodium, helping reduce circulating volume. Aldosterone promotes sodium retention. ADH promotes water retention. Parathyroid hormone regulates calcium and phosphate.
+END
+
+[MCQ]
+QUESTION: What is the approximate normal serum osmolality in an adult?
+A: 200–220 mOsm/kg
+B: 240–260 mOsm/kg
+C: 275–295 mOsm/kg
+D: 320–340 mOsm/kg
+ANSWER: C
+RATIONALE: Normal serum osmolality is commonly approximately 275–295 mOsm/kg. Lower values indicate a relatively hypotonic state, while higher values indicate a relatively hypertonic state. The other ranges fall outside the commonly accepted adult reference range.
+END
+
+[MCQ]
+QUESTION: Which electrolyte contributes most strongly to serum osmolality because of its high concentration in extracellular fluid?
+A: Sodium
+B: Magnesium
+C: Phosphate
+D: Calcium
+ANSWER: A
+RATIONALE: Sodium and its accompanying anions are the major contributors to extracellular fluid osmolality. Magnesium, phosphate, and calcium are physiologically important but contribute much less to total serum osmolality because their concentrations are considerably lower.
+END
+
+[MCQ]
+QUESTION: Which assessment finding is most consistent with fluid volume deficit?
+A: Bounding pulse
+B: Orthostatic hypotension
+C: Jugular venous distention
+D: Rapid weight gain
+ANSWER: B
+RATIONALE: Orthostatic hypotension can occur with decreased circulating volume and is a common finding of fluid volume deficit. Bounding pulse and jugular venous distention are more consistent with fluid volume excess. Rapid weight gain usually suggests fluid retention rather than fluid loss.
 END
 
 [MCQ]
 QUESTION: Which assessment finding is most consistent with fluid volume excess?
 A: Flat neck veins
-B: Bounding pulse
-C: Concentrated urine
-D: Orthostatic hypotension
-ANSWER: B
-RATIONALE: Fluid volume excess can increase vascular volume and produce a bounding pulse.
-END
-
-[MCQ]
-QUESTION: A patient gains 2 kg in 2 days. What does this most likely indicate?
-A: Loss of muscle mass
-B: Increased fat storage
-C: Fluid retention
-D: Decreased metabolism
+B: Orthostatic hypotension
+C: Jugular venous distention
+D: Decreased body weight
 ANSWER: C
-RATIONALE: A rapid 2-kg weight gain is most likely fluid because fat or muscle changes do not occur that quickly.
+RATIONALE: Jugular venous distention can occur when circulating volume and venous pressure are increased. Flat neck veins and orthostatic hypotension are more consistent with decreased circulating volume. Decreased body weight commonly accompanies fluid loss rather than fluid excess.
 END
 
 [MCQ]
-QUESTION: Which finding would the nurse expect in a patient with fluid volume excess?
-A: Crackles
-B: Dry tongue
-C: Poor skin turgor
-D: Sunken eyes
+QUESTION: Which daily weight change is most useful as an indicator of acute fluid gain or loss?
+A: 0.1 kg in one day
+B: 0.5 kg in one day
+C: 1 kg in one day
+D: 3 kg in one week
+ANSWER: C
+RATIONALE: A change of approximately 1 kg in body weight is commonly considered roughly equivalent to 1 liter of fluid. Daily weight trends can therefore help detect relatively rapid fluid gain or loss. A 0.1 kg change may be within normal measurement variation, while larger changes over several days may be less useful for detecting the exact timing of fluid changes.
+END
+
+[MCQ]
+QUESTION: Which finding is most directly associated with decreased circulating fluid volume?
+A: Tachycardia
+B: Bradycardia
+C: Bounding pulse
+D: Hypertension
 ANSWER: A
-RATIONALE: Excess fluid can accumulate in the lungs, producing crackles.
+RATIONALE: Tachycardia is a common compensatory response to decreased circulating volume because the body attempts to maintain cardiac output. Bradycardia is not the typical compensatory response. Bounding pulse and hypertension are more commonly associated with increased circulating volume or other cardiovascular conditions.
 END
 
 [MCQ]
-QUESTION: Which finding is most concerning in a patient with severe fluid volume excess?
-A: Mild ankle edema
-B: Moist mucous membranes
-C: Severe dyspnea with crackles
-D: Slight weight gain
+QUESTION: Which finding is most consistent with fluid volume excess?
+A: Dry mucous membranes
+B: Poor skin turgor from dehydration
+C: Peripheral edema
+D: Concentrated urine from water loss
 ANSWER: C
-RATIONALE: Severe dyspnea and crackles may indicate pulmonary edema, which can rapidly impair oxygenation.
+RATIONALE: Peripheral edema can occur when excess fluid accumulates in the interstitial space. Dry mucous membranes, poor skin turgor related to dehydration, and concentrated urine are more commonly associated with fluid volume deficit or water conservation.
 END
 
 [MCQ]
-QUESTION: Which measurement is most useful for monitoring changes in fluid balance?
-A: Height
-B: Daily weight
-C: Head circumference
-D: Waist circumference
+QUESTION: Which mechanism primarily moves fluid from the vascular space into the interstitial space when capillary hydrostatic pressure increases?
+A: Osmosis
+B: Filtration
+C: Active transport
+D: Diffusion
 ANSWER: B
-RATIONALE: Daily weight is a sensitive indicator of fluid changes because rapid weight changes often reflect fluid gain or loss.
+RATIONALE: Filtration is movement of fluid and small solutes across a membrane driven by pressure differences, including increased capillary hydrostatic pressure. Osmosis is driven by differences in effective solute concentration. Active transport requires cellular energy. Diffusion involves movement of particles down a concentration gradient.
 END
 
 [MCQ]
-QUESTION: A patient gains 1 kg overnight. The nurse should recognize this as approximately how much retained fluid?
-A: 100 mL
-B: 500 mL
-C: 1 L
-D: 2 L
+QUESTION: Which assessment finding is most indicative of a positive fluid balance?
+A: Weight loss of 1 kg in 24 hours
+B: Urine output greater than fluid intake
+C: Weight gain of 1 kg in 24 hours
+D: Decreased peripheral edema
 ANSWER: C
-RATIONALE: Approximately 1 kg of rapid body-weight gain corresponds to about 1 liter of retained fluid.
+RATIONALE: A rapid 1-kg weight gain is approximately equivalent to retaining 1 liter of fluid and therefore suggests a positive fluid balance. Weight loss suggests fluid loss. Urine output greater than intake generally produces a negative rather than positive fluid balance. Decreased edema suggests improvement in fluid excess.
 END
 
 [MCQ]
-QUESTION: Which patient is at greatest risk for fluid volume excess?
-A: Patient with prolonged vomiting
-B: Patient with severe renal impairment
-C: Patient with excessive sweating
-D: Patient with diarrhea
+QUESTION: Which urine output is generally considered the minimum acceptable urine output for an adult?
+A: 0.1 mL/kg/hr
+B: 0.5 mL/kg/hr
+C: 1.5 mL/kg/hr
+D: 2.0 mL/kg/hr
 ANSWER: B
-RATIONALE: Impaired renal function reduces the kidneys' ability to excrete sodium and water, increasing the risk of fluid retention.
+RATIONALE: A commonly used minimum target for adult urine output is approximately 0.5 mL/kg/hr. A lower rate may indicate inadequate renal perfusion or decreased kidney function. The higher values are not the standard minimum threshold used for adult assessment.
 END
 
 [MCQ]
-QUESTION: Why does renal impairment commonly cause fluid retention?
-A: The kidneys produce too much insulin
-B: The kidneys cannot adequately excrete sodium and water
-C: The kidneys increase stool production
-D: The kidneys destroy plasma proteins
+QUESTION: Which finding is most consistent with decreased plasma oncotic pressure?
+A: Increased movement of fluid into the interstitial space
+B: Increased movement of fluid into the intracellular space
+C: Increased intracellular potassium concentration
+D: Decreased filtration across capillary walls
+ANSWER: A
+RATIONALE: Plasma oncotic pressure, largely maintained by albumin, helps pull water into the vascular space. When oncotic pressure decreases, more fluid can move from the vascular space into the interstitial space, contributing to edema. The other choices do not describe the primary effect of decreased plasma oncotic pressure.
+END
+
+[MCQ]
+QUESTION: Which plasma protein is primarily responsible for maintaining plasma colloid oncotic pressure?
+A: Albumin
+B: Hemoglobin
+C: Fibrinogen
+D: Immunoglobulin G
+ANSWER: A
+RATIONALE: Albumin is the major contributor to plasma colloid oncotic pressure because of its abundance in plasma. Hemoglobin is located mainly inside red blood cells. Fibrinogen participates primarily in coagulation. Immunoglobulins contribute to plasma proteins but are not the main determinant of oncotic pressure.
+END
+
+[MCQ]
+QUESTION: Which IV fluid is an isotonic crystalloid commonly used for fluid volume replacement?
+A: 0.45% sodium chloride
+B: 0.9% sodium chloride
+C: 3% sodium chloride
+D: 0.225% sodium chloride
 ANSWER: B
-RATIONALE: Reduced kidney function decreases the ability to eliminate sodium and water, promoting volume expansion.
+RATIONALE: 0.9% sodium chloride is an isotonic crystalloid commonly used for extracellular fluid replacement. 0.45% and 0.225% sodium chloride are hypotonic. 3% sodium chloride is hypertonic and is used for specific indications rather than routine volume replacement.
 END
 
 [MCQ]
-QUESTION: Which hormone directly promotes sodium retention by the kidneys?
-A: Insulin
-B: Aldosterone
-C: Calcitonin
-D: Glucagon
-ANSWER: B
-RATIONALE: Aldosterone increases sodium reabsorption in the distal nephron, and water follows sodium.
+QUESTION: Which IV fluid is commonly classified as an isotonic balanced crystalloid?
+A: Lactated Ringer's solution
+B: 0.45% sodium chloride
+C: 3% sodium chloride
+D: 0.225% sodium chloride
+ANSWER: A
+RATIONALE: Lactated Ringer's is an isotonic balanced crystalloid containing multiple electrolytes. 0.45% and 0.225% sodium chloride are hypotonic. 3% sodium chloride is hypertonic.
 END
 
 [MCQ]
-QUESTION: Aldosterone primarily causes the kidneys to retain which substance?
+QUESTION: Which IV solution is most likely to cause water to move from the extracellular space into cells?
+A: 0.9% sodium chloride
+B: 3% sodium chloride
+C: 0.45% sodium chloride
+D: Hypertonic saline
+ANSWER: C
+RATIONALE: 0.45% sodium chloride is hypotonic relative to plasma, so it lowers extracellular effective osmolality and promotes movement of water into cells. 0.9% sodium chloride is isotonic. 3% sodium chloride and other hypertonic saline solutions increase extracellular osmolality and draw water out of cells.
+END
+
+[MCQ]
+QUESTION: Which IV solution causes water to shift from the intracellular space toward the extracellular space?
+A: 0.45% sodium chloride
+B: 0.225% sodium chloride
+C: 3% sodium chloride
+D: Sterile water administered intravenously
+ANSWER: C
+RATIONALE: 3% sodium chloride is hypertonic and increases extracellular osmolality, causing water to move out of cells. Hypotonic solutions such as 0.45% and 0.225% sodium chloride have the opposite effect. Sterile water is not administered intravenously as a routine fluid because it is extremely hypotonic and can cause hemolysis.
+END
+
+[MCQ]
+QUESTION: Which solution is commonly used to expand extracellular fluid volume without causing a major initial shift of water into or out of cells?
+A: 0.9% sodium chloride
+B: 0.45% sodium chloride
+C: 0.225% sodium chloride
+D: Sterile water
+ANSWER: A
+RATIONALE: 0.9% sodium chloride is isotonic and primarily expands the extracellular compartment without causing a major initial net water shift across cell membranes. The other choices are hypotonic or unsuitable for routine intravenous administration.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is primarily responsible for maintaining extracellular fluid osmolality and water distribution?
 A: Sodium
-B: Calcium
+B: Potassium
 C: Magnesium
 D: Phosphate
 ANSWER: A
-RATIONALE: Aldosterone promotes sodium reabsorption while increasing potassium excretion.
+RATIONALE: Sodium is the major extracellular cation and is the primary determinant of extracellular fluid osmolality and water distribution. Potassium is the major intracellular cation. Magnesium and phosphate are important intracellular and metabolic electrolytes but are not the primary determinants of extracellular osmolality.
 END
 
 [MCQ]
-QUESTION: What usually follows sodium retention in the body?
-A: Water follows sodium
-B: Water leaves the bloodstream immediately
-C: Potassium enters the bloodstream
-D: Calcium is excreted
-ANSWER: A
-RATIONALE: Water follows sodium osmotically, so sodium retention can contribute to increased extracellular fluid volume.
-END
-
-[MCQ]
-QUESTION: Which sequence correctly describes the RAAS response to decreased renal perfusion?
-A: Renin → angiotensin II → aldosterone
-B: Aldosterone → renin → insulin
-C: ADH → insulin → renin
-D: Renin → insulin → aldosterone
-ANSWER: A
-RATIONALE: Reduced renal perfusion stimulates renin release, leading to angiotensin II formation and aldosterone secretion.
-END
-
-[MCQ]
-QUESTION: What is the primary effect of angiotensin II that contributes to fluid retention?
-A: Promotes sodium loss
-B: Causes vasodilation only
-C: Stimulates aldosterone release
-D: Blocks ADH
-ANSWER: C
-RATIONALE: Angiotensin II stimulates aldosterone secretion, which increases renal sodium reabsorption.
-END
-
-[MCQ]
-QUESTION: Which hormone primarily increases water reabsorption in the collecting ducts?
-A: ADH
-B: Insulin
-C: Glucagon
-D: Calcitonin
-ANSWER: A
-RATIONALE: ADH increases water permeability of the collecting ducts, allowing more water to be reabsorbed.
-END
-
-[MCQ]
-QUESTION: A patient has increased ADH secretion. Which finding is expected?
-A: Increased free-water retention
-B: Massive sodium loss
-C: Severe dehydration
-D: Increased urine volume
-ANSWER: A
-RATIONALE: ADH causes the kidneys to retain water, decreasing urine volume.
-END
-
-[MCQ]
-QUESTION: Which urine finding would be expected when ADH secretion is high?
-A: Large amounts of dilute urine
-B: Reduced urine output
-C: Completely absent urine formation
-D: Increased glucose excretion
+QUESTION: Which electrolyte imbalance is most likely to occur when excessive water is retained relative to sodium?
+A: Hypernatremia
+B: Hyponatremia
+C: Hyperkalemia
+D: Hypercalcemia
 ANSWER: B
-RATIONALE: ADH promotes water reabsorption, resulting in reduced urine output and more concentrated urine.
+RATIONALE: Excessive water retention relative to sodium can dilute serum sodium and produce hyponatremia. Hypernatremia reflects a relative excess of sodium or water deficit. Potassium and calcium concentrations are regulated through different mechanisms and are not directly defined by this water-to-sodium relationship.
 END
 
 [MCQ]
-QUESTION: Which hormone promotes both vasoconstriction and stimulation of aldosterone secretion?
-A: Angiotensin II
-B: ADH only
-C: Insulin
-D: Atrial natriuretic peptide
-ANSWER: A
-RATIONALE: Angiotensin II causes vasoconstriction and stimulates aldosterone release.
-END
-
-[MCQ]
-QUESTION: Which hormone works to promote sodium and water excretion when the atria are stretched by increased volume?
-A: ANP
-B: Aldosterone
-C: ADH
-D: Renin
-ANSWER: A
-RATIONALE: Atrial natriuretic peptide promotes natriuresis and helps reduce excess circulating volume.
-END
-
-[MCQ]
-QUESTION: Which condition commonly activates RAAS despite the patient having total-body fluid excess?
-A: Heart failure
-B: Excessive water intake only
-C: Hyperthyroidism
-D: Fever
-ANSWER: A
-RATIONALE: In heart failure, reduced effective arterial circulation can activate RAAS even when total body fluid is already excessive.
-END
-
-[MCQ]
-QUESTION: Why can a patient with heart failure develop fluid retention?
-A: The kidneys interpret reduced perfusion as volume depletion
-B: The kidneys stop producing urine immediately
-C: The heart destroys sodium
-D: The lungs directly produce aldosterone
-ANSWER: A
-RATIONALE: Reduced effective cardiac output can decrease renal perfusion, activating RAAS and promoting sodium and water retention.
-END
-
-[MCQ]
-QUESTION: A patient with heart failure has worsening bilateral ankle edema. What is the most likely mechanism?
-A: Increased sodium and water retention
-B: Decreased extracellular fluid
-C: Increased renal water loss
-D: Severe intracellular dehydration
-ANSWER: A
-RATIONALE: Heart failure can activate neurohormonal mechanisms that promote sodium and water retention, contributing to edema.
-END
-
-[MCQ]
-QUESTION: Which finding commonly accompanies right-sided heart failure?
-A: Peripheral edema
-B: Dry mucous membranes
-C: Hematemesis
-D: Severe polyuria
-ANSWER: A
-RATIONALE: Right-sided heart failure causes systemic venous congestion, which commonly produces peripheral edema.
-END
-
-[MCQ]
-QUESTION: Which finding is particularly associated with systemic venous congestion?
-A: Jugular venous distention
-B: Flat neck veins
-C: Dry skin
-D: Decreased abdominal pressure
-ANSWER: A
-RATIONALE: Increased systemic venous pressure can cause jugular venous distention.
-END
-
-[MCQ]
-QUESTION: A patient with fluid overload develops crackles. What does this finding most likely indicate?
-A: Fluid in the alveolar/interstitial spaces
-B: Severe dehydration
-C: Low blood glucose
-D: Decreased airway secretions
-ANSWER: A
-RATIONALE: Excess intravascular pressure can drive fluid into pulmonary interstitial and alveolar spaces, causing crackles.
-END
-
-[MCQ]
-QUESTION: Which finding suggests pulmonary edema rather than simple peripheral edema?
-A: Mild ankle swelling
-B: Sudden severe dyspnea
-C: Slight weight gain
-D: Trace pedal edema
+QUESTION: Which condition is characterized by excessive water retention caused by inappropriate secretion of antidiuretic hormone?
+A: Diabetes insipidus
+B: SIADH
+C: Hyperaldosteronism
+D: Diabetes mellitus
 ANSWER: B
-RATIONALE: Sudden severe dyspnea can indicate fluid accumulation in the lungs and requires immediate attention.
+RATIONALE: Syndrome of inappropriate antidiuretic hormone secretion (SIADH) causes excessive ADH activity and water retention, commonly resulting in dilutional hyponatremia. Diabetes insipidus involves inadequate ADH effect and excessive water loss. Hyperaldosteronism primarily causes sodium retention and potassium loss. Diabetes mellitus primarily involves abnormal glucose regulation.
 END
 
 [MCQ]
-QUESTION: A patient with fluid overload suddenly becomes severely short of breath. What is the nurse's priority?
-A: Encourage oral fluids
-B: Place the patient flat
-C: Assess airway and breathing and provide appropriate oxygen support
-D: Encourage ambulation
-ANSWER: C
-RATIONALE: Severe dyspnea may indicate pulmonary edema, so airway and breathing are immediate priorities.
-END
-
-[MCQ]
-QUESTION: Which position is generally helpful for a patient experiencing dyspnea from pulmonary fluid overload?
-A: High-Fowler's
-B: Flat supine
-C: Trendelenburg
-D: Prone with legs elevated
-ANSWER: A
-RATIONALE: High-Fowler's positioning can improve lung expansion and ease breathing.
-END
-
-[MCQ]
-QUESTION: Which assessment finding would most strongly support pulmonary congestion?
-A: Bilateral crackles
-B: Dry lips
-C: Poor skin turgor
-D: Sunken eyes
-ANSWER: A
-RATIONALE: Bilateral crackles are commonly associated with fluid accumulation in the lungs.
-END
-
-[MCQ]
-QUESTION: Which pulse characteristic may occur with fluid volume excess?
-A: Bounding
-B: Absent
-C: Always weak and thready
-D: Irregular only
-ANSWER: A
-RATIONALE: Increased intravascular volume can produce a stronger or bounding pulse.
-END
-
-[MCQ]
-QUESTION: Which blood pressure pattern may occur with fluid volume excess?
-A: Increased blood pressure
-B: Always severe hypotension
-C: Always zero diastolic pressure
-D: No possible change
-ANSWER: A
-RATIONALE: Increased circulating volume can increase vascular pressure and contribute to hypertension.
-END
-
-[MCQ]
-QUESTION: Which finding indicates peripheral fluid accumulation?
-A: Pitting edema
-B: Dry mucous membranes
-C: Decreased body weight
-D: Flat neck veins
-ANSWER: A
-RATIONALE: Pitting edema occurs when excess interstitial fluid produces an indentation after pressure is applied.
-END
-
-[MCQ]
-QUESTION: What causes pitting edema?
-A: Excess interstitial fluid
-B: Decreased body water only
-C: Increased intracellular potassium
-D: Loss of all plasma proteins
-ANSWER: A
-RATIONALE: Pitting edema results from accumulation of fluid in the interstitial space.
-END
-
-[MCQ]
-QUESTION: Which factor can promote edema by increasing hydrostatic pressure?
-A: Heart failure
-B: Dehydration
-C: Severe vomiting
-D: Excessive sweating
-ANSWER: A
-RATIONALE: Heart failure can increase venous and capillary hydrostatic pressure, pushing fluid into the interstitial space.
-END
-
-[MCQ]
-QUESTION: How does increased capillary hydrostatic pressure contribute to edema?
-A: It pushes fluid out of the capillaries
-B: It pulls water into cells
-C: It destroys sodium
-D: It prevents filtration
-ANSWER: A
-RATIONALE: Increased hydrostatic pressure promotes movement of fluid from the vascular space into the interstitial space.
-END
-
-[MCQ]
-QUESTION: Which condition can cause edema through decreased plasma oncotic pressure?
-A: Hypoalbuminemia
-B: Hypernatremia
-C: Hypertension alone
-D: Hyperglycemia alone
-ANSWER: A
-RATIONALE: Albumin contributes to plasma oncotic pressure. Low albumin reduces the force pulling fluid into the vascular space.
-END
-
-[MCQ]
-QUESTION: A patient with severe liver disease develops generalized edema. Which mechanism may contribute?
-A: Reduced albumin production
-B: Excess insulin secretion
-C: Increased red blood cell production
-D: Increased calcium absorption
-ANSWER: A
-RATIONALE: The liver produces albumin. Reduced albumin levels decrease plasma oncotic pressure and promote fluid movement into tissues.
-END
-
-[MCQ]
-QUESTION: Which condition commonly causes third spacing?
-A: Severe burns
-B: Mild thirst
-C: Simple short-term fasting
-D: Normal exercise
-ANSWER: A
-RATIONALE: Severe burns can increase capillary permeability, allowing fluid to move from the intravascular space into interstitial tissues.
-END
-
-[MCQ]
-QUESTION: What is third spacing?
-A: Fluid moving into a space where it is not readily available for normal circulation
-B: Fluid entering the bloodstream
-C: Sodium moving into cells
-D: Normal urine production
-ANSWER: A
-RATIONALE: Third spacing refers to fluid shifting into nonfunctional or poorly accessible compartments, reducing effective circulating volume.
-END
-
-[MCQ]
-QUESTION: A patient with severe burns has massive edema but low blood pressure. How can this occur?
-A: Fluid has shifted out of the intravascular space
-B: The patient has too much circulating blood
-C: Sodium has completely disappeared
-D: The kidneys have produced excessive plasma
-ANSWER: A
-RATIONALE: Capillary leak can move fluid into tissues, causing edema while reducing effective intravascular volume.
-END
-
-[MCQ]
-QUESTION: Which finding may occur with third spacing despite visible edema?
-A: Decreased effective circulating volume
-B: Increased effective circulating volume
-C: Severe hypervolemia inside the vessels
-D: Increased urine output
-ANSWER: A
-RATIONALE: Third-spaced fluid is not effectively available to maintain circulation, so intravascular volume may decrease.
-END
-
-[MCQ]
-QUESTION: Which nursing assessment is most important when monitoring a patient receiving large amounts of IV fluid?
-A: Lung sounds
-B: Hair texture
-C: Visual acuity
-D: Nail length
-ANSWER: A
-RATIONALE: Lung assessment can identify early pulmonary congestion from fluid overload.
-END
-
-[MCQ]
-QUESTION: A patient receiving IV fluids develops new crackles and dyspnea. What should the nurse suspect?
-A: Fluid volume excess
-B: Improved hydration
-C: Normal response
-D: Dehydration
-ANSWER: A
-RATIONALE: New crackles and dyspnea during IV therapy can indicate fluid overload and pulmonary congestion.
-END
-
-[MCQ]
-QUESTION: Which action is appropriate when fluid overload is suspected during IV therapy?
-A: Continue the infusion at a faster rate
-B: Assess the patient and IV therapy immediately
-C: Encourage additional oral fluids
-D: Ignore mild respiratory changes
+QUESTION: Which laboratory pattern is most consistent with SIADH?
+A: Hypernatremia with concentrated serum
+B: Hyponatremia with decreased serum osmolality
+C: Hyperkalemia with increased serum osmolality
+D: Hypercalcemia with decreased urine concentration
 ANSWER: B
-RATIONALE: New respiratory symptoms require prompt assessment and evaluation of the IV infusion.
+RATIONALE: SIADH causes excess water retention, which dilutes serum sodium and lowers serum osmolality. Hypernatremia and increased serum osmolality are more consistent with water deficit. Hyperkalemia and hypercalcemia are not the defining laboratory abnormalities of SIADH. SIADH also typically produces inappropriately concentrated urine.
 END
 
 [MCQ]
-QUESTION: Which IV fluid is isotonic and can increase intravascular volume?
-A: 0.9% normal saline
-B: 0.45% saline
-C: 3% saline
-D: Sterile water
-ANSWER: A
-RATIONALE: 0.9% normal saline is an isotonic crystalloid that expands extracellular and intravascular volume.
-END
-
-[MCQ]
-QUESTION: Why must isotonic IV fluids be used cautiously in patients at risk for fluid overload?
-A: They can increase extracellular and intravascular volume
-B: They always cause hypoglycemia
-C: They remove all sodium
-D: They prevent urine formation permanently
-ANSWER: A
-RATIONALE: Isotonic fluids remain primarily in the extracellular space and can expand circulating volume.
-END
-
-[MCQ]
-QUESTION: Which patient requires particularly careful monitoring during IV fluid administration?
-A: Patient with heart failure
-B: Healthy patient with no medical conditions
-C: Patient with a healed paper cut
-D: Patient with normal renal function and no fluid restrictions
-ANSWER: A
-RATIONALE: Heart failure reduces the body's ability to tolerate additional fluid volume.
-END
-
-[MCQ]
-QUESTION: Which patient is at highest risk for fluid overload from excessive IV therapy?
-A: Patient with renal failure
-B: Patient with mild headache
-C: Patient with a healed fracture
-D: Patient with normal kidney function
-ANSWER: A
-RATIONALE: Renal failure reduces the ability to excrete excess water and sodium.
-END
-
-[MCQ]
-QUESTION: Which finding should be reported when monitoring a patient for fluid retention?
-A: Rapid increase in daily weight
-B: Stable weight
-C: Normal urine output
-D: Moist mucous membranes
-ANSWER: A
-RATIONALE: Rapid weight gain is a sensitive indicator of fluid accumulation.
-END
-
-[MCQ]
-QUESTION: Which nursing intervention is commonly used to monitor fluid retention?
-A: Daily weights at consistent times
-B: Weekly height measurements
-C: Monthly temperature checks
-D: Measuring arm length
-ANSWER: A
-RATIONALE: Daily weights should be obtained under consistent conditions to accurately identify fluid changes.
-END
-
-[MCQ]
-QUESTION: Why should daily weights be taken under similar conditions?
-A: To improve accuracy when comparing fluid changes
-B: To prevent sodium absorption
-C: To increase urine output
-D: To prevent edema
-ANSWER: A
-RATIONALE: Consistent timing, clothing, and equipment reduce variables that could falsely appear as fluid changes.
-END
-
-[MCQ]
-QUESTION: A patient gains 2 kg over 48 hours. What should the nurse consider first?
-A: Possible fluid retention
-B: Increased muscle mass
-C: Increased bone density
-D: Normal aging
-ANSWER: A
-RATIONALE: Rapid weight gain over a short period strongly suggests fluid accumulation.
-END
-
-[MCQ]
-QUESTION: Which finding is most consistent with fluid volume excess rather than fluid volume deficit?
-A: JVD
-B: Tachycardia with weak pulse
-C: Dry mucous membranes
-D: Orthostatic hypotension
-ANSWER: A
-RATIONALE: Jugular venous distention indicates increased venous pressure and can occur with fluid volume excess.
-END
-
-[MCQ]
-QUESTION: Which finding is more consistent with fluid volume deficit?
-A: Bounding pulse
-B: JVD
-C: Poor skin turgor
-D: Pulmonary crackles
-ANSWER: C
-RATIONALE: Poor skin turgor is commonly associated with dehydration and fluid volume deficit.
-END
-
-[MCQ]
-QUESTION: Which assessment finding would make the nurse suspect fluid overload rather than dehydration?
-A: Increased urine concentration
-B: Peripheral edema
-C: Dry mouth
-D: Thirst
+QUESTION: Which condition is characterized by insufficient antidiuretic hormone effect and excessive water loss?
+A: SIADH
+B: Diabetes insipidus
+C: Hyperaldosteronism
+D: Primary hyperparathyroidism
 ANSWER: B
-RATIONALE: Peripheral edema indicates excess fluid in the interstitial space.
+RATIONALE: Diabetes insipidus results from inadequate ADH production or response, causing excessive water loss and large volumes of dilute urine. SIADH produces excessive water retention. Hyperaldosteronism primarily affects sodium and potassium balance. Primary hyperparathyroidism primarily affects calcium and phosphate balance.
 END
 
 [MCQ]
-QUESTION: A patient has edema, crackles, and a 3-kg weight gain. Which condition is most likely?
-A: Fluid volume excess
-B: Fluid volume deficit
-C: Isolated dehydration
-D: Hypovolemia
-ANSWER: A
-RATIONALE: Edema, pulmonary crackles, and rapid weight gain strongly support fluid volume excess.
+QUESTION: Which urine characteristic is expected in diabetes insipidus?
+A: Low-volume concentrated urine
+B: High-volume dilute urine
+C: High-volume concentrated urine
+D: Low-volume dilute urine
+ANSWER: B
+RATIONALE: Diabetes insipidus causes impaired water reabsorption, resulting in large volumes of dilute urine. Concentrated urine is more characteristic of effective ADH activity and water conservation. The defining feature is the combination of excessive volume and low concentration.
 END
 
 [MCQ]
-QUESTION: Which laboratory finding may be seen when excess water dilutes serum sodium?
-A: Hyponatremia
-B: Hypernatremia
-C: Hypercalcemia
-D: Hypermagnesemia only
-ANSWER: A
-RATIONALE: Excess free water can dilute serum sodium, producing dilutional hyponatremia.
+QUESTION: Which electrolyte abnormality is commonly associated with prolonged vomiting?
+A: Hyperchloridemia
+B: Hypochloremia
+C: Hyperphosphatemia
+D: Hypermagnesemia
+ANSWER: B
+RATIONALE: Prolonged vomiting causes loss of gastric hydrochloric acid, which can decrease serum chloride and contribute to metabolic alkalosis. Hyperchloridemia is not the expected direct result of gastric acid loss. Hyperphosphatemia and hypermagnesemia are not characteristic consequences of prolonged vomiting.
 END
 
 [MCQ]
-QUESTION: A patient with heart failure has a low serum sodium level and significant edema. Which explanation is most appropriate?
-A: Dilution from excess body water may contribute
-B: The patient definitely has sodium depletion only
-C: Edema proves dehydration
-D: Sodium cannot change with fluid balance
-ANSWER: A
-RATIONALE: In heart failure, water retention can exceed sodium retention, producing dilutional hyponatremia.
-END
-
-[MCQ]
-QUESTION: Which electrolyte is commonly lost when aldosterone promotes sodium reabsorption?
-A: Potassium
-B: Sodium
-C: Chloride only
-D: Calcium
-ANSWER: A
-RATIONALE: Aldosterone promotes sodium reabsorption while increasing potassium secretion in the distal nephron.
-END
-
-[MCQ]
-QUESTION: A patient receiving a medication that increases aldosterone activity should be monitored for which electrolyte problem?
-A: Hyperkalemia
-B: Hypokalemia
+QUESTION: Which electrolyte abnormality commonly accompanies prolonged diarrhea because of gastrointestinal bicarbonate loss?
+A: Hypochloremia only
+B: Hyperchloremia
 C: Hypercalcemia
 D: Hypermagnesemia
 ANSWER: B
-RATIONALE: Increased aldosterone activity promotes potassium excretion and can cause hypokalemia.
+RATIONALE: Loss of bicarbonate through the gastrointestinal tract can contribute to metabolic acidosis, with chloride increasing relative to bicarbonate and producing hyperchloremia. The other choices are not the characteristic electrolyte change associated with bicarbonate-losing diarrhea.
 END
 
 [MCQ]
-QUESTION: Which medication class can reduce aldosterone-mediated sodium and water retention in heart failure?
-A: Aldosterone antagonists
-B: Antacids
-C: Antihistamines
-D: Antitussives
+QUESTION: Which electrolyte is commonly lost through prolonged gastrointestinal losses and can contribute to metabolic alkalosis when gastric contents are lost?
+A: Chloride
+B: Phosphate
+C: Magnesium
+D: Calcium
 ANSWER: A
-RATIONALE: Aldosterone antagonists block aldosterone effects and reduce sodium and water retention.
+RATIONALE: Gastric secretions contain hydrochloric acid, so prolonged vomiting can cause significant chloride loss and contribute to metabolic alkalosis. Phosphate, magnesium, and calcium are not the principal electrolyte lost through gastric hydrochloric acid in this process.
 END
 
 [MCQ]
-QUESTION: Which medication is classified as a loop diuretic?
-A: Furosemide
-B: Acetaminophen
-C: Omeprazole
-D: Loratadine
+QUESTION: Which electrolyte abnormality is commonly associated with prolonged nasogastric suction?
+A: Hypochloremia
+B: Hyperphosphatemia
+C: Hypermagnesemia
+D: Hypercalcemia
 ANSWER: A
-RATIONALE: Furosemide is a loop diuretic that promotes sodium and water excretion.
+RATIONALE: Nasogastric suction can remove gastric hydrochloric acid, resulting in chloride loss and potentially causing hypochloremia and metabolic alkalosis. The other abnormalities are not the characteristic electrolyte effects of gastric suction.
 END
 
 [MCQ]
-QUESTION: What is the primary purpose of a diuretic in a patient with fluid volume excess?
-A: Promote removal of excess fluid
-B: Increase sodium retention
-C: Increase ADH secretion
-D: Decrease urine production
-ANSWER: A
-RATIONALE: Diuretics increase renal excretion of sodium and water, helping reduce excess fluid volume.
-END
-
-[MCQ]
-QUESTION: Which finding suggests that a diuretic is having the intended effect?
-A: Decreased edema and weight
-B: Increased JVD
-C: New crackles
-D: Rapid weight gain
-ANSWER: A
-RATIONALE: Decreased edema and weight can indicate successful removal of excess fluid.
-END
-
-[MCQ]
-QUESTION: A patient taking furosemide has a significant increase in urine output. What should the nurse monitor closely?
-A: Electrolytes
-B: Hair growth
-C: Hearing only
-D: Vision only
-ANSWER: A
-RATIONALE: Diuresis can cause electrolyte losses, especially potassium and magnesium with loop diuretics.
-END
-
-[MCQ]
-QUESTION: Which electrolyte imbalance is a concern with loop diuretic therapy?
+QUESTION: Which electrolyte imbalance is associated with muscle weakness, decreased intestinal motility, and cardiac dysrhythmias?
 A: Hypokalemia
-B: Hypernatremia only
-C: Hyperkalemia only
-D: Hypercalcemia only
+B: Hypernatremia
+C: Hypercalcemia
+D: Hyperphosphatemia
 ANSWER: A
-RATIONALE: Loop diuretics can increase potassium excretion and cause hypokalemia.
+RATIONALE: Hypokalemia can impair skeletal and smooth muscle function, causing weakness, decreased gastrointestinal motility, and potentially dangerous cardiac dysrhythmias. Hypernatremia primarily produces neurologic effects related to cellular dehydration. Hypercalcemia commonly causes weakness and gastrointestinal symptoms but has a different electrolyte mechanism. Hyperphosphatemia is primarily associated with phosphate and calcium balance.
 END
 
 [MCQ]
-QUESTION: Which finding suggests excessive diuresis?
-A: Hypotension and dizziness
-B: Increased edema
-C: Increased JVD
-D: Rapid weight gain
+QUESTION: Which food is a particularly good dietary source of potassium?
+A: Banana
+B: White bread
+C: Butter
+D: Refined sugar
 ANSWER: A
-RATIONALE: Excessive fluid removal can decrease circulating volume and cause hypotension and dizziness.
+RATIONALE: Bananas are a well-known dietary source of potassium. White bread and refined sugar contain relatively little potassium. Butter is primarily a source of fat and is not considered a major potassium source.
 END
 
 [MCQ]
-QUESTION: A patient with fluid overload is prescribed a fluid restriction. What is the main purpose?
-A: Prevent additional fluid accumulation
-B: Increase sodium retention
-C: Cause dehydration intentionally
-D: Increase blood glucose
+QUESTION: Which medication class can increase the risk of hypokalemia by increasing renal potassium loss?
+A: Loop diuretics
+B: Potassium-sparing diuretics
+C: ACE inhibitors
+D: Angiotensin receptor blockers
 ANSWER: A
-RATIONALE: Fluid restriction limits additional water intake when the body cannot safely handle excess fluid.
+RATIONALE: Loop diuretics increase renal sodium and water excretion and can increase potassium loss, placing patients at risk for hypokalemia. Potassium-sparing diuretics reduce potassium excretion. ACE inhibitors and angiotensin receptor blockers can instead increase the risk of hyperkalemia.
 END
 
 [MCQ]
-QUESTION: Which nursing action is most appropriate for maintaining an accurate intake and output record?
-A: Measure fluids consistently
-B: Estimate all urine volumes
-C: Record intake only
-D: Record output only once daily
-ANSWER: A
-RATIONALE: Accurate measurement of intake and output helps evaluate fluid balance.
+QUESTION: Which medication class can increase the risk of hyperkalemia by reducing aldosterone-mediated potassium excretion?
+A: Loop diuretics
+B: Potassium-sparing diuretics
+C: Thiazide diuretics
+D: Osmotic diuretics
+ANSWER: B
+RATIONALE: Potassium-sparing diuretics reduce renal potassium excretion and can cause hyperkalemia. Loop and thiazide diuretics generally increase potassium loss. Osmotic diuretics do not have the characteristic potassium-retaining mechanism described.
 END
 
 [MCQ]
-QUESTION: Which item should be included as fluid intake?
-A: Oral water
-B: Solid medication tablets only
-C: Dry crackers
-D: Clothing
-ANSWER: A
-RATIONALE: Oral water contributes directly to fluid intake.
+QUESTION: Which electrolyte imbalance is commonly associated with prolonged use of loop diuretics?
+A: Hyperkalemia
+B: Hypokalemia
+C: Hypermagnesemia
+D: Hypercalcemia
+ANSWER: B
+RATIONALE: Loop diuretics increase renal excretion of sodium, chloride, potassium, and other electrolytes, making hypokalemia a common concern. Hyperkalemia is more associated with potassium-sparing drugs. Hypermagnesemia and hypercalcemia are not characteristic effects of loop diuretics.
 END
 
 [MCQ]
-QUESTION: Which should be included when calculating output?
-A: Urine
-B: Food intake
-C: Oral medications
-D: Solid meals
+QUESTION: Which electrolyte imbalance is associated with increased neuromuscular excitability, including tingling, muscle cramps, and tetany?
+A: Hypocalcemia
+B: Hypercalcemia
+C: Hypernatremia
+D: Hyperchloremia
 ANSWER: A
-RATIONALE: Urine is a major measurable source of fluid output.
+RATIONALE: Hypocalcemia increases neuromuscular excitability and can cause paresthesias, muscle cramps, spasms, and tetany. Hypercalcemia generally decreases neuromuscular excitability. Hypernatremia and hyperchloremia do not characteristically produce this classic pattern of neuromuscular excitability.
 END
 
 [MCQ]
-QUESTION: A patient has an intake of 2,500 mL and an output of 1,000 mL. What is the fluid balance?
-A: +500 mL
-B: +1,000 mL
-C: +1,500 mL
-D: -1,500 mL
+QUESTION: Which electrolyte abnormality is most associated with decreased neuromuscular excitability and hyporeflexia?
+A: Hypomagnesemia
+B: Hypermagnesemia
+C: Hypocalcemia
+D: Hypokalemia
+ANSWER: B
+RATIONALE: Hypermagnesemia depresses neuromuscular activity and can produce diminished deep tendon reflexes, weakness, and lethargy. Hypomagnesemia tends to increase neuromuscular excitability. Hypocalcemia can also increase excitability and cause tetany. Hypokalemia primarily causes weakness and cardiac conduction abnormalities.
+END
+
+[MCQ]
+QUESTION: What is the commonly used normal serum phosphate range for an adult?
+A: 0.5–1.0 mg/dL
+B: 1.0–2.0 mg/dL
+C: 2.5–4.5 mg/dL
+D: 5.5–7.5 mg/dL
 ANSWER: C
-RATIONALE: Fluid balance is intake minus output: 2,500 mL − 1,000 mL = +1,500 mL.
+RATIONALE: The commonly used adult serum phosphate range is approximately 2.5–4.5 mg/dL. Values below this range indicate hypophosphatemia, while values above it indicate hyperphosphatemia. The other ranges fall outside the usual adult reference interval.
 END
 
 [MCQ]
-QUESTION: A patient has an intake of 1,200 mL and output of 1,800 mL. What is the fluid balance?
-A: +600 mL
-B: -600 mL
-C: +1,800 mL
-D: -1,800 mL
+QUESTION: Which electrolyte has an important role in ATP production and cellular energy metabolism?
+A: Phosphate
+B: Chloride
+C: Sodium
+D: Calcium
+ANSWER: A
+RATIONALE: Phosphate is a component of ATP and is essential for cellular energy storage and transfer. Chloride primarily contributes to fluid and acid-base balance. Sodium is important for extracellular fluid balance and membrane function. Calcium has major roles in contraction, signaling, and bone structure but is not the principal component of ATP.
+END
+
+[MCQ]
+QUESTION: Which manifestation is most associated with severe hypophosphatemia?
+A: Muscle weakness
+B: Peaked T waves
+C: Severe hypertension
+D: Increased serum calcium
+ANSWER: A
+RATIONALE: Severe hypophosphatemia can impair ATP production and cellular energy metabolism, resulting in muscle weakness and other neuromuscular complications. Peaked T waves are classically associated with hyperkalemia. Hypertension is not a defining manifestation of hypophosphatemia. Hypophosphatemia does not directly mean that serum calcium is increased.
+END
+
+[MCQ]
+QUESTION: Which condition is most likely to contribute to hyperphosphatemia?
+A: Chronic kidney disease
+B: Prolonged vomiting
+C: Hyperaldosteronism
+D: Excessive sweating
+ANSWER: A
+RATIONALE: The kidneys are important for phosphate excretion, so impaired renal function can cause phosphate retention and hyperphosphatemia. Prolonged vomiting and sweating primarily cause fluid and electrolyte losses. Hyperaldosteronism mainly affects sodium and potassium balance.
+END
+
+[MCQ]
+QUESTION: Which electrolyte commonly has an inverse relationship with calcium in chronic kidney disease?
+A: Phosphate
+B: Sodium
+C: Chloride
+D: Potassium
+ANSWER: A
+RATIONALE: In chronic kidney disease, impaired phosphate excretion can cause phosphate retention, which contributes to reduced serum calcium through several mechanisms. Sodium, chloride, and potassium have important relationships with renal function but do not have the characteristic calcium-phosphate relationship described.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is primarily located inside cells and plays an important role in ATP production and enzyme function?
+A: Magnesium
+B: Sodium
+C: Chloride
+D: Calcium
+ANSWER: A
+RATIONALE: Magnesium is predominantly intracellular and is involved in hundreds of enzymatic reactions, including those related to ATP metabolism. Sodium is primarily extracellular. Chloride is primarily extracellular. Calcium has important intracellular signaling functions but is maintained at a very low free intracellular concentration.
+END
+
+[MCQ]
+QUESTION: Which condition increases the risk for hypermagnesemia?
+A: Severe renal impairment
+B: Prolonged sweating
+C: Chronic diarrhea
+D: Loop diuretic therapy
+ANSWER: A
+RATIONALE: The kidneys are responsible for much of magnesium excretion, so severe renal impairment can cause magnesium retention and hypermagnesemia. Sweating and diarrhea can contribute to magnesium loss. Loop diuretics generally increase renal magnesium excretion rather than causing magnesium retention.
+END
+
+[MCQ]
+QUESTION: Which condition is a common cause of hypomagnesemia?
+A: Chronic alcohol use
+B: Severe renal failure
+C: Excessive magnesium administration
+D: Adrenal insufficiency only
+ANSWER: A
+RATIONALE: Chronic alcohol use is associated with poor intake, gastrointestinal losses, and increased renal magnesium losses and is a common risk factor for hypomagnesemia. Severe renal failure more commonly predisposes to magnesium retention. Excessive magnesium administration can cause hypermagnesemia. Adrenal insufficiency is not the primary classic cause of hypomagnesemia.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance can increase the risk of torsades de pointes and other dysrhythmias?
+A: Hypomagnesemia
+B: Hypernatremia
+C: Hyperchloremia
+D: Mild hyperphosphatemia
+ANSWER: A
+RATIONALE: Hypomagnesemia can contribute to cardiac electrical instability and increase the risk of ventricular dysrhythmias, including torsades de pointes. Hypernatremia primarily causes neurologic manifestations. Hyperchloremia is mainly associated with acid-base disturbances. Mild hyperphosphatemia is not the classic electrolyte abnormality associated with torsades de pointes.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is especially important for normal blood coagulation?
+A: Calcium
+B: Chloride
+C: Sodium
+D: Phosphate
+ANSWER: A
+RATIONALE: Calcium is required for multiple steps in the coagulation cascade and is therefore important for normal blood clotting. Chloride and sodium primarily contribute to fluid and electrolyte balance. Phosphate has important metabolic and structural roles but is not the principal electrolyte required for the coagulation cascade.
+END
+
+[MCQ]
+QUESTION: Which electrolyte is essential for normal nerve impulse transmission and skeletal muscle contraction?
+A: Calcium
+B: Chloride
+C: Phosphate
+D: Bicarbonate
+ANSWER: A
+RATIONALE: Calcium participates in neurotransmitter release and muscle contraction and is therefore essential for normal neuromuscular function. Chloride contributes to electrical neutrality and acid-base balance. Phosphate is important for energy metabolism. Bicarbonate is primarily an acid-base buffer.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is commonly associated with constipation, muscle weakness, and decreased deep tendon reflexes?
+A: Hypercalcemia
+B: Hypocalcemia
+C: Hypomagnesemia
+D: Hyperkalemia
+ANSWER: A
+RATIONALE: Hypercalcemia can reduce neuromuscular excitability and is commonly associated with weakness, decreased reflexes, and gastrointestinal slowing such as constipation. Hypocalcemia and hypomagnesemia generally increase neuromuscular excitability. Hyperkalemia primarily affects cardiac conduction and muscle function but does not produce this classic calcium-related pattern.
+END
+
+[MCQ]
+QUESTION: Which electrolyte imbalance is commonly associated with diarrhea, abdominal cramping, and increased neuromuscular excitability?
+A: Hypercalcemia
+B: Hypocalcemia
+C: Hypernatremia
+D: Hypermagnesemia
 ANSWER: B
-RATIONALE: Fluid balance is 1,200 mL − 1,800 mL = -600 mL.
+RATIONALE: Hypocalcemia increases neuromuscular excitability and can produce muscle cramps, spasms, and paresthesias. Gastrointestinal symptoms can also occur. Hypercalcemia more commonly causes constipation. Hypernatremia primarily causes neurologic manifestations related to cellular dehydration. Hypermagnesemia generally depresses neuromuscular activity.
 END
 
 [MCQ]
-QUESTION: A positive fluid balance over several days may indicate:
-A: Fluid accumulation
-B: Guaranteed dehydration
-C: Guaranteed electrolyte loss
-D: No change in fluid status
+QUESTION: Which electrolyte abnormality is commonly associated with polyuria and excessive thirst when it causes marked cellular dehydration?
+A: Hypernatremia
+B: Hyponatremia
+C: Hypocalcemia
+D: Hypophosphatemia
 ANSWER: A
-RATIONALE: Persistent positive fluid balance can indicate that fluid intake exceeds measurable output and may contribute to retention.
+RATIONALE: Hypernatremia increases extracellular osmolality and causes cellular water loss, stimulating thirst and contributing to neurologic manifestations. Hyponatremia generally causes water movement into cells. Hypocalcemia and hypophosphatemia have different primary effects and do not produce this characteristic osmotic pattern.
 END
 
 [MCQ]
-QUESTION: Which finding should the nurse monitor closely in a patient with worsening fluid retention?
-A: Urine output
-B: Hair color
-C: Pupil color
-D: Height
+QUESTION: Which assessment finding is most consistent with severe hypernatremia?
+A: Confusion and neurologic changes
+B: Positive Trousseau sign
+C: Peaked T waves
+D: Absent deep tendon reflexes
 ANSWER: A
-RATIONALE: Urine output provides important information about kidney function and fluid elimination.
+RATIONALE: Severe hypernatremia causes cellular dehydration, particularly affecting brain cells, and can produce confusion, restlessness, seizures, and altered consciousness. A positive Trousseau sign is associated with hypocalcemia. Peaked T waves are associated with hyperkalemia. Absent reflexes are more associated with severe neuromuscular depression such as hypermagnesemia.
 END
 
 [MCQ]
-QUESTION: A patient with severe fluid overload develops decreasing urine output. What should the nurse recognize?
-A: Possible worsening renal function or reduced renal perfusion
-B: Guaranteed improvement
-C: Normal response to fluid overload
-D: Evidence of dehydration only
+QUESTION: Which physical finding is classically associated with hypocalcemia?
+A: Trousseau sign
+B: Bounding pulse
+C: Jugular venous distention
+D: Peaked T waves
 ANSWER: A
-RATIONALE: Decreasing urine output may indicate impaired renal function or inadequate effective renal perfusion.
+RATIONALE: Trousseau sign reflects increased neuromuscular excitability and can occur with hypocalcemia. Bounding pulse and jugular venous distention are more related to fluid volume or cardiovascular status. Peaked T waves are classically associated with hyperkalemia.
 END
 
 [MCQ]
-QUESTION: Which urine output finding is concerning in an adult?
-A: Persistently low urine output
-B: Normal urine production
-C: Increased output after prescribed diuretic therapy
-D: Clear urine after drinking water
+QUESTION: Which physical finding is classically associated with hypocalcemia when the facial nerve is stimulated?
+A: Chvostek sign
+B: Babinski sign
+C: Kernig sign
+D: Romberg sign
 ANSWER: A
-RATIONALE: Persistently low urine output can indicate impaired renal perfusion, kidney dysfunction, or severe fluid imbalance.
+RATIONALE: Chvostek sign is facial muscle twitching produced by stimulation of the facial nerve and can indicate increased neuromuscular excitability associated with hypocalcemia. Babinski, Kernig, and Romberg signs assess different neurologic functions and are not the classic bedside signs of hypocalcemia.
 END
 
 [MCQ]
-QUESTION: Which finding can indicate worsening systemic venous congestion?
-A: Increasing JVD
-B: Decreasing edema
-C: Weight loss
-D: Increased urine output
+QUESTION: Which electrolyte imbalance is associated with a positive Trousseau sign?
+A: Hypocalcemia
+B: Hypercalcemia
+C: Hypernatremia
+D: Hypermagnesemia
 ANSWER: A
-RATIONALE: Increasing JVD reflects elevated venous pressure and worsening congestion.
+RATIONALE: A positive Trousseau sign reflects increased neuromuscular excitability and is classically associated with hypocalcemia. Hypercalcemia generally decreases neuromuscular excitability. Hypernatremia primarily affects cellular hydration and neurologic status. Hypermagnesemia can depress neuromuscular activity.
 END
 
 [MCQ]
-QUESTION: Which finding indicates that peripheral edema is worsening?
-A: Increasing depth of pitting
-B: Decreased ankle circumference
-C: Weight loss
-D: Improved mobility
+QUESTION: Which electrolyte imbalance is associated with muscle weakness, fatigue, and possible cardiac dysrhythmias due to decreased potassium levels?
+A: Hypokalemia
+B: Hyperkalemia
+C: Hypercalcemia
+D: Hypernatremia
 ANSWER: A
-RATIONALE: Increasing pitting depth can indicate increasing interstitial fluid accumulation.
+RATIONALE: Hypokalemia decreases neuromuscular excitability and can cause muscle weakness, fatigue, decreased gastrointestinal motility, and cardiac dysrhythmias. Hyperkalemia also affects cardiac conduction but represents elevated rather than decreased potassium. Hypercalcemia and hypernatremia have different characteristic manifestations.
 END
 
 [MCQ]
-QUESTION: Why should the nurse assess the patient's skin when edema is present?
-A: Edematous tissue is vulnerable to skin breakdown
-B: Edema always causes infection
-C: Skin assessment determines serum sodium
-D: Edema prevents pressure injuries
-ANSWER: A
-RATIONALE: Excess interstitial fluid can reduce tissue integrity and increase susceptibility to skin breakdown.
-END
-
-[MCQ]
-QUESTION: Which patient is most at risk for pressure injury related to severe edema?
-A: Patient with prolonged edema and limited mobility
-B: Patient with normal mobility
-C: Patient with normal hydration
-D: Patient who walks frequently
-ANSWER: A
-RATIONALE: Edema combined with immobility increases pressure injury risk and can impair tissue integrity.
-END
-
-[MCQ]
-QUESTION: Which intervention may help reduce dependent edema when appropriate?
-A: Elevating the affected extremity
-B: Keeping the extremity dependent continuously
-C: Increasing sodium intake
-D: Restricting all movement
-ANSWER: A
-RATIONALE: Elevation can promote venous return and reduce dependent interstitial fluid accumulation when clinically appropriate.
-END
-
-[MCQ]
-QUESTION: Why may sodium restriction be prescribed for a patient with fluid retention?
-A: Sodium promotes water retention
-B: Sodium destroys albumin
-C: Sodium prevents urine formation permanently
-D: Sodium directly causes hypoglycemia
-ANSWER: A
-RATIONALE: Sodium retention promotes water retention, so limiting sodium can help reduce fluid accumulation.
-END
-
-[MCQ]
-QUESTION: Which food choice is generally more appropriate for a patient prescribed a low-sodium diet?
-A: Fresh fruit
-B: Canned soup
-C: Processed meats
-D: Instant noodles
-ANSWER: A
-RATIONALE: Fresh fruits are naturally low in sodium compared with many processed and packaged foods.
-END
-
-[MCQ]
-QUESTION: Which food is likely to contain a high amount of sodium?
-A: Instant noodles
-B: Fresh apple
-C: Fresh cucumber
-D: Unsalted rice
-ANSWER: A
-RATIONALE: Processed foods such as instant noodles commonly contain significant amounts of sodium.
-END
-
-[MCQ]
-QUESTION: A patient with fluid retention asks why sodium intake matters. What is the best response?
-A: "Sodium can cause the body to retain water."
-B: "Sodium immediately destroys your kidneys."
-C: "Sodium prevents all urine production."
-D: "Sodium only affects your bones."
-ANSWER: A
-RATIONALE: Sodium retention promotes water retention and can worsen extracellular fluid volume excess.
-END
-
-[MCQ]
-QUESTION: Which assessment should the nurse prioritize when fluid overload is suspected?
-A: Respiratory status
-B: Hair condition
-C: Appetite alone
-D: Nail shape
-ANSWER: A
-RATIONALE: Fluid overload can progress to pulmonary edema, making respiratory assessment a priority.
-END
-
-[MCQ]
-QUESTION: A patient with fluid overload has an oxygen saturation of 88% and severe dyspnea. What is the priority?
-A: Assess and support oxygenation
-B: Offer a large glass of water
-C: Encourage ambulation
-D: Delay assessment until the next vital signs
-ANSWER: A
-RATIONALE: Hypoxemia and severe dyspnea indicate impaired oxygenation and require immediate attention.
-END
-
-[MCQ]
-QUESTION: Which finding suggests that fluid overload is affecting the lungs?
-A: Orthopnea
-B: Dry mouth
-C: Increased thirst
-D: Poor skin turgor
-ANSWER: A
-RATIONALE: Orthopnea, or difficulty breathing when lying flat, can occur with pulmonary congestion.
-END
-
-[MCQ]
-QUESTION: A patient reports needing three pillows to sleep because lying flat causes shortness of breath. What does this suggest?
-A: Orthopnea related to possible pulmonary congestion
-B: Dehydration
-C: Improved cardiac function
-D: Hypoglycemia
-ANSWER: A
-RATIONALE: Orthopnea is commonly associated with pulmonary congestion, particularly in heart failure.
-END
-
-[MCQ]
-QUESTION: Which finding may occur when fluid backs up into the lungs due to left-sided heart failure?
-A: Crackles
-B: Severe dry skin
-C: Flat neck veins
-D: Increased urine output
-ANSWER: A
-RATIONALE: Left-sided heart failure can cause pulmonary congestion and crackles.
-END
-
-[MCQ]
-QUESTION: Which finding is more characteristic of right-sided heart failure?
-A: Peripheral edema
-B: Pulmonary crackles only
-C: Hemoptysis only
-D: Dry mucous membranes
-ANSWER: A
-RATIONALE: Right-sided heart failure causes systemic venous congestion, commonly resulting in peripheral edema.
-END
-
-[MCQ]
-QUESTION: Which finding can indicate worsening heart failure-related fluid retention?
-A: Rapid weight gain
-B: Improved exercise tolerance
-C: Decreased edema
-D: Increased urine output
-ANSWER: A
-RATIONALE: Rapid weight gain can reflect worsening fluid retention in heart failure.
-END
-
-[MCQ]
-QUESTION: A patient with heart failure gains 2 kg in three days. What should the nurse do?
-A: Recognize possible fluid accumulation and assess further
-B: Tell the patient this is expected
-C: Encourage unlimited fluids
-D: Ignore the change
-ANSWER: A
-RATIONALE: Rapid weight gain in heart failure may indicate fluid retention and worsening congestion.
-END
-
-[MCQ]
-QUESTION: Which mechanism explains why reduced cardiac output can eventually worsen fluid retention?
-A: Reduced renal perfusion activates RAAS
-B: Reduced cardiac output always increases urine output
-C: The kidneys stop responding to sodium
-D: ADH is completely suppressed
-ANSWER: A
-RATIONALE: Reduced effective renal perfusion can activate RAAS, increasing sodium and water retention.
-END
-
-[MCQ]
-QUESTION: Which statement best describes the relationship between RAAS and fluid retention?
-A: RAAS helps conserve sodium and water
-B: RAAS always causes fluid loss
-C: RAAS prevents vasoconstriction
-D: RAAS blocks aldosterone
-ANSWER: A
-RATIONALE: RAAS promotes vasoconstriction and sodium and water retention to restore effective circulating volume.
-END
-
-[MCQ]
-QUESTION: Which statement best describes ADH?
-A: ADH promotes water reabsorption
-B: ADH causes sodium to be completely excreted
-C: ADH prevents water movement into the bloodstream
-D: ADH always causes dehydration
-ANSWER: A
-RATIONALE: ADH increases water reabsorption in the renal collecting ducts.
-END
-
-[MCQ]
-QUESTION: A patient has excessive ADH secretion. Which complication can result from excessive water retention?
-A: Dilutional hyponatremia
-B: Severe hypernatremia
-C: Immediate hyperkalemia
-D: Severe calcium loss
-ANSWER: A
-RATIONALE: Excessive water retention can dilute serum sodium and produce hyponatremia.
-END
-
-[MCQ]
-QUESTION: Which finding would be expected with significant fluid volume excess?
-A: Increased body weight
-B: Decreased blood volume
-C: Dry mucous membranes
-D: Concentrated urine from dehydration only
-ANSWER: A
-RATIONALE: Excess retained fluid increases total body weight.
-END
-
-[MCQ]
-QUESTION: Which patient statement suggests worsening fluid retention?
-A: "My shoes feel tighter than usual."
-B: "I am urinating normally."
-C: "My breathing is easier."
-D: "My weight is decreasing."
-ANSWER: A
-RATIONALE: Tight shoes can indicate increasing dependent edema.
-END
-
-[MCQ]
-QUESTION: Which finding should the nurse associate with fluid accumulation in the abdomen?
-A: Ascites
-B: Hematuria
-C: Dysuria
-D: Polyuria
-ANSWER: A
-RATIONALE: Ascites is accumulation of fluid within the peritoneal cavity.
-END
-
-[MCQ]
-QUESTION: A patient with liver disease has abdominal distention caused by fluid accumulation. What is this called?
-A: Ascites
-B: Hemothorax
-C: Pneumothorax
-D: Atelectasis
-ANSWER: A
-RATIONALE: Ascites refers to abnormal accumulation of fluid in the abdominal cavity.
-END
-
-[MCQ]
-QUESTION: Which condition can contribute to ascites?
-A: Liver cirrhosis
-B: Simple dehydration
-C: Mild fever
-D: Hyperventilation
-ANSWER: A
-RATIONALE: Cirrhosis can contribute to portal hypertension, hypoalbuminemia, and sodium and water retention, promoting ascites.
-END
-
-[MCQ]
-QUESTION: Which finding in a patient with severe fluid retention requires the most immediate attention?
-A: Mild pedal edema
-B: Sudden severe respiratory distress
-C: Slight weight gain
-D: Mild abdominal swelling
+QUESTION: Which electrolyte imbalance is most likely to cause muscle weakness and potentially life-threatening cardiac conduction abnormalities because serum potassium is elevated?
+A: Hypokalemia
+B: Hyperkalemia
+C: Hypocalcemia
+D: Hypomagnesemia
 ANSWER: B
-RATIONALE: Sudden severe respiratory distress may indicate acute pulmonary edema and threatens oxygenation.
+RATIONALE: Hyperkalemia can impair cardiac conduction and cause potentially life-threatening dysrhythmias while also producing muscle weakness. Hypokalemia involves low potassium and has a different ECG pattern. Hypocalcemia and hypomagnesemia can also affect cardiac function but do not represent elevated potassium.
 END
 
 [MCQ]
-QUESTION: A patient with fluid overload suddenly develops pink, frothy sputum. What should the nurse suspect?
-A: Acute pulmonary edema
-B: Mild dehydration
-C: Simple nasal congestion
-D: Hypoglycemia
+QUESTION: Which electrolyte is most directly affected by the renin-angiotensin-aldosterone system through aldosterone-mediated renal secretion?
+A: Potassium
+B: Calcium
+C: Phosphate
+D: Magnesium
 ANSWER: A
-RATIONALE: Pink, frothy sputum can occur when fluid enters the alveolar spaces during acute pulmonary edema.
+RATIONALE: Aldosterone increases sodium reabsorption and potassium secretion in the distal nephron, making potassium closely linked to RAAS activity. Calcium and phosphate are more strongly regulated by parathyroid hormone and vitamin D pathways. Magnesium is regulated through renal handling and other mechanisms rather than being the principal aldosterone-regulated electrolyte.
 END
 
 [MCQ]
-QUESTION: Which finding is most concerning for acute pulmonary edema?
-A: Pink frothy sputum
-B: Mild ankle edema
-C: Slight weight gain
-D: Dry lips
-ANSWER: A
-RATIONALE: Pink frothy sputum is a classic warning sign of severe pulmonary fluid accumulation.
-END
-
-[MCQ]
-QUESTION: A patient with pulmonary edema is extremely anxious and gasping for air. What is the priority?
-A: Support airway and breathing and seek immediate assistance
-B: Encourage oral fluids
-C: Place the patient flat
-D: Delay intervention until laboratory results return
-ANSWER: A
-RATIONALE: Acute pulmonary edema is an emergency because impaired gas exchange can rapidly become life-threatening.
-END
-
-[MCQ]
-QUESTION: Which finding would suggest that fluid management is improving a patient's condition?
-A: Decreased edema and improved breathing
-B: Increasing crackles
-C: Increasing JVD
-D: Rapid weight gain
-ANSWER: A
-RATIONALE: Reduced edema and improved respiratory status indicate decreasing fluid congestion.
-END
-
-[MCQ]
-QUESTION: Which trend would suggest successful treatment of fluid volume excess?
-A: Gradual weight decrease with improved respiratory status
-B: Rapid weight gain
-C: Increasing edema
-D: Worsening JVD
-ANSWER: A
-RATIONALE: A gradual decrease in weight accompanied by improved symptoms suggests removal of excess fluid.
-END
-
-[MCQ]
-QUESTION: A patient's weight decreases by 2 kg after diuretic therapy. What is the most likely explanation?
-A: Approximately 2 L of fluid may have been lost
-B: The patient lost 2 kg of bone
-C: The patient gained 2 kg of muscle
-D: The patient lost 2 kg of fat overnight
-ANSWER: A
-RATIONALE: Rapid weight loss during diuresis generally reflects fluid loss; approximately 1 kg corresponds to 1 L.
-END
-
-[MCQ]
-QUESTION: Which finding suggests that diuresis may be excessive?
-A: New dizziness and hypotension
-B: Decreased edema with stable blood pressure
-C: Improved breathing
-D: Gradual weight reduction
-ANSWER: A
-RATIONALE: Excessive fluid removal can reduce circulating volume and cause hypotension and dizziness.
-END
-
-[MCQ]
-QUESTION: Which patient should the nurse assess first?
-A: Patient with mild ankle edema
-B: Patient with a 0.5-kg weight gain
-C: Patient with new severe dyspnea and crackles
-D: Patient asking about a low-sodium diet
-ANSWER: C
-RATIONALE: Severe dyspnea and crackles may indicate pulmonary edema and impaired oxygenation, making this patient the priority.
-END
-
-[MCQ]
-QUESTION: Which patient should be seen first?
-A: Patient with chronic 1+ pedal edema
-B: Patient with new confusion and severe hyponatremia symptoms
-C: Patient requesting dietary teaching
-D: Patient with stable weight
+QUESTION: Which hormone is released by the posterior pituitary and increases water reabsorption in the kidneys?
+A: Aldosterone
+B: Antidiuretic hormone
+C: Parathyroid hormone
+D: Atrial natriuretic peptide
 ANSWER: B
-RATIONALE: Severe symptomatic hyponatremia can cause neurologic complications and requires prompt assessment.
+RATIONALE: Antidiuretic hormone is released from the posterior pituitary and increases renal water reabsorption. Aldosterone is produced by the adrenal cortex. Parathyroid hormone is produced by the parathyroid glands. Atrial natriuretic peptide is produced primarily by the atria of the heart.
 END
 
 [MCQ]
-QUESTION: Which finding in a patient with fluid retention requires immediate follow-up?
-A: New confusion and seizure activity
-B: Mild ankle swelling
-C: 1-kg weight gain over several days
-D: Slightly tight shoes
+QUESTION: Which hormone is produced by the adrenal cortex and promotes sodium retention?
+A: Aldosterone
+B: Antidiuretic hormone
+C: Atrial natriuretic peptide
+D: Parathyroid hormone
 ANSWER: A
-RATIONALE: Severe neurologic changes may occur with significant electrolyte disturbances such as acute hyponatremia.
+RATIONALE: Aldosterone is produced by the adrenal cortex and promotes sodium reabsorption while increasing potassium secretion in the kidneys. ADH is produced in the hypothalamus and released by the posterior pituitary. ANP is produced by cardiac atrial cells. PTH is produced by the parathyroid glands.
 END
 
 [MCQ]
-QUESTION: A patient with fluid overload has increasing edema but decreasing blood pressure and urine output. What should the nurse suspect?
-A: Possible decreased effective circulating volume or worsening cardiac/renal function
-B: Definite improvement
-C: Normal hydration
-D: Simple increased appetite
+QUESTION: Which hormone generally opposes the effects of aldosterone by promoting sodium excretion?
+A: Atrial natriuretic peptide
+B: Antidiuretic hormone
+C: Parathyroid hormone
+D: Cortisol
 ANSWER: A
-RATIONALE: Edema can coexist with reduced effective circulation when cardiac or renal function deteriorates.
+RATIONALE: Atrial natriuretic peptide promotes natriuresis, or sodium excretion, and therefore generally opposes sodium-retaining effects of aldosterone. ADH promotes water retention. PTH regulates calcium and phosphate. Cortisol has multiple metabolic effects but is not the principal hormone responsible for natriuresis.
 END
 
 [MCQ]
-QUESTION: Which statement best explains why edema does not always mean adequate circulating volume?
-A: Fluid can move from the vascular space into tissues
-B: Edema always increases cardiac output
-C: Edema means all body fluid is intravascular
-D: Edema prevents third spacing
+QUESTION: Which mechanism causes water to follow sodium when sodium is retained in the extracellular space?
+A: Osmotic movement of water
+B: Active transport of water
+C: Diffusion of sodium into the nucleus
+D: Filtration caused only by intracellular pressure
 ANSWER: A
-RATIONALE: Fluid can shift into interstitial or third spaces, producing edema while effective circulating volume remains inadequate.
+RATIONALE: Water follows retained sodium because sodium contributes strongly to extracellular osmolality, causing water to move osmotically toward the compartment with greater effective solute concentration. Water itself is not actively transported by the sodium-potassium pump. Sodium does not diffuse into the nucleus as the mechanism described. Filtration depends on pressure differences rather than the osmotic relationship described.
 END
 
 [MCQ]
-QUESTION: A patient has generalized edema and low serum albumin. Which mechanism is most likely?
-A: Decreased plasma oncotic pressure
-B: Increased plasma oncotic pressure
-C: Increased intracellular sodium only
-D: Complete absence of capillary filtration
-ANSWER: A
-RATIONALE: Low albumin decreases plasma oncotic pressure, allowing more fluid to leave the vascular space.
+QUESTION: Which electrolyte is the primary positively charged ion inside cells and is therefore essential for maintaining the intracellular electrical environment?
+A: Sodium
+B: Potassium
+C: Chloride
+D: Calcium
+ANSWER: B
+RATIONALE: Potassium is the major intracellular cation and is essential for maintaining the resting membrane potential and normal cellular electrical activity. Sodium is the major extracellular cation. Chloride is primarily an extracellular anion. Calcium is maintained at a very low free concentration inside cells despite its important signaling role.
 END
 
 [MCQ]
-QUESTION: Which Starling force normally helps pull water back into the vascular space?
-A: Plasma oncotic pressure
-B: Capillary hydrostatic pressure
-C: Atmospheric pressure
-D: Intracellular pressure only
+QUESTION: Which electrolyte is the primary negatively charged ion in extracellular fluid?
+A: Chloride
+B: Phosphate
+C: Potassium
+D: Sodium
 ANSWER: A
-RATIONALE: Plasma proteins, especially albumin, generate oncotic pressure that helps retain fluid within the vascular compartment.
-END
-
-[MCQ]
-QUESTION: What happens when capillary hydrostatic pressure becomes too high?
-A: More fluid is pushed into the interstitial space
-B: More fluid remains inside capillaries
-C: Sodium disappears from plasma
-D: Albumin production immediately increases
-ANSWER: A
-RATIONALE: Increased hydrostatic pressure promotes filtration of fluid out of capillaries into the interstitial space.
-END
-
-[MCQ]
-QUESTION: Which mechanism can worsen edema in a patient with venous congestion?
-A: Increased hydrostatic pressure
-B: Increased plasma oncotic pressure
-C: Decreased capillary filtration
-D: Increased lymphatic drainage
-ANSWER: A
-RATIONALE: Venous congestion raises hydrostatic pressure and promotes movement of fluid into tissues.
-END
-
-[MCQ]
-QUESTION: Which body system is primarily responsible for regulating sodium and water excretion?
-A: Renal system
-B: Integumentary system
-C: Skeletal system
-D: Reproductive system
-ANSWER: A
-RATIONALE: The kidneys play the central role in regulating sodium and water balance through filtration, reabsorption, and excretion.
-END
-
-[MCQ]
-QUESTION: Why is kidney function important in preventing fluid overload?
-A: The kidneys excrete excess water and electrolytes
-B: The kidneys produce all plasma proteins
-C: The kidneys prevent all edema
-D: The kidneys stop RAAS permanently
-ANSWER: A
-RATIONALE: Functional kidneys can adjust sodium and water excretion to maintain fluid balance.
-END
-
-[MCQ]
-QUESTION: A patient with acute kidney injury develops edema and decreasing urine output. What is the likely concern?
-A: Fluid volume excess
-B: Improved renal clearance
-C: Dehydration only
-D: Increased sodium excretion
-ANSWER: A
-RATIONALE: Acute kidney injury can reduce fluid excretion, leading to fluid accumulation and edema.
-END
-
-[MCQ]
-QUESTION: Which assessment is most useful for detecting dependent fluid retention?
-A: Inspecting and palpating the lower extremities for edema
-B: Measuring pupil size
-C: Testing hearing
-D: Measuring height
-ANSWER: A
-RATIONALE: Dependent edema commonly appears in the lower extremities, especially when the patient is upright.
-END
-
-[MCQ]
-QUESTION: Why is edema often more noticeable in the ankles of a patient who stands for long periods?
-A: Gravity increases fluid accumulation in dependent tissues
-B: The kidneys stop working while standing
-C: Sodium disappears from the blood
-D: Albumin immediately increases
-ANSWER: A
-RATIONALE: Gravity promotes movement and accumulation of interstitial fluid in dependent areas.
-END
-
-[MCQ]
-QUESTION: Which intervention may help prevent worsening dependent edema when appropriate?
-A: Frequent repositioning and appropriate limb elevation
-B: Keeping the legs dependent all day
-C: Increasing sodium intake
-D: Restricting all movement
-ANSWER: A
-RATIONALE: Repositioning and elevation can promote circulation and reduce dependent fluid accumulation.
-END
-
-[MCQ]
-QUESTION: Which finding suggests that fluid retention is improving?
-A: Decreasing daily weight
-B: Increasing JVD
-C: Increasing edema
-D: Increasing crackles
-ANSWER: A
-RATIONALE: A gradual decrease in weight can indicate loss of excess retained fluid.
-END
-
-[MCQ]
-QUESTION: A patient with fluid overload asks why the nurse keeps checking lung sounds. What is the best explanation?
-A: "Extra fluid can accumulate in your lungs and affect your breathing."
-B: "Lung sounds determine your sodium level."
-C: "Lung sounds measure your kidney function."
-D: "Lung sounds tell us your blood glucose."
-ANSWER: A
-RATIONALE: Fluid overload can cause pulmonary congestion and edema, making respiratory assessment important.
-END
-
-[MCQ]
-QUESTION: Which finding suggests fluid is accumulating in the vascular system?
-A: Jugular venous distention
-B: Dry mucous membranes
-C: Poor skin turgor
-D: Sunken eyes
-ANSWER: A
-RATIONALE: JVD reflects elevated venous pressure and can indicate increased circulating volume or venous congestion.
-END
-
-[MCQ]
-QUESTION: Which combination most strongly indicates fluid volume excess?
-A: Weight gain, edema, crackles
-B: Weight loss, dry mouth, tachycardia
-C: Orthostatic hypotension, thirst, concentrated urine
-D: Poor skin turgor, weak pulse, decreased weight
-ANSWER: A
-RATIONALE: Weight gain, edema, and crackles are classic findings associated with excess fluid.
-END
-
-[MCQ]
-QUESTION: Which combination most strongly indicates pulmonary congestion?
-A: Crackles, orthopnea, dyspnea
-B: Dry mouth, thirst, poor skin turgor
-C: Flat neck veins, weight loss, tachycardia
-D: Sunken eyes, oliguria, dry skin
-ANSWER: A
-RATIONALE: Crackles, orthopnea, and dyspnea commonly occur when fluid accumulates in the lungs.
-END
-
-[MCQ]
-QUESTION: A patient with fluid retention asks why the nurse weighs them every morning. What is the best response?
-A: "Rapid weight changes can show changes in your fluid level."
-B: "Weight tells us your potassium level."
-C: "Weight determines your blood type."
-D: "Weight prevents edema."
-ANSWER: A
-RATIONALE: Rapid changes in body weight are useful indicators of fluid gain or loss.
-END
-
-[MCQ]
-QUESTION: Which patient has the greatest risk of developing fluid volume excess?
-A: Patient with heart failure and renal impairment
-B: Patient with mild nausea
-C: Patient with a minor skin abrasion
-D: Patient with normal cardiac and renal function
-ANSWER: A
-RATIONALE: Both heart failure and renal impairment promote fluid retention and reduce the body's ability to tolerate excess volume.
-END
-
-[MCQ]
-QUESTION: Which finding would indicate worsening fluid retention in a patient with renal disease?
-A: Increasing edema and decreasing urine output
-B: Decreasing edema and increased urine output
-C: Stable weight and normal breathing
-D: Improved appetite
-ANSWER: A
-RATIONALE: Increasing edema with decreasing urine output suggests worsening fluid accumulation and impaired renal excretion.
-END
-
-[MCQ]
-QUESTION: Which nursing diagnosis is most appropriate for a patient with edema, crackles, rapid weight gain, and JVD?
-A: Excess Fluid Volume
-B: Deficient Fluid Volume
-C: Impaired Oral Intake only
-D: Risk for Constipation
-ANSWER: A
-RATIONALE: The cluster of findings strongly supports excess fluid volume.
-END
-
-[MCQ]
-QUESTION: Which outcome best indicates improvement in excess fluid volume?
-A: Patient maintains stable weight with reduced edema and clear lung sounds
-B: Patient gains 2 kg overnight
-C: Patient develops increasing crackles
-D: Patient develops worsening JVD
-ANSWER: A
-RATIONALE: Stable weight, reduced edema, and improved lung sounds indicate better fluid balance.
-END
-
-[MCQ]
-QUESTION: Which finding should make the nurse question whether fluid overload treatment is becoming excessive?
-A: Rapid weight loss with hypotension
-B: Decreased edema
-C: Improved oxygen saturation
-D: Reduced JVD
-ANSWER: A
-RATIONALE: Rapid fluid removal can cause intravascular volume depletion, resulting in hypotension.
-END
-
-[MCQ]
-QUESTION: A patient has severe edema but low blood pressure. Which concept should the nurse remember?
-A: Edema does not guarantee adequate intravascular volume
-B: Edema always means hypervolemia inside blood vessels
-C: Edema always means the patient needs more IV fluid
-D: Edema means renal function is normal
-ANSWER: A
-RATIONALE: Fluid can shift into interstitial or third spaces, producing edema while effective circulating volume remains low.
-END
-
-[MCQ]
-QUESTION: Which hormone would the body release to conserve water when plasma osmolality increases?
-A: ADH
-B: ANP
-C: Insulin
-D: Calcitonin
-ANSWER: A
-RATIONALE: Increased plasma osmolality stimulates ADH release, increasing renal water reabsorption.
-END
-
-[MCQ]
-QUESTION: Which hormone promotes sodium and water excretion when cardiac chambers are stretched by increased volume?
-A: ANP
-B: Aldosterone
-C: ADH
-D: Renin
-ANSWER: A
-RATIONALE: ANP is released with atrial stretch and promotes sodium and water excretion.
-END
-
-[MCQ]
-QUESTION: Which mechanism would decrease fluid retention?
-A: Increased sodium excretion
-B: Increased aldosterone secretion
-C: Increased ADH secretion
-D: Increased renin secretion
-ANSWER: A
-RATIONALE: Excreting sodium reduces extracellular fluid volume because water follows sodium.
-END
-
-[MCQ]
-QUESTION: Which mechanism would increase fluid retention?
-A: Increased aldosterone
-B: Increased sodium excretion
-C: Increased ANP
-D: Increased diuresis
-ANSWER: A
-RATIONALE: Aldosterone increases sodium reabsorption, and water follows sodium.
-END
-
-[MCQ]
-QUESTION: Which mechanism would increase free-water retention?
-A: Increased ADH
-B: Increased ANP
-C: Increased urine production
-D: Decreased collecting-duct water permeability
-ANSWER: A
-RATIONALE: ADH increases collecting-duct permeability to water, promoting water reabsorption.
-END
-
-[MCQ]
-QUESTION: Which finding would indicate that the patient's kidneys are successfully eliminating excess fluid?
-A: Increased urine output with decreasing edema
-B: Decreasing urine output with increasing edema
-C: Increasing JVD
-D: Rapid weight gain
-ANSWER: A
-RATIONALE: Increased urine output accompanied by decreasing edema suggests effective removal of excess fluid.
-END
-
-[MCQ]
-QUESTION: Which trend is most concerning in a patient being treated for fluid overload?
-A: Weight increasing while urine output decreases
-B: Weight decreasing while edema improves
-C: Respiratory status improving
-D: JVD decreasing
-ANSWER: A
-RATIONALE: Increasing weight with decreasing urine output suggests worsening fluid retention and impaired fluid elimination.
-END
-
-[MCQ]
-QUESTION: A patient with heart failure is prescribed a low-sodium diet, daily weights, and fluid restriction. What is the overall goal?
-A: Prevent and monitor fluid accumulation
-B: Increase sodium retention
-C: Cause dehydration
-D: Increase cardiac workload
-ANSWER: A
-RATIONALE: These interventions reduce sodium and water accumulation and help detect worsening fluid status early.
-END
-
-[MCQ]
-QUESTION: Which patient statement indicates correct understanding of daily weight monitoring?
-A: "I should weigh myself around the same time each day using the same scale."
-B: "I only need to weigh myself when my ankles swell."
-C: "I should weigh myself once a month."
-D: "The time of day does not matter."
-ANSWER: A
-RATIONALE: Consistent conditions make daily weights more reliable for detecting fluid changes.
-END
-
-[MCQ]
-QUESTION: A patient with heart failure says, "I gained 2 kg since yesterday, but I feel fine." What should the nurse do?
-A: Take the weight change seriously and assess for fluid retention
-B: Tell the patient it is definitely fat
-C: Encourage unrestricted fluids
-D: Ignore the finding because there are no symptoms
-ANSWER: A
-RATIONALE: Rapid weight gain can precede obvious symptoms of worsening fluid retention.
-END
-
-[MCQ]
-QUESTION: Which assessment finding would be least consistent with fluid volume excess?
-A: Dry mucous membranes
-B: JVD
-C: Peripheral edema
-D: Crackles
-ANSWER: A
-RATIONALE: Dry mucous membranes are more consistent with fluid volume deficit than fluid volume excess.
-END
-
-[MCQ]
-QUESTION: Which finding would most strongly indicate that fluid overload is affecting cardiac workload?
-A: Increased blood pressure and JVD
-B: Dry mucous membranes
-C: Weight loss
-D: Orthostatic hypotension
-ANSWER: A
-RATIONALE: Increased circulating volume and venous congestion can increase cardiac workload and produce JVD and elevated blood pressure.
-END
-
-[MCQ]
-QUESTION: Which statement about fluid retention is correct?
-A: Sodium retention promotes water retention
-B: Sodium retention always causes dehydration
-C: ADH causes sodium to be excreted directly
-D: Aldosterone causes potassium retention
-ANSWER: A
-RATIONALE: Sodium is osmotically active, so retaining sodium promotes retention of water.
-END
-
-[MCQ]
-QUESTION: Which finding is most consistent with successful treatment of pulmonary fluid overload?
-A: Reduced dyspnea and fewer crackles
-B: Increased respiratory distress
-C: New pink frothy sputum
-D: Increasing oxygen requirement
-ANSWER: A
-RATIONALE: Improved breathing and reduced crackles indicate decreasing pulmonary congestion.
-END
-
-[MCQ]
-QUESTION: A patient with fluid overload has worsening crackles, increasing oxygen requirements, and severe dyspnea. What does this suggest?
-A: Worsening pulmonary congestion
-B: Improved fluid balance
-C: Dehydration
-D: Normal treatment response
-ANSWER: A
-RATIONALE: Increasing respiratory symptoms and oxygen requirements suggest worsening pulmonary fluid accumulation.
-END
-
-[MCQ]
-QUESTION: Which finding should the nurse report promptly in a patient with fluid retention?
-A: New onset of shortness of breath
-B: Stable 1+ edema
-C: Stable weight
-D: Improved appetite
-ANSWER: A
-RATIONALE: New shortness of breath may indicate worsening pulmonary congestion or edema.
-END
-
-[MCQ]
-QUESTION: Which intervention directly helps remove excess sodium and water from the body?
-A: Diuretic therapy
-B: Increasing sodium intake
-C: Increasing fluid intake
-D: Increasing ADH secretion
-ANSWER: A
-RATIONALE: Diuretics promote renal excretion of sodium and water.
-END
-
-[MCQ]
-QUESTION: Which finding suggests that fluid retention is becoming systemic rather than limited to one extremity?
-A: Bilateral peripheral edema
-B: One small bruise
-C: Localized redness
-D: One superficial abrasion
-ANSWER: A
-RATIONALE: Bilateral edema suggests a systemic process such as fluid volume excess or venous congestion.
-END
-
-[MCQ]
-QUESTION: Which finding would be expected when fluid retention becomes severe?
-A: Pulmonary edema
-B: Improved oxygenation
-C: Decreased body weight
-D: Increased urine concentration from dehydration only
-ANSWER: A
-RATIONALE: Severe fluid volume excess can overwhelm the cardiovascular system and cause pulmonary edema.
-END
-
-[MCQ]
-QUESTION: A patient with fluid volume excess has a new third heart sound, S3. What may this indicate?
-A: Volume overload and increased ventricular filling
-B: Severe dehydration
-C: Decreased circulating volume
-D: Normal finding in all adults
-ANSWER: A
-RATIONALE: An S3 can be associated with increased ventricular filling and volume overload, particularly in heart failure.
-END
-
-[MCQ]
-QUESTION: Which combination suggests worsening heart failure with fluid retention?
-A: S3, crackles, JVD, and rapid weight gain
-B: Dry mouth, weight loss, and poor skin turgor
-C: Increased urine output and decreased edema
-D: Stable weight and clear lungs
-ANSWER: A
-RATIONALE: S3, pulmonary crackles, JVD, and rapid weight gain together strongly suggest worsening volume overload.
-END
-
-[MCQ]
-QUESTION: What is the best overall indicator that a patient with fluid volume excess is responding to treatment?
-A: Improved clinical findings with appropriate weight reduction
-B: Increasing edema
-C: Increasing crackles
-D: Decreasing urine output
-ANSWER: A
-RATIONALE: Improvement is reflected by reduced congestion, improved respiratory status, and appropriate reduction in excess fluid.
+RATIONALE: Chloride is the major extracellular anion and helps maintain electrical neutrality, fluid balance, and acid-base balance. Phosphate is an important intracellular anion and buffering substance. Potassium and sodium are cations rather than anions.
 END
