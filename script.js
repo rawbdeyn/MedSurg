@@ -700,6 +700,16 @@ document.getElementById("submitButton")
 
 
             // ====================================
+            // GET ALL ANSWER OPTIONS
+            // ====================================
+
+            const answerOptions =
+                document.querySelectorAll(
+                    ".answer-option"
+                );
+
+
+            // ====================================
             // RECORD ANSWER
             // ====================================
 
@@ -713,6 +723,11 @@ document.getElementById("submitButton")
             if (q.is_correct) {
 
                 score++;
+
+
+                // Selected answer = GREEN
+                answerOptions[userAnswer]
+                    .classList.add("correct-answer");
 
 
                 document.getElementById("result")
@@ -734,6 +749,83 @@ document.getElementById("submitButton")
 
             }
 
+
+            // ====================================
+            // INCORRECT
+            // ====================================
+
+            else {
+
+                // Selected answer = RED
+                answerOptions[userAnswer]
+                    .classList.add("wrong-answer");
+
+
+                // Correct answer = GREEN
+                answerOptions[q.correct_answer]
+                    .classList.add("correct-answer");
+
+
+                document.getElementById("result")
+                    .innerHTML = `
+
+                        <div class="wrong">
+
+                            <strong>
+                                Incorrect.
+                            </strong>
+
+                            <p>
+                                Correct answer:
+                                ${
+                                    String.fromCharCode(
+                                        65 +
+                                        q.correct_answer
+                                    )
+                                }
+                            </p>
+
+                            <p>
+                                ${q.rationale}
+                            </p>
+
+                        </div>
+
+                    `;
+
+            }
+
+
+            // ====================================
+            // DISABLE ANSWERS
+            // ====================================
+
+            document.querySelectorAll(
+                'input[name="answer"]'
+            ).forEach(input => {
+
+                input.disabled = true;
+
+            });
+
+
+            // ====================================
+            // HIDE SUBMIT
+            // ====================================
+
+            document.getElementById("submitButton")
+                .style.display = "none";
+
+
+            // ====================================
+            // SHOW NEXT
+            // ====================================
+
+            document.getElementById("nextButton")
+                .style.display = "block";
+
+        }
+    );
 
             // ====================================
             // INCORRECT
