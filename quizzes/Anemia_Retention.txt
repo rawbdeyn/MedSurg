@@ -1,0 +1,989 @@
+[MCQ]
+QUESTION: What is the primary function of red blood cells?
+A: Initiate platelet aggregation
+B: Transport oxygen to body tissues
+C: Produce antibodies
+D: Release histamine
+ANSWER: B
+RATIONALE: Red blood cells contain hemoglobin and primarily transport oxygen from the lungs to body tissues.
+END
+
+[MCQ]
+QUESTION: Which protein inside red blood cells is primarily responsible for oxygen transport?
+A: Hemoglobin
+B: Albumin
+C: Ferritin
+D: Transferrin
+ANSWER: A
+RATIONALE: Hemoglobin is the iron-containing protein in red blood cells that binds and transports oxygen.
+END
+
+[MCQ]
+QUESTION: Most carbon dioxide returning from body tissues is transported in the blood primarily as which substance?
+A: Dissolved oxygen
+B: Hemoglobin
+C: Bicarbonate
+D: Plasma iron
+ANSWER: C
+RATIONALE: Most carbon dioxide is transported in the blood after conversion to bicarbonate.
+END
+
+[MCQ]
+QUESTION: What is the primary function of white blood cells?
+A: Transport oxygen
+B: Maintain oncotic pressure
+C: Form the initial platelet plug
+D: Defend the body against infection
+ANSWER: D
+RATIONALE: White blood cells are responsible for immune defense and protection against infectious organisms.
+END
+
+[MCQ]
+QUESTION: Which white blood cell is especially associated with rapid defense against bacterial and fungal infections?
+A: Neutrophil
+B: Basophil
+C: Eosinophil
+D: Lymphocyte
+ANSWER: A
+RATIONALE: Neutrophils are major early responders to bacterial and fungal infections.
+END
+
+[MCQ]
+QUESTION: Which granulocyte is most strongly associated with parasitic infections and allergic reactions?
+A: Neutrophil
+B: Monocyte
+C: Eosinophil
+D: Lymphocyte
+ANSWER: C
+RATIONALE: Eosinophils are involved in defense against parasites and participate in allergic responses.
+END
+
+[MCQ]
+QUESTION: Which white blood cell releases histamine and is involved in allergic and inflammatory responses?
+A: Monocyte
+B: Basophil
+C: Neutrophil
+D: Lymphocyte
+ANSWER: B
+RATIONALE: Basophils release histamine and participate in inflammatory and allergic responses.
+END
+
+[MCQ]
+QUESTION: Which white blood cells are classified as agranulocytes?
+A: Neutrophils and eosinophils
+B: Eosinophils and basophils
+C: Neutrophils and basophils
+D: Monocytes and lymphocytes
+ANSWER: D
+RATIONALE: Monocytes and lymphocytes are agranulocytes, while neutrophils, eosinophils, and basophils are granulocytes.
+END
+
+[MCQ]
+QUESTION: Monocytes can differentiate into which cells after entering tissues?
+A: Macrophages
+B: Platelets
+C: Erythrocytes
+D: Basophils
+ANSWER: A
+RATIONALE: Monocytes migrate into tissues and can differentiate into macrophages, which perform phagocytic and immune functions.
+END
+
+[MCQ]
+QUESTION: Which group consists entirely of lymphocyte types?
+A: Neutrophils, eosinophils, basophils
+B: Monocytes, neutrophils, B cells
+C: B cells, T cells, NK cells
+D: Monocytes, macrophages, eosinophils
+ANSWER: C
+RATIONALE: B cells, T cells, and natural killer cells are types of lymphocytes.
+END
+
+[MCQ]
+QUESTION: Platelets are produced from which bone marrow cells?
+A: Lymphoblasts
+B: Megakaryocytes
+C: Erythroblasts
+D: Myelocytes
+ANSWER: B
+RATIONALE: Platelets are cellular fragments released from megakaryocytes in the bone marrow.
+END
+
+[MCQ]
+QUESTION: What is the primary role of platelets in hemostasis?
+A: Transport oxygen
+B: Produce antibodies
+C: Initiate the platelet plug
+D: Carry carbon dioxide
+ANSWER: C
+RATIONALE: Platelets adhere to damaged blood vessels and contribute to formation of the initial platelet plug during hemostasis.
+END
+
+[MCQ]
+QUESTION: Which blood component primarily transports nutrients, hormones, wastes, antibodies, and complement?
+A: Plasma
+B: Platelets
+C: Red blood cells
+D: Neutrophils
+ANSWER: A
+RATIONALE: Plasma is the liquid portion of blood and serves as a transport medium for numerous substances.
+END
+
+[MCQ]
+QUESTION: Which anemia is characterized by small, pale red blood cells caused by inadequate iron availability?
+A: Aplastic anemia
+B: Megaloblastic anemia
+C: Anemia of chronic disease
+D: Iron deficiency anemia
+ANSWER: D
+RATIONALE: Iron deficiency anemia typically produces microcytic, hypochromic red blood cells because inadequate iron limits hemoglobin synthesis.
+END
+
+[MCQ]
+QUESTION: What is the primary hematologic effect of iron deficiency?
+A: Reduced heme synthesis
+B: Increased platelet production
+C: Increased DNA synthesis
+D: Increased erythropoietin destruction
+ANSWER: A
+RATIONALE: Iron is required for heme synthesis. Iron deficiency therefore reduces hemoglobin production.
+END
+
+[MCQ]
+QUESTION: Which red blood cell characteristic is typically associated with iron deficiency anemia?
+A: Macrocytic and hyperchromic
+B: Microcytic and hypochromic
+C: Normocytic and hyperchromic
+D: Macrocytic and hypochromic
+ANSWER: B
+RATIONALE: Iron deficiency anemia commonly produces microcytic, hypochromic red blood cells.
+END
+
+[MCQ]
+QUESTION: Which laboratory index is decreased in microcytic anemia?
+A: MCV
+B: TIBC
+C: Ferritin only
+D: Serum sodium
+ANSWER: A
+RATIONALE: Mean corpuscular volume, or MCV, is decreased when red blood cells are smaller than normal, as occurs in microcytic anemia.
+END
+
+[MCQ]
+QUESTION: Which condition is a common cause of iron deficiency anemia?
+A: Excess vitamin B12
+B: Acute hypercalcemia
+C: Chronic blood loss
+D: Increased intrinsic factor
+ANSWER: C
+RATIONALE: Chronic blood loss, such as heavy menstrual bleeding or gastrointestinal bleeding, is a major cause of iron deficiency anemia.
+END
+
+[MCQ]
+QUESTION: Which gastrointestinal problem can contribute to iron deficiency anemia?
+A: Increased gastric acid production
+B: Iron malabsorption
+C: Excess intrinsic factor
+D: Increased folate absorption
+ANSWER: B
+RATIONALE: Malabsorption can reduce the amount of dietary iron absorbed and contribute to iron deficiency anemia.
+END
+
+[MCQ]
+QUESTION: Which finding is particularly associated with iron deficiency anemia?
+A: Koilonychia
+B: Jaundice
+C: Clubbing
+D: Central cyanosis
+ANSWER: A
+RATIONALE: Koilonychia, or spoon-shaped nails, is a classic physical finding associated with iron deficiency.
+END
+
+[MCQ]
+QUESTION: What is pica?
+A: Increased platelet destruction
+B: Abnormal red blood cell enlargement
+C: A neurologic complication of B12 deficiency
+D: Craving or eating nonfood substances
+ANSWER: D
+RATIONALE: Pica refers to craving or consuming nonfood substances such as ice, clay, or starch and may occur with iron deficiency.
+END
+
+[MCQ]
+QUESTION: Which substance is commonly craved in pica associated with iron deficiency?
+A: Ice
+B: Salt water
+C: Butter
+D: Meat
+ANSWER: A
+RATIONALE: Craving ice, known as pagophagia, is a recognized form of pica associated with iron deficiency.
+END
+
+[MCQ]
+QUESTION: Which oral finding can occur with iron deficiency anemia?
+A: Gingival hyperplasia
+B: Glossitis
+C: Excess salivation
+D: Oral thrush only
+ANSWER: B
+RATIONALE: Glossitis, or inflammation of the tongue, can occur in iron deficiency anemia.
+END
+
+[MCQ]
+QUESTION: Which laboratory finding is expected in iron deficiency anemia?
+A: Increased ferritin
+B: Increased serum iron
+C: Decreased ferritin
+D: Decreased TIBC
+ANSWER: C
+RATIONALE: Ferritin reflects stored iron and is typically decreased in iron deficiency anemia.
+END
+
+[MCQ]
+QUESTION: What typically happens to total iron-binding capacity in iron deficiency anemia?
+A: It decreases
+B: It becomes absent
+C: It remains permanently unchanged
+D: It increases
+ANSWER: D
+RATIONALE: TIBC is typically increased in iron deficiency anemia as the body increases its capacity to bind and transport the limited available iron.
+END
+
+[MCQ]
+QUESTION: Which combination is most consistent with iron deficiency anemia?
+A: Low ferritin and high TIBC
+B: High ferritin and low TIBC
+C: High serum iron and high ferritin
+D: Normal ferritin and high serum iron
+ANSWER: A
+RATIONALE: Iron deficiency commonly produces low ferritin and increased TIBC.
+END
+
+[MCQ]
+QUESTION: Which instruction best promotes absorption of oral iron?
+A: Take it with milk
+B: Take it with tea
+C: Take it with vitamin C
+D: Take it with an antacid
+ANSWER: C
+RATIONALE: Vitamin C enhances iron absorption and can improve the effectiveness of oral iron therapy.
+END
+
+[MCQ]
+QUESTION: When tolerated, oral iron is generally best absorbed when taken:
+A: With calcium
+B: On an empty stomach
+C: With coffee
+D: Immediately after an antacid
+ANSWER: B
+RATIONALE: Oral iron is generally better absorbed on an empty stomach, although taking it with food may be necessary if gastrointestinal effects are difficult to tolerate.
+END
+
+[MCQ]
+QUESTION: Which beverage can interfere with oral iron absorption?
+A: Orange juice
+B: Water
+C: Tea
+D: Vitamin C-rich juice
+ANSWER: C
+RATIONALE: Tea contains compounds that can interfere with iron absorption and should not be taken at the same time as oral iron.
+END
+
+[MCQ]
+QUESTION: Which medication or supplement should generally be separated from oral iron because it can reduce iron absorption?
+A: Calcium
+B: Vitamin C
+C: Water
+D: Plain juice
+ANSWER: A
+RATIONALE: Calcium can interfere with iron absorption, so calcium-containing products should generally be separated from oral iron administration.
+END
+
+[MCQ]
+QUESTION: Which stool change is commonly expected in a patient taking oral iron?
+A: Bright red stools
+B: White stools
+C: Black or dark stools
+D: Completely colorless stools
+ANSWER: C
+RATIONALE: Oral iron commonly causes dark or black stools, which is an expected medication effect.
+END
+
+[MCQ]
+QUESTION: Which gastrointestinal adverse effect is commonly associated with oral iron?
+A: Constipation
+B: Severe diarrhea in every patient
+C: Complete loss of appetite in every patient
+D: GI bleeding in every patient
+ANSWER: A
+RATIONALE: Constipation is a common adverse effect of oral iron therapy. Adequate fluids and dietary fiber may help.
+END
+
+[MCQ]
+QUESTION: Which measure can help reduce constipation associated with oral iron therapy?
+A: Restricting fluids
+B: Increasing dietary fiber and fluids
+C: Avoiding all physical activity
+D: Taking iron with an antacid
+ANSWER: B
+RATIONALE: Adequate fluid intake and dietary fiber can help manage constipation associated with oral iron therapy.
+END
+
+[MCQ]
+QUESTION: When is parenteral iron particularly useful?
+A: When oral iron is ineffective because of significant malabsorption
+B: When the patient has normal iron stores
+C: When the patient has excess iron
+D: When iron deficiency has been ruled out
+ANSWER: A
+RATIONALE: Parenteral iron may be used when oral iron is not tolerated or when significant malabsorption prevents adequate absorption.
+END
+
+[MCQ]
+QUESTION: What injection technique is commonly used for intramuscular iron?
+A: Air-lock technique
+B: Intradermal technique
+C: Z-track technique
+D: Subcutaneous technique
+ANSWER: C
+RATIONALE: The Z-track technique helps prevent leakage of iron into the subcutaneous tissue and reduces skin staining.
+END
+
+[MCQ]
+QUESTION: Megaloblastic anemia is primarily associated with impaired:
+A: Platelet adhesion
+B: DNA synthesis
+C: Iron excretion
+D: Sodium transport
+ANSWER: B
+RATIONALE: Megaloblastic anemia results from impaired DNA synthesis, causing delayed nuclear maturation and ineffective erythropoiesis.
+END
+
+[MCQ]
+QUESTION: What red blood cell size is characteristic of megaloblastic anemia?
+A: Microcytic
+B: Normocytic
+C: Macrocytic
+D: Fragmented
+ANSWER: C
+RATIONALE: Impaired DNA synthesis in megaloblastic anemia results in macrocytic red blood cells.
+END
+
+[MCQ]
+QUESTION: Which deficiency is associated with neurologic manifestations in megaloblastic anemia?
+A: Vitamin B12 deficiency
+B: Iron deficiency
+C: Folate deficiency
+D: Calcium deficiency
+ANSWER: A
+RATIONALE: Vitamin B12 deficiency can cause neurologic manifestations such as paresthesias, gait problems, and loss of vibration or position sense.
+END
+
+[MCQ]
+QUESTION: Pernicious anemia is most directly associated with a deficiency of:
+A: Hemoglobin
+B: Intrinsic factor
+C: Ferritin
+D: Albumin
+ANSWER: B
+RATIONALE: Pernicious anemia results from loss of intrinsic factor, which is needed for normal vitamin B12 absorption.
+END
+
+[MCQ]
+QUESTION: Which cells normally produce intrinsic factor?
+A: Gastric parietal cells
+B: Hepatocytes
+C: Megakaryocytes
+D: Pancreatic beta cells
+ANSWER: A
+RATIONALE: Gastric parietal cells produce intrinsic factor, which is necessary for vitamin B12 absorption.
+END
+
+[MCQ]
+QUESTION: Which manifestation is more characteristic of vitamin B12 deficiency than folate deficiency?
+A: Pallor
+B: Fatigue
+C: Neurologic changes
+D: Macrocytosis
+ANSWER: C
+RATIONALE: Vitamin B12 deficiency can cause neurologic manifestations, whereas folate deficiency does not characteristically cause these neurologic findings.
+END
+
+[MCQ]
+QUESTION: Which neurologic finding can occur with vitamin B12 deficiency?
+A: Increased reflexes in every patient
+B: Loss of vibration and position sense
+C: Complete hearing loss
+D: Paralysis in every patient
+ANSWER: B
+RATIONALE: Vitamin B12 deficiency can cause loss of vibration and position sense along with paresthesias, gait ataxia, and other neurologic changes.
+END
+
+[MCQ]
+QUESTION: Which treatment is commonly required long term for pernicious anemia?
+A: Lifelong vitamin B12 replacement
+B: Lifelong calcium restriction
+C: Daily platelet transfusions
+D: Permanent iron avoidance
+ANSWER: A
+RATIONALE: Pernicious anemia involves impaired vitamin B12 absorption due to intrinsic factor deficiency, so long-term or lifelong B12 replacement is commonly required.
+END
+
+[MCQ]
+QUESTION: Which route may be used to administer vitamin B12 in a patient with pernicious anemia?
+A: Intradermal only
+B: Intramuscular
+C: Topical
+D: Rectal
+ANSWER: B
+RATIONALE: Vitamin B12 may be administered intramuscularly in pernicious anemia to bypass impaired gastrointestinal absorption.
+END
+
+[MCQ]
+QUESTION: Approximately when may a reticulocyte response be observed after effective vitamin B12 treatment?
+A: Within 3–5 days
+B: After 3–5 months
+C: Only after one year
+D: Immediately within one hour
+ANSWER: A
+RATIONALE: An increase in reticulocyte production can occur within approximately 3–5 days after effective vitamin B12 treatment.
+END
+
+[MCQ]
+QUESTION: Which condition is a recognized cause of folate deficiency?
+A: Excess vitamin C intake
+B: Alcohol misuse
+C: Increased intrinsic factor
+D: Excess iron intake
+ANSWER: B
+RATIONALE: Poor diet and alcohol misuse can contribute to folate deficiency.
+END
+
+[MCQ]
+QUESTION: Which medication is associated with folate deficiency?
+A: Methotrexate
+B: Epoetin alfa
+C: Ferrous sulfate
+D: Vitamin B12
+ANSWER: A
+RATIONALE: Methotrexate can interfere with folate metabolism and contribute to folate deficiency.
+END
+
+[MCQ]
+QUESTION: Which medication is also associated with folate deficiency?
+A: Acetaminophen
+B: Phenytoin
+C: Epoetin alfa
+D: Ferrous sulfate
+ANSWER: B
+RATIONALE: Phenytoin can interfere with folate metabolism and is associated with folate deficiency.
+END
+
+[MCQ]
+QUESTION: Which supplementation is especially important before conception and during early pregnancy to reduce neural tube defects?
+A: Vitamin K
+B: Vitamin D
+C: Folic acid
+D: Calcium only
+ANSWER: C
+RATIONALE: Folic acid supplementation before conception and during early pregnancy reduces the risk of fetal neural tube defects.
+END
+
+[MCQ]
+QUESTION: Anemia of inflammation is strongly associated with increased levels of which hormone?
+A: Insulin
+B: Hepcidin
+C: Erythropoietin
+D: Intrinsic factor
+ANSWER: B
+RATIONALE: Inflammation, particularly through IL-6, increases hepatic hepcidin production, which reduces iron availability for erythropoiesis.
+END
+
+[MCQ]
+QUESTION: In anemia of inflammation, what is the effect of increased hepcidin on ferroportin?
+A: It increases intestinal iron absorption
+B: It converts iron into hemoglobin
+C: It inhibits ferroportin and decreases iron release
+D: It increases iron transport into plasma
+ANSWER: C
+RATIONALE: Increased hepcidin inhibits ferroportin, reducing iron release from storage cells and decreasing intestinal iron absorption.
+END
+
+[MCQ]
+QUESTION: Which laboratory pattern is most consistent with anemia of inflammation?
+A: Low serum iron, normal/high ferritin, and low TIBC
+B: High serum iron, low ferritin, and high TIBC
+C: High serum iron, high ferritin, and high TIBC
+D: Normal serum iron, low ferritin, and high TIBC
+ANSWER: A
+RATIONALE: Anemia of inflammation typically causes low serum iron, normal or elevated ferritin, and low TIBC or transferrin.
+END
+
+[MCQ]
+QUESTION: What is the typical red blood cell pattern in anemia of inflammation?
+A: Severely macrocytic
+B: Usually normocytic and normochromic
+C: Always microcytic and hypochromic
+D: Always fragmented
+ANSWER: B
+RATIONALE: Anemia of inflammation is usually normocytic and normochromic, although mild microcytosis may occur.
+END
+
+[MCQ]
+QUESTION: Which inflammatory cytokine is particularly associated with increased hepcidin production?
+A: IL-6
+B: Insulin
+C: Erythropoietin
+D: Intrinsic factor
+ANSWER: A
+RATIONALE: Interleukin-6, or IL-6, stimulates hepatic hepcidin production during inflammation.
+END
+
+[MCQ]
+QUESTION: Why can iron therapy be ineffective in anemia of inflammation when there is no true iron deficiency?
+A: Iron cannot be stored in the body
+B: Hepcidin limits iron availability for erythropoiesis
+C: Iron immediately destroys red blood cells
+D: Ferritin prevents all iron absorption
+ANSWER: B
+RATIONALE: Increased hepcidin traps iron in storage sites and reduces intestinal iron absorption, limiting the iron available for red blood cell production.
+END
+
+[MCQ]
+QUESTION: What is the primary treatment approach for anemia of inflammation?
+A: Treat the underlying chronic or inflammatory condition
+B: Give lifelong vitamin B12 to every patient
+C: Give platelet transfusions routinely
+D: Eliminate all dietary iron
+ANSWER: A
+RATIONALE: Management focuses on treating the underlying inflammatory or chronic disease. Iron may be added when true iron deficiency is also present.
+END
+
+[MCQ]
+QUESTION: Which medication class may be used in selected patients with anemia of chronic disease?
+A: Antacids
+B: Erythropoiesis-stimulating agents
+C: Antihistamines
+D: Antiplatelet drugs
+ANSWER: B
+RATIONALE: Erythropoiesis-stimulating agents may be used in selected patients with anemia associated with certain chronic diseases.
+END
+
+[MCQ]
+QUESTION: What is the primary cause of anemia in chronic kidney disease?
+A: Increased folate absorption
+B: Excessive platelet production
+C: Decreased erythropoietin production
+D: Increased intrinsic factor
+ANSWER: C
+RATIONALE: Loss of functional renal tissue in chronic kidney disease decreases erythropoietin production, reducing stimulation of red blood cell production.
+END
+
+[MCQ]
+QUESTION: Which organ is primarily responsible for producing erythropoietin in response to reduced oxygen availability?
+A: Kidney
+B: Spleen
+C: Pancreas
+D: Thyroid
+ANSWER: A
+RATIONALE: The kidneys are the major source of erythropoietin, which stimulates bone marrow red blood cell production.
+END
+
+[MCQ]
+QUESTION: Which medication is an erythropoiesis-stimulating agent used to treat selected cases of anemia associated with chronic kidney disease?
+A: Methotrexate
+B: Epoetin alfa
+C: Ferrous sulfate
+D: Folic acid
+ANSWER: B
+RATIONALE: Epoetin alfa is an erythropoiesis-stimulating agent that acts similarly to endogenous erythropoietin.
+END
+
+[MCQ]
+QUESTION: Which other medication is an erythropoiesis-stimulating agent?
+A: Darbepoetin alfa
+B: Calcium carbonate
+C: Ferrous sulfate
+D: Cyanocobalamin only
+ANSWER: A
+RATIONALE: Darbepoetin alfa is an erythropoiesis-stimulating agent used in selected patients with anemia.
+END
+
+[MCQ]
+QUESTION: Which route may be used to administer epoetin alfa?
+A: Oral only
+B: Topical only
+C: Subcutaneous or intravenous
+D: Intradermal only
+ANSWER: C
+RATIONALE: Epoetin alfa may be administered subcutaneously or intravenously depending on the clinical situation and formulation.
+END
+
+[MCQ]
+QUESTION: Which assessment is especially important when a patient is receiving an erythropoiesis-stimulating agent?
+A: Blood pressure
+B: Visual acuity only
+C: Bowel sounds only
+D: Skin temperature only
+ANSWER: A
+RATIONALE: ESAs can increase or worsen hypertension, so blood pressure should be monitored closely.
+END
+
+[MCQ]
+QUESTION: Why should thrombotic risk be considered during erythropoiesis-stimulating agent therapy?
+A: ESAs can increase thrombotic risk
+B: ESAs permanently destroy platelets
+C: ESAs prevent all clotting
+D: ESAs directly dissolve blood clots
+ANSWER: A
+RATIONALE: Erythropoiesis-stimulating agents can increase the risk of thrombotic complications, particularly when hemoglobin rises excessively.
+END
+
+[MCQ]
+QUESTION: Which laboratory measurements help assess iron availability during treatment with an erythropoiesis-stimulating agent?
+A: Sodium and chloride
+B: Ferritin and transferrin saturation
+C: Amylase and lipase
+D: Bilirubin and albumin only
+ANSWER: B
+RATIONALE: Ferritin and transferrin saturation help evaluate iron stores and iron availability for erythropoiesis.
+END
+
+[MCQ]
+QUESTION: What hemoglobin range is commonly targeted during ESA therapy for anemia associated with chronic kidney disease?
+A: 5–6 g/dL
+B: 7–8 g/dL
+C: 10–11 g/dL
+D: 15–16 g/dL
+ANSWER: C
+RATIONALE: A hemoglobin target of approximately 10–11 g/dL is commonly used in the provided material for CKD-associated anemia.
+END
+
+[MCQ]
+QUESTION: Aplastic anemia is primarily caused by damage or destruction of which cells?
+A: Mature platelets
+B: Hematopoietic stem cells
+C: Plasma proteins
+D: Gastric parietal cells
+ANSWER: B
+RATIONALE: Aplastic anemia involves immune-mediated destruction or suppression of hematopoietic stem cells, resulting in decreased blood cell production.
+END
+
+[MCQ]
+QUESTION: What characteristic bone marrow finding is associated with aplastic anemia?
+A: Hypercellular marrow
+B: Excessive megakaryocytes
+C: Hypocellular marrow
+D: Increased red blood cell production
+ANSWER: C
+RATIONALE: Aplastic anemia is characterized by a hypocellular bone marrow with reduced hematopoietic activity.
+END
+
+[MCQ]
+QUESTION: Which combination of blood cell abnormalities is characteristic of aplastic anemia?
+A: Pancytopenia
+B: Isolated erythrocytosis
+C: Isolated leukocytosis
+D: Thrombocytosis only
+ANSWER: A
+RATIONALE: Aplastic anemia causes decreased production of red blood cells, white blood cells, and platelets, resulting in pancytopenia.
+END
+
+[MCQ]
+QUESTION: What does pancytopenia mean?
+A: Increased production of all blood cells
+B: Decreased numbers of red blood cells, white blood cells, and platelets
+C: Increased red blood cells with decreased platelets only
+D: Decreased plasma proteins only
+ANSWER: B
+RATIONALE: Pancytopenia refers to reduction of all three major blood cell lines: erythrocytes, leukocytes, and platelets.
+END
+
+[MCQ]
+QUESTION: Which complication of aplastic anemia is primarily related to decreased red blood cells?
+A: Fatigue and reduced oxygen-carrying capacity
+B: Increased clot formation
+C: Histamine release
+D: Increased immune defense
+ANSWER: A
+RATIONALE: Reduced red blood cell production causes anemia, leading to fatigue and decreased oxygen-carrying capacity.
+END
+
+[MCQ]
+QUESTION: Which complication of aplastic anemia is primarily associated with neutropenia?
+A: Bleeding
+B: Infection
+C: Hypertension
+D: Fluid overload
+ANSWER: B
+RATIONALE: Neutropenia reduces the body's ability to defend against infection, making infection a major concern in aplastic anemia.
+END
+
+[MCQ]
+QUESTION: Which complication of aplastic anemia is primarily associated with thrombocytopenia?
+A: Hypoxia
+B: Infection
+C: Bleeding
+D: Hyperglycemia
+ANSWER: C
+RATIONALE: Thrombocytopenia decreases the blood's ability to form an effective platelet plug, increasing bleeding risk.
+END
+
+[MCQ]
+QUESTION: Which temperature is considered a fever requiring urgent attention in a neutropenic patient?
+A: 36.0°C
+B: 37.0°C
+C: 37.5°C
+D: Greater than 38.0°C
+ANSWER: D
+RATIONALE: A temperature greater than 38°C (100.4°F) in a severely neutropenic patient can indicate a serious infection and requires urgent attention.
+END
+
+[MCQ]
+QUESTION: Which nursing measure is appropriate for a patient with significant neutropenia?
+A: Encourage exposure to sick visitors
+B: Use appropriate infection-control precautions
+C: Encourage raw food from outside sources
+D: Place fresh flowers in the room
+ANSWER: B
+RATIONALE: Infection-control measures are essential because neutropenic patients have reduced defenses against infection.
+END
+
+[MCQ]
+QUESTION: Which item should generally be avoided in the room of a patient with significant neutropenia?
+A: Fresh flowers and live plants
+B: Clean linens
+C: Hand hygiene supplies
+D: Personal protective equipment
+ANSWER: A
+RATIONALE: Fresh flowers and live plants can harbor microorganisms and are generally avoided for patients with significant neutropenia.
+END
+
+[MCQ]
+QUESTION: Which food precaution may be recommended for a patient with significant neutropenia?
+A: Encourage raw fruits and vegetables without washing
+B: Avoid foods that may carry microorganisms when precautions require it
+C: Encourage raw meat
+D: Encourage unpasteurized products
+ANSWER: B
+RATIONALE: Neutropenic precautions may include avoiding foods with increased microbial contamination risk, including certain raw foods.
+END
+
+[MCQ]
+QUESTION: Which vital-sign measurement should be monitored especially closely in a patient with neutropenia?
+A: Temperature
+B: Height
+C: Visual acuity
+D: Hearing threshold
+ANSWER: A
+RATIONALE: Temperature monitoring is important because fever may be an early indication of serious infection in neutropenic patients.
+END
+
+[MCQ]
+QUESTION: Which procedure should generally be avoided when possible in a patient with severe neutropenia?
+A: Oral hygiene
+B: Unnecessary invasive procedures
+C: Routine temperature monitoring
+D: Hand hygiene
+ANSWER: B
+RATIONALE: Avoiding unnecessary invasive procedures helps reduce the risk of introducing infection into a vulnerable patient.
+END
+
+[MCQ]
+QUESTION: Which nursing intervention is appropriate for thrombocytopenia?
+A: Use a hard-bristled toothbrush
+B: Encourage vigorous nose blowing
+C: Use a soft toothbrush
+D: Give aspirin routinely
+ANSWER: C
+RATIONALE: A soft toothbrush reduces trauma to the gums and helps decrease bleeding risk in thrombocytopenic patients.
+END
+
+[MCQ]
+QUESTION: Which shaving method is preferred for a patient with significant thrombocytopenia?
+A: Electric razor
+B: Straight razor
+C: Disposable blade with repeated passes
+D: No precautions are necessary
+ANSWER: A
+RATIONALE: An electric razor reduces the likelihood of cuts and bleeding compared with a traditional razor.
+END
+
+[MCQ]
+QUESTION: Which medication should generally be avoided in a patient with significant thrombocytopenia because it can increase bleeding risk?
+A: Vitamin B12
+B: Aspirin
+C: Folic acid
+D: Epoetin alfa
+ANSWER: B
+RATIONALE: Aspirin inhibits platelet function and can increase bleeding risk in a patient who already has thrombocytopenia.
+END
+
+[MCQ]
+QUESTION: Which medication group should generally be avoided in significant thrombocytopenia unless specifically indicated?
+A: NSAIDs
+B: Vitamin supplements
+C: Iron preparations
+D: Erythropoietin
+ANSWER: A
+RATIONALE: NSAIDs can impair platelet function and increase bleeding risk.
+END
+
+[MCQ]
+QUESTION: After venipuncture in a patient with thrombocytopenia, what should the nurse do?
+A: Apply pressure to the site
+B: Massage the site vigorously
+C: Immediately remove all pressure
+D: Apply heat and rub the site
+ANSWER: A
+RATIONALE: Firm pressure after venipuncture helps prevent prolonged bleeding in patients with low platelet counts.
+END
+
+[MCQ]
+QUESTION: Approximately how long may pressure be maintained after a puncture in a patient with thrombocytopenia?
+A: 5–10 minutes
+B: 5 seconds
+C: 10 seconds
+D: No pressure is required
+ANSWER: A
+RATIONALE: Pressure may need to be maintained for approximately 5–10 minutes or longer as necessary to control bleeding.
+END
+
+[MCQ]
+QUESTION: Which temperature-taking method should generally be avoided in a patient with significant thrombocytopenia?
+A: Oral temperature
+B: Axillary temperature
+C: Rectal temperature
+D: Noninvasive temperature measurement
+ANSWER: C
+RATIONALE: Rectal procedures can traumatize tissue and increase bleeding or infection risk, so they are generally avoided in significant thrombocytopenia.
+END
+
+[MCQ]
+QUESTION: Which type of injection should generally be avoided in a patient with significant thrombocytopenia?
+A: Intramuscular injection
+B: Oral medication
+C: Intravenous medication when necessary
+D: Sublingual medication
+ANSWER: A
+RATIONALE: Intramuscular injections can cause bleeding into muscle tissue and are generally avoided when platelet counts are significantly reduced.
+END
+
+[MCQ]
+QUESTION: Which activity is most appropriate for reducing injury risk in a patient with thrombocytopenia?
+A: Contact sports
+B: Fall-prevention measures
+C: Heavy lifting
+D: High-impact exercise
+ANSWER: B
+RATIONALE: Preventing falls and trauma is important because thrombocytopenia increases the risk of bleeding.
+END
+
+[MCQ]
+QUESTION: Which medication is commonly used as part of immunosuppressive therapy for aplastic anemia?
+A: Cyclosporine
+B: Ferrous sulfate
+C: Calcium carbonate
+D: Folic acid
+ANSWER: A
+RATIONALE: Cyclosporine is an immunosuppressive medication used in the treatment of selected patients with aplastic anemia.
+END
+
+[MCQ]
+QUESTION: Which therapy may be used as immunosuppressive treatment for aplastic anemia?
+A: Antithymocyte globulin
+B: Oral calcium
+C: Vitamin K
+D: Aspirin
+ANSWER: A
+RATIONALE: Antithymocyte globulin, or ATG, is used as immunosuppressive therapy in selected patients with aplastic anemia.
+END
+
+[MCQ]
+QUESTION: Which treatment may provide a potential cure for aplastic anemia, particularly in a younger patient with an appropriate matched donor?
+A: Hematopoietic stem cell transplantation
+B: Oral iron alone
+C: Folic acid alone
+D: Calcium supplementation
+ANSWER: A
+RATIONALE: Hematopoietic stem cell transplantation can potentially cure aplastic anemia, especially in appropriate younger patients with a suitable matched donor.
+END
+
+[MCQ]
+QUESTION: Which nursing priority addresses the reduced oxygen-carrying capacity caused by anemia in aplastic anemia?
+A: Cluster care and provide adequate rest
+B: Encourage strenuous exercise
+C: Restrict all sleep
+D: Increase unnecessary activity
+ANSWER: A
+RATIONALE: Fatigue and reduced oxygen-carrying capacity require energy conservation, adequate rest, and appropriate clustering of nursing care.
+END
+
+[MCQ]
+QUESTION: Which blood product may be administered to support a patient with severe anemia when ordered?
+A: Platelet-poor plasma only
+B: Packed red blood cells
+C: Albumin only
+D: Cryoprecipitate only
+ANSWER: B
+RATIONALE: Packed red blood cells may be administered as ordered to improve oxygen-carrying capacity in patients with significant anemia.
+END
+
+[MCQ]
+QUESTION: Which finding represents the combined effects of pancytopenia in aplastic anemia?
+A: Fatigue, infection risk, and bleeding tendency
+B: Hypertension, hyperglycemia, and edema
+C: Bradycardia, constipation, and jaundice
+D: Polyuria, thirst, and hypernatremia
+ANSWER: A
+RATIONALE: Pancytopenia produces anemia-related fatigue, leukopenia/neutropenia-related infection risk, and thrombocytopenia-related bleeding.
+END
+
+[MCQ]
+QUESTION: Which blood cell deficiency most directly increases the risk of serious infection in aplastic anemia?
+A: Red blood cell deficiency
+B: Platelet deficiency
+C: White blood cell deficiency
+D: Plasma protein deficiency
+ANSWER: C
+RATIONALE: Reduced white blood cells, particularly neutrophils, impair immune defense and increase infection risk.
+END
+
+[MCQ]
+QUESTION: Which blood cell deficiency most directly increases the risk of bleeding?
+A: Platelet deficiency
+B: Red blood cell deficiency
+C: Lymphocyte deficiency only
+D: Plasma deficiency
+ANSWER: A
+RATIONALE: Platelets are essential for primary hemostasis, so thrombocytopenia increases bleeding risk.
+END
+
+[MCQ]
+QUESTION: Which statement best describes the relationship between anemia and oxygen delivery?
+A: Anemia increases the oxygen-carrying capacity of blood
+B: Anemia decreases the oxygen-carrying capacity of blood
+C: Anemia prevents all carbon dioxide transport
+D: Anemia increases platelet production
+ANSWER: B
+RATIONALE: Reduced red blood cells or hemoglobin decrease the blood's oxygen-carrying capacity.
+END
+
+[MCQ]
+QUESTION: Which manifestation can result from reduced oxygen-carrying capacity in anemia?
+A: Fatigue
+B: Increased platelet count
+C: Increased bone density
+D: Excessive histamine production
+ANSWER: A
+RATIONALE: Reduced oxygen delivery to tissues can cause fatigue and weakness.
+END
+
+[MCQ]
+QUESTION: Which anemia is characterized by pancytopenia and a hypocellular bone marrow?
+A: Iron deficiency anemia
+B: Aplastic anemia
+C: Folate deficiency anemia
+D: Anemia of inflammation
+ANSWER: B
+RATIONALE: Aplastic anemia is characterized by hypocellular bone marrow and decreased production of red blood cells, white blood cells, and platelets.
+END

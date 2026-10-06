@@ -1,0 +1,979 @@
+[MCQ]
+QUESTION: A patient reports fatigue, shortness of breath when climbing stairs, and craving ice. Laboratory results show low hemoglobin, low MCV, and low ferritin. Which condition is most likely?
+A: Aplastic anemia
+B: Iron deficiency anemia
+C: Vitamin B12 deficiency
+D: Anemia of inflammation
+ANSWER: B
+RATIONALE: Low hemoglobin with low MCV and low ferritin is characteristic of iron deficiency anemia. Pica, including craving ice, is also strongly associated with iron deficiency.
+END
+
+[MCQ]
+QUESTION: A patient with iron deficiency anemia is prescribed oral ferrous sulfate. Which instruction best promotes absorption?
+A: Take it with milk.
+B: Take it with tea.
+C: Take it with an antacid.
+D: Take it with a vitamin C-rich beverage.
+ANSWER: D
+RATIONALE: Vitamin C enhances iron absorption. Milk, tea, and antacids can interfere with iron absorption when taken with oral iron.
+END
+
+[MCQ]
+QUESTION: A patient taking oral iron reports that the stools have become dark or black. What should the nurse recognize?
+A: This can be an expected effect of oral iron.
+B: This always indicates gastrointestinal hemorrhage.
+C: This indicates vitamin B12 toxicity.
+D: This means the iron is not being absorbed.
+ANSWER: A
+RATIONALE: Dark or black stools are a common expected effect of oral iron therapy.
+END
+
+[MCQ]
+QUESTION: A patient taking ferrous sulfate develops constipation. Which teaching is most appropriate?
+A: Stop all fluid intake.
+B: Increase fluids and dietary fiber as tolerated.
+C: Take the iron with an antacid.
+D: Avoid all physical activity.
+ANSWER: B
+RATIONALE: Constipation is a common adverse effect of oral iron. Adequate fluids and dietary fiber can help manage it.
+END
+
+[MCQ]
+QUESTION: A patient with iron deficiency anemia asks why the nurse recommends avoiding tea around the time of taking iron. What is the best explanation?
+A: Tea can interfere with iron absorption.
+B: Tea destroys red blood cells.
+C: Tea increases platelet destruction.
+D: Tea prevents vitamin B12 absorption permanently.
+ANSWER: A
+RATIONALE: Tea contains compounds that can interfere with iron absorption, so it should not be taken at the same time as oral iron.
+END
+
+[MCQ]
+QUESTION: A patient has hemoglobin 8.4 g/dL, MCV 67 fL, low ferritin, low serum iron, and high TIBC. Which interpretation is most appropriate?
+A: The findings are most consistent with vitamin B12 deficiency.
+B: The findings are most consistent with anemia of inflammation.
+C: The findings are most consistent with iron deficiency anemia.
+D: The findings are most consistent with aplastic anemia.
+ANSWER: C
+RATIONALE: Low MCV, low ferritin, low serum iron, and high TIBC strongly support iron deficiency anemia.
+END
+
+[MCQ]
+QUESTION: A patient with iron deficiency anemia has spoon-shaped fingernails. Which term should the nurse document?
+A: Koilonychia
+B: Glossitis
+C: Paresthesia
+D: Ataxia
+ANSWER: A
+RATIONALE: Koilonychia refers to spoon-shaped or concave nails and is associated with iron deficiency.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammatory disease has low serum iron, normal-high ferritin, and low TIBC. Which condition does this laboratory pattern suggest?
+A: Iron deficiency anemia
+B: Anemia of inflammation
+C: Acute blood loss
+D: Pernicious anemia
+ANSWER: B
+RATIONALE: Anemia of inflammation commonly produces low serum iron with normal or high ferritin and low TIBC.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammation has low circulating iron despite having adequate iron stores. Which mechanism best explains this finding?
+A: Increased intrinsic factor
+B: Increased platelet destruction
+C: Increased hepcidin causing iron sequestration
+D: Increased erythropoietin production
+ANSWER: C
+RATIONALE: Inflammation increases hepcidin, which inhibits ferroportin and traps iron in storage cells while reducing intestinal iron absorption.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammatory disease asks why iron therapy may not immediately correct the anemia. Which explanation is most accurate?
+A: Inflammation can increase hepcidin and limit iron availability.
+B: Iron is unable to enter the bloodstream under any circumstances.
+C: Ferritin permanently destroys dietary iron.
+D: Red blood cells cannot use iron.
+ANSWER: A
+RATIONALE: Increased hepcidin during inflammation limits iron release and intestinal absorption, reducing iron availability for erythropoiesis.
+END
+
+[MCQ]
+QUESTION: A patient with anemia of inflammation has an elevated ferritin level. How should the nurse interpret this result?
+A: It proves that iron overload is present.
+B: It can reflect inflammation because ferritin is an acute-phase reactant.
+C: It proves that serum iron is elevated.
+D: It rules out anemia of inflammation.
+ANSWER: B
+RATIONALE: Ferritin can increase during inflammation because it is an acute-phase reactant. Therefore, elevated ferritin does not necessarily indicate excess usable iron.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammatory disease has anemia. Which treatment principle is most appropriate?
+A: Treat the underlying inflammatory condition.
+B: Give high-dose iron to every patient.
+C: Give lifelong vitamin B12.
+D: Avoid all dietary iron.
+ANSWER: A
+RATIONALE: Management of anemia of inflammation focuses on treating the underlying disease. Iron may be used when true iron deficiency also exists.
+END
+
+[MCQ]
+QUESTION: A patient with chronic kidney disease develops anemia. Which mechanism is primarily responsible?
+A: Increased folate destruction
+B: Decreased erythropoietin production
+C: Increased platelet destruction
+D: Excess intrinsic factor
+ANSWER: B
+RATIONALE: Damaged kidneys produce less erythropoietin, reducing stimulation of the bone marrow to produce red blood cells.
+END
+
+[MCQ]
+QUESTION: Which medication would the nurse expect for selected patients with anemia related to chronic kidney disease?
+A: Epoetin alfa
+B: Methotrexate
+C: Aspirin
+D: Calcium carbonate
+ANSWER: A
+RATIONALE: Epoetin alfa is an erythropoiesis-stimulating agent used to treat selected cases of anemia associated with chronic kidney disease.
+END
+
+[MCQ]
+QUESTION: A patient receiving epoetin alfa has a significant increase in blood pressure. Why is this finding important?
+A: ESAs can worsen hypertension.
+B: ESAs always cause hypoglycemia.
+C: ESAs destroy platelets.
+D: ESAs directly cause vitamin B12 deficiency.
+ANSWER: A
+RATIONALE: Erythropoiesis-stimulating agents can increase or worsen hypertension, so blood pressure requires monitoring.
+END
+
+[MCQ]
+QUESTION: A patient receiving an erythropoiesis-stimulating agent has inadequate improvement in hemoglobin and very low transferrin saturation. What factor may be limiting the response?
+A: Excess folate
+B: Insufficient available iron
+C: Excess vitamin B12
+D: Increased platelet production
+ANSWER: B
+RATIONALE: ESA therapy increases red blood cell production and therefore increases iron requirements. Low transferrin saturation can indicate inadequate iron availability.
+END
+
+[MCQ]
+QUESTION: A patient with chronic kidney disease is receiving ESA therapy. Which laboratory tests are particularly useful for evaluating iron availability?
+A: Sodium and potassium
+B: Amylase and lipase
+C: Ferritin and transferrin saturation
+D: Bilirubin and calcium
+ANSWER: C
+RATIONALE: Ferritin and transferrin saturation help assess iron stores and the amount of iron available for erythropoiesis.
+END
+
+[MCQ]
+QUESTION: A patient with vitamin B12 deficiency reports numbness in the feet and difficulty maintaining balance. Which interpretation is most appropriate?
+A: These findings are characteristic neurologic manifestations of B12 deficiency.
+B: These findings indicate isolated iron deficiency.
+C: These findings are caused by thrombocytopenia.
+D: These findings confirm folate deficiency.
+ANSWER: A
+RATIONALE: Vitamin B12 deficiency can cause paresthesias, gait ataxia, and loss of vibration or position sense.
+END
+
+[MCQ]
+QUESTION: A patient has macrocytic anemia but no neurologic manifestations. Which deficiency should the nurse consider?
+A: Iron
+B: Folate
+C: Calcium
+D: Potassium
+ANSWER: B
+RATIONALE: Folate deficiency causes megaloblastic macrocytic anemia but does not typically cause the neurologic manifestations associated with vitamin B12 deficiency.
+END
+
+[MCQ]
+QUESTION: A patient has pernicious anemia. Which underlying problem explains the vitamin B12 deficiency?
+A: Excessive iron loss
+B: Lack of intrinsic factor
+C: Increased platelet destruction
+D: Excess erythropoietin
+ANSWER: B
+RATIONALE: Pernicious anemia results from impaired intrinsic factor production, which interferes with normal vitamin B12 absorption.
+END
+
+[MCQ]
+QUESTION: Which cells are responsible for producing intrinsic factor?
+A: Gastric parietal cells
+B: Megakaryocytes
+C: Neutrophils
+D: Hepatocytes
+ANSWER: A
+RATIONALE: Gastric parietal cells produce intrinsic factor, which is necessary for vitamin B12 absorption.
+END
+
+[MCQ]
+QUESTION: A patient with pernicious anemia is prescribed vitamin B12 replacement. Why may treatment need to continue lifelong?
+A: The underlying intrinsic-factor deficiency persists.
+B: Vitamin B12 permanently destroys red blood cells.
+C: Iron absorption becomes impossible.
+D: Platelets cannot survive without B12.
+ANSWER: A
+RATIONALE: Pernicious anemia involves persistent impairment of intrinsic factor, so long-term or lifelong vitamin B12 replacement is commonly required.
+END
+
+[MCQ]
+QUESTION: A patient with vitamin B12 deficiency begins treatment. Which finding may indicate an early bone marrow response?
+A: Decreased reticulocyte count
+B: Increased reticulocyte count
+C: Decreased platelet count
+D: Increased TIBC
+ANSWER: B
+RATIONALE: Reticulocyte production can increase within approximately 3–5 days after effective vitamin B12 treatment.
+END
+
+[MCQ]
+QUESTION: A patient has macrocytic anemia and a history of poor dietary intake and alcohol misuse. Which deficiency is most likely?
+A: Iron
+B: Folate
+C: Calcium
+D: Sodium
+ANSWER: B
+RATIONALE: Poor nutrition and alcohol misuse are recognized causes of folate deficiency, which can produce megaloblastic macrocytic anemia.
+END
+
+[MCQ]
+QUESTION: A patient taking methotrexate develops macrocytic anemia. Which deficiency should the nurse consider?
+A: Folate
+B: Iron
+C: Vitamin C
+D: Vitamin K
+ANSWER: A
+RATIONALE: Methotrexate interferes with folate metabolism and can contribute to folate deficiency and megaloblastic anemia.
+END
+
+[MCQ]
+QUESTION: A patient taking phenytoin develops megaloblastic anemia. Which nutritional deficiency may be involved?
+A: Vitamin B12
+B: Folate
+C: Iron overload
+D: Calcium
+ANSWER: B
+RATIONALE: Phenytoin can interfere with folate metabolism and is associated with folate deficiency.
+END
+
+[MCQ]
+QUESTION: Which patient would benefit most from folic acid supplementation to reduce the risk of fetal neural tube defects?
+A: A patient planning pregnancy
+B: A patient with isolated thrombocytopenia
+C: A patient with iron overload
+D: A patient with aplastic anemia receiving transfusions
+ANSWER: A
+RATIONALE: Adequate folic acid before conception and during early pregnancy helps reduce the risk of fetal neural tube defects.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has a low red blood cell count, low white blood cell count, and low platelet count. What term describes this condition?
+A: Polycythemia
+B: Leukocytosis
+C: Pancytopenia
+D: Thrombocytosis
+ANSWER: C
+RATIONALE: Pancytopenia means decreased numbers of red blood cells, white blood cells, and platelets.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia develops fatigue, fever, and bruising. Which explanation best connects these findings?
+A: Pancytopenia can produce anemia, infection risk, and bleeding.
+B: Increased red blood cell production causes all three findings.
+C: Excess platelets cause fever and fatigue.
+D: Increased erythropoietin causes pancytopenia.
+ANSWER: A
+RATIONALE: Aplastic anemia causes pancytopenia. Anemia causes fatigue, neutropenia increases infection risk, and thrombocytopenia increases bleeding and bruising.
+END
+
+[MCQ]
+QUESTION: Which bone marrow finding is expected in aplastic anemia?
+A: Hypercellular marrow with excessive blood cell production
+B: Hypocellular marrow with reduced hematopoietic activity
+C: Increased megakaryocyte production only
+D: Excessive red blood cell production
+ANSWER: B
+RATIONALE: Aplastic anemia is characterized by hypocellular bone marrow and reduced production of blood cells.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has severe neutropenia. Which complication is the greatest concern related to this blood cell abnormality?
+A: Infection
+B: Fluid overload
+C: Hypercalcemia
+D: Iron overload
+ANSWER: A
+RATIONALE: Neutropenia greatly reduces the body's ability to fight infection, making infection a major concern.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has severe thrombocytopenia. Which complication is most directly associated with this abnormality?
+A: Hypoxia
+B: Infection
+C: Bleeding
+D: Hyperglycemia
+ANSWER: C
+RATIONALE: Platelets are essential for primary hemostasis. Severe thrombocytopenia therefore increases bleeding risk.
+END
+
+[MCQ]
+QUESTION: A patient with severe neutropenia develops a temperature of 38.4°C. How should this finding be interpreted?
+A: It is an expected normal variation.
+B: It requires urgent attention because it may indicate infection.
+C: It confirms iron deficiency.
+D: It indicates successful treatment.
+ANSWER: B
+RATIONALE: A temperature greater than 38°C in a significantly neutropenic patient can indicate a serious infection and requires urgent attention.
+END
+
+[MCQ]
+QUESTION: Which intervention is appropriate for a patient with significant neutropenia?
+A: Encourage visitors with respiratory infections.
+B: Use appropriate infection-control precautions.
+C: Place fresh flowers at the bedside.
+D: Encourage exposure to crowded areas.
+ANSWER: B
+RATIONALE: Neutropenic patients require infection-prevention measures because their ability to fight infection is reduced.
+END
+
+[MCQ]
+QUESTION: Which item should generally be avoided for a patient with significant neutropenia?
+A: Fresh flowers and live plants
+B: Clean linens
+C: Hand hygiene supplies
+D: Protective equipment
+ANSWER: A
+RATIONALE: Fresh flowers and live plants can harbor microorganisms and are generally avoided for patients with significant neutropenia.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has significant thrombocytopenia. Which oral-care measure is safest?
+A: Use a hard-bristled toothbrush.
+B: Use a soft toothbrush.
+C: Brush aggressively to prevent bleeding.
+D: Use a sharp dental pick.
+ANSWER: B
+RATIONALE: A soft toothbrush minimizes trauma to the gums and reduces bleeding risk in thrombocytopenic patients.
+END
+
+[MCQ]
+QUESTION: Which shaving method is safest for a patient with significant thrombocytopenia?
+A: Straight razor
+B: Electric razor
+C: Disposable razor with repeated passes
+D: Any razor without precautions
+ANSWER: B
+RATIONALE: An electric razor reduces the risk of cuts and bleeding compared with a traditional razor.
+END
+
+[MCQ]
+QUESTION: Which medication should generally be avoided in significant thrombocytopenia because of its effect on platelet function?
+A: Folic acid
+B: Vitamin B12
+C: Aspirin
+D: Epoetin alfa
+ANSWER: C
+RATIONALE: Aspirin inhibits platelet function and can further increase bleeding risk in a thrombocytopenic patient.
+END
+
+[MCQ]
+QUESTION: Which medication group can also increase bleeding risk in a patient with thrombocytopenia because of impaired platelet function?
+A: NSAIDs
+B: Iron preparations
+C: Folic acid
+D: Vitamin B12
+ANSWER: A
+RATIONALE: NSAIDs can impair platelet function and increase bleeding risk, making them generally undesirable in significant thrombocytopenia unless specifically indicated.
+END
+
+[MCQ]
+QUESTION: After venipuncture in a patient with significant thrombocytopenia, what should the nurse do?
+A: Massage the site vigorously.
+B: Apply pressure to the site.
+C: Remove pressure immediately.
+D: Apply heat and rub the area.
+ANSWER: B
+RATIONALE: Applying firm pressure after venipuncture helps control bleeding in patients with thrombocytopenia.
+END
+
+[MCQ]
+QUESTION: Which procedure should generally be avoided in a patient with significant thrombocytopenia because of the risk of bleeding and tissue trauma?
+A: Rectal temperature measurement
+B: Oral temperature measurement
+C: Noninvasive blood pressure measurement
+D: Pulse oximetry
+ANSWER: A
+RATIONALE: Rectal procedures can cause tissue trauma and bleeding and are generally avoided in significant thrombocytopenia.
+END
+
+[MCQ]
+QUESTION: Which type of injection should generally be avoided in a patient with significant thrombocytopenia?
+A: Oral medication
+B: Sublingual medication
+C: Intramuscular injection
+D: Topical medication
+ANSWER: C
+RATIONALE: Intramuscular injections can cause bleeding into muscle tissue and are generally avoided when platelet counts are significantly reduced.
+END
+
+[MCQ]
+QUESTION: Which nursing intervention is most appropriate to reduce injury-related bleeding in a patient with thrombocytopenia?
+A: Encourage contact sports.
+B: Encourage high-impact exercise.
+C: Implement fall-prevention measures.
+D: Encourage vigorous exercise.
+ANSWER: C
+RATIONALE: Preventing falls and trauma is important because thrombocytopenia increases the risk of bleeding.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia is receiving nursing care for severe fatigue. Which intervention is appropriate?
+A: Cluster care and provide adequate rest periods.
+B: Encourage continuous physical activity.
+C: Limit sleep to prevent deconditioning.
+D: Schedule all activities without rest periods.
+ANSWER: A
+RATIONALE: Anemia reduces oxygen-carrying capacity and can cause significant fatigue. Rest and energy conservation help reduce oxygen demand.
+END
+
+[MCQ]
+QUESTION: Which blood product may be prescribed for a patient with severe symptomatic anemia?
+A: Packed red blood cells
+B: Platelets only
+C: Albumin only
+D: Cryoprecipitate only
+ANSWER: A
+RATIONALE: Packed red blood cells can increase oxygen-carrying capacity and may be administered when clinically indicated.
+END
+
+[MCQ]
+QUESTION: A young patient with severe aplastic anemia has a suitable matched donor. Which treatment may offer a potential cure?
+A: Oral iron
+B: Hematopoietic stem cell transplantation
+C: Folic acid alone
+D: Calcium supplementation
+ANSWER: B
+RATIONALE: Hematopoietic stem cell transplantation can potentially cure aplastic anemia, particularly in appropriate younger patients with a matched donor.
+END
+
+[MCQ]
+QUESTION: Which medications may be used as immunosuppressive therapy for selected patients with aplastic anemia?
+A: Aspirin and ibuprofen
+B: Methotrexate and folic acid
+C: Antithymocyte globulin and cyclosporine
+D: Ferrous sulfate and vitamin C
+ANSWER: C
+RATIONALE: Antithymocyte globulin and cyclosporine are used as immunosuppressive therapy for selected patients with aplastic anemia.
+END
+
+[MCQ]
+QUESTION: A patient with anemia has reduced hemoglobin and becomes fatigued with activity. What physiological problem best explains the fatigue?
+A: Reduced oxygen-carrying capacity
+B: Increased platelet aggregation
+C: Increased histamine production
+D: Excess intrinsic factor
+ANSWER: A
+RATIONALE: Reduced hemoglobin decreases the blood's oxygen-carrying capacity, which can cause fatigue and reduced exercise tolerance.
+END
+
+[MCQ]
+QUESTION: A patient has low hemoglobin, low MCV, low ferritin, and high TIBC. Which finding would most strongly support iron deficiency rather than anemia of inflammation?
+A: High ferritin
+B: Low TIBC
+C: Low ferritin
+D: Normal-high ferritin
+ANSWER: C
+RATIONALE: Low ferritin strongly supports depleted iron stores and is characteristic of iron deficiency anemia.
+END
+
+[MCQ]
+QUESTION: A patient has low serum iron but normal-high ferritin and low TIBC. Which mechanism best explains the laboratory findings?
+A: Increased hepcidin limiting iron availability
+B: Complete absence of erythropoietin
+C: Increased intrinsic factor production
+D: Increased platelet destruction
+ANSWER: A
+RATIONALE: Inflammation increases hepcidin, which inhibits ferroportin and limits iron release and intestinal iron absorption.
+END
+
+[MCQ]
+QUESTION: A patient with iron deficiency anemia has a hemoglobin of 8.2 g/dL and reports fatigue and exertional dyspnea. Which physiological problem best explains these symptoms?
+A: Reduced oxygen-carrying capacity
+B: Increased platelet production
+C: Excessive histamine release
+D: Increased plasma volume
+ANSWER: A
+RATIONALE: Reduced hemoglobin decreases the blood's oxygen-carrying capacity, leading to fatigue and shortness of breath with activity.
+END
+
+[MCQ]
+QUESTION: A patient with iron deficiency anemia asks why iron is necessary for red blood cell production. Which response is most accurate?
+A: Iron stimulates platelet formation.
+B: Iron is required for heme and hemoglobin synthesis.
+C: Iron directly produces erythropoietin.
+D: Iron converts white blood cells into red blood cells.
+ANSWER: B
+RATIONALE: Iron is an essential component of heme, which is incorporated into hemoglobin and allows red blood cells to transport oxygen.
+END
+
+[MCQ]
+QUESTION: A patient with heavy menstrual bleeding develops fatigue and pallor. Laboratory results show low ferritin and low MCV. Which cause should the nurse recognize?
+A: Chronic blood loss
+B: Increased intrinsic factor
+C: Excess erythropoietin
+D: Increased platelet production
+ANSWER: A
+RATIONALE: Chronic blood loss, including heavy menstrual bleeding, can gradually deplete iron stores and cause iron deficiency anemia.
+END
+
+[MCQ]
+QUESTION: A patient with iron deficiency anemia has pica. Which statement best describes this finding?
+A: The patient has a craving for nonfood substances.
+B: The patient has a loss of vibration sense.
+C: The patient has increased platelet aggregation.
+D: The patient has excessive white blood cell production.
+ANSWER: A
+RATIONALE: Pica is the craving or consumption of nonfood substances and is associated with iron deficiency.
+END
+
+[MCQ]
+QUESTION: A patient with iron deficiency anemia has low hemoglobin, low MCV, low ferritin, and high TIBC. Which additional finding would be most consistent with the diagnosis?
+A: Increased serum iron
+B: Koilonychia
+C: Elevated ferritin
+D: Severe neurologic dysfunction
+ANSWER: B
+RATIONALE: Koilonychia, or spoon-shaped nails, is a recognized manifestation of iron deficiency anemia.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammation has low serum iron and low TIBC but normal-high ferritin. Which diagnosis is most likely?
+A: Iron deficiency anemia
+B: Anemia of inflammation
+C: Pernicious anemia
+D: Aplastic anemia
+ANSWER: B
+RATIONALE: Low serum iron with normal-high ferritin and low TIBC is characteristic of anemia of inflammation.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammation has adequate total body iron but poor availability of iron for red blood cell production. Which substance is primarily responsible?
+A: Intrinsic factor
+B: Hemoglobin
+C: Hepcidin
+D: Albumin
+ANSWER: C
+RATIONALE: Increased hepcidin during inflammation inhibits ferroportin, trapping iron in storage sites and limiting its availability for erythropoiesis.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammatory disease has anemia. Which laboratory finding would make isolated iron deficiency less likely?
+A: Low ferritin
+B: High TIBC
+C: Normal-high ferritin
+D: Low transferrin saturation
+ANSWER: C
+RATIONALE: Normal or elevated ferritin is typical of anemia of inflammation because ferritin is an acute-phase reactant. Low ferritin more strongly supports true iron deficiency.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammatory disease is prescribed iron despite having normal-high ferritin. Why might the provider reconsider routine iron therapy?
+A: Inflammation can restrict iron availability even when iron stores are present.
+B: Iron is never used in any type of anemia.
+C: Ferritin always means iron poisoning.
+D: Iron directly increases inflammation in every patient.
+ANSWER: A
+RATIONALE: In anemia of inflammation, increased hepcidin can prevent stored iron from becoming available for erythropoiesis. Iron is generally used when true iron deficiency is also present.
+END
+
+[MCQ]
+QUESTION: A patient with chronic kidney disease develops anemia. Which physiological change is most responsible?
+A: Increased erythropoietin secretion
+B: Decreased erythropoietin production
+C: Increased intrinsic factor production
+D: Increased platelet production
+ANSWER: B
+RATIONALE: Loss of functional renal tissue decreases erythropoietin production, reducing stimulation of red blood cell production.
+END
+
+[MCQ]
+QUESTION: A patient with chronic kidney disease receives epoetin alfa. Which outcome is the medication intended to promote?
+A: Increased red blood cell production
+B: Increased platelet destruction
+C: Decreased white blood cell production
+D: Increased iron excretion
+ANSWER: A
+RATIONALE: Epoetin alfa stimulates erythropoiesis by providing an effect similar to endogenous erythropoietin.
+END
+
+[MCQ]
+QUESTION: A patient receiving epoetin alfa has persistently low transferrin saturation. What should the nurse recognize?
+A: Iron availability may be insufficient for increased erythropoiesis.
+B: The patient has excessive vitamin B12.
+C: The patient has excessive platelet production.
+D: The patient has confirmed folate toxicity.
+ANSWER: A
+RATIONALE: ESA therapy increases red blood cell production and therefore increases iron requirements. Low transferrin saturation suggests limited available iron.
+END
+
+[MCQ]
+QUESTION: A patient receiving ESA therapy develops worsening hypertension. Which nursing action is most appropriate?
+A: Ignore the blood pressure because hypertension is unrelated to ESAs.
+B: Monitor and report significant blood pressure changes.
+C: Give aspirin automatically.
+D: Stop all iron-containing foods.
+ANSWER: B
+RATIONALE: ESAs can worsen hypertension, so blood pressure should be monitored and significant changes reported.
+END
+
+[MCQ]
+QUESTION: A patient with chronic kidney disease is being evaluated before continuing ESA therapy. Which laboratory values are especially useful?
+A: Ferritin and transferrin saturation
+B: Amylase and lipase
+C: Sodium and chloride only
+D: Bilirubin and alkaline phosphatase only
+ANSWER: A
+RATIONALE: Ferritin and transferrin saturation help determine whether adequate iron stores and availability are present for erythropoiesis.
+END
+
+[MCQ]
+QUESTION: A patient with macrocytic anemia reports numbness, poor balance, and difficulty walking. Which deficiency is most likely?
+A: Iron
+B: Folate
+C: Vitamin B12
+D: Calcium
+ANSWER: C
+RATIONALE: Vitamin B12 deficiency can cause neurologic manifestations including paresthesias, gait ataxia, and impaired vibration or position sense.
+END
+
+[MCQ]
+QUESTION: A patient has macrocytic anemia but no neurologic symptoms. Which condition is more likely than vitamin B12 deficiency?
+A: Folate deficiency
+B: Iron deficiency
+C: Aplastic anemia
+D: Thrombocytopenia
+ANSWER: A
+RATIONALE: Folate deficiency can cause megaloblastic macrocytic anemia but does not characteristically produce the neurologic manifestations associated with vitamin B12 deficiency.
+END
+
+[MCQ]
+QUESTION: A patient with pernicious anemia receives vitamin B12 replacement. Which underlying problem is the treatment compensating for?
+A: Loss of intrinsic factor
+B: Excessive iron loss
+C: Platelet destruction
+D: Increased hepcidin
+ANSWER: A
+RATIONALE: Pernicious anemia results from impaired intrinsic factor production, causing poor vitamin B12 absorption.
+END
+
+[MCQ]
+QUESTION: A patient with pernicious anemia is receiving vitamin B12 injections. Why is the injectable route useful?
+A: It bypasses the impaired gastrointestinal absorption associated with intrinsic-factor deficiency.
+B: It prevents all forms of anemia.
+C: It increases iron absorption.
+D: It directly increases platelet production.
+ANSWER: A
+RATIONALE: Parenteral vitamin B12 bypasses the gastrointestinal absorption problem caused by intrinsic-factor deficiency.
+END
+
+[MCQ]
+QUESTION: A patient with vitamin B12 deficiency begins treatment. Which change may occur within several days if therapy is effective?
+A: Reticulocyte response
+B: Immediate normalization of all blood counts
+C: Complete resolution of neurologic symptoms within hours
+D: Immediate increase in platelet count
+ANSWER: A
+RATIONALE: A reticulocyte response can occur within approximately 3–5 days after effective vitamin B12 treatment, reflecting renewed red blood cell production.
+END
+
+[MCQ]
+QUESTION: A patient taking phenytoin develops macrocytic anemia. Which deficiency should be investigated?
+A: Folate
+B: Iron
+C: Calcium
+D: Vitamin K
+ANSWER: A
+RATIONALE: Phenytoin can interfere with folate metabolism and contribute to folate deficiency and megaloblastic anemia.
+END
+
+[MCQ]
+QUESTION: A patient receiving methotrexate develops signs of megaloblastic anemia. Which nutrient deficiency may be involved?
+A: Vitamin C
+B: Folate
+C: Iron overload
+D: Vitamin K
+ANSWER: B
+RATIONALE: Methotrexate interferes with folate metabolism and can contribute to folate deficiency.
+END
+
+[MCQ]
+QUESTION: A woman planning pregnancy asks which supplement is especially important before conception. Which answer is best?
+A: Folic acid
+B: Aspirin
+C: Epoetin alfa
+D: Calcium restriction
+ANSWER: A
+RATIONALE: Folic acid supplementation before conception and during early pregnancy helps reduce the risk of fetal neural tube defects.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has severe pancytopenia. Which combination of complications should the nurse anticipate?
+A: Fatigue, infection, and bleeding
+B: Hypertension, hyperglycemia, and edema
+C: Polyuria, thirst, and hypernatremia
+D: Bradycardia, jaundice, and constipation
+ANSWER: A
+RATIONALE: Pancytopenia causes anemia-related fatigue, neutropenia-related infection risk, and thrombocytopenia-related bleeding risk.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has severe neutropenia. Which nursing assessment is most important for detecting a potentially serious complication?
+A: Temperature
+B: Nail length
+C: Visual acuity
+D: Hearing level
+ANSWER: A
+RATIONALE: Fever can be an early sign of infection, which can become life-threatening in a severely neutropenic patient.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has a temperature of 38.5°C. What is the priority interpretation?
+A: The temperature is within the expected range.
+B: The patient may have a serious infection and requires urgent attention.
+C: The patient is developing iron deficiency.
+D: The temperature confirms vitamin B12 deficiency.
+ANSWER: B
+RATIONALE: A temperature greater than 38°C in a significantly neutropenic patient is concerning for infection and requires urgent attention.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has severe neutropenia. Which visitor should be restricted?
+A: A healthy visitor with no symptoms
+B: A visitor with an active respiratory infection
+C: A visitor who washed their hands
+D: A visitor wearing clean clothing
+ANSWER: B
+RATIONALE: Visitors with active infections can expose a neutropenic patient to pathogens and should be restricted according to infection-control precautions.
+END
+
+[MCQ]
+QUESTION: Which environmental item should be avoided for a patient with significant neutropenia?
+A: Fresh flowers
+B: Clean bedding
+C: Hand sanitizer
+D: Protective equipment
+ANSWER: A
+RATIONALE: Fresh flowers and live plants can harbor microorganisms and are generally avoided for significantly neutropenic patients.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia has thrombocytopenia. Which oral-care intervention is most appropriate?
+A: Use a hard-bristled toothbrush.
+B: Use a soft toothbrush.
+C: Floss aggressively.
+D: Use sharp oral instruments.
+ANSWER: B
+RATIONALE: A soft toothbrush minimizes trauma to the gums and decreases bleeding risk.
+END
+
+[MCQ]
+QUESTION: A patient with thrombocytopenia needs to shave. Which method is safest?
+A: Straight razor
+B: Electric razor
+C: Repeated passes with a disposable blade
+D: Any razor used forcefully
+ANSWER: B
+RATIONALE: An electric razor reduces the likelihood of cuts and bleeding.
+END
+
+[MCQ]
+QUESTION: Which medication should generally be avoided in a patient with significant thrombocytopenia?
+A: Aspirin
+B: Folic acid
+C: Vitamin B12
+D: Iron
+ANSWER: A
+RATIONALE: Aspirin inhibits platelet function and can increase bleeding risk in thrombocytopenic patients.
+END
+
+[MCQ]
+QUESTION: Which medication group can increase bleeding risk because of its effects on platelet function?
+A: NSAIDs
+B: Iron preparations
+C: Vitamin B12
+D: Folic acid
+ANSWER: A
+RATIONALE: NSAIDs can impair platelet function and increase bleeding risk.
+END
+
+[MCQ]
+QUESTION: A patient with severe thrombocytopenia requires venipuncture. What should the nurse do after removing the needle?
+A: Massage the site.
+B: Apply firm pressure for several minutes.
+C: Apply heat immediately.
+D: Leave the site uncovered without pressure.
+ANSWER: B
+RATIONALE: Applying firm pressure helps prevent prolonged bleeding after venipuncture in a patient with thrombocytopenia.
+END
+
+[MCQ]
+QUESTION: Which procedure should generally be avoided in a patient with significant thrombocytopenia?
+A: Rectal temperature measurement
+B: Pulse oximetry
+C: Oral medication administration
+D: Noninvasive blood pressure measurement
+ANSWER: A
+RATIONALE: Rectal procedures can cause tissue trauma and bleeding and should generally be avoided in significant thrombocytopenia.
+END
+
+[MCQ]
+QUESTION: A patient with severe thrombocytopenia needs an injection. Which route should generally be avoided?
+A: Oral
+B: Sublingual
+C: Intramuscular
+D: Topical
+ANSWER: C
+RATIONALE: Intramuscular injections can cause bleeding into muscle tissue and are generally avoided when platelet counts are significantly reduced.
+END
+
+[MCQ]
+QUESTION: Which nursing intervention is most appropriate for reducing bleeding risk in a patient with thrombocytopenia?
+A: Encourage contact sports.
+B: Implement fall precautions.
+C: Encourage vigorous exercise.
+D: Encourage activities with a high risk of trauma.
+ANSWER: B
+RATIONALE: Fall precautions reduce the risk of trauma and subsequent bleeding in patients with thrombocytopenia.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia reports extreme fatigue. Which intervention best supports energy conservation?
+A: Cluster nursing activities and provide rest periods.
+B: Encourage continuous activity.
+C: Eliminate daytime rest.
+D: Schedule multiple unnecessary procedures.
+ANSWER: A
+RATIONALE: Anemia reduces oxygen-carrying capacity. Clustering care and allowing rest periods help reduce fatigue and oxygen demand.
+END
+
+[MCQ]
+QUESTION: A patient with severe symptomatic anemia is prescribed a blood transfusion. Which product directly increases oxygen-carrying capacity?
+A: Albumin
+B: Packed red blood cells
+C: Platelets
+D: Cryoprecipitate
+ANSWER: B
+RATIONALE: Packed red blood cells increase the number of circulating red blood cells and improve oxygen-carrying capacity.
+END
+
+[MCQ]
+QUESTION: A young patient with severe aplastic anemia has a suitable matched donor. Which treatment may provide the best chance of a definitive cure?
+A: Oral iron
+B: Folic acid
+C: Hematopoietic stem cell transplantation
+D: Vitamin B12
+ANSWER: C
+RATIONALE: Hematopoietic stem cell transplantation can potentially cure aplastic anemia, particularly in appropriate younger patients with a matched donor.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia is not an appropriate immediate candidate for transplantation. Which therapy may be used as immunosuppression?
+A: Antithymocyte globulin and cyclosporine
+B: Aspirin and ibuprofen
+C: Ferrous sulfate and calcium
+D: Vitamin C and vitamin K
+ANSWER: A
+RATIONALE: Antithymocyte globulin and cyclosporine are established immunosuppressive treatments for selected patients with aplastic anemia.
+END
+
+[MCQ]
+QUESTION: A patient with anemia reports fatigue and exertional dyspnea. Which change in blood function most directly explains these manifestations?
+A: Reduced oxygen delivery to tissues
+B: Increased platelet adhesion
+C: Increased histamine release
+D: Increased antibody production
+ANSWER: A
+RATIONALE: Reduced hemoglobin or red blood cell mass decreases oxygen-carrying capacity and can reduce oxygen delivery to tissues.
+END
+
+[MCQ]
+QUESTION: A patient has low hemoglobin, low MCV, low ferritin, and high TIBC. Which additional finding would strengthen the diagnosis of iron deficiency anemia?
+A: Pica
+B: Loss of vibration sense
+C: Pancytopenia
+D: High ferritin
+ANSWER: A
+RATIONALE: Pica is a recognized manifestation of iron deficiency and supports the diagnosis when combined with the characteristic laboratory findings.
+END
+
+[MCQ]
+QUESTION: A patient has low serum iron, low TIBC, and normal-high ferritin. Which finding would further support anemia of inflammation?
+A: Chronic inflammatory disease
+B: Heavy menstrual bleeding with depleted iron stores
+C: Low ferritin
+D: Markedly increased TIBC
+ANSWER: A
+RATIONALE: Chronic inflammatory disease is associated with increased hepcidin and the characteristic laboratory pattern of anemia of inflammation.
+END
+
+[MCQ]
+QUESTION: A patient with chronic inflammation has increased IL-6 levels. What effect does IL-6 have on iron metabolism?
+A: It promotes increased hepcidin production.
+B: It directly increases intrinsic factor.
+C: It increases platelet production.
+D: It converts folate into vitamin B12.
+ANSWER: A
+RATIONALE: IL-6 stimulates hepatic hepcidin production, which decreases iron availability by inhibiting ferroportin.
+END
+
+[MCQ]
+QUESTION: A patient with chronic kidney disease has anemia because the kidneys no longer produce enough erythropoietin. Which treatment addresses this mechanism?
+A: Epoetin alfa
+B: Aspirin
+C: Methotrexate
+D: Calcium carbonate
+ANSWER: A
+RATIONALE: Epoetin alfa provides an erythropoietic stimulus similar to endogenous erythropoietin and is used in selected patients with CKD-associated anemia.
+END
+
+[MCQ]
+QUESTION: A patient receiving epoetin alfa develops uncontrolled hypertension. Which concern is most appropriate?
+A: ESA therapy can worsen hypertension and increase thrombotic risk.
+B: ESA therapy always causes severe hypoglycemia.
+C: ESA therapy permanently eliminates platelets.
+D: ESA therapy causes immediate iron overload.
+ANSWER: A
+RATIONALE: ESAs can worsen hypertension and increase thrombotic risk, making blood pressure monitoring important.
+END
+
+[MCQ]
+QUESTION: A patient with macrocytic anemia has paresthesias and gait ataxia. Which treatment would be most appropriate if laboratory testing confirms vitamin B12 deficiency?
+A: Vitamin B12 replacement
+B: Aspirin
+C: Calcium restriction
+D: Platelet transfusion
+ANSWER: A
+RATIONALE: Vitamin B12 replacement treats the underlying deficiency and is essential when B12 deficiency is responsible for the megaloblastic anemia and neurologic manifestations.
+END
+
+[MCQ]
+QUESTION: A patient with folate deficiency has macrocytic anemia but no neurologic manifestations. Which treatment should the nurse expect?
+A: Folic acid supplementation
+B: Lifelong aspirin
+C: Platelet transfusion
+D: Epoetin alfa in every case
+ANSWER: A
+RATIONALE: Folate deficiency is treated with folic acid supplementation while the underlying cause is addressed.
+END
+
+[MCQ]
+QUESTION: A patient with aplastic anemia develops fever, fatigue, and bruising. Which combination of blood abnormalities best explains all three findings?
+A: Increased red blood cells, increased platelets, and increased neutrophils
+B: Decreased red blood cells, decreased white blood cells, and decreased platelets
+C: Increased red blood cells, decreased platelets, and increased neutrophils
+D: Decreased plasma proteins with normal blood cell counts
+ANSWER: B
+RATIONALE: Aplastic anemia causes pancytopenia. Anemia produces fatigue, leukopenia/neutropenia increases infection risk and fever, and thrombocytopenia causes bruising and bleeding.
+END
