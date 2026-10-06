@@ -827,41 +827,7 @@ document.getElementById("submitButton")
         }
     );
 
-            // ====================================
-            // INCORRECT
-            // ====================================
-
-            else {
-
-                document.getElementById("result")
-                    .innerHTML = `
-
-                        <div class="wrong">
-
-                            <strong>
-                                Incorrect.
-                            </strong>
-
-                            <p>
-                                Correct answer:
-                                ${
-                                    String.fromCharCode(
-                                        65 +
-                                        q.correct_answer
-                                    )
-                                }
-                            </p>
-
-                            <p>
-                                ${q.rationale}
-                            </p>
-
-                        </div>
-
-                    `;
-
-            }
-
+            
 
             // ====================================
             // DISABLE ANSWERS
