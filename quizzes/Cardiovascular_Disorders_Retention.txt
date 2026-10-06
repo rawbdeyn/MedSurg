@@ -1,0 +1,1039 @@
+[MCQ]
+QUESTION: Which five questions provide a basic framework for assessing a cardiac problem?
+A: Rate, rhythm, pump, pipes, and volume
+B: Pain, temperature, glucose, oxygen, and weight
+C: Pulse, blood pressure, respiration, urine, and skin
+D: Sodium, potassium, calcium, magnesium, and phosphate
+ANSWER: A
+RATIONALE: The five cardiac assessment questions are rate, rhythm, pump, pipes, and volume.
+END
+
+[MCQ]
+QUESTION: Which cardiac assessment question asks whether the heart rate is too fast or too slow?
+A: Pump
+B: Rate
+C: Pipes
+D: Volume
+ANSWER: B
+RATIONALE: Rate evaluates whether the heart is beating too fast or too slowly.
+END
+
+[MCQ]
+QUESTION: Which cardiac assessment question focuses on whether the heartbeat is regular or irregular?
+A: Volume
+B: Pump
+C: Rhythm
+D: Pipes
+ANSWER: C
+RATIONALE: Rhythm evaluates the regularity or irregularity of the heartbeat.
+END
+
+[MCQ]
+QUESTION: Which cardiac assessment question evaluates whether ventricular contraction and filling are effective?
+A: Pipes
+B: Rate
+C: Volume
+D: Pump
+ANSWER: D
+RATIONALE: Pump refers to the effectiveness of cardiac contraction and filling.
+END
+
+[MCQ]
+QUESTION: Which cardiac assessment question evaluates whether blood vessels are patent?
+A: Pipes
+B: Pump
+C: Rhythm
+D: Rate
+ANSWER: A
+RATIONALE: Pipes refers to the blood vessels and whether they are open and able to carry blood.
+END
+
+[MCQ]
+QUESTION: Which symptom is commonly associated with pulmonary congestion in heart failure?
+A: Claudication
+B: Orthopnea
+C: Pica
+D: Hematuria
+ANSWER: B
+RATIONALE: Orthopnea is difficulty breathing when lying flat and is commonly associated with pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: What does PND stand for?
+A: Progressive nocturnal distress
+B: Pulmonary nighttime dyspnea
+C: Paroxysmal nocturnal dyspnea
+D: Peripheral nocturnal desaturation
+ANSWER: C
+RATIONALE: PND stands for paroxysmal nocturnal dyspnea.
+END
+
+[MCQ]
+QUESTION: Which assessment finding is most characteristic of poor cardiac perfusion?
+A: Raised JVP
+B: Peripheral edema
+C: Pulmonary crackles
+D: Cool, mottled skin with weak pulses
+ANSWER: D
+RATIONALE: Poor perfusion can cause cool, mottled skin and weak pulses because tissue blood flow is reduced.
+END
+
+[MCQ]
+QUESTION: Which finding is most characteristic of systemic venous congestion?
+A: Raised jugular venous pressure
+B: Flat neck veins
+C: Warm dry skin
+D: Strong peripheral pulses
+ANSWER: A
+RATIONALE: Raised JVP is a classic finding of systemic venous congestion.
+END
+
+[MCQ]
+QUESTION: Which finding is most associated with pulmonary congestion?
+A: Flat jugular veins
+B: Crackles and orthopnea
+C: Cool mottled extremities
+D: Intermittent claudication
+ANSWER: B
+RATIONALE: Pulmonary congestion commonly produces crackles and orthopnea.
+END
+
+[MCQ]
+QUESTION: What is the primary danger of severe poor cardiac perfusion?
+A: Pulmonary edema
+B: Peripheral edema
+C: Organ ischemia and shock
+D: Ascites
+ANSWER: C
+RATIONALE: Inadequate perfusion can deprive organs of oxygen and progress to shock.
+END
+
+[MCQ]
+QUESTION: What is the major pulmonary danger of severe cardiac congestion?
+A: Claudication
+B: Renal stones
+C: Bradycardia
+D: Pulmonary edema
+ANSWER: D
+RATIONALE: Severe pulmonary congestion can progress to pulmonary edema and respiratory compromise.
+END
+
+[MCQ]
+QUESTION: Which diagnostic test evaluates cardiac rhythm and conduction?
+A: 12-lead ECG
+B: Chest X-ray
+C: Echocardiogram
+D: Coronary angiography
+ANSWER: A
+RATIONALE: A 12-lead ECG evaluates cardiac electrical activity, including rhythm and conduction abnormalities.
+END
+
+[MCQ]
+QUESTION: What does an elevated troponin primarily indicate?
+A: Ventricular wall stretch
+B: Myocardial injury
+C: Pulmonary congestion
+D: Valve stenosis
+ANSWER: B
+RATIONALE: Troponin is a biomarker of myocardial injury.
+END
+
+[MCQ]
+QUESTION: Which diagnostic test evaluates ejection fraction, pump function, valves, and wall motion?
+A: Chest X-ray
+B: Troponin test
+C: Echocardiogram
+D: 12-lead ECG
+ANSWER: C
+RATIONALE: Echocardiography evaluates cardiac structure and function, including EF, valves, and wall motion.
+END
+
+[MCQ]
+QUESTION: Which biomarkers reflect ventricular wall stretch and help evaluate heart failure?
+A: Troponin and CK-MB
+B: Creatinine and BUN
+C: Hemoglobin and hematocrit
+D: BNP and NT-proBNP
+ANSWER: D
+RATIONALE: BNP and NT-proBNP are released in response to ventricular wall stretch and help evaluate heart failure.
+END
+
+[MCQ]
+QUESTION: Which finding can a chest X-ray help identify in a patient with heart failure?
+A: Pulmonary vascular congestion
+B: Troponin elevation
+C: Coronary plaque composition
+D: Electrical conduction delay
+ANSWER: A
+RATIONALE: Chest X-ray can show cardiomegaly, pulmonary vascular congestion, pulmonary edema, and pleural effusion.
+END
+
+[MCQ]
+QUESTION: Which diagnostic procedure directly visualizes coronary anatomy?
+A: Echocardiography
+B: Coronary angiography
+C: Chest X-ray
+D: Pulse oximetry
+ANSWER: B
+RATIONALE: Coronary angiography visualizes the coronary arteries and can provide information about intracardiac pressures.
+END
+
+[MCQ]
+QUESTION: What is arteriosclerosis?
+A: Acute coronary thrombosis
+B: Plaque rupture in a coronary artery
+C: General arterial thickening and loss of elasticity
+D: Inflammation limited to the myocardium
+ANSWER: C
+RATIONALE: Arteriosclerosis is the general term for arterial thickening and loss of elasticity.
+END
+
+[MCQ]
+QUESTION: What distinguishes atherosclerosis from arteriosclerosis?
+A: Atherosclerosis occurs only in veins.
+B: Atherosclerosis refers only to elevated blood pressure.
+C: Atherosclerosis affects only the myocardium.
+D: Atherosclerosis involves plaque buildup within arterial walls.
+ANSWER: D
+RATIONALE: Atherosclerosis is a chronic inflammatory arterial disease involving plaque buildup within arterial walls.
+END
+
+[MCQ]
+QUESTION: Which condition can contribute to endothelial injury during atherosclerosis development?
+A: Hypertension
+B: Hypothermia
+C: Bradycardia
+D: Low dietary calcium
+ANSWER: A
+RATIONALE: Hypertension can damage the vascular endothelium and contribute to atherosclerosis.
+END
+
+[MCQ]
+QUESTION: Which lipoprotein can enter the arterial wall and contribute to atherosclerotic plaque formation?
+A: HDL
+B: LDL
+C: Albumin
+D: Hemoglobin
+ANSWER: B
+RATIONALE: LDL can enter the arterial wall and undergo oxidation, contributing to inflammation and plaque formation.
+END
+
+[MCQ]
+QUESTION: What are foam cells formed from?
+A: Platelets filled with calcium
+B: Red blood cells containing excess iron
+C: Macrophages that engulf oxidized LDL
+D: Fibroblasts that produce hemoglobin
+ANSWER: C
+RATIONALE: Macrophages engulf oxidized LDL and become lipid-filled foam cells.
+END
+
+[MCQ]
+QUESTION: What is a fatty streak?
+A: A blood clot inside a vein
+B: A ruptured myocardial scar
+C: A calcified heart valve
+D: An accumulation of foam cells in the arterial wall
+ANSWER: D
+RATIONALE: Fatty streaks form when foam cells accumulate within the arterial wall.
+END
+
+[MCQ]
+QUESTION: What structure forms over the lipid-rich necrotic core of an advanced atherosclerotic plaque?
+A: Fibrous cap
+B: Platelet plug
+C: Valve leaflet
+D: Myocardial septum
+ANSWER: A
+RATIONALE: A fibrous cap forms over the lipid-rich necrotic core of an atherosclerotic plaque.
+END
+
+[MCQ]
+QUESTION: What can occur after an atherosclerotic plaque ruptures?
+A: Immediate venous dilation
+B: Platelet aggregation and thrombosis
+C: Increased hemoglobin production
+D: Permanent coronary vasodilation
+ANSWER: B
+RATIONALE: Plaque rupture can expose thrombogenic material, promoting platelet aggregation and thrombus formation.
+END
+
+[MCQ]
+QUESTION: Which condition is a coronary manifestation of atherosclerosis?
+A: Ascites
+B: Hepatomegaly
+C: Acute coronary syndrome
+D: Nephrotic syndrome
+ANSWER: C
+RATIONALE: Coronary atherosclerosis can cause stable angina, ACS, myocardial infarction, dysrhythmias, and heart failure.
+END
+
+[MCQ]
+QUESTION: Which manifestation is associated with peripheral arterial atherosclerosis?
+A: Orthopnea
+B: Pink frothy sputum
+C: Elevated BNP
+D: Intermittent claudication
+ANSWER: D
+RATIONALE: Peripheral arterial disease commonly causes intermittent claudication, weak pulses, cool limbs, rest pain, and non-healing ulcers.
+END
+
+[MCQ]
+QUESTION: Which manifestation can occur with carotid or cerebral atherosclerosis?
+A: Transient ischemic attack
+B: Pulmonary edema
+C: Ascites
+D: Orthopnea
+ANSWER: A
+RATIONALE: Atherosclerosis affecting carotid or cerebral vessels can cause TIA and ischemic stroke.
+END
+
+[MCQ]
+QUESTION: Which symptom is characteristic of mesenteric arterial disease?
+A: Pink frothy sputum
+B: Postprandial abdominal pain
+C: Jugular venous distention
+D: Paroxysmal nocturnal dyspnea
+ANSWER: B
+RATIONALE: Mesenteric arterial disease can cause abdominal pain after eating, fear of eating, and weight loss.
+END
+
+[MCQ]
+QUESTION: During myocardial ischemia, what happens to oxygen demand and supply?
+A: Oxygen supply becomes greater than demand.
+B: Oxygen demand and supply remain equal.
+C: Oxygen demand decreases below supply.
+D: Oxygen demand exceeds oxygen supply.
+ANSWER: D
+RATIONALE: Myocardial ischemia occurs when oxygen supply cannot meet myocardial oxygen demand.
+END
+
+[MCQ]
+QUESTION: Which metabolic change occurs when ischemic myocardium shifts toward anaerobic metabolism?
+A: Increased lactic acid production
+B: Increased ATP production
+C: Increased oxygen availability
+D: Decreased metabolic activity
+ANSWER: A
+RATIONALE: Anaerobic metabolism produces less ATP and increases lactic acid production.
+END
+
+[MCQ]
+QUESTION: What cardiac function can be impaired during myocardial ischemia?
+A: Platelet production
+B: Myocardial contractility
+C: Hemoglobin synthesis
+D: Bile production
+ANSWER: B
+RATIONALE: Ischemia reduces myocardial energy availability and can impair contractility.
+END
+
+[MCQ]
+QUESTION: What does an elevated troponin indicate in the cardiovascular system?
+A: Myocardial injury
+B: Normal coronary blood flow
+C: Increased red blood cell production
+D: Improved ventricular filling
+ANSWER: A
+RATIONALE: Troponin elevation indicates myocardial injury but does not by itself prove myocardial infarction.
+END
+
+[MCQ]
+QUESTION: Which finding is required in addition to a rise or fall in troponin to establish myocardial infarction?
+A: Evidence of acute myocardial ischemia
+B: Elevated blood glucose alone
+C: Increased body weight
+D: Presence of peripheral edema
+ANSWER: A
+RATIONALE: MI requires a rise or fall in troponin plus evidence of acute myocardial ischemia.
+END
+
+[MCQ]
+QUESTION: Which condition is most characteristic of a Type 1 myocardial infarction?
+A: Severe anemia causing oxygen mismatch without thrombosis
+B: Atherosclerotic plaque rupture or erosion with acute coronary thrombosis
+C: Isolated tachycardia without ischemia
+D: Chronic hypertension without coronary obstruction
+ANSWER: B
+RATIONALE: Type 1 MI results from acute atherosclerotic plaque disruption with coronary thrombosis.
+END
+
+[MCQ]
+QUESTION: Which condition can cause a Type 2 myocardial infarction?
+A: Plaque rupture with coronary thrombosis
+B: Acute coronary plaque erosion
+C: Severe anemia causing oxygen supply-demand mismatch
+D: Stable atherosclerotic plaque without ischemia
+ANSWER: C
+RATIONALE: Type 2 MI results from oxygen supply-demand mismatch without acute plaque thrombosis; severe anemia is one possible cause.
+END
+
+[MCQ]
+QUESTION: Which ECG finding is characteristic of STEMI?
+A: ST elevation or an accepted equivalent
+B: Normal sinus rhythm only
+C: Isolated prolonged PR interval
+D: Shortened QT interval
+ANSWER: A
+RATIONALE: STEMI is characterized by diagnostic ST-segment elevation or an accepted equivalent in the appropriate clinical setting.
+END
+
+[MCQ]
+QUESTION: Which ECG findings can occur with NSTEMI?
+A: Persistent ST elevation only
+B: ST depression or T-wave inversion
+C: Complete absence of ECG abnormalities in every case
+D: Only a prolonged QT interval
+ANSWER: B
+RATIONALE: NSTEMI may show ST depression, T-wave inversion, or nonspecific ECG changes.
+END
+
+[MCQ]
+QUESTION: Which statement about troponin is correct when comparing STEMI and NSTEMI?
+A: Troponin is elevated only in STEMI.
+B: Troponin is elevated only in NSTEMI.
+C: Both can show an elevated troponin rise-and-fall pattern.
+D: Neither condition causes troponin elevation.
+ANSWER: C
+RATIONALE: Both STEMI and NSTEMI involve myocardial injury and can produce a rise-and-fall pattern in troponin.
+END
+
+[MCQ]
+QUESTION: What is the immediate priority for a patient with STEMI?
+A: Routine outpatient follow-up
+B: Long-term dietary counseling
+C: Delaying treatment until symptoms resolve
+D: Emergency reperfusion
+ANSWER: D
+RATIONALE: STEMI requires urgent reperfusion, typically through PCI or fibrinolysis when appropriate.
+END
+
+[MCQ]
+QUESTION: When may fibrinolysis be considered for STEMI?
+A: When timely PCI is unavailable or cannot be achieved within the appropriate timeframe
+B: Whenever the patient has stable angina
+C: For every NSTEMI patient
+D: Whenever troponin is normal
+ANSWER: A
+RATIONALE: Fibrinolysis may be used for eligible STEMI patients when timely PCI cannot be provided.
+END
+
+[MCQ]
+QUESTION: What is the recommended target time for obtaining a 12-lead ECG in a patient with suspected ACS?
+A: Within 1 hour
+B: Within 10 minutes
+C: Within 30 minutes
+D: Within 2 hours
+ANSWER: B
+RATIONALE: A 12-lead ECG should be obtained within 10 minutes in suspected acute coronary syndrome.
+END
+
+[MCQ]
+QUESTION: Which medication is an antiplatelet agent used in ACS?
+A: Furosemide
+B: Epoetin alfa
+C: Aspirin
+D: Digoxin
+ANSWER: C
+RATIONALE: Aspirin inhibits platelet aggregation and is a key antiplatelet medication in ACS.
+END
+
+[MCQ]
+QUESTION: What is the purpose of anticoagulation in acute coronary syndrome?
+A: Increase platelet aggregation
+B: Increase myocardial oxygen demand
+C: Reduce hemoglobin concentration
+D: Prevent thrombus propagation
+ANSWER: D
+RATIONALE: Anticoagulants help prevent further growth or propagation of thrombus.
+END
+
+[MCQ]
+QUESTION: When should nitroglycerin generally be avoided in a patient with ACS?
+A: When the patient is hypotensive
+B: When the patient reports chest pain
+C: When the ECG is being obtained
+D: When the patient is receiving aspirin
+ANSWER: A
+RATIONALE: Nitroglycerin can further lower blood pressure and should be avoided in hypotension; it is also avoided when right ventricular MI is suspected.
+END
+
+[MCQ]
+QUESTION: When is oxygen generally indicated for a patient with ACS according to the provided framework?
+A: For every patient with chest pain
+B: When SpO₂ is below 90% or the patient has respiratory distress
+C: Only when the patient has hypertension
+D: Only after troponin becomes positive
+ANSWER: B
+RATIONALE: Routine oxygen is not required for all ACS patients; it is indicated when oxygen saturation is below 90% or respiratory distress is present.
+END
+
+[MCQ]
+QUESTION: Which medication class helps reduce myocardial workload and is used in appropriate patients with ACS?
+A: Antacids
+B: Antihistamines
+C: Beta-blockers
+D: Laxatives
+ANSWER: C
+RATIONALE: Beta-blockers can reduce heart rate and myocardial workload in appropriate ACS patients.
+END
+
+[MCQ]
+QUESTION: Which medication class is used to help stabilize atherosclerotic plaque and reduce cardiovascular risk after ACS?
+A: High-intensity statins
+B: Antacids
+C: Antiemetics
+D: Bronchodilators
+ANSWER: A
+RATIONALE: High-intensity statins reduce LDL cholesterol and help stabilize atherosclerotic plaque.
+END
+
+[MCQ]
+QUESTION: What does systolic heart failure primarily involve?
+A: Impaired ventricular contraction
+B: Excessive ventricular filling with normal contraction
+C: Isolated valve infection
+D: Increased red blood cell production
+ANSWER: A
+RATIONALE: Systolic heart failure, commonly called HFrEF, primarily involves impaired ventricular contractility.
+END
+
+[MCQ]
+QUESTION: What LVEF is characteristic of HFrEF?
+A: 70% or greater
+B: 50–60%
+C: 41–49%
+D: 40% or less
+ANSWER: D
+RATIONALE: HFrEF is characterized by a left ventricular ejection fraction of 40% or less.
+END
+
+[MCQ]
+QUESTION: What primarily characterizes HFpEF?
+A: Ventricular stiffness and impaired filling
+B: Complete absence of cardiac contraction
+C: Coronary thrombosis in every case
+D: Severe anemia as the defining feature
+ANSWER: A
+RATIONALE: HFpEF involves a relatively preserved ejection fraction but impaired ventricular relaxation and filling.
+END
+
+[MCQ]
+QUESTION: Which LVEF is generally associated with HFpEF?
+A: 20% or less
+B: 30% or less
+C: 50% or greater
+D: 40% or less
+ANSWER: C
+RATIONALE: HFpEF generally has an LVEF of 50% or greater.
+END
+
+[MCQ]
+QUESTION: What is the primary pathophysiologic problem in left-sided heart failure?
+A: Blood backs up into the pulmonary circulation
+B: Blood backs up only into the portal circulation
+C: Blood flow to the coronary arteries always increases
+D: Systemic venous pressure always decreases
+ANSWER: A
+RATIONALE: Left-sided heart failure causes blood to back up into the pulmonary veins and circulation, producing pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: Which finding is most characteristic of left-sided heart failure?
+A: Ascites
+B: Crackles
+C: Hepatomegaly
+D: Peripheral venous congestion only
+ANSWER: B
+RATIONALE: Left-sided heart failure commonly causes pulmonary congestion, producing crackles, dyspnea, orthopnea, and PND.
+END
+
+[MCQ]
+QUESTION: Which respiratory symptom is strongly associated with pulmonary congestion from left-sided heart failure?
+A: Claudication
+B: Pica
+C: Orthopnea
+D: Hematuria
+ANSWER: C
+RATIONALE: Orthopnea occurs when pulmonary congestion worsens in the supine position.
+END
+
+[MCQ]
+QUESTION: Which sputum finding can occur with severe pulmonary edema from left-sided heart failure?
+A: Thick green sputum
+B: Black sputum
+C: Clear sputum only
+D: Pink frothy sputum
+ANSWER: D
+RATIONALE: Pink frothy sputum is a classic finding associated with acute pulmonary edema.
+END
+
+[MCQ]
+QUESTION: What is the primary pathophysiologic problem in right-sided heart failure?
+A: Blood backs up into the systemic venous circulation
+B: Blood backs up only into the pulmonary veins
+C: Coronary blood flow always increases
+D: Pulmonary edema is always the first manifestation
+ANSWER: A
+RATIONALE: Right-sided heart failure causes systemic venous congestion.
+END
+
+[MCQ]
+QUESTION: Which finding is characteristic of right-sided heart failure?
+A: Pink frothy sputum
+B: Jugular venous distention
+C: Pulmonary crackles only
+D: Orthopnea only
+ANSWER: B
+RATIONALE: Right-sided heart failure commonly causes systemic venous congestion, including JVD.
+END
+
+[MCQ]
+QUESTION: Which gastrointestinal or abdominal finding can occur with right-sided heart failure?
+A: Hematemesis
+B: Pica
+C: Hepatomegaly and ascites
+D: Peptic ulcer disease
+ANSWER: C
+RATIONALE: Systemic venous congestion can cause hepatic enlargement and fluid accumulation in the abdomen.
+END
+
+[MCQ]
+QUESTION: Which finding can indicate worsening fluid retention in heart failure?
+A: Sudden weight gain
+B: Decreased body temperature
+C: Improved exercise tolerance
+D: Increased urine concentration alone
+ANSWER: A
+RATIONALE: Sudden weight gain can reflect increasing fluid retention and worsening heart failure.
+END
+
+[MCQ]
+QUESTION: Which nursing assessment is particularly useful for monitoring fluid changes in heart failure?
+A: Daily weight
+B: Weekly height
+C: Hair assessment
+D: Pupil size
+ANSWER: A
+RATIONALE: Daily weight is a sensitive way to monitor changes in fluid status.
+END
+
+[MCQ]
+QUESTION: Which nursing intervention is appropriate for a patient experiencing significant pulmonary congestion?
+A: Place the patient flat
+B: Place the patient in high-Fowler's position
+C: Encourage strenuous exercise
+D: Restrict oxygen regardless of oxygenation
+ANSWER: B
+RATIONALE: High-Fowler's positioning promotes lung expansion and can reduce the work of breathing.
+END
+
+[MCQ]
+QUESTION: Which monitoring method helps evaluate fluid balance in heart failure?
+A: Strict intake and output
+B: Visual acuity testing
+C: Hearing assessment
+D: Pupil reaction
+ANSWER: A
+RATIONALE: Strict intake and output helps evaluate fluid balance and renal response to treatment.
+END
+
+[MCQ]
+QUESTION: Which dietary restriction is commonly included in heart failure management?
+A: High-sodium diet
+B: Sodium restriction
+C: High-sugar diet
+D: High-caffeine diet
+ANSWER: B
+RATIONALE: Sodium restriction helps reduce sodium and water retention in appropriate heart failure patients.
+END
+
+[MCQ]
+QUESTION: Which additional restriction may be prescribed for some patients with significant heart failure?
+A: Fluid restriction
+B: Complete protein restriction
+C: Complete carbohydrate restriction
+D: Zero-calorie intake
+ANSWER: A
+RATIONALE: Fluid restriction may be prescribed when fluid retention is significant or difficult to control.
+END
+
+[MCQ]
+QUESTION: Which neurohormonal system promotes sodium and water retention in heart failure?
+A: RAAS
+B: Thyroid system
+C: Insulin system
+D: Coagulation cascade
+ANSWER: A
+RATIONALE: Activation of the renin-angiotensin-aldosterone system promotes sodium and water retention.
+END
+
+[MCQ]
+QUESTION: What is one major effect of aldosterone in heart failure?
+A: Promotes sodium and water retention
+B: Causes platelet destruction
+C: Decreases blood volume immediately
+D: Blocks all sympathetic activity
+ANSWER: A
+RATIONALE: Aldosterone promotes sodium reabsorption, with water following sodium, increasing fluid retention.
+END
+
+[MCQ]
+QUESTION: What is one major effect of ADH activation in heart failure?
+A: Promotes water retention
+B: Causes direct platelet aggregation
+C: Eliminates pulmonary congestion
+D: Prevents ventricular remodeling
+ANSWER: A
+RATIONALE: ADH promotes water retention, contributing to increased circulating volume.
+END
+
+[MCQ]
+QUESTION: What is the short-term cardiovascular effect of sympathetic nervous system activation in heart failure?
+A: Decreased heart rate and contractility
+B: Increased heart rate and contractility
+C: Complete cessation of ventricular contraction
+D: Immediate reduction in blood volume
+ANSWER: B
+RATIONALE: Sympathetic activation increases heart rate and contractility as a short-term compensatory response.
+END
+
+[MCQ]
+QUESTION: Why can chronic sympathetic activation become harmful in heart failure?
+A: It permanently eliminates preload
+B: It decreases myocardial workload
+C: It increases cardiac workload and afterload
+D: It prevents ventricular remodeling
+ANSWER: C
+RATIONALE: Chronic sympathetic activation increases workload and afterload, contributing to progressive cardiac dysfunction.
+END
+
+[MCQ]
+QUESTION: What can chronic pressure or volume overload cause in the ventricles?
+A: Ventricular remodeling
+B: Immediate restoration of normal function
+C: Complete prevention of hypertrophy
+D: Permanent reduction in blood volume
+ANSWER: A
+RATIONALE: Chronic pressure or volume overload can cause ventricular hypertrophy or dilation, known as remodeling.
+END
+
+[MCQ]
+QUESTION: Why can ventricular remodeling eventually worsen heart failure?
+A: It always decreases oxygen demand
+B: It can increase oxygen demand and reduce pumping efficiency
+C: It completely prevents dilation
+D: It eliminates neurohormonal activation
+ANSWER: B
+RATIONALE: Remodeling can increase myocardial oxygen demand and eventually reduce effective pumping function.
+END
+
+[MCQ]
+QUESTION: Which medication class directly promotes urine formation and is commonly used to reduce fluid overload in heart failure?
+A: Diuretics
+B: Antiplatelets
+C: Statins
+D: Antacids
+ANSWER: A
+RATIONALE: Diuretics promote sodium and water excretion and are commonly used to relieve congestion.
+END
+
+[MCQ]
+QUESTION: Which medication class blocks the effects of angiotensin II and is used in appropriate patients with heart failure?
+A: ARBs
+B: Antihistamines
+C: Anticoagulants
+D: Antiemetics
+ANSWER: A
+RATIONALE: Angiotensin receptor blockers inhibit the effects of angiotensin II and can be used in heart failure management.
+END
+
+[MCQ]
+QUESTION: What does an ARNI combine?
+A: An angiotensin receptor blocker and a neprilysin inhibitor
+B: A beta-blocker and a statin
+C: A diuretic and an anticoagulant
+D: An antiplatelet and a calcium supplement
+ANSWER: A
+RATIONALE: ARNI therapy combines an angiotensin receptor blocker with a neprilysin inhibitor.
+END
+
+[MCQ]
+QUESTION: Which medication class is included among guideline-directed therapies for HFrEF?
+A: Beta-blockers
+B: Antacids
+C: Antihistamines
+D: Antibiotics
+ANSWER: A
+RATIONALE: Evidence-based beta-blockers are an important component of guideline-directed HFrEF therapy.
+END
+
+[MCQ]
+QUESTION: What does an MRA refer to in heart failure pharmacotherapy?
+A: Mineralocorticoid receptor antagonist
+B: Myocardial rhythm activator
+C: Metabolic renal accelerator
+D: Muscular receptor agonist
+ANSWER: A
+RATIONALE: MRA stands for mineralocorticoid receptor antagonist.
+END
+
+[MCQ]
+QUESTION: Which newer medication class is included in guideline-directed heart failure therapy?
+A: SGLT2 inhibitors
+B: Proton pump inhibitors
+C: Antihistamines
+D: Antacids
+ANSWER: A
+RATIONALE: SGLT2 inhibitors are an important class of guideline-directed therapy for heart failure.
+END
+
+[MCQ]
+QUESTION: Which condition is characterized by impaired ventricular contractility and reduced ejection fraction?
+A: HFrEF
+B: HFpEF
+C: Stable angina
+D: Isolated right-sided congestion
+ANSWER: A
+RATIONALE: HFrEF is characterized by reduced ejection fraction and impaired systolic contraction.
+END
+
+[MCQ]
+QUESTION: Which condition is characterized primarily by ventricular stiffness and impaired filling?
+A: HFrEF
+B: HFpEF
+C: STEMI
+D: Type 1 MI
+ANSWER: B
+RATIONALE: HFpEF is primarily associated with impaired ventricular relaxation and filling despite relatively preserved EF.
+END
+
+[MCQ]
+QUESTION: Which heart failure type is most directly associated with pulmonary venous congestion?
+A: Left-sided heart failure
+B: Right-sided heart failure
+C: Isolated peripheral arterial disease
+D: Mesenteric ischemia
+ANSWER: A
+RATIONALE: Left-sided failure causes blood to back up into the pulmonary circulation.
+END
+
+[MCQ]
+QUESTION: Which heart failure type is most directly associated with systemic venous congestion?
+A: Left-sided heart failure
+B: Right-sided heart failure
+C: STEMI
+D: NSTEMI
+ANSWER: B
+RATIONALE: Right-sided failure causes blood to back up into the systemic venous circulation.
+END
+
+[MCQ]
+QUESTION: Which assessment finding indicates poor perfusion rather than primarily congestion?
+A: Cool, mottled skin
+B: Peripheral edema
+C: Raised JVP
+D: Crackles
+ANSWER: A
+RATIONALE: Cool, mottled skin reflects reduced peripheral perfusion, whereas edema, raised JVP, and crackles are congestion findings.
+END
+
+[MCQ]
+QUESTION: Which finding indicates systemic congestion rather than isolated poor perfusion?
+A: Weak pulses
+B: Oliguria from low perfusion
+C: Raised JVP
+D: Confusion
+ANSWER: C
+RATIONALE: Raised JVP is a sign of systemic venous congestion.
+END
+
+[MCQ]
+QUESTION: Which finding is most closely associated with pulmonary congestion?
+A: Crackles
+B: Flat neck veins
+C: Cool mottled skin
+D: Weak peripheral pulses
+ANSWER: A
+RATIONALE: Crackles can result from fluid accumulation in the lungs due to pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: Which renal finding may occur with poor cardiac perfusion?
+A: Oliguria
+B: Polyuria in every case
+C: Hematuria as the defining sign
+D: Glycosuria as the defining sign
+ANSWER: A
+RATIONALE: Reduced renal perfusion can decrease urine output, producing oliguria.
+END
+
+[MCQ]
+QUESTION: Which symptom is associated with reduced peripheral arterial blood flow?
+A: Intermittent claudication
+B: Orthopnea
+C: PND
+D: Pink frothy sputum
+ANSWER: A
+RATIONALE: Intermittent claudication is exertional pain caused by inadequate arterial blood flow to the limbs.
+END
+
+[MCQ]
+QUESTION: Which peripheral finding can occur with arterial insufficiency?
+A: Warm flushed extremities
+B: Cool limbs with weak pulses
+C: Bilateral crackles
+D: Pink frothy sputum
+ANSWER: B
+RATIONALE: Reduced arterial perfusion can cause cool extremities and weak peripheral pulses.
+END
+
+[MCQ]
+QUESTION: Which complication can result from severe peripheral arterial disease?
+A: Non-healing ulcers
+B: Pulmonary edema
+C: Orthopnea
+D: JVD
+ANSWER: A
+RATIONALE: Severe arterial insufficiency can impair tissue perfusion and lead to non-healing ulcers.
+END
+
+[MCQ]
+QUESTION: Which cardiovascular risk factor is associated with endothelial injury and atherosclerosis?
+A: Smoking
+B: Adequate physical activity
+C: Normal blood pressure
+D: Normal LDL level
+ANSWER: A
+RATIONALE: Smoking damages the vascular endothelium and contributes to atherosclerotic disease.
+END
+
+[MCQ]
+QUESTION: Which metabolic condition is a major risk factor for atherosclerosis?
+A: Diabetes mellitus
+B: Hypoglycemia from fasting alone
+C: Normal glucose regulation
+D: Mild dehydration
+ANSWER: A
+RATIONALE: Diabetes contributes to vascular injury and accelerates atherosclerotic disease.
+END
+
+[MCQ]
+QUESTION: Which lipid abnormality contributes to atherosclerotic plaque development?
+A: Elevated LDL
+B: Elevated albumin
+C: Low hemoglobin
+D: Elevated sodium
+ANSWER: A
+RATIONALE: Elevated LDL promotes lipid deposition and inflammation within arterial walls.
+END
+
+[MCQ]
+QUESTION: Which lifestyle factor is associated with increased cardiovascular risk?
+A: Insufficient physical activity
+B: Regular exercise
+C: Balanced nutrition
+D: Smoking cessation
+ANSWER: A
+RATIONALE: Insufficient physical activity is an important modifiable cardiovascular risk factor.
+END
+
+[MCQ]
+QUESTION: Which cardiovascular risk factor is associated with increased arterial pressure and vascular injury?
+A: Hypertension
+B: Normal blood pressure
+C: Regular physical activity
+D: Adequate sleep alone
+ANSWER: A
+RATIONALE: Chronic hypertension contributes to endothelial injury and increases cardiovascular risk.
+END
+
+[MCQ]
+QUESTION: Which percentage of Filipino adults was identified in the provided 2023 National Nutrition Survey as overweight or obese?
+A: 19.8%
+B: 29.8%
+C: 39.8%
+D: 49.8%
+ANSWER: C
+RATIONALE: The provided material reports that approximately 39.8% of Filipino adults were overweight or obese.
+END
+
+[MCQ]
+QUESTION: Approximately what proportion of Filipino adults aged 20–59 had insufficient physical activity according to the provided survey?
+A: 16%
+B: 26%
+C: 36%
+D: 46%
+ANSWER: D
+RATIONALE: The provided material reports insufficient physical activity in approximately 46% of adults aged 20–59.
+END
+
+[MCQ]
+QUESTION: According to the provided material, what proportion of older adults had insufficient physical activity?
+A: 37.3%
+B: 47.3%
+C: 57.3%
+D: 67.3%
+ANSWER: C
+RATIONALE: The provided material reports that 57.3% of older adults had insufficient physical activity.
+END
+
+[MCQ]
+QUESTION: Which medication combination represents dual antiplatelet therapy commonly used in ACS?
+A: Aspirin and a P2Y12 inhibitor
+B: Furosemide and spironolactone
+C: Epoetin and iron
+D: Nitroglycerin and acetaminophen
+ANSWER: A
+RATIONALE: Dual antiplatelet therapy in ACS commonly consists of aspirin plus a P2Y12 inhibitor.
+END
+
+[MCQ]
+QUESTION: What is the primary purpose of aspirin in acute coronary syndrome?
+A: Increase myocardial oxygen demand
+B: Inhibit platelet aggregation
+C: Increase sodium retention
+D: Promote ventricular remodeling
+ANSWER: B
+RATIONALE: Aspirin inhibits platelet aggregation and helps reduce thrombotic complications in ACS.
+END
+
+[MCQ]
+QUESTION: What is the primary purpose of continuous cardiac monitoring in ACS?
+A: Detect dysrhythmias and ischemic changes
+B: Measure serum sodium
+C: Determine body mass index
+D: Diagnose anemia
+ANSWER: A
+RATIONALE: Continuous cardiac monitoring helps detect dysrhythmias and ST-segment changes associated with ischemia.
+END
+
+[MCQ]
+QUESTION: Which assessment should be performed immediately when a patient presents with suspected ACS?
+A: Airway, breathing, circulation, vital signs, and oxygen saturation
+B: Dietary history only
+C: Long-term exercise assessment only
+D: Weekly weight measurement
+ANSWER: A
+RATIONALE: Initial ACS assessment includes ABCs, vital signs, and oxygen saturation to identify immediate instability.
+END
+
+[MCQ]
+QUESTION: Which medication is specifically used to relieve ischemic chest pain by reducing myocardial oxygen demand?
+A: Nitroglycerin
+B: Epoetin alfa
+C: Folic acid
+D: Atorvastatin
+ANSWER: A
+RATIONALE: Nitroglycerin reduces myocardial oxygen demand and can relieve ischemic chest pain when appropriate.
+END
+
+[MCQ]
+QUESTION: Which finding is a classic manifestation of severe left-sided heart failure with acute pulmonary edema?
+A: Pink frothy sputum
+B: Flat JVP
+C: Warm dry skin
+D: Increased peripheral pulses
+ANSWER: A
+RATIONALE: Pink frothy sputum can occur when pulmonary edema causes fluid and blood-tinged secretions in the airways.
+END

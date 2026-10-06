@@ -1,0 +1,1540 @@
+[MCQ]
+QUESTION: Infective endocarditis primarily involves infection of which cardiac surface?
+A: Pericardial surface
+B: Endocardial surface
+C: Myocardial surface
+D: Pleural surface
+ANSWER: B
+RATIONALE: Infective endocarditis is an infection of the endocardial surface, particularly the heart valves.
+END
+
+[MCQ]
+QUESTION: What characteristic lesion is associated with infective endocarditis?
+A: Vegetation
+B: Aneurysm
+C: Pericardial effusion
+D: Fatty streak
+ANSWER: A
+RATIONALE: Infective endocarditis produces vegetations composed of microorganisms, fibrin, platelets, and inflammatory material.
+END
+
+[MCQ]
+QUESTION: Which event initiates the typical pathophysiologic sequence of infective endocarditis?
+A: Systemic embolization
+B: Valve replacement
+C: Endocardial injury
+D: Heart failure
+ANSWER: C
+RATIONALE: Endocardial injury provides a damaged surface where platelet and fibrin deposition can occur.
+END
+
+[MCQ]
+QUESTION: What initially forms at a site of endocardial injury before microorganisms colonize it?
+A: Myocardial scar
+B: Pericardial effusion
+C: Coronary plaque
+D: Fibrin and platelet deposition
+ANSWER: D
+RATIONALE: Endocardial injury promotes deposition of fibrin and platelets, forming a non-bacterial thrombotic lesion.
+END
+
+[MCQ]
+QUESTION: What bloodstream condition allows microorganisms to reach damaged endocardium?
+A: Bacteremia
+B: Bradycardia
+C: Hypoxemia
+D: Thrombocytopenia
+ANSWER: A
+RATIONALE: Bacteremia introduces circulating microorganisms into the bloodstream, allowing them to reach susceptible endocardial surfaces.
+END
+
+[MCQ]
+QUESTION: How do microorganisms become established on the damaged endocardial surface?
+A: By increasing ventricular filling
+B: By attaching to the fibrin-platelet matrix
+C: By reducing blood pressure
+D: By dissolving platelets
+ANSWER: B
+RATIONALE: Microorganisms adhere to and colonize the fibrin-platelet matrix.
+END
+
+[MCQ]
+QUESTION: Which combination best describes the contents of an infective endocarditis vegetation?
+A: Calcium, cholesterol, and smooth muscle
+B: Red blood cells and adipose tissue
+C: Microorganisms, fibrin, platelets, and inflammatory material
+D: Myocardial cells and collagen only
+ANSWER: C
+RATIONALE: Mature vegetations contain microorganisms along with fibrin, platelets, and inflammatory material.
+END
+
+[MCQ]
+QUESTION: Which complication can result from destruction of a heart valve by infective endocarditis?
+A: Valve dysfunction
+B: Improved ventricular filling
+C: Increased coronary perfusion
+D: Reduced inflammation
+ANSWER: A
+RATIONALE: Vegetations can damage valve tissue and cause valvular dysfunction.
+END
+
+[MCQ]
+QUESTION: Which patient has a recognized risk factor for infective endocarditis?
+A: Patient with seasonal allergies
+B: Patient with previous infective endocarditis
+C: Patient with uncomplicated myopia
+D: Patient with tension headache
+ANSWER: B
+RATIONALE: A previous episode of infective endocarditis increases the risk of recurrence.
+END
+
+[MCQ]
+QUESTION: Which condition is a recognized risk factor for infective endocarditis?
+A: Mild headache
+B: Seasonal rhinitis
+C: Native valve disease
+D: Nearsightedness
+ANSWER: C
+RATIONALE: Native valve disease can create abnormal endocardial surfaces that increase susceptibility to infection.
+END
+
+[MCQ]
+QUESTION: Which cardiac history increases the risk of infective endocarditis?
+A: Prosthetic heart valve
+B: Isolated sinus tachycardia
+C: Controlled hypertension
+D: Stable dyslipidemia
+ANSWER: A
+RATIONALE: Prosthetic heart valves and prosthetic materials are recognized risk factors for infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which behavior is associated with increased risk of infective endocarditis?
+A: Regular walking
+B: Adequate hydration
+C: Intravenous drug use
+D: Balanced nutrition
+ANSWER: C
+RATIONALE: Intravenous drug use can introduce microorganisms directly into the bloodstream.
+END
+
+[MCQ]
+QUESTION: Which treatment is commonly required for infective endocarditis?
+A: Short-term antacid therapy
+B: Prolonged targeted IV antimicrobial therapy
+C: Routine bronchodilator therapy
+D: Immediate corticosteroid therapy
+ANSWER: B
+RATIONALE: Infective endocarditis generally requires prolonged antimicrobial treatment directed at the causative organism.
+END
+
+[MCQ]
+QUESTION: Which diagnostic test is used to identify the causative organism in infective endocarditis?
+A: Serial blood cultures
+B: Chest X-ray
+C: ECG
+D: Cardiac MRI
+ANSWER: A
+RATIONALE: Serial blood cultures are used to isolate the offending microorganism and guide antimicrobial therapy.
+END
+
+[MCQ]
+QUESTION: Which diagnostic study can visualize vegetations and valvular dysfunction?
+A: Spirometry
+B: ECG
+C: Echocardiography
+D: Urinalysis
+ANSWER: C
+RATIONALE: TTE and TEE can visualize vegetations and assess cardiac valves and function.
+END
+
+[MCQ]
+QUESTION: Which echocardiographic method generally provides more detailed visualization of cardiac structures because the probe is closer to the heart?
+A: Chest X-ray
+B: TEE
+C: TTE
+D: ECG
+ANSWER: B
+RATIONALE: Transesophageal echocardiography can provide detailed visualization of cardiac structures and valves.
+END
+
+[MCQ]
+QUESTION: Which symptom is commonly associated with infective endocarditis?
+A: Persistent unexplained fever
+B: Increased appetite
+C: Improved exercise tolerance
+D: Painless urination
+ANSWER: A
+RATIONALE: Persistent unexplained fever is a common systemic manifestation of infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which constitutional manifestation may occur with infective endocarditis?
+A: Increased energy
+B: Night sweats
+C: Increased appetite
+D: Weight gain
+ANSWER: B
+RATIONALE: Night sweats, fatigue, weakness, appetite loss, and weight loss may occur.
+END
+
+[MCQ]
+QUESTION: Which cardiac finding may indicate infective endocarditis?
+A: Fixed pupil size
+B: Absent bowel sounds
+C: New or changing cardiac murmur
+D: Increased visual acuity
+ANSWER: C
+RATIONALE: Valve involvement can produce a new or changing cardiac murmur.
+END
+
+[MCQ]
+QUESTION: What are petechiae?
+A: Small red or purple hemorrhagic spots
+B: Painful nodules on finger pads
+C: Retinal hemorrhages with pale centers
+D: Linear lesions under nail beds
+ANSWER: A
+RATIONALE: Petechiae are small red or purple hemorrhagic spots on the skin or mucous membranes.
+END
+
+[MCQ]
+QUESTION: Which finding consists of non-blanching linear lesions beneath the nail beds?
+A: Janeway lesions
+B: Roth spots
+C: Splinter hemorrhages
+D: Osler nodes
+ANSWER: C
+RATIONALE: Splinter hemorrhages are linear reddish-brown lesions beneath the nail beds.
+END
+
+[MCQ]
+QUESTION: Which manifestation is typically painless and occurs on the palms or soles?
+A: Osler nodes
+B: Janeway lesions
+C: Roth spots
+D: Splinter hemorrhages
+ANSWER: B
+RATIONALE: Janeway lesions are painless erythematous or hemorrhagic macules on the palms or soles.
+END
+
+[MCQ]
+QUESTION: Which peripheral manifestation consists of painful, tender nodules on finger or toe pads?
+A: Petechiae
+B: Janeway lesions
+C: Roth spots
+D: Osler nodes
+ANSWER: D
+RATIONALE: Osler nodes are painful, tender nodules on the pads of the fingers or toes.
+END
+
+[MCQ]
+QUESTION: Which finding consists of retinal hemorrhagic lesions with pale centers?
+A: Roth spots
+B: Janeway lesions
+C: Splinter hemorrhages
+D: Osler nodes
+ANSWER: A
+RATIONALE: Roth spots are retinal hemorrhagic lesions characterized by pale or white centers.
+END
+
+[MCQ]
+QUESTION: What can happen when part of an infective endocarditis vegetation breaks away?
+A: Improved valve function
+B: Systemic embolization
+C: Increased stroke volume
+D: Reduced bacteremia
+ANSWER: B
+RATIONALE: Vegetation fragments can enter the circulation and produce systemic emboli.
+END
+
+[MCQ]
+QUESTION: Which complication should be monitored because infective endocarditis can produce emboli?
+A: Neurologic changes
+B: Increased appetite
+C: Improved vision
+D: Increased energy
+ANSWER: A
+RATIONALE: Emboli can travel to the brain and produce neurologic complications.
+END
+
+[MCQ]
+QUESTION: Which organ function should be monitored during infective endocarditis?
+A: Hair growth
+B: Renal function
+C: Hearing acuity
+D: Nail growth
+ANSWER: B
+RATIONALE: Renal function should be monitored because infection, embolic events, and antimicrobial therapy can affect the kidneys.
+END
+
+[MCQ]
+QUESTION: Myocarditis is inflammation of which layer of the heart?
+A: Pericardium
+B: Endocardium
+C: Myocardium
+D: Pleura
+ANSWER: C
+RATIONALE: Myocarditis is inflammation of the myocardium, the muscular middle layer of the heart.
+END
+
+[MCQ]
+QUESTION: Which is a common trigger of myocarditis?
+A: Viral infection
+B: Cataracts
+C: Osteoarthritis
+D: Myopia
+ANSWER: A
+RATIONALE: Viral infections are common triggers of myocarditis.
+END
+
+[MCQ]
+QUESTION: Which other causes can contribute to myocarditis?
+A: Only bacterial infections
+B: Immune-mediated responses, toxins, and certain medications
+C: Only hypertension
+D: Only dehydration
+ANSWER: B
+RATIONALE: Myocarditis can result from infectious, immune-mediated, toxic, or medication-related causes.
+END
+
+[MCQ]
+QUESTION: Which inflammatory cells may infiltrate the myocardium in myocarditis?
+A: Osteocytes
+B: Adipocytes
+C: Lymphocytes
+D: Chondrocytes
+ANSWER: C
+RATIONALE: Lymphocytes and other inflammatory cells can infiltrate myocardial tissue.
+END
+
+[MCQ]
+QUESTION: Which inflammatory mediators are released during myocarditis?
+A: Cytokines
+B: Bile salts
+C: Gastric enzymes
+D: Insulin
+ANSWER: A
+RATIONALE: Cytokines released during inflammation contribute to myocardial injury.
+END
+
+[MCQ]
+QUESTION: What happens to myocardial contractile function when significant myocyte injury occurs?
+A: It becomes enhanced
+B: It may become impaired
+C: It becomes independent of calcium
+D: It always remains unchanged
+ANSWER: B
+RATIONALE: Myocyte injury and altered calcium handling can impair contractile function.
+END
+
+[MCQ]
+QUESTION: What can impaired myocardial contractility cause?
+A: Reduced stroke volume
+B: Increased stroke volume
+C: Increased valve area
+D: Increased coronary diameter
+ANSWER: A
+RATIONALE: Impaired contractility reduces the amount of blood ejected during systole, decreasing stroke volume.
+END
+
+[MCQ]
+QUESTION: Which complication can result from electrical instability in myocarditis?
+A: Cataracts
+B: Dysrhythmias
+C: Gastritis
+D: Arthritis
+ANSWER: B
+RATIONALE: Myocardial inflammation can disrupt electrical conduction and produce dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which conduction abnormality may occur in myocarditis?
+A: AV block
+B: Ileus
+C: Renal colic
+D: Hyperventilation
+ANSWER: A
+RATIONALE: Inflammation can involve the cardiac conduction system and cause AV block.
+END
+
+[MCQ]
+QUESTION: Which severe complication may occur in myocarditis?
+A: Improved cardiac output
+B: Cardiogenic shock
+C: Increased exercise tolerance
+D: Increased ventricular efficiency
+ANSWER: B
+RATIONALE: Severe myocardial dysfunction can reduce cardiac output enough to cause cardiogenic shock.
+END
+
+[MCQ]
+QUESTION: Which symptom may occur with myocarditis?
+A: Exercise intolerance
+B: Increased exercise capacity
+C: Increased appetite
+D: Improved energy
+ANSWER: A
+RATIONALE: Myocardial inflammation can impair cardiac function and produce exercise intolerance.
+END
+
+[MCQ]
+QUESTION: Which ECG finding can occur in myocarditis?
+A: ST-T wave changes
+B: Always normal ECG
+C: Permanent ventricular pacing
+D: Complete absence of cardiac electrical activity
+ANSWER: A
+RATIONALE: Myocarditis can produce ST-T changes, conduction abnormalities, and dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Why can cardiac troponin rise in myocarditis?
+A: Increased bone formation
+B: Myocardial injury
+C: Increased platelet production
+D: Reduced gastric secretion
+ANSWER: B
+RATIONALE: Troponin is released when myocardial cells are injured.
+END
+
+[MCQ]
+QUESTION: Which test assesses ventricular function and wall motion in myocarditis?
+A: Echocardiogram
+B: Blood culture
+C: Skin biopsy
+D: Urinalysis
+ANSWER: A
+RATIONALE: Echocardiography evaluates ventricular function and wall motion.
+END
+
+[MCQ]
+QUESTION: Which imaging modality can highlight patterns of myocardial inflammation?
+A: Chest X-ray
+B: Cardiac MRI
+C: Mammography
+D: Bone densitometry
+ANSWER: B
+RATIONALE: Cardiac MRI can identify patterns of myocardial inflammation and injury.
+END
+
+[MCQ]
+QUESTION: When is endomyocardial biopsy generally reserved?
+A: For every patient with fatigue
+B: For specific diagnostic dilemmas where histology could alter management
+C: For every patient with chest pain
+D: For routine screening
+ANSWER: B
+RATIONALE: Endomyocardial biopsy is reserved for selected situations in which histologic findings may change management.
+END
+
+[MCQ]
+QUESTION: Which is a general management goal for myocarditis?
+A: Increase cardiac workload
+B: Reduce cardiac workload
+C: Promote strenuous exercise
+D: Increase oxygen demand
+ANSWER: B
+RATIONALE: Reducing cardiac workload helps limit stress on the inflamed myocardium.
+END
+
+[MCQ]
+QUESTION: What is pericarditis?
+A: Inflammation of the pericardium
+B: Infection of the myocardium
+C: Infection of the endocardium
+D: Narrowing of coronary arteries
+ANSWER: A
+RATIONALE: Pericarditis is inflammation of the pericardium surrounding the heart.
+END
+
+[MCQ]
+QUESTION: Which structures comprise the pericardium?
+A: Myocardium and endocardium
+B: Visceral and parietal layers
+C: Pleura and diaphragm
+D: Aorta and vena cava
+ANSWER: B
+RATIONALE: The pericardium has visceral and parietal layers surrounding the heart.
+END
+
+[MCQ]
+QUESTION: Which infection can cause acute pericarditis?
+A: Viral infection
+B: Cataracts
+C: Osteoarthritis
+D: Migraine
+ANSWER: A
+RATIONALE: Viral and bacterial infections are recognized causes of acute pericarditis.
+END
+
+[MCQ]
+QUESTION: Which post-MI inflammatory condition can cause pericarditis?
+A: Dressler syndrome
+B: Raynaud phenomenon
+C: Nephrotic syndrome
+D: Cushing syndrome
+ANSWER: A
+RATIONALE: Dressler syndrome is a post-MI inflammatory syndrome that can involve the pericardium.
+END
+
+[MCQ]
+QUESTION: Which renal-related condition can cause pericarditis?
+A: Mild dehydration
+B: Uremia
+C: Simple cystitis
+D: Renal stone without systemic effects
+ANSWER: B
+RATIONALE: Uremia is a recognized cause of pericardial inflammation.
+END
+
+[MCQ]
+QUESTION: How is classic acute pericarditis pain described?
+A: Sharp and pleuritic
+B: Dull and painless
+C: Always relieved by lying flat
+D: Occurring only after meals
+ANSWER: A
+RATIONALE: Acute pericarditis commonly produces sharp, pleuritic chest pain.
+END
+
+[MCQ]
+QUESTION: Which action commonly worsens pericarditis pain?
+A: Sitting up
+B: Leaning forward
+C: Deep inspiration
+D: Resting upright
+ANSWER: C
+RATIONALE: Pericarditis pain commonly worsens with deep inspiration, coughing, and lying flat.
+END
+
+[MCQ]
+QUESTION: Which position commonly relieves pericarditis pain?
+A: Lying flat
+B: Sitting up and leaning forward
+C: Trendelenburg
+D: Prone position
+ANSWER: B
+RATIONALE: Sitting upright and leaning forward commonly reduces pericarditis pain.
+END
+
+[MCQ]
+QUESTION: Which physical finding is classically associated with acute pericarditis?
+A: Pericardial friction rub
+B: Carotid bruit
+C: Wheezing
+D: Crackles
+ANSWER: A
+RATIONALE: A pericardial friction rub is a characteristic finding caused by inflamed pericardial layers rubbing together.
+END
+
+[MCQ]
+QUESTION: How is a pericardial friction rub commonly described?
+A: Grating or scratching
+B: Bubbling
+C: Wheezing
+D: Gurgling
+ANSWER: A
+RATIONALE: The friction rub has a scratching, grating, or squeaking quality.
+END
+
+[MCQ]
+QUESTION: Which ECG finding is classically associated with acute pericarditis?
+A: Diffuse ST elevation
+B: Localized ST elevation only
+C: Complete AV dissociation in all cases
+D: Permanent QT shortening
+ANSWER: A
+RATIONALE: Acute pericarditis classically produces widespread or diffuse ST-segment elevation.
+END
+
+[MCQ]
+QUESTION: Which ECG change commonly accompanies acute pericarditis?
+A: PR-segment depression
+B: Complete absence of P waves
+C: Persistent PR elevation in every lead
+D: Isolated QT shortening
+ANSWER: A
+RATIONALE: PR-segment depression is a classic ECG feature of acute pericarditis.
+END
+
+[MCQ]
+QUESTION: What is the primary medical therapy for uncomplicated acute pericarditis?
+A: Fibrinolysis
+B: NSAIDs plus colchicine
+C: Routine chemotherapy
+D: Immediate valve replacement
+ANSWER: B
+RATIONALE: NSAIDs plus colchicine are standard therapy for uncomplicated acute inflammatory pericarditis.
+END
+
+[MCQ]
+QUESTION: What activity should be avoided during an acute pericarditis flare?
+A: Eating
+B: Conversation
+C: Strenuous physical activity
+D: Normal breathing
+ANSWER: C
+RATIONALE: Rest and avoidance of strenuous activity are recommended during acute inflammation.
+END
+
+[MCQ]
+QUESTION: What is cardiac tamponade?
+A: Infection of the myocardium
+B: Compression of the heart by increased intrapericardial pressure
+C: Infection of the valves
+D: Narrowing of the coronary arteries
+ANSWER: B
+RATIONALE: Cardiac tamponade occurs when increased pericardial pressure compresses the heart and impairs filling.
+END
+
+[MCQ]
+QUESTION: What directly raises intrapericardial pressure in cardiac tamponade?
+A: Rapid or excessive pericardial fluid accumulation
+B: Increased coronary perfusion
+C: Reduced myocardial oxygen demand
+D: Increased ventricular compliance
+ANSWER: A
+RATIONALE: Rapid or excessive pericardial fluid accumulation raises intrapericardial pressure.
+END
+
+[MCQ]
+QUESTION: Which cardiac process is primarily impaired by tamponade?
+A: Diastolic ventricular filling
+B: Coronary artery formation
+C: Electrical depolarization only
+D: Ventricular repolarization only
+ANSWER: A
+RATIONALE: Pericardial pressure compresses the chambers and restricts ventricular filling during diastole.
+END
+
+[MCQ]
+QUESTION: What happens to stroke volume during significant cardiac tamponade?
+A: It decreases
+B: It increases
+C: It becomes unrelated to preload
+D: It remains permanently unchanged
+ANSWER: A
+RATIONALE: Reduced ventricular filling decreases stroke volume.
+END
+
+[MCQ]
+QUESTION: What happens to cardiac output during severe cardiac tamponade?
+A: It increases
+B: It decreases
+C: It becomes independent of stroke volume
+D: It always remains normal
+ANSWER: B
+RATIONALE: Reduced ventricular filling decreases stroke volume and therefore decreases cardiac output.
+END
+
+[MCQ]
+QUESTION: Which findings make up Beck's triad?
+A: Fever, tachycardia, crackles
+B: Hypotension, JVD, muffled heart sounds
+C: Hypertension, bradycardia, edema
+D: Chest pain, fever, murmur
+ANSWER: B
+RATIONALE: Beck's triad consists of hypotension, jugular venous distension, and muffled heart sounds.
+END
+
+[MCQ]
+QUESTION: Which finding represents the hypotension component of Beck's triad?
+A: Elevated blood pressure
+B: Low blood pressure
+C: Increased pulse pressure
+D: Bounding pulses
+ANSWER: B
+RATIONALE: Hypotension is one of the three classic components of Beck's triad.
+END
+
+[MCQ]
+QUESTION: Which finding represents the venous component of Beck's triad?
+A: Flat neck veins
+B: JVD
+C: Bounding peripheral pulses
+D: Increased pulse pressure
+ANSWER: B
+RATIONALE: Jugular venous distension reflects increased systemic venous pressure associated with impaired cardiac filling.
+END
+
+[MCQ]
+QUESTION: Which finding represents the heart-sound component of Beck's triad?
+A: Loud heart sounds
+B: Muffled or distant heart sounds
+C: Pericardial friction rub
+D: Wheezing
+ANSWER: B
+RATIONALE: Pericardial fluid can dampen transmission of heart sounds, making them muffled or distant.
+END
+
+[MCQ]
+QUESTION: What is pulsus paradoxus?
+A: An exaggerated inspiratory decrease in systolic blood pressure
+B: An increase in systolic pressure during inspiration
+C: A widened pulse pressure during exercise
+D: A decrease in diastolic pressure after meals
+ANSWER: A
+RATIONALE: Pulsus paradoxus is an exaggerated decrease in systolic blood pressure during inspiration.
+END
+
+[MCQ]
+QUESTION: What threshold is classically associated with pulsus paradoxus?
+A: More than 2 mmHg
+B: More than 5 mmHg
+C: More than 10 mmHg
+D: More than 30 mmHg
+ANSWER: C
+RATIONALE: Pulsus paradoxus is classically defined as an inspiratory decrease in systolic blood pressure greater than 10 mmHg.
+END
+
+[MCQ]
+QUESTION: Which procedure is used to urgently drain pericardial fluid in significant cardiac tamponade?
+A: Pericardiocentesis
+B: Thoracentesis
+C: Cardioversion
+D: Bronchoscopy
+ANSWER: A
+RATIONALE: Pericardiocentesis drains fluid from the pericardial space and relieves cardiac compression.
+END
+
+[MCQ]
+QUESTION: What is the primary purpose of pericardiocentesis in tamponade?
+A: Increase pericardial pressure
+B: Relieve cardiac compression
+C: Increase myocardial inflammation
+D: Reduce coronary blood flow
+ANSWER: B
+RATIONALE: Removing pericardial fluid lowers intrapericardial pressure and improves cardiac filling.
+END
+
+[MCQ]
+QUESTION: Which complication can occur if severe cardiac tamponade remains untreated?
+A: Improved cardiac output
+B: Hemodynamic collapse
+C: Increased stroke volume
+D: Improved ventricular filling
+ANSWER: B
+RATIONALE: Severe tamponade progressively reduces cardiac output and can lead to shock and cardiac arrest.
+END
+
+[MCQ]
+QUESTION: Which type of shock can occur with severe cardiac tamponade?
+A: Neurogenic shock
+B: Cardiogenic shock
+C: Anaphylactic shock
+D: Septic shock only
+ANSWER: B
+RATIONALE: Severe impairment of cardiac filling causes critically low cardiac output and can produce cardiogenic shock.
+END
+
+[MCQ]
+QUESTION: Which potentially fatal complication can occur if tamponade is untreated?
+A: Cardiac arrest
+B: Increased stroke volume
+C: Improved circulation
+D: Valve healing
+ANSWER: A
+RATIONALE: Severe untreated tamponade can progress to hemodynamic collapse and cardiac arrest.
+END
+
+[MCQ]
+QUESTION: Which condition is characterized by infection of the endocardial surface?
+A: Myocarditis
+B: Pericarditis
+C: Infective endocarditis
+D: Cardiac tamponade
+ANSWER: C
+RATIONALE: Infective endocarditis is an infection of the endocardial surface, especially the valves.
+END
+
+[MCQ]
+QUESTION: Which condition involves inflammation of cardiac muscle?
+A: Myocarditis
+B: Pericarditis
+C: Endocarditis
+D: Tamponade
+ANSWER: A
+RATIONALE: Myocarditis specifically refers to inflammation of the myocardium.
+END
+
+[MCQ]
+QUESTION: Which condition involves inflammation of the pericardial sac?
+A: Myocarditis
+B: Infective endocarditis
+C: Cardiac tamponade
+D: Pericarditis
+ANSWER: D
+RATIONALE: Pericarditis is inflammation of the pericardium surrounding the heart.
+END
+
+[MCQ]
+QUESTION: Which condition involves mechanical compression of cardiac chambers?
+A: Myocarditis
+B: Cardiac tamponade
+C: Infective endocarditis
+D: Atherosclerosis
+ANSWER: B
+RATIONALE: Cardiac tamponade is caused by increased intrapericardial pressure compressing the heart.
+END
+
+[MCQ]
+QUESTION: Which condition is most strongly associated with vegetations?
+A: Pericarditis
+B: Myocarditis
+C: Infective endocarditis
+D: Tamponade
+ANSWER: C
+RATIONALE: Vegetations are characteristic lesions of infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which finding is most characteristic of acute pericarditis?
+A: Pericardial friction rub
+B: Vegetation
+C: Osler node
+D: JVD
+ANSWER: A
+RATIONALE: A pericardial friction rub is a classic finding of acute pericarditis.
+END
+
+[MCQ]
+QUESTION: Which finding is most characteristic of cardiac tamponade?
+A: Roth spots
+B: Janeway lesions
+C: Beck's triad
+D: Pericardial vegetation
+ANSWER: C
+RATIONALE: Beck's triad is classically associated with cardiac tamponade.
+END
+
+[MCQ]
+QUESTION: Which condition can cause elevated cardiac troponin because of myocardial injury?
+A: Myocarditis
+B: Simple pericarditis
+C: Uncomplicated tamponade
+D: Isolated valve disease
+ANSWER: A
+RATIONALE: Myocardial inflammation and injury can cause cardiac troponin elevation in myocarditis.
+END
+
+[MCQ]
+QUESTION: Which condition commonly requires prolonged antimicrobial treatment?
+A: Myocarditis
+B: Infective endocarditis
+C: Pericarditis
+D: Cardiac tamponade
+ANSWER: B
+RATIONALE: Infective endocarditis requires prolonged targeted antimicrobial therapy.
+END
+
+[MCQ]
+QUESTION: Which risk factor involves repeated exposure to healthcare-associated bloodstream infections?
+A: Hemodialysis
+B: Migraine
+C: Myopia
+D: Seasonal allergy
+ANSWER: A
+RATIONALE: Hemodialysis is a recognized risk factor for healthcare-associated bloodstream infection and infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which condition is an infective endocarditis risk factor because abnormal cardiac structures can be susceptible to infection?
+A: Congenital heart disease
+B: Tension headache
+C: Mild anemia
+D: Hyperopia
+ANSWER: A
+RATIONALE: Certain congenital heart diseases increase susceptibility to infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which risk factor involves impaired immune defense?
+A: Regular exercise
+B: Immunocompromised status
+C: Adequate nutrition
+D: Normal sleep
+ANSWER: B
+RATIONALE: Immunocompromised patients have increased susceptibility to infection.
+END
+
+[MCQ]
+QUESTION: Which symptom may occur because of systemic inflammation in infective endocarditis?
+A: Malaise
+B: Increased energy
+C: Improved appetite
+D: Increased exercise tolerance
+ANSWER: A
+RATIONALE: Malaise, fatigue, weakness, and appetite loss commonly accompany infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which musculoskeletal symptoms can occur in infective endocarditis?
+A: Myalgia and arthralgia
+B: Increased muscle strength
+C: Improved joint mobility
+D: Muscle hypertrophy
+ANSWER: A
+RATIONALE: Myalgia and arthralgia are recognized systemic manifestations of infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which symptom may indicate myocardial dysfunction in myocarditis?
+A: Dyspnea
+B: Increased exercise capacity
+C: Increased appetite
+D: Improved energy
+ANSWER: A
+RATIONALE: Myocardial inflammation can impair cardiac function and cause dyspnea.
+END
+
+[MCQ]
+QUESTION: Which symptom can occur because of electrical instability in myocarditis?
+A: Palpitations
+B: Increased appetite
+C: Improved sleep
+D: Increased urine output
+ANSWER: A
+RATIONALE: Dysrhythmias caused by myocarditis may produce palpitations.
+END
+
+[MCQ]
+QUESTION: Which symptom may occur when myocarditis causes significant dysrhythmias?
+A: Syncope
+B: Increased energy
+C: Improved exercise tolerance
+D: Increased appetite
+ANSWER: A
+RATIONALE: Significant dysrhythmias can reduce cerebral perfusion and cause syncope.
+END
+
+[MCQ]
+QUESTION: Which complication of myocarditis can produce severe circulatory compromise?
+A: Cardiogenic shock
+B: Mild hypertension
+C: Increased cardiac reserve
+D: Improved contractility
+ANSWER: A
+RATIONALE: Severe myocardial dysfunction can reduce cardiac output and cause cardiogenic shock.
+END
+
+[MCQ]
+QUESTION: Which diagnostic test evaluates ventricular wall motion in myocarditis?
+A: Echocardiography
+B: Blood culture
+C: Urinalysis
+D: Skin biopsy
+ANSWER: A
+RATIONALE: Echocardiography assesses ventricular function and wall motion.
+END
+
+[MCQ]
+QUESTION: Which imaging study is particularly useful for identifying myocardial inflammation?
+A: Chest X-ray
+B: Cardiac MRI
+C: Mammography
+D: Abdominal ultrasound
+ANSWER: B
+RATIONALE: Cardiac MRI can highlight patterns of myocardial inflammation.
+END
+
+[MCQ]
+QUESTION: Which diagnostic procedure may be reserved for selected myocarditis cases?
+A: Endomyocardial biopsy
+B: Routine colonoscopy
+C: Bone scan
+D: Spirometry
+ANSWER: A
+RATIONALE: Endomyocardial biopsy is reserved for selected diagnostic dilemmas where histology may alter management.
+END
+
+[MCQ]
+QUESTION: Which management principle applies to myocarditis?
+A: Reduce cardiac workload
+B: Increase cardiac workload
+C: Encourage strenuous activity
+D: Increase oxygen demand
+ANSWER: A
+RATIONALE: Reducing cardiac workload limits stress on the inflamed myocardium.
+END
+
+[MCQ]
+QUESTION: Which management goal applies to myocarditis with dysrhythmias?
+A: Ignore the rhythm
+B: Control dysrhythmias
+C: Increase heart rate regardless of rhythm
+D: Encourage strenuous exercise
+ANSWER: B
+RATIONALE: Dysrhythmias are an important complication of myocarditis and require appropriate management.
+END
+
+[MCQ]
+QUESTION: Which cause of pericarditis is associated with a previous myocardial infarction?
+A: Dressler syndrome
+B: Myocarditis
+C: Endocarditis
+D: Atherosclerosis alone
+ANSWER: A
+RATIONALE: Dressler syndrome is a post-MI inflammatory syndrome that can cause pericarditis.
+END
+
+[MCQ]
+QUESTION: Which condition can cause pericarditis through systemic autoimmune inflammation?
+A: Autoimmune disease
+B: Myopia
+C: Osteoarthritis
+D: Seasonal allergy
+ANSWER: A
+RATIONALE: Autoimmune diseases can cause inflammation of the pericardium.
+END
+
+[MCQ]
+QUESTION: Which condition is another recognized cause of pericarditis?
+A: Malignancy
+B: Myopia
+C: Simple headache
+D: Mild dehydration
+ANSWER: A
+RATIONALE: Malignancy is among the recognized causes of pericarditis.
+END
+
+[MCQ]
+QUESTION: Which cause of pericarditis is associated with kidney dysfunction?
+A: Uremia
+B: Hyperopia
+C: Migraine
+D: Seasonal rhinitis
+ANSWER: A
+RATIONALE: Accumulation of uremic toxins can cause pericardial inflammation.
+END
+
+[MCQ]
+QUESTION: Which action commonly increases pericarditis pain?
+A: Lying flat
+B: Sitting upright
+C: Leaning forward
+D: Resting upright
+ANSWER: A
+RATIONALE: Pericarditis pain commonly worsens when lying flat.
+END
+
+[MCQ]
+QUESTION: Which action commonly improves pericarditis pain?
+A: Deep inspiration
+B: Coughing
+C: Sitting up and leaning forward
+D: Lying flat
+ANSWER: C
+RATIONALE: Sitting upright and leaning forward commonly relieves acute pericarditis pain.
+END
+
+[MCQ]
+QUESTION: Which medication is commonly combined with NSAIDs in acute pericarditis?
+A: Colchicine
+B: Fibrinolytic
+C: Insulin
+D: Heparin for every patient
+ANSWER: A
+RATIONALE: Colchicine is commonly used with NSAIDs for uncomplicated acute pericarditis.
+END
+
+[MCQ]
+QUESTION: When may corticosteroids be used for pericarditis?
+A: In refractory cases or specific indications
+B: In every uncomplicated case
+C: As routine fibrinolysis
+D: To replace all NSAID therapy automatically
+ANSWER: A
+RATIONALE: Corticosteroids may be considered in refractory cases or specific clinical situations.
+END
+
+[MCQ]
+QUESTION: Which finding indicates increased intrapericardial pressure in tamponade?
+A: JVD
+B: Increased pulse pressure
+C: Bounding pulses
+D: Hypertension
+ANSWER: A
+RATIONALE: Increased intrapericardial pressure impairs cardiac filling and contributes to systemic venous congestion and JVD.
+END
+
+[MCQ]
+QUESTION: Which finding indicates reduced cardiac output in tamponade?
+A: Hypotension
+B: Hypertension
+C: Bounding pulses
+D: Increased pulse pressure
+ANSWER: A
+RATIONALE: Reduced ventricular filling decreases stroke volume and cardiac output, producing hypotension.
+END
+
+[MCQ]
+QUESTION: Which finding results when pericardial fluid dampens heart sound transmission?
+A: Muffled heart sounds
+B: Loud heart sounds
+C: Wheezing
+D: Crackles
+ANSWER: A
+RATIONALE: Pericardial fluid can make heart sounds distant or muffled.
+END
+
+[MCQ]
+QUESTION: Which hemodynamic sequence correctly describes cardiac tamponade?
+A: Fluid accumulation → increased pressure → reduced filling → reduced stroke volume
+B: Fluid accumulation → increased filling → increased output
+C: Fluid accumulation → reduced pressure → increased output
+D: Fluid accumulation → increased contractility → increased stroke volume
+ANSWER: A
+RATIONALE: Increased pericardial pressure compresses the chambers, reducing filling, stroke volume, and cardiac output.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with the retinal manifestation of infective endocarditis?
+A: Roth spots
+B: Janeway lesions
+C: Osler nodes
+D: Splinter hemorrhages
+ANSWER: A
+RATIONALE: Roth spots are retinal hemorrhagic lesions with pale centers.
+END
+
+[MCQ]
+QUESTION: Which manifestation is found on the nail bed?
+A: Janeway lesions
+B: Splinter hemorrhages
+C: Roth spots
+D: Osler nodes
+ANSWER: B
+RATIONALE: Splinter hemorrhages occur beneath the nail beds.
+END
+
+[MCQ]
+QUESTION: Which manifestation is found on the palms or soles?
+A: Roth spots
+B: Splinter hemorrhages
+C: Janeway lesions
+D: Osler nodes
+ANSWER: C
+RATIONALE: Janeway lesions are painless lesions found on the palms or soles.
+END
+
+[MCQ]
+QUESTION: Which manifestation occurs on the pads of fingers or toes?
+A: Petechiae
+B: Roth spots
+C: Janeway lesions
+D: Osler nodes
+ANSWER: D
+RATIONALE: Osler nodes are painful tender nodules on finger or toe pads.
+END
+
+[MCQ]
+QUESTION: Which manifestation consists of small hemorrhagic spots on skin or mucous membranes?
+A: Petechiae
+B: Osler nodes
+C: Roth spots
+D: Janeway lesions
+ANSWER: A
+RATIONALE: Petechiae are small red or purple hemorrhagic spots.
+END
+
+[MCQ]
+QUESTION: Which finding should be monitored because valve damage may cause pump failure in infective endocarditis?
+A: Signs of heart failure
+B: Hair growth
+C: Appetite preference
+D: Nail length
+ANSWER: A
+RATIONALE: Valve destruction can impair cardiac function and lead to heart failure.
+END
+
+[MCQ]
+QUESTION: Which finding should be monitored because infective endocarditis can cause embolic complications?
+A: Neurologic changes
+B: Increased appetite
+C: Improved exercise tolerance
+D: Increased sleep
+ANSWER: A
+RATIONALE: Vegetation fragments can embolize to the brain and cause neurologic changes.
+END
+
+[MCQ]
+QUESTION: Which finding should be monitored to evaluate the response to infective endocarditis treatment?
+A: Temperature trends
+B: Hair color
+C: Nail length
+D: Height
+ANSWER: A
+RATIONALE: Temperature trends help evaluate response to antimicrobial therapy and persistence of infection.
+END
+
+[MCQ]
+QUESTION: Which assessment is important because antimicrobial therapy may produce adverse effects?
+A: Drug adverse effects
+B: Hair growth
+C: Vision preference
+D: Appetite preference only
+ANSWER: A
+RATIONALE: Prolonged antimicrobial therapy requires monitoring for medication-related adverse effects.
+END
+
+[MCQ]
+QUESTION: Which complication of infective endocarditis may occur because vegetations damage valves?
+A: Valve dysfunction
+B: Improved valve function
+C: Increased coronary flow
+D: Reduced chamber pressure
+ANSWER: A
+RATIONALE: Vegetations can destroy valve tissue and impair valve function.
+END
+
+[MCQ]
+QUESTION: Which myocarditis complication reflects impaired pumping ability?
+A: Heart failure
+B: Improved cardiac output
+C: Increased stroke volume
+D: Improved ventricular function
+ANSWER: A
+RATIONALE: Myocardial inflammation can impair ventricular function and produce heart failure.
+END
+
+[MCQ]
+QUESTION: Which myocarditis complication reflects electrical instability?
+A: Dysrhythmia
+B: Improved conduction
+C: Increased valve competence
+D: Increased coronary diameter
+ANSWER: A
+RATIONALE: Inflammation can disrupt cardiac electrical conduction and cause dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which ECG pattern is most characteristic of acute pericarditis?
+A: Diffuse ST elevation with PR depression
+B: Localized ST elevation with only Q waves
+C: Complete AV block in every case
+D: Short PR with prolonged QT
+ANSWER: A
+RATIONALE: Acute pericarditis classically produces diffuse ST elevation and PR-segment depression.
+END
+
+[MCQ]
+QUESTION: Which finding most strongly indicates cardiac tamponade rather than uncomplicated pericarditis?
+A: Beck's triad
+B: Pleuritic chest pain
+C: Pericardial friction rub
+D: Diffuse ST elevation
+ANSWER: A
+RATIONALE: Beck's triad is associated with hemodynamically significant cardiac tamponade.
+END
+
+[MCQ]
+QUESTION: Which emergency intervention directly treats the cause of hemodynamic compromise in tamponade?
+A: Pericardiocentesis
+B: Oral colchicine
+C: Long-term antibiotics
+D: Cardiac MRI
+ANSWER: A
+RATIONALE: Pericardiocentesis removes pericardial fluid and relieves cardiac compression.
+END
+
+[MCQ]
+QUESTION: Which cardiac process is reduced first when tamponade restricts ventricular filling?
+A: Preload and ventricular filling
+B: Myocardial inflammation
+C: Valve formation
+D: Coronary plaque formation
+ANSWER: A
+RATIONALE: External cardiac compression restricts venous return and ventricular filling.
+END
+
+[MCQ]
+QUESTION: Which finding is expected when cardiac output falls severely in tamponade?
+A: Hypotension
+B: Hypertension
+C: Bounding pulse
+D: Increased pulse pressure
+ANSWER: A
+RATIONALE: Severe reduction in cardiac output results in hypotension.
+END
+
+[MCQ]
+QUESTION: Which condition is associated with an exaggerated inspiratory fall in systolic blood pressure?
+A: Cardiac tamponade
+B: Infective endocarditis
+C: Uncomplicated myocarditis
+D: Stable pericarditis
+ANSWER: A
+RATIONALE: Pulsus paradoxus is classically associated with cardiac tamponade.
+END
+
+[MCQ]
+QUESTION: Which condition can cause myocardial injury with elevated troponin even without a primary coronary thrombus?
+A: Myocarditis
+B: Simple pericarditis
+C: Isolated valve disease
+D: Uncomplicated tamponade
+ANSWER: A
+RATIONALE: Inflammation of myocardial cells in myocarditis can cause troponin release.
+END
+
+[MCQ]
+QUESTION: Which condition directly involves microorganisms colonizing a fibrin-platelet matrix?
+A: Infective endocarditis
+B: Myocarditis
+C: Pericarditis
+D: Cardiac tamponade
+ANSWER: A
+RATIONALE: Microorganisms adhere to the fibrin-platelet matrix and develop into vegetations in infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which condition directly involves inflammation of the muscular middle layer of the heart?
+A: Pericarditis
+B: Myocarditis
+C: Endocarditis
+D: Tamponade
+ANSWER: B
+RATIONALE: The myocardium is the muscular middle layer of the heart and is inflamed in myocarditis.
+END
+
+[MCQ]
+QUESTION: Which condition directly involves inflammation of the sac surrounding the heart?
+A: Myocarditis
+B: Endocarditis
+C: Pericarditis
+D: Tamponade
+ANSWER: C
+RATIONALE: Pericarditis is inflammation of the pericardial sac.
+END
+
+[MCQ]
+QUESTION: Which condition results from increased pressure within the pericardial space?
+A: Myocarditis
+B: Infective endocarditis
+C: Pericarditis alone
+D: Cardiac tamponade
+ANSWER: D
+RATIONALE: Cardiac tamponade results when increased intrapericardial pressure compresses the heart.
+END
+
+[MCQ]
+QUESTION: Which condition may require surgical valve repair or replacement?
+A: Infective endocarditis
+B: Simple pericarditis
+C: Mild myocarditis
+D: Uncomplicated tamponade
+ANSWER: A
+RATIONALE: Valve repair or replacement may be necessary when infective endocarditis causes severe valve damage or complications.
+END
+
+[MCQ]
+QUESTION: Which diagnostic study can assess both ventricular function and wall motion in myocarditis?
+A: Echocardiogram
+B: Blood culture
+C: Urinalysis
+D: Chest auscultation
+ANSWER: A
+RATIONALE: Echocardiography assesses ventricular function and wall-motion abnormalities.
+END
+
+[MCQ]
+QUESTION: Which diagnostic study is particularly useful for myocardial inflammation patterns?
+A: ECG
+B: Cardiac MRI
+C: Blood culture
+D: Chest X-ray
+ANSWER: B
+RATIONALE: Cardiac MRI can characterize myocardial inflammation.
+END
+
+[MCQ]
+QUESTION: Which diagnostic study identifies microorganisms in infective endocarditis?
+A: Cardiac MRI
+B: Echocardiogram
+C: Serial blood cultures
+D: ECG
+ANSWER: C
+RATIONALE: Blood cultures isolate the causative organism.
+END
+
+[MCQ]
+QUESTION: Which diagnostic study identifies vegetations in infective endocarditis?
+A: Echocardiography
+B: ECG
+C: Troponin
+D: Urinalysis
+ANSWER: A
+RATIONALE: Echocardiography can visualize vegetations and valvular dysfunction.
+END
+
+[MCQ]
+QUESTION: Which laboratory marker may rise because of myocardial injury in myocarditis?
+A: Cardiac troponin
+B: Serum sodium
+C: Serum albumin
+D: Bilirubin
+ANSWER: A
+RATIONALE: Cardiac troponin is released when myocardial cells are injured.
+END
+
+[MCQ]
+QUESTION: Which myocarditis complication can involve abnormal heart rhythm?
+A: Dysrhythmia
+B: Valve stenosis
+C: Pericardial vegetation
+D: Atherosclerotic plaque
+ANSWER: A
+RATIONALE: Myocardial inflammation can cause electrical instability and dysrhythmias.
+END
+
+[MCQ]
+QUESTION: Which symptom can occur when myocarditis causes reduced cardiac output?
+A: Fatigue
+B: Increased energy
+C: Increased exercise capacity
+D: Improved strength
+ANSWER: A
+RATIONALE: Reduced cardiac function can produce fatigue and weakness.
+END
+
+[MCQ]
+QUESTION: Which symptom is associated with infective endocarditis?
+A: Unexplained weight loss
+B: Increased appetite
+C: Improved strength
+D: Increased exercise tolerance
+ANSWER: A
+RATIONALE: Appetite loss and weight loss may occur as systemic manifestations of infective endocarditis.
+END
+
+[MCQ]
+QUESTION: Which symptom is associated with infective endocarditis because of systemic infection?
+A: Chills
+B: Increased energy
+C: Improved appetite
+D: Increased exercise capacity
+ANSWER: A
+RATIONALE: Chills commonly occur with systemic infection and may accompany persistent fever.
+END
+
+[MCQ]
+QUESTION: Which symptom is associated with myocarditis because of reduced cardiac function?
+A: Dyspnea
+B: Increased exercise tolerance
+C: Improved breathing
+D: Increased energy
+ANSWER: A
+RATIONALE: Impaired myocardial function can cause dyspnea.
+END
+
+[MCQ]
+QUESTION: Which symptom may occur because myocarditis causes electrical instability?
+A: Palpitations
+B: Improved sleep
+C: Increased appetite
+D: Increased urine output
+ANSWER: A
+RATIONALE: Electrical instability and dysrhythmias can produce palpitations.
+END
+
+[MCQ]
+QUESTION: Which symptom may result from a severe myocarditis-associated dysrhythmia?
+A: Syncope
+B: Increased appetite
+C: Improved exercise tolerance
+D: Increased energy
+ANSWER: A
+RATIONALE: Dysrhythmias may temporarily reduce cerebral perfusion and cause syncope.
+END
+
+[MCQ]
+QUESTION: Which nursing priority is appropriate for a patient with infective endocarditis?
+A: Monitor for embolic complications
+B: Encourage strenuous exercise
+C: Ignore neurologic changes
+D: Avoid monitoring temperature
+ANSWER: A
+RATIONALE: Vegetation embolization can cause serious systemic complications, including neurologic injury.
+END
+
+[MCQ]
+QUESTION: Which nursing assessment is important in infective endocarditis because valve damage may progress?
+A: Monitor new or changing murmurs
+B: Monitor hair growth
+C: Monitor visual preference
+D: Monitor nail length
+ANSWER: A
+RATIONALE: A new or changing murmur can indicate worsening valvular involvement.
+END
+
+[MCQ]
+QUESTION: Which nursing assessment is important in myocarditis?
+A: Monitor cardiac rhythm
+B: Avoid ECG monitoring
+C: Encourage strenuous exercise
+D: Ignore palpitations
+ANSWER: A
+RATIONALE: Myocarditis can cause dysrhythmias and conduction abnormalities.
+END
+
+[MCQ]
+QUESTION: Which activity restriction is appropriate during an acute pericarditis flare?
+A: Avoid strenuous activity
+B: Increase exercise intensity
+C: Perform maximal exertion
+D: Begin resistance training
+ANSWER: A
+RATIONALE: Rest and avoidance of strenuous activity are recommended during acute inflammatory episodes.
+END
+
+[MCQ]
+QUESTION: Which medication combination is appropriate for uncomplicated acute pericarditis?
+A: NSAIDs and colchicine
+B: Fibrinolytics and thrombolytics
+C: Chemotherapy and antibiotics
+D: Insulin and heparin
+ANSWER: A
+RATIONALE: NSAIDs plus colchicine are standard treatment for uncomplicated inflammatory acute pericarditis.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with cardiac tamponade?
+A: Muffled heart sounds
+B: Loud heart sounds
+C: Bounding pulses
+D: Hypertension
+ANSWER: A
+RATIONALE: Pericardial fluid can dampen heart sounds, producing muffled or distant sounds.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with increased venous pressure in tamponade?
+A: JVD
+B: Flat neck veins
+C: Increased pulse pressure
+D: Bounding pulses
+ANSWER: A
+RATIONALE: Impaired cardiac filling causes systemic venous backup and JVD.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with decreased cardiac output in tamponade?
+A: Hypotension
+B: Hypertension
+C: Increased pulse pressure
+D: Bounding pulses
+ANSWER: A
+RATIONALE: Reduced ventricular filling decreases stroke volume and cardiac output, producing hypotension.
+END
+
+[MCQ]
+QUESTION: Which intervention directly relieves pericardial pressure during tamponade?
+A: Pericardiocentesis
+B: Oral colchicine
+C: Long-term IV antibiotics
+D: Cardiac MRI
+ANSWER: A
+RATIONALE: Pericardiocentesis removes fluid from the pericardial space and relieves cardiac compression.
+END
+

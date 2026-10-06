@@ -1,0 +1,984 @@
+[MCQ]
+QUESTION: A patient arrives with severe chest pressure radiating to the left arm. What is the priority diagnostic action?
+A: Obtain a 12-lead ECG within 10 minutes
+B: Schedule an echocardiogram for the next day
+C: Obtain a routine chest X-ray first
+D: Wait for troponin results before performing an ECG
+ANSWER: A
+RATIONALE: A 12-lead ECG should be obtained within 10 minutes in suspected acute coronary syndrome to rapidly identify ischemic changes.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS has an SpO₂ of 84% and is visibly dyspneic. Which intervention is appropriate?
+A: Withhold oxygen because oxygen is never used in ACS
+B: Administer oxygen because the patient is hypoxemic and in respiratory distress
+C: Give nitroglycerin before assessing oxygenation
+D: Encourage the patient to walk to improve circulation
+ANSWER: B
+RATIONALE: Oxygen is indicated when SpO₂ is below 90% or respiratory distress is present.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS has BP 82/50 mmHg and severe chest pain. Which prescribed medication should the nurse question because of the patient's blood pressure?
+A: Aspirin
+B: P2Y12 inhibitor
+C: Nitroglycerin
+D: High-intensity statin
+ANSWER: C
+RATIONALE: Nitroglycerin can further lower blood pressure and should generally be avoided in hypotension.
+END
+
+[MCQ]
+QUESTION: A patient with acute coronary syndrome is prescribed aspirin and a P2Y12 inhibitor. What is the purpose of this combination?
+A: Reduce platelet aggregation
+B: Increase sodium retention
+C: Increase myocardial oxygen demand
+D: Promote ventricular dilation
+ANSWER: A
+RATIONALE: Aspirin and P2Y12 inhibitors provide dual antiplatelet therapy to reduce thrombotic complications.
+END
+
+[MCQ]
+QUESTION: A patient has crushing chest pain, diagnostic ST elevation on ECG, and a rise-and-fall pattern in troponin. Which condition is most consistent with these findings?
+A: Stable angina
+B: STEMI
+C: Chronic heart failure
+D: Peripheral arterial disease
+ANSWER: B
+RATIONALE: Diagnostic ST elevation with evidence of acute myocardial injury and ischemic symptoms is consistent with STEMI.
+END
+
+[MCQ]
+QUESTION: A patient has ischemic chest discomfort and elevated troponin, but the ECG shows ST depression rather than diagnostic ST elevation. Which condition is most consistent?
+A: STEMI
+B: Stable angina
+C: NSTEMI
+D: Chronic venous insufficiency
+ANSWER: C
+RATIONALE: NSTEMI involves myocardial infarction with elevated troponin but without diagnostic ST elevation.
+END
+
+[MCQ]
+QUESTION: A patient with severe anemia develops chest pain and has a rise-and-fall in troponin with evidence of acute ischemia. No acute coronary plaque thrombosis is identified. Which type of MI is most consistent?
+A: Type 1 MI
+B: Type 2 MI
+C: STEMI by definition
+D: Stable angina
+ANSWER: B
+RATIONALE: Type 2 MI results from oxygen supply-demand mismatch without acute plaque thrombosis; severe anemia can cause this mismatch.
+END
+
+[MCQ]
+QUESTION: A patient with an elevated troponin asks whether this automatically means they had an MI. Which response is most accurate?
+A: Yes, any troponin elevation proves MI.
+B: No, troponin only indicates low blood pressure.
+C: No, myocardial injury can occur without meeting criteria for MI.
+D: Yes, troponin elevation proves coronary thrombosis.
+ANSWER: C
+RATIONALE: Troponin indicates myocardial injury, but MI requires a rise or fall in troponin plus evidence of acute myocardial ischemia.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS has chest pain, elevated troponin, and new ischemic ECG changes. What does the combination indicate?
+A: Acute myocardial infarction
+B: Isolated ventricular wall stretch
+C: Peripheral arterial disease
+D: Uncomplicated hypertension
+ANSWER: A
+RATIONALE: A rise or fall in troponin together with evidence of acute ischemia supports the diagnosis of MI.
+END
+
+[MCQ]
+QUESTION: A patient with atherosclerosis suddenly develops coronary thrombosis after plaque rupture. Which process directly caused the acute obstruction?
+A: Platelet aggregation and thrombus formation
+B: Increased ventricular filling
+C: Increased hemoglobin synthesis
+D: Renal sodium excretion
+ANSWER: A
+RATIONALE: Plaque rupture exposes thrombogenic material and promotes platelet aggregation and thrombus formation.
+END
+
+[MCQ]
+QUESTION: A patient has long-standing hypertension and elevated LDL. Which vascular event is an early step in atherosclerosis?
+A: Endothelial injury
+B: Ventricular fibrillation
+C: Pulmonary edema
+D: Platelet destruction
+ANSWER: A
+RATIONALE: Hypertension and elevated LDL can contribute to endothelial injury, an important initiating factor in atherosclerosis.
+END
+
+[MCQ]
+QUESTION: A patient asks how LDL contributes to atherosclerosis. Which explanation is most accurate?
+A: LDL can enter the arterial wall and become oxidized.
+B: LDL directly increases red blood cell production.
+C: LDL prevents macrophages from entering tissue.
+D: LDL immediately dissolves arterial plaques.
+ANSWER: A
+RATIONALE: LDL can enter the subendothelial space, become oxidized, and promote inflammation and foam-cell formation.
+END
+
+[MCQ]
+QUESTION: A macrophage engulfs large amounts of oxidized LDL within an arterial wall. What does the macrophage become?
+A: Fibrous cap
+B: Foam cell
+C: Platelet plug
+D: Necrotic thrombus
+ANSWER: B
+RATIONALE: Macrophages that engulf oxidized LDL become lipid-filled foam cells.
+END
+
+[MCQ]
+QUESTION: A patient with peripheral arterial atherosclerosis reports calf pain whenever walking that improves with rest. What is this finding called?
+A: Orthopnea
+B: PND
+C: Intermittent claudication
+D: Pulmonary edema
+ANSWER: C
+RATIONALE: Intermittent claudication is exertional limb pain caused by inadequate arterial blood flow.
+END
+
+[MCQ]
+QUESTION: A patient with peripheral arterial disease has cool feet and weak pedal pulses. What do these findings primarily indicate?
+A: Increased systemic venous pressure
+B: Reduced arterial perfusion
+C: Pulmonary congestion
+D: Increased cardiac preload
+ANSWER: B
+RATIONALE: Cool extremities and weak pulses are manifestations of reduced arterial blood flow.
+END
+
+[MCQ]
+QUESTION: A patient reports abdominal pain after meals, avoids eating because of the pain, and is losing weight. Which vascular problem is most consistent?
+A: Mesenteric arterial disease
+B: Left-sided heart failure
+C: Right-sided heart failure
+D: Pulmonary embolism
+ANSWER: A
+RATIONALE: Mesenteric arterial disease can cause postprandial abdominal pain, fear of eating, and weight loss.
+END
+
+[MCQ]
+QUESTION: A patient with carotid atherosclerosis suddenly develops temporary unilateral weakness that resolves. Which complication is most consistent?
+A: Pulmonary edema
+B: TIA
+C: Right-sided heart failure
+D: Stable angina
+ANSWER: B
+RATIONALE: A transient ischemic attack can result from temporary cerebral ischemia associated with carotid or cerebral atherosclerosis.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has cool, mottled skin, weak pulses, confusion, and oliguria. Which problem is most concerning?
+A: Poor perfusion
+B: Isolated pulmonary congestion
+C: Stable peripheral circulation
+D: Excessive oxygen delivery
+ANSWER: A
+RATIONALE: Cool mottled skin, weak pulses, confusion, and oliguria indicate inadequate systemic perfusion.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has crackles, orthopnea, and increasing difficulty breathing. Which problem is most likely?
+A: Pulmonary congestion
+B: Isolated arterial insufficiency
+C: Improved cardiac output
+D: Dehydration
+ANSWER: A
+RATIONALE: Crackles and orthopnea are classic manifestations of pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure develops severe shortness of breath and pink frothy sputum. What complication should the nurse recognize?
+A: Peripheral arterial disease
+B: Acute pulmonary edema
+C: Stable angina
+D: TIA
+ANSWER: B
+RATIONALE: Pink frothy sputum with severe dyspnea is associated with acute pulmonary edema.
+END
+
+[MCQ]
+QUESTION: A patient with chronic heart failure has jugular venous distention, peripheral edema, hepatomegaly, and ascites. Which type of heart failure pattern is most consistent?
+A: Right-sided heart failure
+B: Left-sided heart failure
+C: STEMI
+D: Type 2 MI
+ANSWER: A
+RATIONALE: Right-sided heart failure causes systemic venous congestion, producing JVD, edema, hepatomegaly, and ascites.
+END
+
+[MCQ]
+QUESTION: A patient with left-sided heart failure develops worsening orthopnea and crackles. Where is blood primarily backing up?
+A: Systemic veins
+B: Pulmonary circulation
+C: Peripheral arteries
+D: Mesenteric arteries
+ANSWER: B
+RATIONALE: Left-sided heart failure causes blood to back up into the pulmonary circulation, producing pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: A patient with right-sided heart failure develops increasing peripheral edema. What is the underlying mechanism?
+A: Systemic venous congestion
+B: Pulmonary arterial obstruction
+C: Increased coronary perfusion
+D: Decreased venous pressure
+ANSWER: A
+RATIONALE: Right-sided heart failure causes blood to back up into systemic veins, increasing venous pressure and promoting edema.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure gains several pounds over a short period. Which explanation is most likely?
+A: Increased skeletal muscle mass
+B: Fluid retention
+C: Decreased total body water
+D: Reduced sodium retention
+ANSWER: B
+RATIONALE: Rapid weight gain in heart failure commonly reflects increasing fluid retention.
+END
+
+[MCQ]
+QUESTION: Which nursing intervention is most appropriate when a heart failure patient is experiencing significant pulmonary congestion?
+A: Place the patient in high-Fowler's position.
+B: Place the patient flat.
+C: Encourage strenuous activity.
+D: Increase dietary sodium.
+ANSWER: A
+RATIONALE: High-Fowler's positioning promotes lung expansion and can reduce the work of breathing.
+END
+
+[MCQ]
+QUESTION: A nurse is monitoring a patient with heart failure for changes in fluid status. Which measurement is especially useful?
+A: Daily weight
+B: Weekly height
+C: Hair growth
+D: Pupil diameter
+ANSWER: A
+RATIONALE: Daily weight provides a practical way to detect changes in fluid retention.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is prescribed strict intake and output monitoring. What is the main purpose?
+A: Evaluate fluid balance
+B: Diagnose atherosclerosis
+C: Determine myocardial infarction type
+D: Measure platelet function
+ANSWER: A
+RATIONALE: Strict I&O helps determine whether the patient is retaining or losing fluid.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is taught to limit sodium intake. What is the primary reason?
+A: Sodium restriction helps reduce fluid retention.
+B: Sodium restriction increases platelet aggregation.
+C: Sodium restriction directly increases LDL.
+D: Sodium restriction causes pulmonary vasoconstriction.
+ANSWER: A
+RATIONALE: Reducing sodium intake can decrease sodium and water retention and help control congestion.
+END
+
+[MCQ]
+QUESTION: A patient with chronic heart failure has activation of the RAAS. Which effect contributes to congestion?
+A: Sodium and water retention
+B: Immediate sodium loss
+C: Complete suppression of ADH
+D: Decreased circulating volume
+ANSWER: A
+RATIONALE: RAAS activation promotes sodium and water retention, increasing volume and contributing to congestion.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has increased ADH activity. What is the major consequence?
+A: Increased water retention
+B: Increased platelet destruction
+C: Decreased blood volume
+D: Immediate plaque dissolution
+ANSWER: A
+RATIONALE: ADH promotes water retention, contributing to increased circulating volume.
+END
+
+[MCQ]
+QUESTION: A patient with chronic heart failure has persistent sympathetic nervous system activation. Why can this eventually become harmful?
+A: It decreases myocardial workload permanently.
+B: It increases heart rate and cardiac workload.
+C: It prevents ventricular remodeling.
+D: It eliminates oxygen demand.
+ANSWER: B
+RATIONALE: Chronic sympathetic activation increases heart rate and workload and can contribute to progressive cardiac dysfunction.
+END
+
+[MCQ]
+QUESTION: A patient with chronic pressure overload develops ventricular hypertrophy and later worsening cardiac function. Which process is involved?
+A: Ventricular remodeling
+B: Platelet aggregation
+C: Fatty streak formation
+D: Fibrinolysis
+ANSWER: A
+RATIONALE: Chronic pressure or volume overload can produce ventricular remodeling, which can eventually impair cardiac function.
+END
+
+[MCQ]
+QUESTION: A patient with HFrEF has an LVEF of 35%. Which problem best explains the reduced EF?
+A: Impaired ventricular contraction
+B: Isolated systemic venous congestion
+C: Normal ventricular systolic function
+D: Increased arterial oxygen content
+ANSWER: A
+RATIONALE: HFrEF is characterized by impaired systolic contraction and an LVEF of 40% or less.
+END
+
+[MCQ]
+QUESTION: A patient has an LVEF of 55% but has symptoms of heart failure related to a stiff ventricle. Which condition is most consistent?
+A: HFrEF
+B: HFpEF
+C: STEMI
+D: Type 1 MI
+ANSWER: B
+RATIONALE: HFpEF involves impaired ventricular relaxation and filling despite a relatively preserved EF.
+END
+
+[MCQ]
+QUESTION: A patient with HFrEF is prescribed a diuretic. What is the primary therapeutic purpose?
+A: Reduce fluid overload
+B: Increase platelet aggregation
+C: Increase LDL
+D: Increase ventricular stiffness
+ANSWER: A
+RATIONALE: Diuretics promote sodium and water excretion and help relieve fluid overload and congestion.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is prescribed an ACE inhibitor. Which mechanism is most relevant?
+A: Reduction of harmful RAAS effects
+B: Direct platelet destruction
+C: Increased sodium retention
+D: Increased myocardial oxygen demand
+ANSWER: A
+RATIONALE: ACE inhibitors reduce angiotensin II formation and help limit RAAS-mediated vasoconstriction and fluid retention.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is prescribed a beta-blocker. Which effect is expected with appropriate therapy?
+A: Reduced heart rate and myocardial workload
+B: Increased resting heart rate
+C: Increased oxygen demand
+D: Increased sodium retention
+ANSWER: A
+RATIONALE: Appropriate beta-blocker therapy reduces sympathetic effects, heart rate, and myocardial workload over time.
+END
+
+[MCQ]
+QUESTION: A patient with ACS is prescribed a high-intensity statin. What is the major purpose?
+A: Reduce LDL and stabilize atherosclerotic plaque
+B: Increase blood clot formation
+C: Increase sodium retention
+D: Treat pulmonary edema immediately
+ANSWER: A
+RATIONALE: High-intensity statins reduce LDL cholesterol and help stabilize atherosclerotic plaque.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS is placed on continuous cardiac monitoring. Why is this important?
+A: To detect dysrhythmias and ischemic changes
+B: To measure serum ferritin
+C: To determine fluid intake
+D: To diagnose anemia
+ANSWER: A
+RATIONALE: Continuous monitoring allows rapid detection of dysrhythmias and ischemic ST-segment changes.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS has severe chest pain but a normal initial troponin. What should the nurse understand?
+A: MI is completely ruled out.
+B: A single normal troponin always excludes myocardial injury.
+C: Troponin may need to be trended with the clinical presentation.
+D: ECG assessment is no longer necessary.
+ANSWER: C
+RATIONALE: Troponin should be interpreted with the clinical presentation and may require serial testing because myocardial injury can evolve over time.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has oliguria despite significant peripheral edema. Which explanation is most appropriate?
+A: Severe congestion can impair effective renal perfusion.
+B: Oliguria proves the patient has no fluid overload.
+C: Edema always indicates increased renal filtration.
+D: Oliguria is unrelated to cardiac function.
+ANSWER: A
+RATIONALE: Severe heart failure can cause both congestion and reduced effective renal perfusion, contributing to oliguria.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS asks why physical activity is stopped immediately. What is the best explanation?
+A: Rest reduces myocardial oxygen demand.
+B: Activity permanently removes coronary plaque.
+C: Exercise immediately increases coronary thrombosis.
+D: Rest increases myocardial oxygen demand.
+ANSWER: A
+RATIONALE: Reducing activity decreases myocardial oxygen demand during an acute ischemic event.
+END
+
+[MCQ]
+QUESTION: A patient with atherosclerosis develops plaque rupture followed by coronary thrombosis. Which event can result from the obstruction?
+A: Acute coronary syndrome
+B: Improved coronary flow
+C: Increased myocardial oxygen supply
+D: Reduced platelet activity
+ANSWER: A
+RATIONALE: Plaque rupture and acute thrombosis can abruptly reduce coronary blood flow and produce ACS.
+END
+
+[MCQ]
+QUESTION: A patient has chronic hypertension, diabetes, smoking history, and elevated LDL. Which process connects these factors to atherosclerosis?
+A: Endothelial injury
+B: Increased hemoglobin synthesis
+C: Reduced platelet activity
+D: Increased venous elasticity
+ANSWER: A
+RATIONALE: Hypertension, diabetes, smoking, and elevated LDL can contribute to endothelial injury and subsequent atherosclerotic plaque development.
+END
+
+[MCQ]
+QUESTION: A patient with poor cardiac perfusion becomes confused and restless. What does this finding suggest?
+A: Reduced cerebral perfusion
+B: Improved cardiac output
+C: Increased pulmonary ventilation
+D: Normal tissue oxygen delivery
+ANSWER: A
+RATIONALE: Confusion and restlessness can occur when inadequate cardiac output reduces cerebral perfusion.
+END
+
+[MCQ]
+QUESTION: A patient with severe cardiac congestion develops increasing crackles and respiratory distress. What complication is the nurse most concerned about?
+A: Pulmonary edema
+B: Intermittent claudication
+C: TIA
+D: Stable angina
+ANSWER: A
+RATIONALE: Worsening pulmonary congestion can progress to pulmonary edema, which can severely impair gas exchange.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS has chest pain, diaphoresis, and dyspnea. Which initial assessment sequence is most appropriate?
+A: Airway, breathing, circulation, vital signs, and SpO₂
+B: Dietary history, height, and weight
+C: Long-term exercise history before vital signs
+D: Discharge teaching before assessment
+ANSWER: A
+RATIONALE: Immediate ACS assessment begins with ABCs, vital signs, and oxygen saturation to identify instability.
+END
+
+[MCQ]
+QUESTION: A patient with suspected STEMI has diagnostic ST elevation and a rise-and-fall in troponin. Which intervention is the priority?
+A: Schedule routine outpatient follow-up
+B: Begin emergency reperfusion therapy
+C: Delay treatment until the pain disappears
+D: Start a long-term exercise program
+ANSWER: B
+RATIONALE: STEMI requires urgent reperfusion, usually with PCI or fibrinolysis when appropriate.
+
+END
+
+[MCQ]
+QUESTION: A patient with STEMI is at a facility without timely access to PCI. Which treatment may be considered if the patient is eligible?
+A: Fibrinolysis
+B: Fluid restriction
+C: Oral iron
+D: Long-term anticoagulation only
+ANSWER: A
+RATIONALE: Fibrinolysis may be used for eligible STEMI patients when timely PCI is unavailable.
+
+END
+
+[MCQ]
+QUESTION: A patient with NSTEMI has elevated troponin and ST depression. Which management approach is most appropriate?
+A: Immediate fibrinolysis for every patient
+B: No cardiac monitoring
+C: Risk stratification and early invasive management when indicated
+D: Treat the patient as having no myocardial injury
+ANSWER: C
+RATIONALE: NSTEMI management involves risk stratification and an early invasive approach when clinically indicated rather than routine fibrinolysis.
+
+END
+
+[MCQ]
+QUESTION: A patient with ACS is prescribed anticoagulation. What is the main purpose?
+A: Increase coronary plaque formation
+B: Prevent thrombus propagation
+C: Increase myocardial oxygen demand
+D: Promote sodium retention
+ANSWER: B
+RATIONALE: Anticoagulation helps prevent further growth or propagation of thrombus.
+
+END
+
+[MCQ]
+QUESTION: A patient with ACS has severe hypotension and is suspected of having a right ventricular MI. Which medication requires particular caution?
+A: Aspirin
+B: P2Y12 inhibitor
+C: Nitroglycerin
+D: High-intensity statin
+ANSWER: C
+RATIONALE: Nitroglycerin can reduce preload and blood pressure and should be avoided in hypotension and when right ventricular MI is suspected.
+
+END
+
+[MCQ]
+QUESTION: A patient with ACS has an SpO₂ of 96% and no respiratory distress. Which intervention is most appropriate regarding oxygen?
+A: Administer high-flow oxygen routinely
+B: Withhold routine oxygen
+C: Give oxygen until troponin normalizes
+D: Administer oxygen because every ACS patient requires it
+ANSWER: B
+RATIONALE: Routine oxygen is not indicated when oxygen saturation is adequate and the patient is not in respiratory distress.
+
+END
+
+[MCQ]
+QUESTION: A patient with chest pain has an elevated troponin but no symptoms, ECG findings, wall-motion abnormality, or other evidence of acute ischemia. What does the troponin primarily establish?
+A: Myocardial injury
+B: Definite Type 1 MI
+C: Definite STEMI
+D: Definite coronary thrombosis
+ANSWER: A
+RATIONALE: Troponin elevation indicates myocardial injury, but additional evidence of acute ischemia is required to diagnose MI.
+
+END
+
+[MCQ]
+QUESTION: A patient with severe hypoxemia develops a troponin rise and fall with evidence of acute ischemia but no acute coronary thrombosis. Which MI classification is most consistent?
+A: Type 1 MI
+B: Type 2 MI
+C: Stable angina
+D: Chronic heart failure
+ANSWER: B
+RATIONALE: Type 2 MI results from an oxygen supply-demand mismatch without acute plaque thrombosis.
+
+END
+
+[MCQ]
+QUESTION: A patient with atherosclerotic plaque rupture develops an acute coronary thrombus. Which type of MI is most consistent?
+A: Type 2 MI
+B: Chronic myocardial injury
+C: Type 1 MI
+D: Stable angina
+ANSWER: C
+RATIONALE: Type 1 MI results from acute atherosclerotic plaque disruption with coronary thrombosis.
+
+END
+
+[MCQ]
+QUESTION: A patient with severe tachyarrhythmia develops myocardial ischemia because the heart's oxygen demand becomes excessive. Which mechanism is most likely?
+A: Supply-demand mismatch
+B: Improved coronary perfusion
+C: Decreased myocardial workload
+D: Increased oxygen supply exceeding demand
+ANSWER: A
+RATIONALE: Severe tachyarrhythmias can increase oxygen demand and produce a supply-demand mismatch, potentially causing Type 2 MI.
+
+END
+
+[MCQ]
+QUESTION: A patient with suspected MI has a 12-lead ECG showing ST elevation. What does this finding primarily suggest?
+A: Diagnostic evidence consistent with STEMI
+B: HFpEF
+C: Peripheral arterial disease
+D: Right-sided heart failure
+ANSWER: A
+RATIONALE: Diagnostic ST elevation in the appropriate clinical setting is characteristic of STEMI.
+
+END
+
+[MCQ]
+QUESTION: A patient with suspected MI has ST depression and elevated troponin without diagnostic ST elevation. Which condition is most likely?
+A: STEMI
+B: NSTEMI
+C: Stable angina
+D: Peripheral arterial disease
+ANSWER: B
+RATIONALE: NSTEMI involves myocardial infarction without diagnostic ST elevation and may show ST depression or T-wave inversion.
+
+END
+
+[MCQ]
+QUESTION: A patient with stable angina develops new severe chest pain at rest with ischemic ECG changes. What should the nurse suspect?
+A: Acute coronary syndrome
+B: Normal coronary circulation
+C: Improved myocardial perfusion
+D: Chronic venous insufficiency
+ANSWER: A
+RATIONALE: New or worsening ischemic symptoms at rest can indicate ACS and require urgent assessment.
+
+END
+
+[MCQ]
+QUESTION: A patient with atherosclerosis asks what happens when a plaque becomes unstable and ruptures. Which sequence is most accurate?
+A: Plaque rupture → platelet aggregation → thrombus formation
+B: Plaque rupture → increased blood flow → vessel dilation
+C: Plaque rupture → reduced platelet activity → vasodilation
+D: Plaque rupture → increased hemoglobin → improved oxygen delivery
+ANSWER: A
+RATIONALE: Plaque rupture exposes thrombogenic material, causing platelet activation and thrombus formation.
+
+END
+
+[MCQ]
+QUESTION: A patient with peripheral arterial disease reports pain in the legs while walking that disappears with rest. Which finding is being described?
+A: Orthopnea
+B: Intermittent claudication
+C: PND
+D: Ascites
+ANSWER: B
+RATIONALE: Intermittent claudication is exertional limb pain caused by inadequate arterial blood flow.
+
+END
+
+[MCQ]
+QUESTION: A patient with peripheral arterial disease develops a non-healing foot ulcer. What is the most likely underlying problem?
+A: Excessive pulmonary blood flow
+B: Increased systemic venous pressure
+C: Chronic inadequate arterial perfusion
+D: Increased myocardial contractility
+ANSWER: C
+RATIONALE: Poor arterial blood flow can impair tissue oxygenation and wound healing.
+
+END
+
+[MCQ]
+QUESTION: A patient with carotid atherosclerosis develops sudden weakness that resolves completely within a short period. Which complication should be suspected?
+A: Pulmonary edema
+B: TIA
+C: Right-sided heart failure
+D: Stable angina
+ANSWER: B
+RATIONALE: A TIA causes transient neurologic dysfunction due to temporary cerebral ischemia.
+
+END
+
+[MCQ]
+QUESTION: A patient with suspected mesenteric arterial disease reports severe abdominal pain after eating and has progressively lost weight. Why might the patient avoid food?
+A: Eating increases intestinal oxygen demand and triggers ischemic pain.
+B: Eating directly increases pulmonary congestion.
+C: Eating causes platelet destruction.
+D: Eating immediately causes right-sided heart failure.
+ANSWER: A
+RATIONALE: Increased intestinal demand after meals can worsen ischemic abdominal pain in mesenteric arterial disease.
+
+END
+
+[MCQ]
+QUESTION: A patient has cool extremities, weak pulses, and delayed tissue perfusion. Which cardiovascular problem should the nurse recognize?
+A: Systemic venous congestion
+B: Poor arterial perfusion
+C: Pulmonary edema
+D: Increased cardiac output
+ANSWER: B
+RATIONALE: Cool extremities and weak pulses indicate reduced peripheral arterial perfusion.
+
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has confusion, cool mottled skin, weak pulses, and oliguria. Which interpretation is most appropriate?
+A: The patient is primarily experiencing poor perfusion.
+B: The patient has isolated pulmonary congestion.
+C: The patient has improved cardiac output.
+D: The findings indicate excessive arterial perfusion.
+ANSWER: A
+RATIONALE: Neurologic changes, cool mottled skin, weak pulses, and oliguria are consistent with inadequate systemic perfusion.
+
+END
+
+[MCQ]
+QUESTION: A heart failure patient develops crackles, orthopnea, and increasing respiratory distress. Which problem should the nurse prioritize?
+A: Pulmonary congestion
+B: Peripheral arterial insufficiency
+C: Mesenteric ischemia
+D: Improved cardiac output
+ANSWER: A
+RATIONALE: Crackles, orthopnea, and respiratory distress indicate worsening pulmonary congestion.
+
+END
+
+[MCQ]
+QUESTION: A patient with severe pulmonary congestion suddenly produces pink frothy sputum. Which complication is most likely?
+A: TIA
+B: Acute pulmonary edema
+C: Intermittent claudication
+D: Stable angina
+ANSWER: B
+RATIONALE: Pink frothy sputum with severe respiratory distress is associated with acute pulmonary edema.
+
+END
+
+[MCQ]
+QUESTION: A patient with right-sided heart failure has increasing leg edema and JVD. Which mechanism explains these findings?
+A: Increased systemic venous pressure
+B: Reduced systemic venous pressure
+C: Increased pulmonary oxygenation
+D: Increased arterial oxygen supply
+ANSWER: A
+RATIONALE: Right-sided failure causes systemic venous congestion and increased venous pressure.
+
+END
+
+[MCQ]
+QUESTION: A patient with left-sided heart failure develops worsening dyspnea and crackles. Where is the blood primarily backing up?
+A: Systemic veins
+B: Pulmonary circulation
+C: Mesenteric arteries
+D: Peripheral arteries
+ANSWER: B
+RATIONALE: Left-sided heart failure causes blood to back up into the pulmonary circulation.
+
+END
+
+[MCQ]
+QUESTION: A heart failure patient gains 2 kg over a short period. Which interpretation is most appropriate?
+A: Likely fluid retention
+B: Improved cardiac function
+C: Loss of total body water
+D: Decreased sodium retention
+ANSWER: A
+RATIONALE: Rapid weight gain in heart failure commonly reflects fluid accumulation.
+
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is being monitored for fluid overload. Which assessment provides the most useful daily trend?
+A: Height
+B: Daily weight
+C: Hair growth
+D: Pupil size
+ANSWER: B
+RATIONALE: Daily weight is useful for detecting changes in total body fluid.
+END
+
+[MCQ]
+QUESTION: A patient with severe heart failure is placed in high-Fowler's position. What is the primary purpose?
+A: Promote lung expansion and ease breathing
+B: Increase venous congestion
+C: Increase myocardial oxygen demand
+D: Prevent all ventricular remodeling
+ANSWER: A
+RATIONALE: High-Fowler's positioning promotes lung expansion and can decrease the work of breathing.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is placed on strict intake and output monitoring. What is the nurse primarily evaluating?
+A: Fluid balance
+B: Coronary plaque thickness
+C: Platelet aggregation
+D: Electrical conduction
+ANSWER: A
+RATIONALE: Strict I&O helps evaluate fluid balance and renal response.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is prescribed sodium restriction. Which mechanism makes this useful?
+A: Reduced sodium retention can reduce water retention.
+B: Sodium restriction directly dissolves coronary plaque.
+C: Sodium restriction increases myocardial oxygen demand.
+D: Sodium restriction causes acute platelet inhibition.
+ANSWER: A
+RATIONALE: Reducing sodium intake can decrease sodium and water retention and help control congestion.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has increased RAAS activity. Which consequence contributes to worsening congestion?
+A: Sodium and water retention
+B: Complete sodium loss
+C: Reduced circulating volume
+D: Immediate reduction in preload
+ANSWER: A
+RATIONALE: RAAS activation promotes vasoconstriction and sodium and water retention, contributing to congestion.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has increased ADH secretion. Which effect is expected?
+A: Increased water retention
+B: Increased platelet destruction
+C: Decreased circulating volume
+D: Immediate reduction in pulmonary pressure
+ANSWER: A
+RATIONALE: ADH promotes water retention and can contribute to increased circulating volume.
+END
+
+[MCQ]
+QUESTION: A patient with chronic heart failure has persistent sympathetic activation. What is the long-term concern?
+A: Increased cardiac workload
+B: Permanent reduction in heart rate
+C: Complete prevention of remodeling
+D: Decreased myocardial oxygen demand
+ANSWER: A
+RATIONALE: Chronic sympathetic activation increases cardiac workload and can contribute to progressive myocardial dysfunction.
+END
+
+[MCQ]
+QUESTION: A patient with chronic pressure overload develops ventricular hypertrophy followed by declining cardiac function. Which process explains this progression?
+A: Ventricular remodeling
+B: Fibrinolysis
+C: Platelet inhibition
+D: Fatty streak reversal
+ANSWER: A
+RATIONALE: Chronic pressure and volume overload can cause ventricular remodeling, eventually reducing pumping efficiency.
+END
+
+[MCQ]
+QUESTION: A patient with HFrEF has an LVEF of 30%. Which problem is primarily responsible?
+A: Impaired systolic contraction
+B: Isolated venous congestion
+C: Preserved systolic function
+D: Increased ventricular compliance
+ANSWER: A
+RATIONALE: HFrEF involves impaired systolic contraction and an LVEF of 40% or less.
+END
+
+[MCQ]
+QUESTION: A patient has an LVEF of 55%, but the ventricle is stiff and does not fill normally. Which condition is most consistent?
+A: HFrEF
+B: HFpEF
+C: STEMI
+D: Type 1 MI
+ANSWER: B
+RATIONALE: HFpEF involves impaired ventricular filling despite a relatively preserved ejection fraction.
+END
+
+[MCQ]
+QUESTION: A patient with HFrEF receives a diuretic. Which outcome would indicate the medication is addressing congestion?
+A: Reduced peripheral edema and improved breathing
+B: Increased pulmonary congestion
+C: Increased body weight from fluid
+D: Increased JVP
+ANSWER: A
+RATIONALE: Diuretics reduce sodium and water retention and can improve edema and pulmonary congestion.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure receives an ACE inhibitor. What is the intended cardiovascular effect?
+A: Reduce harmful RAAS activity
+B: Increase sodium retention
+C: Increase myocardial oxygen demand
+D: Promote ventricular dilation
+ANSWER: A
+RATIONALE: ACE inhibitors reduce angiotensin II formation and limit RAAS-mediated vasoconstriction and fluid retention.
+END
+
+[MCQ]
+QUESTION: A patient with HFrEF is prescribed a beta-blocker after stabilization. What is the expected long-term benefit?
+A: Reduce excessive sympathetic stimulation and cardiac workload
+B: Increase resting heart rate
+C: Increase myocardial oxygen consumption
+D: Increase sodium retention
+ANSWER: A
+RATIONALE: Appropriate beta-blocker therapy reduces chronic sympathetic stimulation and myocardial workload.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is prescribed an MRA. What does this medication class block?
+A: Mineralocorticoid effects
+B: Platelet aggregation
+C: Troponin release
+D: LDL absorption
+ANSWER: A
+RATIONALE: Mineralocorticoid receptor antagonists block aldosterone-related effects, including sodium retention and adverse cardiac remodeling.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure is prescribed an SGLT2 inhibitor. Which statement best describes its role?
+A: It is part of guideline-directed heart failure therapy.
+B: It is used only to dissolve coronary thrombi.
+C: It is a fibrinolytic medication.
+D: It is used only for acute chest pain.
+ANSWER: A
+RATIONALE: SGLT2 inhibitors are part of guideline-directed therapy for heart failure.
+END
+
+[MCQ]
+QUESTION: A patient with ACS is prescribed a high-intensity statin. Which patient outcome is the therapy intended to support?
+A: Lower LDL and reduce future cardiovascular risk
+B: Increase platelet aggregation
+C: Increase sodium retention
+D: Increase myocardial oxygen demand
+ANSWER: A
+RATIONALE: High-intensity statins lower LDL cholesterol and help reduce cardiovascular risk and stabilize plaque.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS has severe chest pain and diaphoresis. Which action should occur before nonurgent diagnostic procedures?
+A: Assess airway, breathing, circulation, vital signs, and SpO₂.
+B: Obtain a dietary recall.
+C: Begin long-term exercise counseling.
+D: Measure height and calculate BMI.
+ANSWER: A
+RATIONALE: Immediate assessment begins with ABCs, vital signs, and oxygen saturation to identify instability.
+END
+
+[MCQ]
+QUESTION: A patient with suspected ACS has a normal first troponin but persistent symptoms. What should the nurse understand?
+A: A single troponin result may not completely exclude evolving myocardial injury.
+B: MI is definitely ruled out.
+C: The ECG is no longer needed.
+D: The patient can immediately be discharged.
+ANSWER: A
+RATIONALE: Troponin should be interpreted with the clinical presentation and may require serial testing.
+END
+
+[MCQ]
+QUESTION: A patient with heart failure has edema but also oliguria. Why can both findings occur together?
+A: Severe heart failure can cause congestion while reducing effective renal perfusion.
+B: Edema proves renal perfusion is excessive.
+C: Oliguria means the patient cannot be fluid overloaded.
+D: Heart failure always causes increased urine output.
+ANSWER: A
+RATIONALE: Heart failure can produce systemic congestion while reduced effective cardiac output compromises renal perfusion.
+END
+
+[MCQ]
+QUESTION: A patient with ACS is told to stop physical activity immediately. What is the main reason?
+A: Rest decreases myocardial oxygen demand.
+B: Rest dissolves coronary plaques.
+C: Rest immediately eliminates thrombi.
+D: Rest increases myocardial oxygen demand.
+ANSWER: A
+RATIONALE: Reducing activity decreases myocardial oxygen demand during acute ischemia.
+END
+
+[MCQ]
+QUESTION: A patient with atherosclerosis develops sudden plaque rupture and coronary thrombosis. What clinical condition can result?
+A: Acute coronary syndrome
+B: Improved coronary circulation
+C: Reduced platelet activation
+D: Increased myocardial oxygen supply
+ANSWER: A
+RATIONALE: Plaque rupture with acute thrombosis can abruptly reduce coronary blood flow and cause ACS.
+END
+
+[MCQ]
+QUESTION: A patient has hypertension, diabetes, smoking history, and elevated LDL. Which process links these factors to atherosclerosis?
+A: Endothelial injury
+B: Increased hemoglobin synthesis
+C: Reduced vascular inflammation
+D: Increased venous elasticity
+ANSWER: A
+RATIONALE: These risk factors can damage the endothelium and promote the inflammatory process of atherosclerosis.
+END
+
+[MCQ]
+QUESTION: A patient with severe heart failure becomes restless and confused. What does this change potentially indicate?
+A: Reduced cerebral perfusion
+B: Improved cardiac output
+C: Increased tissue oxygen delivery
+D: Resolution of heart failure
+ANSWER: A
+RATIONALE: Restlessness and confusion can occur when inadequate cardiac output reduces cerebral perfusion.
+END
+
+[MCQ]
+QUESTION: A patient with worsening heart failure develops severe dyspnea, crackles, and pink frothy sputum. What is the priority concern?
+A: Acute pulmonary edema
+B: Peripheral arterial disease
+C: Stable angina
+D: TIA
+ANSWER: A
+RATIONALE: Severe pulmonary congestion with pink frothy sputum is characteristic of acute pulmonary edema and requires urgent intervention.
+END
