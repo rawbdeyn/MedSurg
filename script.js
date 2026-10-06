@@ -411,6 +411,10 @@ function parseQuestions(text) {
         line = line.trim();
 
 
+        // ------------------------------
+        // START QUESTION
+        // ------------------------------
+
         if (line === "[MCQ]") {
 
             current = {
@@ -445,6 +449,10 @@ function parseQuestions(text) {
         }
 
 
+        // ------------------------------
+        // QUESTION
+        // ------------------------------
+
         if (line.startsWith("QUESTION:")) {
 
             current.question =
@@ -456,6 +464,10 @@ function parseQuestions(text) {
             continue;
         }
 
+
+        // ------------------------------
+        // CHOICES
+        // ------------------------------
 
         if (/^[A-D]:/.test(line)) {
 
@@ -471,6 +483,10 @@ function parseQuestions(text) {
             continue;
         }
 
+
+        // ------------------------------
+        // ANSWER
+        // ------------------------------
 
         if (line.startsWith("ANSWER:")) {
 
@@ -489,6 +505,10 @@ function parseQuestions(text) {
         }
 
 
+        // ------------------------------
+        // RATIONALE
+        // ------------------------------
+
         if (line.startsWith("RATIONALE:")) {
 
             current.rationale =
@@ -500,6 +520,10 @@ function parseQuestions(text) {
             continue;
         }
 
+
+        // ------------------------------
+        // END QUESTION
+        // ------------------------------
 
         if (line === "END") {
 
@@ -669,17 +693,22 @@ document.getElementById("submitButton")
                 );
 
 
+            // ------------------------------
+            // NO ANSWER SELECTED
+            // ------------------------------
+
             if (!selected) {
 
                 document.getElementById("result")
                     .innerHTML = `
+
                         <p>
                             Please select an answer.
                         </p>
+
                     `;
 
                 return;
-
             }
 
 
@@ -699,9 +728,9 @@ document.getElementById("submitButton")
                 userAnswer === q.correct_answer;
 
 
-            // ====================================
-            // GET ALL ANSWER OPTIONS
-            // ====================================
+            // ------------------------------
+            // GET ANSWER OPTIONS
+            // ------------------------------
 
             const answerOptions =
                 document.querySelectorAll(
@@ -709,25 +738,26 @@ document.getElementById("submitButton")
                 );
 
 
-            // ====================================
+            // ------------------------------
             // RECORD ANSWER
-            // ====================================
+            // ------------------------------
 
             answeredQuestions++;
 
 
-            // ====================================
+            // ------------------------------
             // CORRECT
-            // ====================================
+            // ------------------------------
 
             if (q.is_correct) {
 
                 score++;
 
 
-                // Selected answer = GREEN
                 answerOptions[userAnswer]
-                    .classList.add("correct-answer");
+                    .classList.add(
+                        "correct-answer"
+                    );
 
 
                 document.getElementById("result")
@@ -750,20 +780,26 @@ document.getElementById("submitButton")
             }
 
 
-            // ====================================
+            // ------------------------------
             // INCORRECT
-            // ====================================
+            // ------------------------------
 
             else {
 
                 // Selected answer = RED
+
                 answerOptions[userAnswer]
-                    .classList.add("wrong-answer");
+                    .classList.add(
+                        "wrong-answer"
+                    );
 
 
                 // Correct answer = GREEN
+
                 answerOptions[q.correct_answer]
-                    .classList.add("correct-answer");
+                    .classList.add(
+                        "correct-answer"
+                    );
 
 
                 document.getElementById("result")
@@ -796,9 +832,9 @@ document.getElementById("submitButton")
             }
 
 
-            // ====================================
+            // ------------------------------
             // DISABLE ANSWERS
-            // ====================================
+            // ------------------------------
 
             document.querySelectorAll(
                 'input[name="answer"]'
@@ -809,50 +845,17 @@ document.getElementById("submitButton")
             });
 
 
-            // ====================================
+            // ------------------------------
             // HIDE SUBMIT
-            // ====================================
+            // ------------------------------
 
             document.getElementById("submitButton")
                 .style.display = "none";
 
 
-            // ====================================
+            // ------------------------------
             // SHOW NEXT
-            // ====================================
-
-            document.getElementById("nextButton")
-                .style.display = "block";
-
-        }
-    );
-
-            
-
-            // ====================================
-            // DISABLE ANSWERS
-            // ====================================
-
-            document.querySelectorAll(
-                'input[name="answer"]'
-            ).forEach(input => {
-
-                input.disabled = true;
-
-            });
-
-
-            // ====================================
-            // HIDE SUBMIT
-            // ====================================
-
-            document.getElementById("submitButton")
-                .style.display = "none";
-
-
-            // ====================================
-            // SHOW NEXT
-            // ====================================
+            // ------------------------------
 
             document.getElementById("nextButton")
                 .style.display = "block";
@@ -902,7 +905,6 @@ document.getElementById("nextButton")
 
 
                 return;
-
             }
 
 
@@ -918,7 +920,6 @@ document.getElementById("nextButton")
                 finishQuiz();
 
                 return;
-
             }
 
 
@@ -1005,10 +1006,17 @@ function finishQuiz() {
         .style.display = "block";
 
 
-    const percentage =
-        Math.round(
-            (score / answeredQuestions) * 100
-        );
+    let percentage = 0;
+
+
+    if (answeredQuestions > 0) {
+
+        percentage =
+            Math.round(
+                (score / answeredQuestions) * 100
+            );
+
+    }
 
 
     document.getElementById("finalScore")
