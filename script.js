@@ -109,10 +109,10 @@ async function loadQuizList() {
             // =================================
             //
             // topic_retention.txt
-            //       = Retention
+            //      = Retention
             //
             // topic.txt
-            //       = Situational
+            //      = Situational
             //
 
             let category =
@@ -254,10 +254,6 @@ async function loadQuizList() {
             // =================================
             // CATEGORY CONTAINER
             // =================================
-            //
-            // This puts Retention and
-            // Situational side-by-side.
-            //
 
             const categoriesContainer =
                 document.createElement("div");
@@ -304,7 +300,7 @@ async function loadQuizList() {
 
 
             // =================================
-            // ADD CATEGORIES TO TOPIC BOX
+            // ADD CATEGORIES
             // =================================
 
             topicSection.appendChild(
@@ -313,7 +309,7 @@ async function loadQuizList() {
 
 
             // =================================
-            // ADD TOPIC BOX TO MENU
+            // ADD TOPIC TO MENU
             // =================================
 
             quizList.appendChild(
@@ -396,44 +392,6 @@ function createQuizCategory(
 
 
     // ====================================
-    // CATEGORY TITLE
-    // ====================================
-
-    const categoryTitle =
-        document.createElement("h3");
-
-
-    categoryTitle.className =
-        "quiz-category-title";
-
-
-    categoryTitle.textContent =
-        categoryName;
-
-
-    category.appendChild(
-        categoryTitle
-    );
-
-
-    // ====================================
-    // QUIZ BUTTON CONTAINER
-    // ====================================
-
-    const quizGrid =
-        document.createElement("div");
-
-
-    quizGrid.className =
-        "quiz-grid";
-
-
-    category.appendChild(
-        quizGrid
-    );
-
-
-    // ====================================
     // SORT QUIZZES
     // ====================================
 
@@ -443,7 +401,7 @@ function createQuizCategory(
 
 
     // ====================================
-    // CREATE QUIZ BUTTONS
+    // CREATE CATEGORY BUTTONS
     // ====================================
 
     quizzes.forEach(quiz => {
@@ -456,9 +414,17 @@ function createQuizCategory(
             "quiz-button";
 
 
-        button.textContent =
-            formatQuizName(quiz.name);
+        // =================================
+        // ONLY SHOW CATEGORY NAME
+        // =================================
 
+        button.textContent =
+            categoryName;
+
+
+        // =================================
+        // START QUIZ
+        // =================================
 
         button.addEventListener(
             "click",
@@ -473,7 +439,7 @@ function createQuizCategory(
         );
 
 
-        quizGrid.appendChild(
+        category.appendChild(
             button
         );
 
@@ -481,7 +447,7 @@ function createQuizCategory(
 
 
     // ====================================
-    // ADD CATEGORY TO CONTAINER
+    // ADD CATEGORY
     // ====================================
 
     parent.appendChild(
