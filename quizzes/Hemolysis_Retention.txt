@@ -1,0 +1,1729 @@
+[MCQ]
+QUESTION: What is hemolysis?
+A: Premature destruction of red blood cells
+B: Increased production of white blood cells
+C: Decreased production of platelets
+D: Excess production of plasma proteins
+ANSWER: A
+RATIONALE: Hemolysis is the premature destruction of red blood cells before their normal lifespan of about 120 days. Increased white blood cell production, decreased platelet production, and excess plasma protein production are not definitions of hemolysis.
+END
+
+[MCQ]
+QUESTION: Approximately how long is the normal lifespan of a red blood cell?
+A: 30 days
+B: 60 days
+C: 90 days
+D: 120 days
+ANSWER: D
+RATIONALE: Normal red blood cells circulate for approximately 120 days before being removed. Lifespans of 30, 60, or 90 days are shorter than the normal RBC lifespan.
+END
+
+[MCQ]
+QUESTION: Which type of hemolysis occurs directly inside the blood vessels?
+A: Extravascular hemolysis
+B: Intravascular hemolysis
+C: Marrow hemolysis
+D: Hepatic hemolysis
+ANSWER: B
+RATIONALE: Intravascular hemolysis occurs when red blood cells are destroyed directly within blood vessels. Extravascular hemolysis primarily occurs when macrophages remove RBCs in the spleen or liver, while marrow and hepatic hemolysis are not standard classifications.
+END
+
+[MCQ]
+QUESTION: Which cells primarily remove red blood cells during extravascular hemolysis?
+A: Neutrophils
+B: Platelets
+C: Macrophages
+D: Lymphocytes
+ANSWER: C
+RATIONALE: Extravascular hemolysis primarily involves macrophages in the spleen and liver removing damaged or abnormal red blood cells. Neutrophils, platelets, and lymphocytes are not the primary cells responsible for this process.
+END
+
+[MCQ]
+QUESTION: What happens to oxygen-carrying capacity when circulating red blood cells are destroyed?
+A: It decreases
+B: It increases
+C: It remains permanently unchanged
+D: It becomes independent of hemoglobin
+ANSWER: A
+RATIONALE: Destruction of circulating RBCs decreases hemoglobin and therefore decreases the blood's oxygen-carrying capacity. RBC destruction does not increase oxygen delivery or make oxygen transport independent of hemoglobin.
+END
+
+[MCQ]
+QUESTION: Which laboratory finding commonly reflects the bone marrow response to increased red blood cell destruction?
+A: Thrombocytopenia
+B: Leukopenia
+C: Reticulocytosis
+D: Neutropenia
+ANSWER: C
+RATIONALE: Reticulocytosis reflects increased production and release of immature red blood cells as the bone marrow responds to hemolysis. Thrombocytopenia, leukopenia, and neutropenia involve other blood cell lines and do not represent the typical compensatory response to isolated hemolysis.
+END
+
+[MCQ]
+QUESTION: Which hormone stimulates increased red blood cell production during anemia?
+A: Insulin
+B: Erythropoietin
+C: Aldosterone
+D: Thyroxine
+ANSWER: B
+RATIONALE: Erythropoietin, produced primarily by the kidneys, stimulates the bone marrow to increase red blood cell production when oxygen delivery is reduced. Insulin regulates glucose, aldosterone regulates sodium and potassium balance, and thyroxine regulates metabolism.
+END
+
+[MCQ]
+QUESTION: Increased red blood cell breakdown can cause an increase in which form of bilirubin?
+A: Direct bilirubin only
+B: Conjugated bilirubin only
+C: Biliary bilirubin
+D: Unconjugated bilirubin
+ANSWER: D
+RATIONALE: Increased RBC destruction increases heme breakdown, producing more unconjugated bilirubin. Conjugated bilirubin is produced after the liver processes unconjugated bilirubin, while direct and biliary bilirubin do not specifically describe the initial increase caused by hemolysis.
+END
+
+[MCQ]
+QUESTION: Which physical finding is commonly associated with increased bilirubin from hemolysis?
+A: Jaundice
+B: Cyanosis
+C: Clubbing
+D: Pallor of the sclera
+ANSWER: A
+RATIONALE: Increased bilirubin from hemolysis can cause jaundice and scleral icterus. Cyanosis reflects reduced oxygenation, clubbing is associated with chronic conditions such as some pulmonary or cardiac diseases, and pallor does not describe bilirubin deposition.
+END
+
+[MCQ]
+QUESTION: Which urinary finding can occur with significant intravascular hemolysis?
+A: Glucosuria
+B: Hemoglobinuria
+C: Ketonuria
+D: Proteinuria from diabetes
+ANSWER: B
+RATIONALE: Intravascular RBC destruction releases free hemoglobin into the plasma, which can be filtered into the urine and cause hemoglobinuria or dark reddish-brown urine. Glucosuria, ketonuria, and diabetic proteinuria are not characteristic consequences of intravascular hemolysis.
+END
+
+[MCQ]
+QUESTION: Which organ is especially important in extravascular red blood cell destruction?
+A: Spleen
+B: Pancreas
+C: Thyroid
+D: Adrenal gland
+ANSWER: A
+RATIONALE: The spleen is a major site where macrophages remove abnormal or damaged red blood cells during extravascular hemolysis. The pancreas, thyroid, and adrenal glands are not primary sites of RBC removal.
+END
+
+[MCQ]
+QUESTION: Which complication can result from chronic increased heme breakdown?
+A: Cataracts
+B: Pigment gallstones
+C: Appendicitis
+D: Hypoglycemia
+ANSWER: B
+RATIONALE: Chronic hemolysis increases bilirubin production and can contribute to pigment gallstone formation. Cataracts, appendicitis, and hypoglycemia are not typical direct complications of chronic hemolysis.
+END
+
+[MCQ]
+QUESTION: Which symptom commonly results from reduced oxygen-carrying capacity in hemolytic anemia?
+A: Fatigue
+B: Increased appetite
+C: Polyuria
+D: Hearing loss
+ANSWER: A
+RATIONALE: Reduced hemoglobin and oxygen delivery can produce fatigue, weakness, and exertional dyspnea. Increased appetite, polyuria, and hearing loss are not typical manifestations caused directly by reduced oxygen-carrying capacity.
+END
+
+[MCQ]
+QUESTION: Which condition can cause mechanical destruction of red blood cells?
+A: Prosthetic heart valve
+B: Seasonal allergies
+C: Migraine headache
+D: Mild myopia
+ANSWER: A
+RATIONALE: Prosthetic heart valves and other sources of mechanical shear stress can damage and destroy RBCs. Seasonal allergies, migraine headaches, and myopia do not typically cause mechanical hemolysis.
+END
+
+[MCQ]
+QUESTION: Which group represents recognized causes of hemolysis?
+A: Membrane defects, hemoglobinopathies, and enzyme deficiencies
+B: Hypertension, myopia, and dermatitis
+C: Asthma, appendicitis, and cataracts
+D: Diabetes, rhinitis, and osteoarthritis
+ANSWER: A
+RATIONALE: Hemolysis can result from RBC membrane defects, hemoglobinopathies, enzyme deficiencies, immune destruction, and mechanical injury. The other groups contain conditions that are not established primary categories of hemolytic causes.
+END
+
+[MCQ]
+QUESTION: G6PD deficiency is best classified as what type of disorder?
+A: Acquired platelet disorder
+B: Inherited enzyme deficiency
+C: Autoimmune white blood cell disorder
+D: Acquired coagulation disorder
+ANSWER: B
+RATIONALE: G6PD deficiency is an inherited enzyme deficiency that makes red blood cells vulnerable to oxidative stress. It is not primarily a platelet, white blood cell, or coagulation disorder.
+END
+
+[MCQ]
+QUESTION: G6PD deficiency is inherited through which pattern?
+A: X-linked
+B: Mitochondrial only
+C: Autosomal dominant
+D: Y-linked
+ANSWER: A
+RATIONALE: G6PD deficiency is an X-linked inherited disorder and is more clinically expressed in males because males have only one X chromosome. It is not classified as mitochondrial, autosomal dominant, or Y-linked inheritance.
+END
+
+[MCQ]
+QUESTION: Which sex is more commonly clinically affected by X-linked G6PD deficiency?
+A: Females only
+B: Males
+C: Both equally in all cases
+D: Newborn females only
+ANSWER: B
+RATIONALE: X-linked G6PD deficiency is more commonly clinically expressed in males because they have only one X chromosome. Females can be affected or have variable expression, but males are more commonly clinically affected.
+END
+
+[MCQ]
+QUESTION: What is the major function of G6PD in red blood cells?
+A: Producing insulin
+B: Producing clotting factors
+C: Supporting antioxidant protection
+D: Producing hemoglobin directly
+ANSWER: C
+RATIONALE: G6PD supports antioxidant protection by helping generate NADPH, which is needed to maintain reduced glutathione. G6PD does not produce insulin, clotting factors, or hemoglobin directly.
+END
+
+[MCQ]
+QUESTION: G6PD is part of which metabolic pathway?
+A: Pentose phosphate pathway
+B: Citric acid cycle
+C: Urea cycle
+D: Glycogen synthesis pathway
+ANSWER: A
+RATIONALE: G6PD functions in the pentose phosphate pathway, also called the hexose monophosphate shunt. The citric acid cycle, urea cycle, and glycogen synthesis pathway are different metabolic processes.
+END
+
+[MCQ]
+QUESTION: What important substance is generated through the G6PD pathway to protect red blood cells from oxidative stress?
+A: ATP only
+B: NADPH
+C: Insulin
+D: Albumin
+ANSWER: B
+RATIONALE: The pentose phosphate pathway generates NADPH, which supports regeneration of reduced glutathione and antioxidant defense. ATP, insulin, and albumin are not the key protective products described in the G6PD antioxidant mechanism.
+END
+
+[MCQ]
+QUESTION: What does NADPH help regenerate in red blood cells?
+A: Reduced glutathione
+B: Hemoglobin A
+C: Fibrin
+D: Albumin
+ANSWER: A
+RATIONALE: NADPH helps regenerate reduced glutathione from oxidized glutathione. Reduced glutathione protects RBCs from oxidative damage, whereas hemoglobin, fibrin, and albumin are not regenerated by NADPH in this pathway.
+END
+
+[MCQ]
+QUESTION: What is the major antioxidant role of reduced glutathione in RBCs?
+A: It increases platelet production
+B: It neutralizes reactive oxygen species
+C: It increases bilirubin production
+D: It causes RBC sickling
+ANSWER: B
+RATIONALE: Reduced glutathione helps neutralize reactive oxygen species and protects hemoglobin and RBC membranes from oxidative damage. It does not increase platelet production, promote bilirubin formation, or cause sickling.
+END
+
+[MCQ]
+QUESTION: Why are mature red blood cells especially dependent on the G6PD pathway for antioxidant defense?
+A: They lack nuclei and mitochondria
+B: They contain multiple mitochondria
+C: They continuously produce new DNA
+D: They store large amounts of glycogen
+ANSWER: A
+RATIONALE: Mature RBCs lack nuclei and mitochondria, so they depend heavily on the pentose phosphate pathway for NADPH production and antioxidant defense. They do not contain multiple mitochondria or continuously produce DNA.
+END
+
+[MCQ]
+QUESTION: What happens when G6PD activity is insufficient during oxidative stress?
+A: RBCs become more resistant to oxidation
+B: RBCs become vulnerable to oxidative damage
+C: Platelets become resistant to clotting
+D: WBC production immediately stops
+ANSWER: B
+RATIONALE: Insufficient G6PD activity reduces the RBC's ability to generate NADPH and maintain reduced glutathione, making the cells vulnerable to oxidative damage. G6PD deficiency does not make RBCs more resistant or directly stop platelet or WBC production.
+END
+
+[MCQ]
+QUESTION: Which RBC inclusion can result from oxidized and denatured hemoglobin in G6PD deficiency?
+A: Howell-Jolly bodies
+B: Heinz bodies
+C: Auer rods
+D: Dohle bodies
+ANSWER: B
+RATIONALE: Oxidative damage in G6PD deficiency can denature hemoglobin and produce Heinz bodies. Howell-Jolly bodies are nuclear remnants, Auer rods are associated with myeloid blasts, and Dohle bodies are leukocyte inclusions.
+END
+
+[MCQ]
+QUESTION: What RBC morphology can result from removal of Heinz body-containing damaged areas in G6PD deficiency?
+A: Target cells
+B: Bite cells
+C: Spherocytes only
+D: Rouleaux
+ANSWER: B
+RATIONALE: Splenic removal of damaged portions of RBCs containing Heinz bodies can produce characteristic bite cells. Target cells, spherocytes, and rouleaux are associated with other conditions and do not specifically describe this process.
+END
+
+[MCQ]
+QUESTION: Which condition can trigger hemolysis in a person with G6PD deficiency?
+A: Infection
+B: Mild nearsightedness
+C: Seasonal pollen exposure alone
+D: Normal sleep
+ANSWER: A
+RATIONALE: Infection can create oxidative stress and trigger hemolysis in people with G6PD deficiency. Nearsightedness, normal sleep, and ordinary pollen exposure alone are not established major triggers of G6PD-related hemolysis.
+END
+
+[MCQ]
+QUESTION: Which food should a person with G6PD deficiency generally avoid?
+A: Fava beans
+B: Bananas
+C: Rice
+D: Apples
+ANSWER: A
+RATIONALE: Fava beans can trigger oxidative hemolysis in susceptible people with G6PD deficiency. Bananas, rice, and apples are not standard dietary triggers of G6PD hemolysis.
+END
+
+[MCQ]
+QUESTION: Which household substance can trigger oxidative hemolysis in G6PD deficiency?
+A: Naphthalene in mothballs
+B: Table salt
+C: Baking soda
+D: Distilled water
+ANSWER: A
+RATIONALE: Naphthalene, commonly found in some mothballs, can produce oxidative stress and trigger hemolysis in G6PD deficiency. Table salt, baking soda, and distilled water are not typical oxidative triggers.
+END
+
+[MCQ]
+QUESTION: Which medication group may trigger hemolysis in people with G6PD deficiency?
+A: Certain sulfonamides
+B: Routine antacids
+C: Normal saline
+D: Standard vitamin supplements
+ANSWER: A
+RATIONALE: Certain sulfonamide medications can trigger oxidative hemolysis in individuals with G6PD deficiency. Normal saline and routine antacids do not represent the classic medication trigger group described.
+END
+
+[MCQ]
+QUESTION: Which medication used in some clinical situations is recognized as a possible oxidative trigger in G6PD deficiency?
+A: Rasburicase
+B: Acetaminophen in every dose
+C: Calcium carbonate
+D: Oral rehydration solution
+ANSWER: A
+RATIONALE: Rasburicase can cause oxidative stress and is an important medication concern in G6PD deficiency. Calcium carbonate and oral rehydration solution are not classic oxidative triggers, while medication risk with acetaminophen is not equivalent to the established high-risk examples listed here.
+END
+
+[MCQ]
+QUESTION: What is an important management step when G6PD-related hemolysis is caused by a medication?
+A: Increase the medication dose
+B: Continue the medication indefinitely
+C: Identify and discontinue the trigger
+D: Add an iron supplement automatically
+ANSWER: C
+RATIONALE: Management includes identifying and removing the oxidative trigger when possible. Increasing or continuing a causative medication can worsen hemolysis, and iron should not be given automatically without evidence of iron deficiency.
+END
+
+[MCQ]
+QUESTION: Which finding should a person with G6PD deficiency be taught to report promptly?
+A: Dark urine
+B: Mild hunger
+C: Occasional yawning
+D: Normal thirst after exercise
+ANSWER: A
+RATIONALE: Dark or reddish-brown urine can indicate hemoglobinuria from acute hemolysis and requires prompt evaluation. Mild hunger, yawning, and normal thirst are not specific warning signs of G6PD hemolysis.
+END
+
+[MCQ]
+QUESTION: What is the main inheritance pattern of thalassemia?
+A: Autosomal recessive
+B: X-linked dominant
+C: Y-linked
+D: Mitochondrial
+ANSWER: A
+RATIONALE: Thalassemia is generally inherited as an autosomal recessive disorder. X-linked dominant, Y-linked, and mitochondrial inheritance do not describe the typical inheritance pattern of thalassemia.
+END
+
+[MCQ]
+QUESTION: Thalassemia results from decreased or absent production of which component?
+A: Globin chains
+B: Platelets
+C: Plasma sodium
+D: White blood cell antibodies
+ANSWER: A
+RATIONALE: Thalassemia involves decreased or absent synthesis of one or more globin chains of hemoglobin. It is not primarily a disorder of platelet production, sodium concentration, or antibody production.
+END
+
+[MCQ]
+QUESTION: Which type of thalassemia involves reduced alpha-globin synthesis?
+A: Alpha-thalassemia
+B: Beta-thalassemia
+C: Sickle cell disease
+D: G6PD deficiency
+ANSWER: A
+RATIONALE: Alpha-thalassemia involves reduced synthesis of alpha-globin chains. Beta-thalassemia involves beta-globin synthesis, while sickle cell disease and G6PD deficiency are different RBC disorders.
+END
+
+[MCQ]
+QUESTION: Which type of thalassemia involves reduced beta-globin synthesis?
+A: Alpha-thalassemia
+B: Beta-thalassemia
+C: G6PD deficiency
+D: Hereditary spherocytosis
+ANSWER: B
+RATIONALE: Beta-thalassemia is characterized by reduced or absent beta-globin chain production. Alpha-thalassemia affects alpha-globin production, while G6PD deficiency and hereditary spherocytosis have different mechanisms.
+END
+
+[MCQ]
+QUESTION: What type of anemia is commonly associated with thalassemia?
+A: Macrocytic anemia
+B: Normocytic anemia only
+C: Microcytic anemia
+D: Hemolytic anemia without microcytosis
+ANSWER: C
+RATIONALE: Thalassemia commonly produces a chronic microcytic anemia because of abnormal globin-chain synthesis. Macrocytosis is not characteristic, and thalassemia can involve hemolysis in addition to microcytosis.
+END
+
+[MCQ]
+QUESTION: Why does thalassemia produce ineffective erythropoiesis?
+A: Excess unpaired globin chains damage developing erythroid cells
+B: Platelets destroy the bone marrow
+C: Plasma sodium blocks erythropoietin
+D: White blood cells stop producing hemoglobin
+ANSWER: A
+RATIONALE: Unbalanced globin-chain synthesis causes excess unpaired chains to accumulate and damage developing erythroid cells, resulting in ineffective erythropoiesis. Platelets, sodium, and white blood cells do not cause this mechanism.
+END
+
+[MCQ]
+QUESTION: Which organ contributes significantly to extravascular destruction of abnormal RBCs in thalassemia?
+A: Spleen
+B: Thyroid
+C: Pancreas
+D: Adrenal gland
+ANSWER: A
+RATIONALE: The spleen removes abnormal and damaged RBCs through macrophage-mediated destruction, contributing to extravascular hemolysis in thalassemia. The thyroid, pancreas, and adrenal gland are not major sites of this RBC destruction.
+END
+
+[MCQ]
+QUESTION: Chronic anemia in severe thalassemia can cause expansion of which tissue?
+A: Bone marrow
+B: Pancreatic tissue
+C: Thyroid tissue
+D: Lung tissue
+ANSWER: A
+RATIONALE: Chronic anemia stimulates increased erythropoiesis, causing bone marrow expansion that can contribute to skeletal and facial changes. Pancreatic, thyroid, and lung tissue expansion is not the compensatory response described in thalassemia.
+END
+
+[MCQ]
+QUESTION: Which characteristic facial appearance can occur in severe untreated thalassemia because of marrow expansion?
+A: Chipmunk facies
+B: Moon facies from steroids
+C: Mask-like facies
+D: Cushingoid facies
+ANSWER: A
+RATIONALE: Bone marrow expansion in severe thalassemia can produce characteristic skeletal and facial changes sometimes described as chipmunk facies. Moon facies and Cushingoid facies are associated with other conditions, while mask-like facies is not the classic thalassemia finding.
+END
+
+[MCQ]
+QUESTION: Which organ enlargement can result from extramedullary hematopoiesis in thalassemia?
+A: Hepatosplenomegaly
+B: Isolated thyroid enlargement
+C: Isolated pancreatic enlargement
+D: Isolated bladder enlargement
+ANSWER: A
+RATIONALE: Chronic anemia can stimulate hematopoiesis outside the bone marrow, contributing to hepatomegaly and splenomegaly. Isolated enlargement of the thyroid, pancreas, or bladder is not the characteristic manifestation of extramedullary hematopoiesis.
+END
+
+[MCQ]
+QUESTION: Which growth problem can occur in children with severe chronic thalassemia?
+A: Growth restriction
+B: Excessive height acceleration
+C: Permanent obesity
+D: Increased muscle mass
+ANSWER: A
+RATIONALE: Chronic anemia and hypoxia in severe thalassemia can contribute to growth restriction and failure to thrive. Excessive height acceleration, permanent obesity, and increased muscle mass are not typical consequences of chronic thalassemia.
+END
+
+[MCQ]
+QUESTION: Why can patients with thalassemia develop iron overload?
+A: Intestinal iron absorption may increase and repeated transfusions add iron
+B: Their kidneys produce too much insulin
+C: Their lungs absorb excessive iron
+D: Their platelets manufacture iron
+ANSWER: A
+RATIONALE: Iron overload in thalassemia can result from increased intestinal iron absorption and repeated blood transfusions. The kidneys, lungs, and platelets do not produce or absorb iron in the ways described.
+END
+
+[MCQ]
+QUESTION: Which treatment is used to remove excess iron in patients with transfusion-dependent thalassemia?
+A: Iron chelation therapy
+B: Routine iron supplementation
+C: High-dose calcium therapy
+D: Antiplatelet therapy
+ANSWER: A
+RATIONALE: Iron chelation therapy binds excess iron and helps reduce iron overload caused by chronic transfusions and increased absorption. Routine iron supplementation can worsen iron overload, while calcium and antiplatelet therapy do not remove excess iron.
+END
+
+[MCQ]
+QUESTION: Which treatment may provide a potentially curative option for selected patients with severe thalassemia?
+A: Hematopoietic stem cell transplantation
+B: Routine oral iron
+C: Daily antacid therapy
+D: Fluid restriction alone
+ANSWER: A
+RATIONALE: Hematopoietic stem cell transplantation can potentially cure severe thalassemia in selected patients. Oral iron does not treat the underlying globin defect and may worsen iron overload, while antacids and fluid restriction are not curative therapies.
+END
+
+[MCQ]
+QUESTION: What is an important misconception regarding microcytosis in thalassemia?
+A: Microcytosis always proves iron deficiency
+B: Microcytosis can occur without iron deficiency
+C: Microcytosis means the patient has sickle cell disease
+D: Microcytosis always requires iron therapy
+ANSWER: B
+RATIONALE: Thalassemia commonly causes microcytosis even when iron stores are adequate. Therefore, microcytosis does not automatically prove iron deficiency and should not automatically lead to iron therapy.
+END
+
+[MCQ]
+QUESTION: When should iron supplementation generally be given to a patient with thalassemia?
+A: Whenever the RBCs are microcytic
+B: Only when iron deficiency is established
+C: Whenever the patient is fatigued
+D: Whenever hemoglobin is low for any reason
+ANSWER: B
+RATIONALE: Iron should generally be given only when iron deficiency has been demonstrated because unnecessary iron can worsen iron overload in thalassemia. Microcytosis, fatigue, and low hemoglobin alone do not establish iron deficiency.
+END
+
+[MCQ]
+QUESTION: Which therapy is commonly part of long-term management for transfusion-dependent thalassemia?
+A: Chronic transfusion therapy
+B: Complete avoidance of medical care
+C: Routine oxygen for all patients
+D: Permanent fluid restriction
+ANSWER: A
+RATIONALE: Chronic transfusion therapy can be used to support patients with severe or transfusion-dependent thalassemia. Avoiding medical care, routinely giving oxygen without indication, and permanent fluid restriction are not standard treatments.
+END
+
+[MCQ]
+QUESTION: Which teaching point is appropriate for a patient with thalassemia?
+A: Stop chelation once symptoms improve
+B: Adhere to transfusion and chelation plans
+C: Take iron routinely without testing
+D: Avoid all vaccinations
+ANSWER: B
+RATIONALE: Adherence to prescribed transfusion and iron-chelation therapy is important in managing severe thalassemia and preventing complications. Stopping chelation, taking unnecessary iron, and avoiding vaccinations are inappropriate.
+END
+
+[MCQ]
+QUESTION: What abnormal hemoglobin is associated with sickle cell disease?
+A: HbA
+B: HbS
+C: HbF only
+D: HbC only
+ANSWER: B
+RATIONALE: Sickle cell disease is caused by the presence of abnormal hemoglobin S, or HbS. HbA is the major normal adult hemoglobin, while HbF and HbC represent other hemoglobin types and do not define sickle cell disease.
+END
+
+[MCQ]
+QUESTION: What happens to HbS when a sickle cell red blood cell becomes deoxygenated?
+A: It polymerizes
+B: It dissolves completely
+C: It becomes albumin
+D: It converts into platelet protein
+ANSWER: A
+RATIONALE: Deoxygenated HbS polymerizes, causing RBCs to become rigid and sickle-shaped. HbS does not dissolve completely or convert into albumin or platelet proteins.
+END
+
+[MCQ]
+QUESTION: Which condition promotes sickling of RBCs in sickle cell disease?
+A: Dehydration
+B: Adequate hydration
+C: Normal oxygenation
+D: Warm stable conditions
+ANSWER: A
+RATIONALE: Dehydration increases the likelihood of HbS polymerization and sickling. Adequate hydration, normal oxygenation, and stable warm conditions generally help reduce sickling triggers.
+END
+
+[MCQ]
+QUESTION: Which environmental condition can trigger sickling?
+A: Extreme cold
+B: Comfortable room temperature
+C: Normal humidity
+D: Adequate hydration
+ANSWER: A
+RATIONALE: Extreme cold can promote sickling and vaso-occlusive complications in susceptible individuals. Comfortable temperatures, normal humidity, and adequate hydration are not typical triggers.
+END
+
+[MCQ]
+QUESTION: Which acid-base condition can promote sickling in sickle cell disease?
+A: Acidosis
+B: Normal acid-base balance
+C: Mild alkalinity only
+D: Normal oxygenation
+ANSWER: A
+RATIONALE: Acidosis promotes HbS polymerization and sickling. Normal acid-base balance and adequate oxygenation are generally protective rather than sickling triggers.
+END
+
+[MCQ]
+QUESTION: Approximately how long may sickled RBCs survive compared with normal RBCs?
+A: 10–20 days
+B: 120 days
+C: 180 days
+D: 365 days
+ANSWER: A
+RATIONALE: Sickled RBCs have a markedly shortened survival, often around 10–20 days, contributing to chronic hemolytic anemia. Normal RBCs survive about 120 days, while 180 and 365 days are not expected RBC survival times.
+END
+
+[MCQ]
+QUESTION: Which two major processes explain the major manifestations of sickle cell disease?
+A: Hemolysis and vaso-occlusion
+B: Leukocytosis and thrombocytosis
+C: Hyperglycemia and hypoglycemia
+D: Coagulation and digestion
+ANSWER: A
+RATIONALE: Sickle cell disease produces major problems through chronic hemolysis and vaso-occlusion. Leukocytosis, thrombocytosis, glucose abnormalities, coagulation, and digestion do not represent the two central mechanisms of sickle cell disease.
+END
+
+[MCQ]
+QUESTION: What causes severe pain during a vaso-occlusive crisis?
+A: Microvascular obstruction causing tissue ischemia
+B: Increased insulin secretion
+C: Excess platelet production alone
+D: Increased oxygen delivery
+ANSWER: A
+RATIONALE: Sickled RBCs can obstruct small vessels, reducing tissue perfusion and causing ischemia and severe pain. Insulin secretion, platelet production alone, and increased oxygen delivery do not explain vaso-occlusive pain.
+END
+
+[MCQ]
+QUESTION: Which organ is particularly affected by repeated splenic infarction in sickle cell disease?
+A: Spleen
+B: Thyroid
+C: Pancreas
+D: Skin only
+ANSWER: A
+RATIONALE: Repeated vaso-occlusion can cause splenic infarction and progressive loss of splenic function. The thyroid, pancreas, and skin are not the primary organs involved in this specific complication.
+END
+
+[MCQ]
+QUESTION: What major immune problem can result from functional asplenia in sickle cell disease?
+A: Increased risk of serious infection
+B: Complete immunity to bacteria
+C: Increased resistance to encapsulated bacteria
+D: Elimination of vaccination needs
+ANSWER: A
+RATIONALE: Functional asplenia reduces the body's ability to clear certain organisms and increases the risk of serious infection, particularly from encapsulated bacteria. It does not provide immunity or eliminate the need for vaccination.
+END
+
+[MCQ]
+QUESTION: Which organism is an important infection concern in patients with functional asplenia from sickle cell disease?
+A: Streptococcus pneumoniae
+B: Candida albicans only
+C: Plasmodium only
+D: Giardia lamblia
+ANSWER: A
+RATIONALE: Streptococcus pneumoniae is an important encapsulated bacterium associated with serious infection risk in people with functional asplenia. Candida, Plasmodium, and Giardia do not represent the classic encapsulated bacterial risk emphasized in sickle cell disease.
+END
+
+[MCQ]
+QUESTION: Which complication of sickle cell disease involves pulmonary symptoms and a new pulmonary infiltrate?
+A: Acute chest syndrome
+B: Simple anemia
+C: Aplastic crisis only
+D: Iron deficiency
+ANSWER: A
+RATIONALE: Acute chest syndrome is characterized by a new pulmonary infiltrate along with respiratory symptoms and may include chest pain, fever, cough, tachypnea, dyspnea, and hypoxemia. Simple anemia and iron deficiency do not define this syndrome.
+END
+
+[MCQ]
+QUESTION: Which finding is characteristic of acute chest syndrome?
+A: New pulmonary infiltrate
+B: Isolated ankle swelling
+C: Increased appetite
+D: Clear chest imaging without symptoms
+ANSWER: A
+RATIONALE: A new pulmonary infiltrate on chest imaging is a defining feature of acute chest syndrome when accompanied by compatible clinical findings. Ankle swelling, increased appetite, and clear chest imaging do not establish acute chest syndrome.
+END
+
+[MCQ]
+QUESTION: Which symptom is commonly associated with acute chest syndrome?
+A: Tachypnea
+B: Constipation
+C: Hearing loss
+D: Increased appetite
+ANSWER: A
+RATIONALE: Acute chest syndrome can cause tachypnea along with chest pain, fever, cough, dyspnea, and hypoxemia. Constipation, hearing loss, and increased appetite are not characteristic features.
+END
+
+[MCQ]
+QUESTION: Which neurologic complication can occur in sickle cell disease because of vaso-occlusion?
+A: Stroke
+B: Cataract
+C: Appendicitis
+D: Otitis externa
+ANSWER: A
+RATIONALE: Cerebral vaso-occlusion can cause ischemic stroke in patients with sickle cell disease. Cataracts, appendicitis, and otitis externa are not direct neurologic complications of sickling.
+END
+
+[MCQ]
+QUESTION: Which bone complication is associated with sickle cell disease?
+A: Avascular necrosis
+B: Osteoporosis only
+C: Bone infection in every patient
+D: Increased bone density in every patient
+ANSWER: A
+RATIONALE: Repeated vaso-occlusion can impair blood supply to bones and cause avascular necrosis, particularly affecting areas such as the hip or shoulder. The other choices do not represent the characteristic bone complication.
+END
+
+[MCQ]
+QUESTION: Which reproductive complication can occur in males with sickle cell disease?
+A: Priapism
+B: Cataracts
+C: Hematuria from every crisis
+D: Infertility in every patient
+ANSWER: A
+RATIONALE: Vaso-occlusion can cause priapism, a prolonged painful erection, which is a recognized complication of sickle cell disease. Cataracts, universal hematuria, and infertility in every patient are not defining complications.
+END
+
+[MCQ]
+QUESTION: Which medication is commonly used as disease-modifying therapy in sickle cell disease?
+A: Hydroxyurea
+B: Omeprazole
+C: Calcium carbonate
+D: Diphenhydramine
+ANSWER: A
+RATIONALE: Hydroxyurea is a disease-modifying therapy used in sickle cell disease to reduce complications and vaso-occlusive events. Omeprazole, calcium carbonate, and diphenhydramine do not serve as standard disease-modifying therapy for sickle cell disease.
+END
+
+[MCQ]
+QUESTION: Which preventive measure is important for people with sickle cell disease?
+A: Maintaining adequate hydration
+B: Deliberately becoming dehydrated
+C: Avoiding all physical activity permanently
+D: Avoiding all vaccinations
+ANSWER: A
+RATIONALE: Adequate hydration helps reduce conditions that promote sickling and vaso-occlusion. Deliberate dehydration and avoiding vaccinations are inappropriate, and permanent avoidance of all physical activity is not a standard preventive strategy.
+END
+
+[MCQ]
+QUESTION: Which vaccination is particularly important in patients with sickle cell disease because of functional asplenia?
+A: Pneumococcal vaccination
+B: No vaccination
+C: Vaccination only after severe infection
+D: Vaccination only during vaso-occlusive crisis
+ANSWER: A
+RATIONALE: Pneumococcal vaccination is especially important because functional asplenia increases susceptibility to serious infection with encapsulated bacteria such as Streptococcus pneumoniae. Vaccination should not be withheld or limited to periods of severe infection or crisis.
+END
+
+[MCQ]
+QUESTION: Which additional vaccine is important in the preventive care of patients with sickle cell disease?
+A: Meningococcal vaccine
+B: No bacterial vaccines
+C: Vaccine only after stroke
+D: Vaccine only during acute chest syndrome
+ANSWER: A
+RATIONALE: Meningococcal vaccination is part of preventive care for patients at increased risk because of functional asplenia. Vaccination should not be delayed until stroke or acute chest syndrome occurs.
+END
+
+[MCQ]
+QUESTION: Which seasonal vaccine is recommended as part of preventive care for many patients with sickle cell disease?
+A: Influenza vaccine
+B: No influenza vaccine
+C: Vaccine only after pneumonia
+D: Vaccine only during a pain crisis
+ANSWER: A
+RATIONALE: Influenza vaccination is important because respiratory infections can precipitate serious complications in people with sickle cell disease. It should not be reserved only for patients who have already developed pneumonia or a vaso-occlusive crisis.
+END
+
+[MCQ]
+QUESTION: What is the main purpose of opioid therapy during a moderate-to-severe vaso-occlusive pain crisis?
+A: Provide effective pain relief
+B: Increase RBC production directly
+C: Cure HbS polymerization permanently
+D: Remove excess iron
+ANSWER: A
+RATIONALE: Opioids are used promptly when moderate-to-severe vaso-occlusive pain requires strong analgesia. They relieve pain but do not directly increase RBC production, permanently cure HbS polymerization, or remove iron.
+END
+
+[MCQ]
+QUESTION: Which additional analgesic may be appropriate for some patients with sickle cell pain when clinically suitable?
+A: Acetaminophen
+B: Insulin
+C: Chelation therapy
+D: Erythropoietin for immediate pain relief
+ANSWER: A
+RATIONALE: Acetaminophen can be used as part of multimodal pain management when appropriate. Insulin, iron chelation, and erythropoietin do not function as immediate analgesics for vaso-occlusive pain.
+END
+
+[MCQ]
+QUESTION: Which medication may be used short-term for appropriate patients with sickle cell pain as part of multimodal therapy?
+A: NSAID
+B: Antibiotic for every pain crisis
+C: Iron supplement for every pain crisis
+D: Antacid
+ANSWER: A
+RATIONALE: A short course of an NSAID may be appropriate for some patients as part of multimodal analgesia. Antibiotics are not required for every uncomplicated pain crisis, and iron supplements and antacids do not treat vaso-occlusive pain.
+END
+
+[MCQ]
+QUESTION: When should oxygen generally be given during a sickle cell pain crisis?
+A: When hypoxemia is documented
+B: Automatically for every episode of pain
+C: Only when the patient requests it
+D: Only after all opioids fail
+ANSWER: A
+RATIONALE: Oxygen is indicated when hypoxemia is present rather than being routinely administered solely because a patient has vaso-occlusive pain. Pain severity alone does not establish a need for oxygen.
+END
+
+[MCQ]
+QUESTION: Which symptom should be treated as an emergency warning sign in a patient with sickle cell disease?
+A: Fever
+B: Mild hunger
+C: Normal thirst
+D: Occasional yawning
+ANSWER: A
+RATIONALE: Fever can indicate serious infection in a patient with functional asplenia and requires prompt medical evaluation. Mild hunger, normal thirst, and occasional yawning are not characteristic emergency warning signs of sickle cell disease.
+END
+
+[MCQ]
+QUESTION: Which symptom should prompt urgent evaluation for possible acute chest syndrome?
+A: Chest pain with difficulty breathing
+B: Mild hunger
+C: Normal sleepiness at bedtime
+D: Brief hiccups
+ANSWER: A
+RATIONALE: Chest pain accompanied by respiratory difficulty can indicate acute chest syndrome, a potentially life-threatening complication requiring urgent assessment. Hunger, normal bedtime sleepiness, and brief hiccups do not specifically indicate acute chest syndrome.
+END
+
+[MCQ]
+QUESTION: Which symptom may indicate a neurologic emergency in sickle cell disease?
+A: Sudden weakness or neurologic change
+B: Mild thirst
+C: Normal appetite
+D: Occasional sneezing
+ANSWER: A
+RATIONALE: Sudden neurologic changes such as weakness can indicate stroke from cerebral vaso-occlusion and require emergency evaluation. Mild thirst, normal appetite, and occasional sneezing are not typical signs of an acute neurologic complication.
+END
+
+[MCQ]
+QUESTION: Which process contributes to jaundice in both sickle cell disease and other hemolytic disorders?
+A: Increased RBC breakdown
+B: Decreased bilirubin production
+C: Increased platelet production
+D: Reduced heme metabolism
+ANSWER: A
+RATIONALE: Increased RBC breakdown produces more heme that is metabolized into bilirubin, which can contribute to jaundice. Decreased bilirubin production and reduced heme metabolism would not explain hemolytic jaundice, and platelet production is unrelated.
+END
+
+[MCQ]
+QUESTION: Which complication can occur because chronic hemolysis increases bilirubin production?
+A: Pigment gallstones
+B: Cataracts
+C: Appendicitis
+D: Hearing loss
+ANSWER: A
+RATIONALE: Chronic hemolysis increases bilirubin production and can contribute to pigment gallstone formation. Cataracts, appendicitis, and hearing loss are not direct complications of increased bilirubin from hemolysis.
+END
+
+[MCQ]
+QUESTION: Which finding can indicate hemolysis in a patient with a hemolytic anemia?
+A: Scleral icterus
+B: Clear sclera with no bilirubin increase
+C: Increased visual acuity
+D: Decreased body temperature only
+ANSWER: A
+RATIONALE: Scleral icterus can result from increased bilirubin associated with RBC destruction. Increased visual acuity and decreased body temperature do not indicate hemolysis, while a normal sclera does not represent bilirubin-related icterus.
+END
+
+[MCQ]
+QUESTION: What causes fatigue in significant hemolytic anemia?
+A: Reduced oxygen delivery to tissues
+B: Increased oxygen-carrying capacity
+C: Increased platelet count
+D: Excess insulin production
+ANSWER: A
+RATIONALE: Reduced RBC mass and hemoglobin decrease oxygen-carrying capacity, which can reduce tissue oxygen delivery and cause fatigue. Increased oxygen-carrying capacity, platelet count, and insulin production do not explain this symptom.
+END
+
+[MCQ]
+QUESTION: Which symptom commonly accompanies anemia caused by significant hemolysis?
+A: Exertional dyspnea
+B: Improved exercise tolerance
+C: Increased hearing ability
+D: Excessive appetite
+ANSWER: A
+RATIONALE: Reduced oxygen-carrying capacity can cause exertional dyspnea because tissues require more oxygen during activity. Improved exercise tolerance, increased hearing ability, and excessive appetite are not typical consequences of hemolytic anemia.
+END
+
+[MCQ]
+QUESTION: Which cardiovascular response may occur as compensation for anemia?
+A: Tachycardia
+B: Persistent bradycardia in every patient
+C: Complete absence of a pulse
+D: Permanent hypertension in every patient
+ANSWER: A
+RATIONALE: Tachycardia can occur as the cardiovascular system attempts to maintain oxygen delivery when hemoglobin is reduced. Persistent bradycardia, absent pulse, and universal hypertension are not normal compensatory responses to anemia.
+END
+
+[MCQ]
+QUESTION: Which finding is most associated with intravascular rather than purely extravascular hemolysis?
+A: Hemoglobinuria
+B: Splenic macrophage activity
+C: Splenomegaly alone
+D: Marrow expansion
+ANSWER: A
+RATIONALE: Intravascular hemolysis releases free hemoglobin into plasma, which can lead to hemoglobinuria. Splenic macrophage activity and splenomegaly are more closely associated with extravascular RBC destruction, while marrow expansion reflects chronic hematopoietic compensation.
+END
+
+[MCQ]
+QUESTION: Which finding is commonly associated with extravascular hemolysis?
+A: Splenic enlargement
+B: Glucose in the urine
+C: Increased platelet destruction only
+D: Increased insulin secretion
+ANSWER: A
+RATIONALE: Extravascular hemolysis commonly involves macrophage-mediated RBC destruction in the spleen and can contribute to splenomegaly. Glucosuria, insulin secretion, and isolated platelet destruction are not characteristic findings.
+END
+
+[MCQ]
+QUESTION: Which statement best describes the relationship between hemolysis and anemia?
+A: Hemolysis causes anemia when RBC destruction exceeds marrow replacement
+B: Hemolysis always causes polycythemia
+C: Hemolysis always increases hemoglobin
+D: Hemolysis prevents all bone marrow responses
+ANSWER: A
+RATIONALE: Hemolytic anemia develops when RBC destruction exceeds the bone marrow's ability to replace the cells. Hemolysis does not normally cause polycythemia or increased hemoglobin and usually stimulates a compensatory marrow response.
+END
+
+[MCQ]
+QUESTION: Which treatment principle applies broadly to hemolytic anemia?
+A: Treat the underlying cause
+B: Give iron to every patient
+C: Avoid investigating the trigger
+D: Stop all RBC production
+ANSWER: A
+RATIONALE: Treatment of hemolytic anemia focuses on identifying and treating the underlying cause, removing triggers when appropriate, and providing supportive care. Iron is not automatically indicated, and stopping RBC production would worsen anemia.
+END
+
+[MCQ]
+QUESTION: Which treatment may be used when hemolysis is caused by an immune process?
+A: Immunosuppressive therapy
+B: Routine iron for everyone
+C: Permanent fluid restriction
+D: Antacid therapy
+ANSWER: A
+RATIONALE: Immune-mediated hemolysis may require immunosuppressive therapy depending on the specific disorder. Routine iron, permanent fluid restriction, and antacid therapy do not treat immune destruction of RBCs.
+END
+
+[MCQ]
+QUESTION: When may RBC transfusion be considered in hemolytic anemia?
+A: When clinically indicated by significant anemia
+B: Whenever the patient has mild fatigue
+C: For every patient with jaundice
+D: For every patient with microcytosis
+ANSWER: A
+RATIONALE: RBC transfusion may be needed when hemolysis produces clinically significant anemia or inadequate oxygen delivery. Mild fatigue, jaundice alone, or microcytosis alone does not automatically require transfusion.
+END
+
+[MCQ]
+QUESTION: Which finding may indicate acute kidney injury associated with severe intravascular hemolysis?
+A: Reduced kidney function
+B: Increased visual acuity
+C: Increased appetite
+D: Improved urine concentration in every case
+ANSWER: A
+RATIONALE: Severe intravascular hemolysis can release free hemoglobin that contributes to kidney injury, resulting in reduced renal function. Visual acuity and appetite are unrelated, and urine concentration is not universally improved.
+END
+
+[MCQ]
+QUESTION: Which mechanism explains oxidative hemolysis in G6PD deficiency?
+A: Reduced NADPH and reduced glutathione impair antioxidant defense
+B: Increased NADPH prevents all oxidative injury
+C: Increased glutathione causes RBC destruction
+D: Excess ATP causes HbS polymerization
+ANSWER: A
+RATIONALE: G6PD deficiency reduces NADPH generation, limiting regeneration of reduced glutathione and weakening antioxidant protection. Increased NADPH would support protection, while glutathione does not cause the hemolysis and ATP excess is not the mechanism of G6PD deficiency.
+END
+
+[MCQ]
+QUESTION: Which event occurs after oxidative damage to hemoglobin in G6PD deficiency?
+A: Hemoglobin denaturation and Heinz body formation
+B: Immediate platelet production
+C: Increased albumin synthesis
+D: Conversion of RBCs into WBCs
+ANSWER: A
+RATIONALE: Oxidative stress can denature hemoglobin, producing Heinz bodies that contribute to RBC damage and hemolysis. Platelet production, albumin synthesis, and conversion of RBCs into WBCs do not occur as consequences of this mechanism.
+END
+
+[MCQ]
+QUESTION: Which teaching action is most important for a patient with G6PD deficiency?
+A: Check medications for potential oxidative triggers
+B: Take every medication without checking
+C: Eat fava beans regularly
+D: Keep mothballs near clothing
+ANSWER: A
+RATIONALE: Patients with G6PD deficiency should inform healthcare providers and verify medications because certain drugs can trigger oxidative hemolysis. Fava beans and naphthalene-containing mothballs should be avoided because they can trigger oxidative stress.
+END
+
+[MCQ]
+QUESTION: Which combination contains two recognized G6PD hemolysis triggers?
+A: Fava beans and naphthalene
+B: Rice and distilled water
+C: Apples and normal saline
+D: Calcium and glucose solution
+ANSWER: A
+RATIONALE: Fava beans and naphthalene are recognized oxidative triggers for hemolysis in susceptible individuals with G6PD deficiency. Rice, distilled water, apples, normal saline, calcium, and glucose solutions are not the classic trigger combination.
+END
+
+[MCQ]
+QUESTION: Which complication is associated with severe acute hemolysis in G6PD deficiency?
+A: Acute kidney injury
+B: Increased bone length
+C: Improved oxygen delivery
+D: Permanent thrombocytosis
+ANSWER: A
+RATIONALE: Severe hemolysis can release free hemoglobin and contribute to kidney injury, making renal monitoring important. Increased bone length, improved oxygen delivery, and permanent thrombocytosis are not expected complications of G6PD hemolysis.
+END
+
+[MCQ]
+QUESTION: Which blood cell abnormality is primarily affected in G6PD deficiency?
+A: Red blood cells
+B: Platelets
+C: Neutrophils
+D: Lymphocytes
+ANSWER: A
+RATIONALE: G6PD deficiency primarily affects red blood cells because they depend heavily on the pentose phosphate pathway for antioxidant protection. Platelets, neutrophils, and lymphocytes are not the primary cells responsible for the characteristic hemolytic disorder.
+END
+
+[MCQ]
+QUESTION: Which statement about G6PD deficiency is accurate?
+A: Oxidative stress can precipitate hemolysis
+B: Oxidative stress protects RBCs
+C: G6PD deficiency increases RBC antioxidant capacity
+D: G6PD deficiency prevents hemoglobin oxidation
+ANSWER: A
+RATIONALE: G6PD deficiency weakens antioxidant protection, so oxidative stress can precipitate hemolysis. The deficiency does not protect RBCs, increase antioxidant capacity, or prevent hemoglobin oxidation.
+END
+
+[MCQ]
+QUESTION: Which mechanism contributes to anemia in thalassemia?
+A: Ineffective erythropoiesis and RBC destruction
+B: Excess normal RBC production
+C: Increased platelet production only
+D: Increased plasma volume alone
+ANSWER: A
+RATIONALE: Thalassemia causes anemia through ineffective erythropoiesis in the marrow and destruction of abnormal RBCs, particularly in the spleen. Excess normal RBC production, platelet production, and plasma volume do not explain the anemia.
+END
+
+[MCQ]
+QUESTION: Which complication is strongly associated with long-term iron overload in thalassemia?
+A: Cardiac damage
+B: Improved cardiac function
+C: Increased oxygen-carrying capacity
+D: Permanent immunity to infection
+ANSWER: A
+RATIONALE: Chronic iron overload can deposit iron in organs and cause cardiac damage, along with liver and endocrine complications. Iron overload does not improve cardiac function or oxygen-carrying capacity and does not provide immunity.
+END
+
+[MCQ]
+QUESTION: Which organ can be damaged by chronic iron overload in thalassemia?
+A: Liver
+B: Appendix only
+C: Ear canal
+D: Cornea only
+ANSWER: A
+RATIONALE: Chronic iron overload can cause significant liver injury and fibrosis in thalassemia. The appendix, ear canal, and cornea are not the classic major organs emphasized in transfusional iron overload.
+END
+
+[MCQ]
+QUESTION: Which endocrine system can be affected by severe iron overload?
+A: Endocrine system
+B: Respiratory system only
+C: Integumentary system only
+D: Auditory system only
+ANSWER: A
+RATIONALE: Iron deposition can damage endocrine organs and contribute to endocrine complications in severe thalassemia. Iron overload is not limited to the respiratory, integumentary, or auditory systems.
+END
+
+[MCQ]
+QUESTION: Which treatment helps prevent organ damage from transfusional iron accumulation?
+A: Iron chelation
+B: Routine iron supplementation
+C: Uncontrolled transfusion
+D: Avoiding follow-up
+ANSWER: A
+RATIONALE: Iron chelation removes excess iron and helps reduce the risk of organ damage from chronic iron accumulation. Iron supplementation can worsen overload, while uncontrolled transfusion and avoiding follow-up increase risk.
+END
+
+[MCQ]
+QUESTION: Which intervention is important for families affected by inherited thalassemia?
+A: Genetic counseling
+B: Avoiding all family discussions
+C: Routine iron without testing
+D: Ignoring family history
+ANSWER: A
+RATIONALE: Genetic counseling helps affected individuals and families understand inheritance, reproductive considerations, and screening options. Ignoring family history or giving unnecessary iron does not address the inherited nature of thalassemia.
+END
+
+[MCQ]
+QUESTION: Which type of hemoglobin causes the characteristic sickling process?
+A: HbS
+B: HbA
+C: Albumin
+D: Fibrinogen
+ANSWER: A
+RATIONALE: HbS is the abnormal hemoglobin responsible for the polymerization and sickling process in sickle cell disease. HbA is normal adult hemoglobin, while albumin and fibrinogen are plasma proteins rather than hemoglobin types.
+END
+
+[MCQ]
+QUESTION: What is the immediate cellular consequence of HbS polymerization?
+A: RBCs become rigid and sickle-shaped
+B: RBCs become larger and flexible
+C: Platelets become sickle-shaped
+D: WBCs lose their nuclei
+ANSWER: A
+RATIONALE: HbS polymerization causes RBCs to become rigid, elongated, and sickle-shaped. It does not make RBCs larger and flexible or transform platelets or WBCs.
+END
+
+[MCQ]
+QUESTION: Which condition can increase the risk of vaso-occlusion in sickle cell disease?
+A: Dehydration
+B: Adequate hydration
+C: Stable oxygenation
+D: Avoidance of temperature extremes
+ANSWER: A
+RATIONALE: Dehydration promotes conditions that favor HbS polymerization and vaso-occlusion. Adequate hydration, stable oxygenation, and avoiding temperature extremes help reduce risk rather than increase it.
+END
+
+[MCQ]
+QUESTION: Which process causes tissue injury during vaso-occlusion?
+A: Reduced blood flow and ischemia
+B: Increased tissue oxygen delivery
+C: Increased glucose storage
+D: Increased plasma protein production
+ANSWER: A
+RATIONALE: Vaso-occlusion blocks small vessels, reducing blood flow and causing tissue ischemia, pain, and potential organ damage. Increased oxygen delivery, glucose storage, and plasma protein production do not cause vaso-occlusive injury.
+END
+
+[MCQ]
+QUESTION: Which complication can result from repeated vaso-occlusion in the spleen?
+A: Functional asplenia
+B: Increased splenic function
+C: Permanent splenic enlargement without damage
+D: Increased immune protection
+ANSWER: A
+RATIONALE: Repeated splenic infarction can progressively destroy splenic tissue and result in functional asplenia. This reduces rather than increases splenic immune protection.
+END
+
+[MCQ]
+QUESTION: Which type of bacteria presents an important infection risk in functional asplenia?
+A: Encapsulated bacteria
+B: Only normal skin flora
+C: Only anaerobic bacteria
+D: Only intestinal parasites
+ANSWER: A
+RATIONALE: The spleen is important in clearing encapsulated bacteria, so functional asplenia increases susceptibility to serious infections from organisms such as Streptococcus pneumoniae. The other categories do not represent the characteristic risk group.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with acute chest syndrome?
+A: Fever, chest symptoms, and a new pulmonary infiltrate
+B: Isolated mild headache with normal chest imaging
+C: Increased appetite and normal oxygenation
+D: Painless swelling of one finger
+ANSWER: A
+RATIONALE: Acute chest syndrome involves a new pulmonary infiltrate with respiratory or chest symptoms and may include fever, cough, tachypnea, dyspnea, and hypoxemia. The other findings do not establish this pulmonary complication.
+END
+
+[MCQ]
+QUESTION: Which complication of sickle cell disease results from prolonged obstruction of blood flow to bone tissue?
+A: Avascular necrosis
+B: Acute appendicitis
+C: Cataract formation
+D: Otitis media
+ANSWER: A
+RATIONALE: Repeated vaso-occlusion can impair blood supply to bone and cause avascular necrosis, especially in the hip or shoulder. Appendicitis, cataracts, and otitis media do not result directly from bone ischemia caused by sickling.
+END
+
+[MCQ]
+QUESTION: Which preventive behavior can reduce sickling triggers?
+A: Avoiding dehydration
+B: Deliberately limiting fluids
+C: Frequent exposure to extreme cold
+D: Ignoring fever
+ANSWER: A
+RATIONALE: Avoiding dehydration helps reduce conditions that promote sickling. Deliberate fluid restriction, extreme cold exposure, and ignoring fever can increase the risk of complications.
+END
+
+[MCQ]
+QUESTION: Which treatment is considered disease-modifying for sickle cell disease?
+A: Hydroxyurea
+B: Acetaminophen only
+C: Normal saline only
+D: Oxygen for every pain episode
+ANSWER: A
+RATIONALE: Hydroxyurea is a disease-modifying treatment used to reduce complications of sickle cell disease. Acetaminophen and hydration provide supportive or symptomatic care, while oxygen is used when hypoxemia is present rather than automatically for every pain episode.
+END
+
+[MCQ]
+QUESTION: Which assessment finding requires urgent attention in a patient with sickle cell disease?
+A: New neurologic symptoms
+B: Mild hunger
+C: Normal appetite
+D: Brief yawning
+ANSWER: A
+RATIONALE: New neurologic symptoms can indicate stroke caused by cerebral vaso-occlusion and require urgent evaluation. Mild hunger, normal appetite, and yawning are not typical signs of a neurologic emergency.
+END
+
+[MCQ]
+QUESTION: Which finding suggests significant anemia from chronic hemolysis?
+A: Fatigue and exertional dyspnea
+B: Increased exercise tolerance
+C: Increased oxygen saturation caused by anemia
+D: Increased muscle strength
+ANSWER: A
+RATIONALE: Chronic hemolysis reduces RBC survival and hemoglobin, which can cause fatigue and exertional dyspnea from reduced oxygen-carrying capacity. Anemia does not improve exercise tolerance or muscle strength.
+END
+
+[MCQ]
+QUESTION: Which process is responsible for reticulocytosis in chronic hemolysis?
+A: Increased bone marrow RBC production
+B: Decreased erythropoietin secretion
+C: Complete marrow shutdown
+D: Reduced RBC replacement
+ANSWER: A
+RATIONALE: Chronic hemolysis lowers effective oxygen delivery, stimulating erythropoietin and increased bone marrow RBC production, which produces reticulocytosis. Decreased erythropoietin, marrow shutdown, and reduced replacement would not produce a compensatory reticulocyte response.
+END
+
+[MCQ]
+QUESTION: Which finding most directly reflects bilirubin accumulation from chronic hemolysis?
+A: Jaundice
+B: Cyanosis
+C: Clubbing
+D: Pallor without bilirubin elevation
+ANSWER: A
+RATIONALE: Increased bilirubin from RBC breakdown can produce jaundice and scleral icterus. Cyanosis reflects reduced oxygenation, clubbing is associated with chronic cardiopulmonary conditions, and pallor does not specifically reflect bilirubin accumulation.
+END
+
+[MCQ]
+QUESTION: Which statement about hemolysis is correct?
+A: It can be intravascular or extravascular
+B: It occurs only in the spleen
+C: It occurs only in the kidneys
+D: It never causes anemia
+ANSWER: A
+RATIONALE: Hemolysis may occur intravascularly within blood vessels or extravascularly through macrophage-mediated removal in organs such as the spleen and liver. It is not restricted to one organ and can cause anemia when RBC destruction exceeds replacement.
+END
+
+[MCQ]
+QUESTION: Which finding is most consistent with chronic hemolytic anemia?
+A: Splenomegaly and jaundice
+B: Increased hemoglobin and decreased bilirubin
+C: Increased RBC lifespan
+D: Complete absence of reticulocytes in all cases
+ANSWER: A
+RATIONALE: Chronic hemolysis can produce splenomegaly and jaundice because of increased RBC destruction and bilirubin production. Hemolysis does not increase RBC lifespan or necessarily eliminate the marrow reticulocyte response.
+END
+
+[MCQ]
+QUESTION: Which RBC disorder is caused by an enzyme deficiency that increases vulnerability to oxidative stress?
+A: G6PD deficiency
+B: Thalassemia
+C: Sickle cell disease
+D: Iron deficiency anemia
+ANSWER: A
+RATIONALE: G6PD deficiency is an inherited enzyme deficiency that reduces the RBC's ability to handle oxidative stress. Thalassemia results from abnormal globin-chain production, sickle cell disease involves HbS, and iron deficiency results from inadequate iron availability.
+END
+
+[MCQ]
+QUESTION: Which RBC disorder is caused by reduced globin-chain synthesis?
+A: Thalassemia
+B: G6PD deficiency
+C: Sickle cell disease
+D: Autoimmune hemolytic anemia
+ANSWER: A
+RATIONALE: Thalassemia results from decreased or absent synthesis of one or more globin chains. G6PD deficiency is an enzyme disorder, sickle cell disease involves abnormal HbS, and autoimmune hemolytic anemia involves immune destruction of RBCs.
+END
+
+[MCQ]
+QUESTION: Which RBC disorder is characterized by HbS polymerization?
+A: Sickle cell disease
+B: Thalassemia
+C: G6PD deficiency
+D: Iron deficiency anemia
+ANSWER: A
+RATIONALE: Sickle cell disease is characterized by HbS polymerization when RBCs are deoxygenated or exposed to other sickling triggers. Thalassemia involves globin synthesis abnormalities, G6PD deficiency involves oxidative vulnerability, and iron deficiency involves inadequate iron.
+END
+
+[MCQ]
+QUESTION: Which condition is most directly associated with Heinz bodies?
+A: G6PD deficiency
+B: Thalassemia
+C: Sickle cell disease
+D: Iron deficiency anemia
+ANSWER: A
+RATIONALE: Oxidative damage in G6PD deficiency can denature hemoglobin and produce Heinz bodies. Thalassemia, sickle cell disease, and iron deficiency anemia have different characteristic mechanisms and do not define Heinz body formation.
+END
+
+[MCQ]
+QUESTION: Which condition is most strongly associated with functional asplenia?
+A: Sickle cell disease
+B: G6PD deficiency
+C: Mild iron deficiency
+D: Acute blood loss
+ANSWER: A
+RATIONALE: Repeated splenic infarction in sickle cell disease can progressively impair splenic function and cause functional asplenia. G6PD deficiency, mild iron deficiency, and acute blood loss do not characteristically cause functional asplenia.
+END
+
+[MCQ]
+QUESTION: Which condition is most associated with transfusion-related iron overload?
+A: Thalassemia
+B: Acute appendicitis
+C: Mild viral infection
+D: Simple dehydration
+ANSWER: A
+RATIONALE: Patients with severe transfusion-dependent thalassemia may receive repeated RBC transfusions, leading to iron accumulation and organ damage. Appendicitis, mild viral infection, and simple dehydration do not typically cause transfusional iron overload.
+END
+
+[MCQ]
+QUESTION: Which finding is an expected consequence of chronic anemia in severe thalassemia?
+A: Bone marrow expansion
+B: Reduced erythropoiesis
+C: Decreased marrow activity
+D: Permanent suppression of RBC production
+ANSWER: A
+RATIONALE: Chronic anemia stimulates erythropoiesis and can cause expansion of the bone marrow, contributing to skeletal changes. Severe thalassemia does not normally cause a compensatory decrease in marrow activity.
+END
+
+[MCQ]
+QUESTION: Which statement about iron therapy in thalassemia is correct?
+A: Iron should not be routinely given unless deficiency is confirmed
+B: Iron should always be given because thalassemia is microcytic
+C: Iron prevents all transfusion complications
+D: Iron removes excess body iron
+ANSWER: A
+RATIONALE: Thalassemia can cause microcytosis without iron deficiency, so iron should not be routinely administered unless deficiency is established. Iron does not remove excess body iron and can worsen iron overload.
+END
+
+[MCQ]
+QUESTION: Which finding is characteristic of significant intravascular hemolysis?
+A: Hemoglobinuria
+B: Increased insulin
+C: Hyperglycemia in every patient
+D: Increased platelet production
+ANSWER: A
+RATIONALE: Intravascular destruction releases free hemoglobin into the circulation, which can appear in urine as hemoglobinuria. Insulin, glucose abnormalities, and platelet production are not defining consequences of intravascular hemolysis.
+END
+
+[MCQ]
+QUESTION: Which condition can trigger a sickle cell crisis?
+A: Fever
+B: Adequate hydration
+C: Stable temperature
+D: Normal oxygenation
+ANSWER: A
+RATIONALE: Fever and infection can increase metabolic stress and contribute to sickling and vaso-occlusion. Adequate hydration, stable temperature, and normal oxygenation generally help reduce rather than trigger sickling.
+END
+
+[MCQ]
+QUESTION: Which patient teaching point is appropriate for sickle cell disease?
+A: Avoid extreme temperatures
+B: Intentionally become dehydrated
+C: Ignore fever until the next clinic visit
+D: Stop disease-modifying therapy when feeling well
+ANSWER: A
+RATIONALE: Avoiding extreme temperatures can help reduce sickling triggers. Dehydration, delayed evaluation of fever, and stopping prescribed disease-modifying therapy can increase the risk of complications.
+END
+
+[MCQ]
+QUESTION: Which finding should a patient with sickle cell disease report immediately?
+A: Prolonged painful erection
+B: Mild hunger
+C: Normal thirst
+D: Occasional yawning
+ANSWER: A
+RATIONALE: Prolonged painful erection can represent priapism, a recognized vaso-occlusive emergency requiring prompt treatment. Mild hunger, normal thirst, and yawning are not emergency warning signs of sickle cell disease.
+END
+
+[MCQ]
+QUESTION: Which treatment principle applies to an acute vaso-occlusive pain crisis?
+A: Prompt pain assessment and appropriate analgesia
+B: Withhold all analgesics until pain disappears
+C: Give oxygen to every patient regardless of oxygenation
+D: Restrict fluids routinely
+ANSWER: A
+RATIONALE: Prompt assessment and effective analgesia are central to management of moderate-to-severe vaso-occlusive pain. Analgesics should not be unnecessarily withheld, oxygen is indicated when hypoxemia is present, and routine fluid restriction is inappropriate.
+END
+
+[MCQ]
+QUESTION: Which complication can result from chronic vaso-occlusion in sickle cell disease?
+A: Organ damage
+B: Increased tissue perfusion
+C: Permanent protection from ischemia
+D: Increased oxygen delivery to blocked tissues
+ANSWER: A
+RATIONALE: Repeated vaso-occlusion causes ischemia and can lead to progressive organ and tissue damage. Vaso-occlusion decreases rather than increases perfusion and oxygen delivery.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with chronic hemolysis in sickle cell disease?
+A: Pigment gallstones
+B: Increased RBC lifespan
+C: Increased hemoglobin production without limitation
+D: Absence of bilirubin production
+ANSWER: A
+RATIONALE: Chronic hemolysis increases bilirubin production and can lead to pigment gallstones. Sickled RBCs have shortened survival, and hemolysis does not eliminate bilirubin production.
+END
+
+[MCQ]
+QUESTION: Which statement best describes sickle cell disease?
+A: It is an inherited hemoglobinopathy involving HbS
+B: It is an acquired platelet disorder
+C: It is caused by iron deficiency alone
+D: It is primarily a plasma protein disorder
+ANSWER: A
+RATIONALE: Sickle cell disease is an inherited hemoglobinopathy involving abnormal HbS and produces hemolysis and vaso-occlusion. It is not primarily a platelet, iron-deficiency, or plasma protein disorder.
+END
+
+[MCQ]
+QUESTION: Which statement best describes thalassemia?
+A: It is an inherited disorder of globin-chain synthesis
+B: It is caused only by dehydration
+C: It is an acquired platelet disorder
+D: It is caused by excess insulin
+ANSWER: A
+RATIONALE: Thalassemia is an inherited disorder involving decreased or absent synthesis of one or more globin chains. Dehydration, platelet abnormalities, and insulin excess are not the underlying causes.
+END
+
+[MCQ]
+QUESTION: Which statement best describes G6PD deficiency?
+A: It reduces RBC protection against oxidative stress
+B: It increases RBC protection against all oxidants
+C: It causes excessive platelet production
+D: It prevents hemoglobin oxidation
+ANSWER: A
+RATIONALE: G6PD deficiency reduces NADPH production and weakens reduced-glutathione-dependent antioxidant defense, making RBCs vulnerable to oxidative stress. It does not increase antioxidant protection or prevent hemoglobin oxidation.
+END
+
+[MCQ]
+QUESTION: Which statement best describes extravascular hemolysis?
+A: Macrophages remove RBCs mainly in the spleen and liver
+B: RBCs are destroyed only inside arteries
+C: Platelets digest RBCs in the bloodstream
+D: RBCs are converted into white blood cells
+ANSWER: A
+RATIONALE: Extravascular hemolysis primarily occurs when macrophages in the spleen and liver remove damaged RBCs. RBCs are not destroyed only inside arteries, platelets do not perform this role, and RBCs do not convert into white blood cells.
+END
+
+[MCQ]
+QUESTION: Which statement best describes intravascular hemolysis?
+A: RBCs are destroyed directly within blood vessels
+B: RBCs are removed only by splenic macrophages
+C: RBCs are stored permanently in bone marrow
+D: RBCs are converted into platelets
+ANSWER: A
+RATIONALE: Intravascular hemolysis is the direct destruction of RBCs within the bloodstream. Splenic macrophage removal describes extravascular hemolysis, while RBC storage and conversion into platelets do not occur.
+END
+
+[MCQ]
+QUESTION: Which finding would support a compensatory bone marrow response to hemolysis?
+A: Reticulocytosis
+B: Complete absence of reticulocytes
+C: Persistent platelet destruction
+D: Decreased erythropoietin response
+ANSWER: A
+RATIONALE: Reticulocytosis indicates that the bone marrow is increasing RBC production in response to RBC loss. A complete absence of reticulocytes and decreased erythropoietin would not represent an effective compensatory response.
+END
+
+[MCQ]
+QUESTION: Which substance increases when heme from destroyed RBCs is broken down?
+A: Unconjugated bilirubin
+B: Insulin
+C: Albumin
+D: Fibrinogen
+ANSWER: A
+RATIONALE: Heme breakdown produces bilirubin, initially in an unconjugated form, which can increase during hemolysis. Insulin, albumin, and fibrinogen are not products of heme breakdown.
+END
+
+[MCQ]
+QUESTION: Which symptom can result from tissue hypoxia caused by hemolytic anemia?
+A: Weakness
+B: Increased muscle strength
+C: Improved exercise tolerance
+D: Increased visual acuity
+ANSWER: A
+RATIONALE: Reduced oxygen delivery from anemia can cause weakness and fatigue. It does not improve muscle strength, exercise tolerance, or visual acuity.
+END
+
+[MCQ]
+QUESTION: Which condition is an example of mechanical hemolysis?
+A: RBC destruction from prosthetic valve-related shear stress
+B: RBC production after exercise
+C: Platelet production after bleeding
+D: WBC production during infection
+ANSWER: A
+RATIONALE: Mechanical shear stress from a prosthetic valve can physically damage RBCs and cause hemolysis. RBC production, platelet production, and WBC production are normal hematopoietic responses rather than examples of mechanical hemolysis.
+END
+
+[MCQ]
+QUESTION: Which finding can occur in chronic hemolytic anemia because the spleen is actively removing damaged RBCs?
+A: Splenomegaly
+B: Splenic disappearance in every patient
+C: Increased pancreatic size
+D: Thyroid atrophy
+ANSWER: A
+RATIONALE: Increased splenic activity in extravascular hemolysis can contribute to splenomegaly. Pancreatic enlargement and thyroid atrophy are not expected direct consequences of splenic RBC removal.
+END
+
+[MCQ]
+QUESTION: Which patient education point is appropriate for G6PD deficiency?
+A: Inform healthcare providers about the deficiency
+B: Hide the diagnosis before receiving medications
+C: Take unknown medications freely
+D: Intentionally seek oxidative triggers
+ANSWER: A
+RATIONALE: Patients with G6PD deficiency should inform healthcare providers so medications and treatments can be evaluated for oxidative risk. Hiding the diagnosis or taking unknown medications can expose the patient to preventable hemolysis.
+END
+
+[MCQ]
+QUESTION: Which finding can indicate severe hemolysis requiring urgent assessment?
+A: Severe weakness with dark urine
+B: Mild hunger after breakfast
+C: Normal sleep
+D: Occasional sneezing
+ANSWER: A
+RATIONALE: Severe weakness with dark urine can indicate significant hemolysis and hemoglobinuria and requires prompt evaluation. Mild hunger, normal sleep, and occasional sneezing are not characteristic signs of severe hemolysis.
+END
+
+[MCQ]
+QUESTION: Which intervention may be needed in severe G6PD-related anemia?
+A: RBC transfusion
+B: Routine iron for every patient
+C: Permanent fluid restriction
+D: Platelet transfusion for isolated anemia
+ANSWER: A
+RATIONALE: RBC transfusion may be required when G6PD-related hemolysis causes severe clinically significant anemia. Iron is not automatically indicated, fluid restriction is not routine treatment, and platelet transfusion does not correct isolated RBC loss.
+END
+
+[MCQ]
+QUESTION: Which complication is associated with chronic severe thalassemia?
+A: Hepatosplenomegaly
+B: Increased normal RBC lifespan
+C: Complete absence of anemia
+D: Permanent resistance to infection
+ANSWER: A
+RATIONALE: Chronic ineffective erythropoiesis and extramedullary hematopoiesis can cause hepatosplenomegaly in severe thalassemia. Thalassemia does not increase normal RBC lifespan or eliminate anemia and does not provide infection resistance.
+END
+
+[MCQ]
+QUESTION: Which treatment combination is appropriate for severe transfusion-dependent thalassemia?
+A: Transfusions and iron chelation
+B: Iron supplements and no monitoring
+C: Fluid restriction and antacids
+D: Antibiotics as the only long-term treatment
+ANSWER: A
+RATIONALE: Severe transfusion-dependent thalassemia may require chronic transfusions along with iron chelation to manage anemia while preventing transfusional iron overload. Iron supplementation without evidence of deficiency can worsen overload, while the other treatments do not address the underlying problems.
+END
+
+[MCQ]
+QUESTION: Which complication of thalassemia results from chronic tissue hypoxia?
+A: Growth restriction
+B: Increased growth rate
+C: Increased muscle mass
+D: Improved exercise tolerance
+ANSWER: A
+RATIONALE: Chronic anemia and tissue hypoxia can impair growth and contribute to failure to thrive in children with severe thalassemia. Increased growth, muscle mass, and exercise tolerance are not expected consequences.
+END
+
+[MCQ]
+QUESTION: Which mechanism contributes to the skeletal changes seen in severe thalassemia?
+A: Bone marrow expansion
+B: Decreased erythropoiesis
+C: Reduced marrow activity
+D: Increased platelet destruction
+ANSWER: A
+RATIONALE: Chronic anemia stimulates erythropoiesis, causing expansion of the bone marrow and contributing to skeletal and facial changes. Decreased erythropoiesis and platelet destruction do not explain these skeletal findings.
+END
+
+[MCQ]
+QUESTION: Which complication is caused by iron deposition in patients with chronic transfusion-dependent thalassemia?
+A: Organ damage
+B: Improved liver function
+C: Increased cardiac reserve
+D: Permanent protection from endocrine problems
+ANSWER: A
+RATIONALE: Excess iron can accumulate in organs and cause cardiac, hepatic, and endocrine damage. Iron overload does not improve organ function or protect against endocrine complications.
+END
+
+[MCQ]
+QUESTION: Which factor can precipitate a sickle cell crisis?
+A: Dehydration
+B: Adequate hydration
+C: Stable oxygenation
+D: Avoidance of cold
+ANSWER: A
+RATIONALE: Dehydration is a recognized trigger for sickling and vaso-occlusion. Adequate hydration, stable oxygenation, and avoiding cold generally reduce rather than increase the risk of crisis.
+END
+
+[MCQ]
+QUESTION: Which finding is associated with vaso-occlusion?
+A: Severe ischemic pain
+B: Increased tissue perfusion
+C: Increased oxygen delivery
+D: Improved circulation
+ANSWER: A
+RATIONALE: Vaso-occlusion reduces blood flow and causes tissue ischemia, which produces severe pain. Increased perfusion and oxygen delivery would oppose the mechanism of vaso-occlusion.
+END
+
+[MCQ]
+QUESTION: Which complication is specifically associated with pulmonary involvement in sickle cell disease?
+A: Acute chest syndrome
+B: Avascular necrosis
+C: Priapism
+D: Stroke
+ANSWER: A
+RATIONALE: Acute chest syndrome is the major acute pulmonary complication of sickle cell disease and involves a new pulmonary infiltrate with compatible symptoms. Avascular necrosis affects bone, priapism affects the penis, and stroke affects the brain.
+END
+
+[MCQ]
+QUESTION: Which complication is specifically associated with cerebral vaso-occlusion?
+A: Stroke
+B: Acute chest syndrome
+C: Pigment gallstones
+D: Priapism
+ANSWER: A
+RATIONALE: Cerebral vaso-occlusion can reduce blood flow to the brain and cause ischemic stroke. Acute chest syndrome affects the lungs, pigment gallstones result from chronic hemolysis, and priapism involves penile blood flow.
+END
+
+[MCQ]
+QUESTION: Which complication is specifically associated with bone ischemia?
+A: Avascular necrosis
+B: Acute chest syndrome
+C: Functional asplenia
+D: Hemoglobinuria
+ANSWER: A
+RATIONALE: Avascular necrosis results from impaired blood supply and ischemia of bone tissue. Acute chest syndrome affects the lungs, functional asplenia results from repeated splenic infarction, and hemoglobinuria reflects intravascular hemolysis.
+END
+
+[MCQ]
+QUESTION: Which complication is specifically associated with prolonged penile vaso-occlusion?
+A: Priapism
+B: Stroke
+C: Acute chest syndrome
+D: Hepatosplenomegaly
+ANSWER: A
+RATIONALE: Priapism is a prolonged, often painful erection caused by vaso-occlusion of penile blood flow. Stroke affects the brain, acute chest syndrome affects the lungs, and hepatosplenomegaly involves enlargement of the liver and spleen.
+END
+
+[MCQ]
+QUESTION: Which intervention is appropriate for a patient with sickle cell disease who is experiencing pain but has normal oxygen saturation?
+A: Provide appropriate analgesia and hydration as indicated
+B: Automatically administer oxygen regardless of saturation
+C: Restrict fluids
+D: Delay pain treatment until hypoxemia occurs
+ANSWER: A
+RATIONALE: Vaso-occlusive pain should be assessed and treated promptly with appropriate analgesia and hydration when indicated. Oxygen is not routinely required when oxygenation is adequate, and fluid restriction or delaying analgesia is inappropriate.
+END
+
+[MCQ]
+QUESTION: Which preventive medication can reduce complications in sickle cell disease?
+A: Hydroxyurea
+B: Routine iron
+C: Antacid
+D: Antihistamine
+ANSWER: A
+RATIONALE: Hydroxyurea is a disease-modifying therapy that can reduce complications of sickle cell disease. Routine iron, antacids, and antihistamines do not provide the same disease-modifying effect.
+END
+
+[MCQ]
+QUESTION: Which statement about oxygen therapy during sickle cell pain is correct?
+A: Oxygen is used when hypoxemia is present
+B: Oxygen is mandatory for every pain crisis
+C: Oxygen replaces analgesics
+D: Oxygen cures HbS polymerization permanently
+ANSWER: A
+RATIONALE: Oxygen is appropriate when hypoxemia is documented. It is not mandatory for every pain crisis, does not replace analgesia, and does not permanently cure the underlying HbS polymerization process.
+END
+
+[MCQ]
+QUESTION: Which preventive measure helps reduce infection risk in sickle cell disease?
+A: Recommended vaccinations
+B: Avoiding all vaccines
+C: Waiting for infection before vaccination
+D: Vaccinating only during crisis
+ANSWER: A
+RATIONALE: Recommended vaccinations, including pneumococcal, meningococcal, and influenza vaccines, help reduce infection risk in patients with sickle cell disease. Vaccination should not be avoided or delayed until a crisis occurs.
+END
+
+[MCQ]
+QUESTION: Which finding in a patient with sickle cell disease can indicate serious infection?
+A: Fever
+B: Normal temperature
+C: Mild hunger
+D: Normal thirst
+ANSWER: A
+RATIONALE: Fever can signal serious infection in a patient with functional asplenia and requires prompt medical evaluation. Normal temperature, mild hunger, and normal thirst do not specifically indicate infection.
+END
+
+[MCQ]
+QUESTION: Which finding in a patient with sickle cell disease can indicate acute chest syndrome?
+A: New cough and dyspnea
+B: Increased appetite
+C: Mild thirst
+D: Normal sleep
+ANSWER: A
+RATIONALE: New cough and dyspnea can occur with acute chest syndrome, especially when accompanied by chest pain, fever, hypoxemia, or a new infiltrate. Increased appetite, mild thirst, and normal sleep are not characteristic findings.
+END
+
+[MCQ]
+QUESTION: Which statement about sickle cell disease and hemolysis is correct?
+A: Sickled RBCs have a shortened lifespan
+B: Sickled RBCs live longer than normal RBCs
+C: Sickling prevents RBC destruction
+D: Sickling eliminates anemia
+ANSWER: A
+RATIONALE: Sickled RBCs are fragile and have a markedly shortened lifespan, contributing to chronic hemolytic anemia. Sickling does not prolong RBC survival or prevent anemia.
+END
+
+[MCQ]
+QUESTION: Which finding may result from chronic hemolysis in sickle cell disease?
+A: Jaundice
+B: Increased hemoglobin without treatment
+C: Increased RBC lifespan
+D: Reduced bilirubin production
+ANSWER: A
+RATIONALE: Chronic hemolysis increases bilirubin production and can cause jaundice or scleral icterus. It does not increase RBC lifespan or reduce bilirubin production.
+END
+
+[MCQ]
+QUESTION: Which factor can worsen sickling by promoting HbS polymerization?
+A: Hypoxia
+B: Normal oxygenation
+C: Adequate hydration
+D: Stable temperature
+ANSWER: A
+RATIONALE: Hypoxia promotes deoxygenation of HbS and encourages polymerization and sickling. Normal oxygenation, adequate hydration, and stable temperatures are generally protective factors.
+END
+
+[MCQ]
+QUESTION: Which condition can promote sickling through increased physiologic stress?
+A: Fever
+B: Adequate hydration
+C: Normal oxygenation
+D: Avoidance of infection
+ANSWER: A
+RATIONALE: Fever can increase physiologic stress and may accompany infection, both of which can contribute to sickling. Adequate hydration, normal oxygenation, and infection prevention reduce risk.
+END
+
+[MCQ]
+QUESTION: Which statement best explains why patients with sickle cell disease can develop both anemia and severe pain?
+A: Hemolysis causes anemia while vaso-occlusion causes ischemic pain
+B: Vaso-occlusion increases RBC lifespan while hemolysis improves perfusion
+C: Hemolysis causes only pain and never anemia
+D: Vaso-occlusion increases tissue oxygen delivery
+ANSWER: A
+RATIONALE: Sickle cell disease has two major mechanisms: chronic hemolysis reduces RBC survival and causes anemia, while vaso-occlusion blocks microcirculation and causes ischemic pain. The other choices reverse or misrepresent these mechanisms.
+END
