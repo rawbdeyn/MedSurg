@@ -120,7 +120,7 @@ async function loadQuizList() {
 
 
             if (
-                filename.includes("_retention")
+                filename.endsWith("_retention.txt")
             ) {
 
                 category =
@@ -142,6 +142,7 @@ async function loadQuizList() {
 
 
             // Remove "_retention"
+
             topic =
                 topic.replace(
                     /_retention$/i,
@@ -213,6 +214,14 @@ async function loadQuizList() {
 
         sortedTopics.forEach(topic => {
 
+            const topicData =
+                groupedQuizzes[topic];
+
+
+            // =================================
+            // MAIN TOPIC BOX
+            // =================================
+
             const topicSection =
                 document.createElement("div");
 
@@ -243,42 +252,69 @@ async function loadQuizList() {
 
 
             // =================================
-            // RETENTION SECTION
+            // CATEGORY CONTAINER
+            // =================================
+            //
+            // This puts Retention and
+            // Situational side-by-side.
+            //
+
+            const categoriesContainer =
+                document.createElement("div");
+
+
+            categoriesContainer.className =
+                "quiz-categories";
+
+
+            // =================================
+            // RETENTION
             // =================================
 
             if (
-                groupedQuizzes[topic]
-                    .Retention.length > 0
+                topicData.Retention.length > 0
             ) {
 
                 createQuizCategory(
-                    topicSection,
+                    categoriesContainer,
                     "📘 Retention",
-                    groupedQuizzes[topic]
-                        .Retention
+                    topicData.Retention,
+                    "retention"
                 );
 
             }
 
 
             // =================================
-            // SITUATIONAL SECTION
+            // SITUATIONAL
             // =================================
 
             if (
-                groupedQuizzes[topic]
-                    .Situational.length > 0
+                topicData.Situational.length > 0
             ) {
 
                 createQuizCategory(
-                    topicSection,
+                    categoriesContainer,
                     "🧠 Situational",
-                    groupedQuizzes[topic]
-                        .Situational
+                    topicData.Situational,
+                    "situational"
                 );
 
             }
 
+
+            // =================================
+            // ADD CATEGORIES TO TOPIC BOX
+            // =================================
+
+            topicSection.appendChild(
+                categoriesContainer
+            );
+
+
+            // =================================
+            // ADD TOPIC BOX TO MENU
+            // =================================
 
             quizList.appendChild(
                 topicSection
@@ -347,7 +383,8 @@ async function loadQuizList() {
 function createQuizCategory(
     parent,
     categoryName,
-    quizzes
+    quizzes,
+    categoryType
 ) {
 
     const category =
@@ -355,7 +392,7 @@ function createQuizCategory(
 
 
     category.className =
-        "quiz-category";
+        `quiz-category ${categoryType}`;
 
 
     // ====================================
@@ -376,6 +413,23 @@ function createQuizCategory(
 
     category.appendChild(
         categoryTitle
+    );
+
+
+    // ====================================
+    // QUIZ BUTTON CONTAINER
+    // ====================================
+
+    const quizGrid =
+        document.createElement("div");
+
+
+    quizGrid.className =
+        "quiz-grid";
+
+
+    category.appendChild(
+        quizGrid
     );
 
 
@@ -419,12 +473,16 @@ function createQuizCategory(
         );
 
 
-        category.appendChild(
+        quizGrid.appendChild(
             button
         );
 
     });
 
+
+    // ====================================
+    // ADD CATEGORY TO CONTAINER
+    // ====================================
 
     parent.appendChild(
         category
@@ -829,6 +887,7 @@ function parseQuestions(text) {
 
 
             continue;
+
         }
 
     }
@@ -1049,8 +1108,6 @@ document.getElementById("submitButton")
                 score++;
 
 
-                // GREEN
-
                 answerOptions[userAnswer]
                     .classList.add(
                         "correct-answer"
@@ -1084,15 +1141,11 @@ document.getElementById("submitButton")
 
             else {
 
-                // RED = selected answer
-
                 answerOptions[userAnswer]
                     .classList.add(
                         "wrong-answer"
                     );
 
-
-                // GREEN = correct answer
 
                 answerOptions[
                     q.correct_answer
