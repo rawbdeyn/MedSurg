@@ -658,4 +658,25 @@ button:hover {
         font-size: 13px;
     }
 
+   .quiz-categories {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: stretch;
+}
+
+.quiz-category {
+    min-width: 0;
+    padding: 14px 10px 16px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.quiz-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    flex: 1;
+}
+
 }
