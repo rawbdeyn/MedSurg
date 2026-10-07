@@ -25,7 +25,8 @@ async function loadQuizList() {
         document.getElementById("quizList");
 
     quizList.innerHTML =
-        "<p>Loading quizzes...</p>";
+        "<p class='loading'>Loading quizzes...</p>";
+
 
     try {
 
@@ -50,6 +51,10 @@ async function loadQuizList() {
         const files =
             await response.json();
 
+
+        // ====================================
+        // GET ONLY TXT FILES
+        // ====================================
 
         const quizzes =
             files.filter(file =>
@@ -86,47 +91,57 @@ async function loadQuizList() {
         }
 
 
-        // ========================================
+        // ====================================
         // GROUP QUIZZES BY TOPIC
-        // ========================================
+        // ====================================
 
         const groupedQuizzes = {};
 
 
-        quizzes.forEach((quiz) => {
+        quizzes.forEach(quiz => {
 
             const filename =
                 quiz.name.toLowerCase();
 
 
-            // ------------------------------------
-            // Determine category
-            // ------------------------------------
+            // =================================
+            // DETERMINE CATEGORY
+            // =================================
+            //
+            // topic_retention.txt
+            //       = Retention
+            //
+            // topic.txt
+            //       = Situational
+            //
 
-            let category = "Situational";
+            let category =
+                "Situational";
 
 
             if (
                 filename.endsWith("_retention.txt")
             ) {
 
-                category = "Retention";
+                category =
+                    "Retention";
 
             }
 
 
-            // ------------------------------------
-            // Get topic name
-            // ------------------------------------
+            // =================================
+            // DETERMINE TOPIC NAME
+            // =================================
 
             let topic =
-                quiz.name.replace(
-                    /\.txt$/i,
-                    ""
-                );
+                quiz.name
+                    .replace(
+                        /\.txt$/i,
+                        ""
+                    );
 
 
-            // Remove _retention from topic
+            // Remove "_retention"
 
             topic =
                 topic.replace(
@@ -135,7 +150,8 @@ async function loadQuizList() {
                 );
 
 
-            // Replace underscores / hyphens
+            // Replace underscores and hyphens
+            // with spaces
 
             topic =
                 topic.replace(
@@ -144,7 +160,9 @@ async function loadQuizList() {
                 );
 
 
-            // Capitalize each word
+            // =================================
+            // FORMAT TOPIC NAME
+            // =================================
 
             topic =
                 topic.replace(
@@ -154,9 +172,9 @@ async function loadQuizList() {
                 );
 
 
-            // ------------------------------------
-            // Create topic group if needed
-            // ------------------------------------
+            // =================================
+            // CREATE TOPIC GROUP
+            // =================================
 
             if (!groupedQuizzes[topic]) {
 
@@ -171,47 +189,58 @@ async function loadQuizList() {
             }
 
 
+            // =================================
+            // ADD QUIZ TO GROUP
+            // =================================
+
             groupedQuizzes[topic][category]
                 .push(quiz);
 
         });
 
 
-        // ========================================
+        // ====================================
         // SORT TOPICS
-        // ========================================
+        // ====================================
 
         const sortedTopics =
             Object.keys(groupedQuizzes)
                 .sort();
 
 
-        // ========================================
-        // CREATE TOPIC CARDS
-        // ========================================
+        // ====================================
+        // CREATE MENU
+        // ====================================
 
-        sortedTopics.forEach((topic) => {
+        sortedTopics.forEach(topic => {
 
-            // ------------------------------------
-            // Outer topic card
-            // ------------------------------------
+            const topicData =
+                groupedQuizzes[topic];
+
+
+            // =================================
+            // MAIN TOPIC BOX
+            // =================================
 
             const topicSection =
                 document.createElement("div");
+
 
             topicSection.className =
                 "quiz-topic";
 
 
-            // ------------------------------------
-            // Topic title
-            // ------------------------------------
+            // =================================
+            // TOPIC TITLE
+            // =================================
 
             const topicTitle =
                 document.createElement("h2");
 
+
             topicTitle.className =
                 "quiz-topic-title";
+
 
             topicTitle.textContent =
                 topic;
@@ -222,61 +251,70 @@ async function loadQuizList() {
             );
 
 
-            // ------------------------------------
-            // Retention / Situational container
-            // ------------------------------------
+            // =================================
+            // CATEGORY CONTAINER
+            // =================================
+            //
+            // This puts Retention and
+            // Situational side-by-side.
+            //
 
             const categoriesContainer =
                 document.createElement("div");
+
 
             categoriesContainer.className =
                 "quiz-categories";
 
 
-            // ------------------------------------
-            // Retention
-            // ------------------------------------
+            // =================================
+            // RETENTION
+            // =================================
 
             if (
-                groupedQuizzes[topic]
-                    .Retention.length > 0
+                topicData.Retention.length > 0
             ) {
 
                 createQuizCategory(
                     categoriesContainer,
-                    "Retention",
-                    groupedQuizzes[topic]
-                        .Retention,
+                    "📘 Retention",
+                    topicData.Retention,
                     "retention"
                 );
 
             }
 
 
-            // ------------------------------------
-            // Situational
-            // ------------------------------------
+            // =================================
+            // SITUATIONAL
+            // =================================
 
             if (
-                groupedQuizzes[topic]
-                    .Situational.length > 0
+                topicData.Situational.length > 0
             ) {
 
                 createQuizCategory(
                     categoriesContainer,
-                    "Situational",
-                    groupedQuizzes[topic]
-                        .Situational,
+                    "🧠 Situational",
+                    topicData.Situational,
                     "situational"
                 );
 
             }
 
 
+            // =================================
+            // ADD CATEGORIES TO TOPIC BOX
+            // =================================
+
             topicSection.appendChild(
                 categoriesContainer
             );
 
+
+            // =================================
+            // ADD TOPIC BOX TO MENU
+            // =================================
 
             quizList.appendChild(
                 topicSection
@@ -357,9 +395,9 @@ function createQuizCategory(
         `quiz-category ${categoryType}`;
 
 
-    // ------------------------------------
-    // Category title
-    // ------------------------------------
+    // ====================================
+    // CATEGORY TITLE
+    // ====================================
 
     const categoryTitle =
         document.createElement("h3");
@@ -378,9 +416,9 @@ function createQuizCategory(
     );
 
 
-    // ------------------------------------
-    // Quiz buttons container
-    // ------------------------------------
+    // ====================================
+    // QUIZ BUTTON CONTAINER
+    // ====================================
 
     const quizGrid =
         document.createElement("div");
@@ -395,20 +433,20 @@ function createQuizCategory(
     );
 
 
-    // ------------------------------------
-    // Sort quizzes
-    // ------------------------------------
+    // ====================================
+    // SORT QUIZZES
+    // ====================================
 
     quizzes.sort((a, b) =>
         a.name.localeCompare(b.name)
     );
 
 
-    // ------------------------------------
-    // Create individual quiz buttons
-    // ------------------------------------
+    // ====================================
+    // CREATE QUIZ BUTTONS
+    // ====================================
 
-    quizzes.forEach((quiz) => {
+    quizzes.forEach(quiz => {
 
         const button =
             document.createElement("button");
@@ -419,9 +457,7 @@ function createQuizCategory(
 
 
         button.textContent =
-            formatQuizName(
-                quiz.name
-            );
+            formatQuizName(quiz.name);
 
 
         button.addEventListener(
@@ -430,9 +466,7 @@ function createQuizCategory(
 
                 startQuiz(
                     quiz.download_url,
-                    formatQuizName(
-                        quiz.name
-                    )
+                    formatQuizName(quiz.name)
                 );
 
             }
@@ -445,6 +479,10 @@ function createQuizCategory(
 
     });
 
+
+    // ====================================
+    // ADD CATEGORY TO CONTAINER
+    // ====================================
 
     parent.appendChild(
         category
@@ -465,8 +503,6 @@ function formatQuizName(filename) {
         );
 
 
-    // Remove _retention from displayed name
-
     name =
         name.replace(
             /_retention$/i,
@@ -484,7 +520,8 @@ function formatQuizName(filename) {
     name =
         name.replace(
             /\b\w/g,
-            letter => letter.toUpperCase()
+            letter =>
+                letter.toUpperCase()
         );
 
 
@@ -702,6 +739,10 @@ function parseQuestions(text) {
         line = line.trim();
 
 
+        // ------------------------------
+        // START QUESTION
+        // ------------------------------
+
         if (line === "[MCQ]") {
 
             current = {
@@ -736,6 +777,10 @@ function parseQuestions(text) {
         }
 
 
+        // ------------------------------
+        // QUESTION
+        // ------------------------------
+
         if (line.startsWith("QUESTION:")) {
 
             current.question =
@@ -750,13 +795,22 @@ function parseQuestions(text) {
         }
 
 
+        // ------------------------------
+        // CHOICES
+        // ------------------------------
+
         if (/^[A-D]:/.test(line)) {
 
             const choice =
-                line.substring(2).trim();
+                line
+                    .substring(2)
+                    .trim();
 
 
-            current.choices.push(choice);
+            current.choices.push(
+                choice
+            );
+
 
             current.choice_count++;
 
@@ -764,6 +818,10 @@ function parseQuestions(text) {
             continue;
         }
 
+
+        // ------------------------------
+        // ANSWER
+        // ------------------------------
 
         if (line.startsWith("ANSWER:")) {
 
@@ -784,7 +842,15 @@ function parseQuestions(text) {
         }
 
 
-        if (line.startsWith("RATIONALE:")) {
+        // ------------------------------
+        // RATIONALE
+        // ------------------------------
+
+        if (
+            line.startsWith(
+                "RATIONALE:"
+            )
+        ) {
 
             current.rationale =
                 line
@@ -798,6 +864,10 @@ function parseQuestions(text) {
         }
 
 
+        // ------------------------------
+        // END QUESTION
+        // ------------------------------
+
         if (line === "END") {
 
             if (
@@ -806,12 +876,17 @@ function parseQuestions(text) {
                 current.correct_answer >= 0
             ) {
 
-                questions.push(current);
+                questions.push(
+                    current
+                );
 
             }
 
 
             current = null;
+
+
+            continue;
 
         }
 
@@ -904,7 +979,9 @@ function displayQuestion() {
         (choice, index) => {
 
             const label =
-                document.createElement("label");
+                document.createElement(
+                    "label"
+                );
 
 
             label.className =
@@ -966,23 +1043,30 @@ document.getElementById("submitButton")
                 );
 
 
+            // ------------------------------
+            // NO ANSWER SELECTED
+            // ------------------------------
+
             if (!selected) {
 
-                document.getElementById("result")
-                    .innerHTML = `
+                document.getElementById(
+                    "result"
+                ).innerHTML = `
 
-                        <p>
-                            Please select an answer.
-                        </p>
+                    <p>
+                        Please select an answer.
+                    </p>
 
-                    `;
+                `;
 
                 return;
             }
 
 
             const userAnswer =
-                parseInt(selected.value);
+                parseInt(
+                    selected.value
+                );
 
 
             const q =
@@ -998,14 +1082,26 @@ document.getElementById("submitButton")
                 q.correct_answer;
 
 
+            // ------------------------------
+            // GET ANSWER OPTIONS
+            // ------------------------------
+
             const answerOptions =
                 document.querySelectorAll(
                     ".answer-option"
                 );
 
 
+            // ------------------------------
+            // RECORD ANSWER
+            // ------------------------------
+
             answeredQuestions++;
 
+
+            // ------------------------------
+            // CORRECT
+            // ------------------------------
 
             if (q.is_correct) {
 
@@ -1018,25 +1114,30 @@ document.getElementById("submitButton")
                     );
 
 
-                document.getElementById("result")
-                    .innerHTML = `
+                document.getElementById(
+                    "result"
+                ).innerHTML = `
 
-                        <div class="correct">
+                    <div class="correct">
 
-                            <strong>
-                                Correct!
-                            </strong>
+                        <strong>
+                            Correct!
+                        </strong>
 
-                            <p>
-                                ${q.rationale}
-                            </p>
+                        <p>
+                            ${q.rationale}
+                        </p>
 
-                        </div>
+                    </div>
 
-                    `;
+                `;
 
             }
 
+
+            // ------------------------------
+            // INCORRECT
+            // ------------------------------
 
             else {
 
@@ -1046,41 +1147,47 @@ document.getElementById("submitButton")
                     );
 
 
-                answerOptions[q.correct_answer]
-                    .classList.add(
-                        "correct-answer"
-                    );
+                answerOptions[
+                    q.correct_answer
+                ].classList.add(
+                    "correct-answer"
+                );
 
 
-                document.getElementById("result")
-                    .innerHTML = `
+                document.getElementById(
+                    "result"
+                ).innerHTML = `
 
-                        <div class="wrong">
+                    <div class="wrong">
 
-                            <strong>
-                                Incorrect.
-                            </strong>
+                        <strong>
+                            Incorrect.
+                        </strong>
 
-                            <p>
-                                Correct answer:
-                                ${
-                                    String.fromCharCode(
-                                        65 +
-                                        q.correct_answer
-                                    )
-                                }
-                            </p>
+                        <p>
+                            Correct answer:
+                            ${
+                                String.fromCharCode(
+                                    65 +
+                                    q.correct_answer
+                                )
+                            }
+                        </p>
 
-                            <p>
-                                ${q.rationale}
-                            </p>
+                        <p>
+                            ${q.rationale}
+                        </p>
 
-                        </div>
+                    </div>
 
-                    `;
+                `;
 
             }
 
+
+            // ------------------------------
+            // DISABLE ANSWERS
+            // ------------------------------
 
             document.querySelectorAll(
                 'input[name="answer"]'
@@ -1091,12 +1198,22 @@ document.getElementById("submitButton")
             });
 
 
-            document.getElementById("submitButton")
-                .style.display = "none";
+            // ------------------------------
+            // HIDE SUBMIT
+            // ------------------------------
+
+            document.getElementById(
+                "submitButton"
+            ).style.display = "none";
 
 
-            document.getElementById("nextButton")
-                .style.display = "block";
+            // ------------------------------
+            // SHOW NEXT
+            // ------------------------------
+
+            document.getElementById(
+                "nextButton"
+            ).style.display = "block";
 
         }
     );
@@ -1114,10 +1231,15 @@ document.getElementById("nextButton")
             currentQuestion++;
 
 
+            // ====================================
+            // CHECKPOINT EVERY 10 QUESTIONS
+            // ====================================
+
             if (
                 currentQuestion > 0 &&
                 currentQuestion % 10 === 0 &&
-                currentQuestion < questions.length
+                currentQuestion <
+                    questions.length
             ) {
 
                 document.getElementById(
@@ -1130,17 +1252,24 @@ document.getElementById("nextButton")
                     }`;
 
 
-                document.getElementById("quizScreen")
-                    .style.display = "none";
+                document.getElementById(
+                    "quizScreen"
+                ).style.display = "none";
 
 
-                document.getElementById("checkpoint")
-                    .style.display = "block";
+                document.getElementById(
+                    "checkpoint"
+                ).style.display = "block";
 
 
                 return;
+
             }
 
+
+            // ====================================
+            // QUIZ FINISHED
+            // ====================================
 
             if (
                 currentQuestion >=
@@ -1150,8 +1279,13 @@ document.getElementById("nextButton")
                 finishQuiz();
 
                 return;
+
             }
 
+
+            // ====================================
+            // NEXT QUESTION
+            // ====================================
 
             displayQuestion();
 
@@ -1168,12 +1302,14 @@ document.getElementById("continueButton")
         "click",
         () => {
 
-            document.getElementById("checkpoint")
-                .style.display = "none";
+            document.getElementById(
+                "checkpoint"
+            ).style.display = "none";
 
 
-            document.getElementById("quizScreen")
-                .style.display = "block";
+            document.getElementById(
+                "quizScreen"
+            ).style.display = "block";
 
 
             displayQuestion();
@@ -1191,25 +1327,29 @@ document.getElementById("stopButton")
         "click",
         () => {
 
-            document.getElementById("checkpoint")
-                .style.display = "none";
+            document.getElementById(
+                "checkpoint"
+            ).style.display = "none";
 
 
-            document.getElementById("quizScreen")
-                .style.display = "none";
+            document.getElementById(
+                "quizScreen"
+            ).style.display = "none";
 
 
-            document.getElementById("stoppedScreen")
-                .style.display = "block";
+            document.getElementById(
+                "stoppedScreen"
+            ).style.display = "block";
 
 
-            document.getElementById("stoppedScore")
-                .textContent =
-                    `Score: ${
-                        score
-                    } / ${
-                        answeredQuestions
-                    }`;
+            document.getElementById(
+                "stoppedScore"
+            ).textContent =
+                `Score: ${
+                    score
+                } / ${
+                    answeredQuestions
+                }`;
 
         }
     );
@@ -1221,12 +1361,14 @@ document.getElementById("stopButton")
 
 function finishQuiz() {
 
-    document.getElementById("quizScreen")
-        .style.display = "none";
+    document.getElementById(
+        "quizScreen"
+    ).style.display = "none";
 
 
-    document.getElementById("completeScreen")
-        .style.display = "block";
+    document.getElementById(
+        "completeScreen"
+    ).style.display = "block";
 
 
     let percentage = 0;
@@ -1236,24 +1378,28 @@ function finishQuiz() {
 
         percentage =
             Math.round(
-                (score / answeredQuestions) * 100
+                (score /
+                    answeredQuestions) *
+                100
             );
 
     }
 
 
-    document.getElementById("finalScore")
-        .textContent =
-            `Score: ${
-                score
-            } / ${
-                answeredQuestions
-            }`;
+    document.getElementById(
+        "finalScore"
+    ).textContent =
+        `Score: ${
+            score
+        } / ${
+            answeredQuestions
+        }`;
 
 
-    document.getElementById("finalPercentage")
-        .textContent =
-            `${percentage}%`;
+    document.getElementById(
+        "finalPercentage"
+    ).textContent =
+        `${percentage}%`;
 
 }
 
@@ -1295,24 +1441,29 @@ function returnToMenu() {
     selectedQuizName = "";
 
 
-    document.getElementById("quizScreen")
-        .style.display = "none";
+    document.getElementById(
+        "quizScreen"
+    ).style.display = "none";
 
 
-    document.getElementById("checkpoint")
-        .style.display = "none";
+    document.getElementById(
+        "checkpoint"
+    ).style.display = "none";
 
 
-    document.getElementById("stoppedScreen")
-        .style.display = "none";
+    document.getElementById(
+        "stoppedScreen"
+    ).style.display = "none";
 
 
-    document.getElementById("completeScreen")
-        .style.display = "none";
+    document.getElementById(
+        "completeScreen"
+    ).style.display = "none";
 
 
-    document.getElementById("menu")
-        .style.display = "block";
+    document.getElementById(
+        "menu"
+    ).style.display = "block";
 
 
     loadQuizList();
@@ -1324,30 +1475,34 @@ function returnToMenu() {
 // RETURN TO MENU FROM COMPLETION
 // ========================================
 
-document.getElementById("completeMenuButton")
-    .addEventListener(
-        "click",
-        () => {
+document.getElementById(
+    "completeMenuButton"
+)
+.addEventListener(
+    "click",
+    () => {
 
-            returnToMenu();
+        returnToMenu();
 
-        }
-    );
+    }
+);
 
 
 // ========================================
 // RETURN TO MENU FROM STOPPED SCREEN
 // ========================================
 
-document.getElementById("returnMenuButton")
-    .addEventListener(
-        "click",
-        () => {
+document.getElementById(
+    "returnMenuButton"
+)
+.addEventListener(
+    "click",
+    () => {
 
-            returnToMenu();
+        returnToMenu();
 
-        }
-    );
+    }
+);
 
 
 // ========================================
