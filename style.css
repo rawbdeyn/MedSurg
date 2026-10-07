@@ -1,128 +1,66 @@
 /* ========================================
-   GENERAL PAGE
-   ======================================== */
-
-* {
-    box-sizing: border-box;
-}
+   GENERAL
+======================================== */
 
 body {
     font-family: Arial, sans-serif;
     background: #f5f5f5;
     margin: 0;
-    padding: 30px 15px;
-    min-height: 100vh;
+    padding: 30px 20px;
     color: #222;
 }
 
-.screen {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-}
-
 
 /* ========================================
-   MAIN CONTAINER
-   ======================================== */
+   MAIN QUIZ CONTAINER
+======================================== */
 
 .quiz-container {
     max-width: 720px;
-    margin: 40px auto;
-    padding: 30px;
-    background: white;
-    border-radius: 12px;
-    box-sizing: border-box;
-}
-
-#question {
-    max-width: 650px;
-    margin: 0 auto 35px auto;
-    text-align: center;
-    font-size: 21px;
-    line-height: 1.65;
-}
-
-#choices {
-    max-width: 650px;
     margin: 0 auto;
-}
-
-.answer-option {
-    display: flex;
-    align-items: flex-start;
-    gap: 12px;
-    width: 100%;
-    box-sizing: border-box;
-    padding: 17px 20px;
-    margin-bottom: 15px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    cursor: pointer;
-    text-align: left;
-}
-
-.answer-option:hover {
-    background: #f5f5f5;
-}
-
-.answer-option input {
-    margin-top: 4px;
-    flex-shrink: 0;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 14px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
 }
 
 
 /* ========================================
-   HEADINGS
-   ======================================== */
+   MENU
+======================================== */
 
-h1 {
-    margin-top: 0;
-    margin-bottom: 10px;
-    text-align: center;
-    font-size: 30px;
-}
-
-.subtitle {
-    color: #666;
+#menu h1 {
     text-align: center;
     margin-top: 0;
-    margin-bottom: 35px;
-    font-size: 16px;
+    margin-bottom: 25px;
 }
 
 
 /* ========================================
-   QUIZ SELECTION
-   ======================================== */
+   QUIZ LIST
+======================================== */
 
 #quizList {
     display: grid;
-
-    /* 4 topic boxes per row */
     grid-template-columns: repeat(4, minmax(0, 1fr));
-
     gap: 18px;
-
     justify-content: center;
     align-items: stretch;
 }
 
 
 /* ========================================
-   TOPIC BOX
-   ======================================== */
+   TOPIC CARD
+======================================== */
 
 .quiz-topic {
     background: #ffffff;
-
     border: 1px solid #e3e3e3;
     border-radius: 14px;
-
     overflow: hidden;
 
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.05);
 
     transition:
         transform 0.15s ease,
@@ -139,11 +77,10 @@ h1 {
 
 /* ========================================
    TOPIC TITLE
-   ======================================== */
+======================================== */
 
 .quiz-topic-title {
     margin: 0;
-
     padding: 16px 10px;
 
     text-align: center;
@@ -160,19 +97,20 @@ h1 {
 
 
 /* ========================================
-   RETENTION + SITUATIONAL CONTAINER
-   ======================================== */
+   RETENTION / SITUATIONAL CONTAINER
+======================================== */
 
 .quiz-categories {
     display: grid;
-
     grid-template-columns: 1fr 1fr;
+
+    align-items: stretch;
 }
 
 
 /* ========================================
    CATEGORY
-   ======================================== */
+======================================== */
 
 .quiz-category {
     min-width: 0;
@@ -180,10 +118,15 @@ h1 {
     padding: 14px 10px 16px;
 
     text-align: center;
+
+    display: flex;
+    flex-direction: column;
 }
 
 
-/* Faded divider */
+/* ========================================
+   SUBTLE DIVIDER
+======================================== */
 
 .quiz-category + .quiz-category {
     border-left: 1px solid #eeeeee;
@@ -191,8 +134,8 @@ h1 {
 
 
 /* ========================================
-   CATEGORY TITLE
-   ======================================== */
+   CATEGORY TITLES
+======================================== */
 
 .quiz-category-title {
     margin: 0 0 12px 0;
@@ -206,48 +149,48 @@ h1 {
 
 /* Retention */
 
-.quiz-category.retention .quiz-category-title {
+.quiz-category.retention
+.quiz-category-title {
     color: #b08a00;
 }
 
 
 /* Situational */
 
-.quiz-category.situational .quiz-category-title {
+.quiz-category.situational
+.quiz-category-title {
     color: #3979aa;
 }
 
 
 /* ========================================
-   QUIZ BUTTON GRID
-   ======================================== */
+   QUIZ BUTTON AREA
+======================================== */
 
 .quiz-grid {
     display: flex;
-
     flex-direction: column;
 
     gap: 8px;
+
+    flex: 1;
 }
 
 
 /* ========================================
-   QUIZ BUTTON
-   ======================================== */
+   QUIZ BUTTONS
+======================================== */
 
 .quiz-button {
     width: 100%;
-
     min-height: 55px;
 
     padding: 10px 6px;
-
     margin: 0;
 
     border-radius: 9px;
 
     font-family: Arial, sans-serif;
-
     font-size: 13px;
     font-weight: 600;
 
@@ -263,8 +206,8 @@ h1 {
 
 
 /* ========================================
-   RETENTION BUTTON - YELLOW
-   ======================================== */
+   RETENTION BUTTON
+======================================== */
 
 .quiz-category.retention .quiz-button {
     background: #fff8d6;
@@ -285,8 +228,8 @@ h1 {
 
 
 /* ========================================
-   SITUATIONAL BUTTON - BLUE
-   ======================================== */
+   SITUATIONAL BUTTON
+======================================== */
 
 .quiz-category.situational .quiz-button {
     background: #e8f4ff;
@@ -307,8 +250,8 @@ h1 {
 
 
 /* ========================================
-   QUIZ BUTTON CLICK
-   ======================================== */
+   BUTTON ACTIVE
+======================================== */
 
 .quiz-button:active {
     transform: translateY(0);
@@ -319,98 +262,137 @@ h1 {
 
 /* ========================================
    LOADING
-   ======================================== */
+======================================== */
 
 .loading {
     text-align: center;
     color: #777;
+    padding: 20px;
+}
+
+
+/* ========================================
+   ERROR MESSAGE
+======================================== */
+
+.error-message {
+    text-align: center;
+
+    background: #fff;
+
+    border: 1px solid #ddd;
+
+    border-radius: 10px;
+
+    padding: 25px;
+
+    color: #555;
+}
+
+.error-message strong {
+    display: block;
+
+    font-size: 18px;
+
+    margin-bottom: 10px;
+
+    color: #333;
+}
+
+.error-message p {
+    margin-bottom: 20px;
 }
 
 
 /* ========================================
    QUIZ HEADER
-   ======================================== */
+======================================== */
 
 .quiz-header {
-    margin-bottom: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 25px;
 }
 
-#questionNumber {
-    text-align: center;
+.quiz-header h2 {
+    margin: 0;
 
-    color: #777;
+    font-size: 20px;
+}
 
-    font-size: 15px;
-
-    margin-top: 15px;
+#progress {
+    font-size: 14px;
+    color: #666;
 }
 
 
 /* ========================================
    QUESTION
-   ======================================== */
+======================================== */
 
 #question {
-    font-size: 21px;
+    max-width: 650px;
 
-    line-height: 1.65;
+    margin: 0 auto 25px;
 
-    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.5;
 
-    margin-bottom: 35px;
+    text-align: center;
 }
 
 
 /* ========================================
-   ANSWER CHOICES
-   ======================================== */
+   ANSWER OPTIONS
+======================================== */
 
-#choices {
+#answers {
     display: flex;
-
     flex-direction: column;
 
-    gap: 15px;
-
-    margin-bottom: 30px;
+    gap: 12px;
 }
 
 .answer-option {
-    display: flex;
+    width: 100%;
 
-    align-items: flex-start;
+    padding: 15px;
 
-    gap: 13px;
+    background: #ffffff;
 
-    padding: 17px 18px;
+    border: 1px solid #d5d5d5;
 
-    border: 1px solid #ddd;
+    border-radius: 10px;
 
-    border-radius: 9px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+
+    text-align: left;
 
     cursor: pointer;
 
-    font-size: 17px;
-
-    line-height: 1.55;
-
-    transition: background 0.15s;
+    transition:
+        background 0.15s ease,
+        border-color 0.15s ease,
+        transform 0.1s ease;
 }
 
 .answer-option:hover {
     background: #f7f7f7;
+
+    border-color: #aaa;
 }
 
-.answer-option input {
-    margin-top: 5px;
-
-    flex-shrink: 0;
+.answer-option:active {
+    transform: scale(0.99);
 }
 
 
 /* ========================================
-   ANSWER FEEDBACK
-   ======================================== */
+   CORRECT ANSWER
+======================================== */
 
 .answer-option.correct-answer {
     background: #dff3e4;
@@ -420,6 +402,15 @@ h1 {
     color: #155724;
 }
 
+.answer-option.correct-answer:hover {
+    background: #dff3e4;
+}
+
+
+/* ========================================
+   WRONG ANSWER
+======================================== */
+
 .answer-option.wrong-answer {
     background: #f8d7da;
 
@@ -428,152 +419,63 @@ h1 {
     color: #721c24;
 }
 
-
-/* Keep feedback visible after hover */
-
-.answer-option.correct-answer:hover {
-    background: #dff3e4;
-}
-
 .answer-option.wrong-answer:hover {
     background: #f8d7da;
 }
 
 
 /* ========================================
-   BUTTONS
-   ======================================== */
-
-button {
-    width: 100%;
-
-    padding: 14px 20px;
-
-    margin-top: 10px;
-
-    font-size: 16px;
-
-    font-weight: 600;
-
-    border: none;
-
-    border-radius: 8px;
-
-    cursor: pointer;
-}
-
-#submitButton,
-#nextButton,
-#continueButton,
-#returnMenuButton,
-#retakeButton {
-    background: #222;
-
-    color: white;
-}
-
-button:hover {
-    opacity: 0.88;
-}
-
-.secondary-button {
-    background: #e8e8e8 !important;
-
-    color: #222 !important;
-}
-
-
-/* ========================================
    RESULT / RATIONALE
-   ======================================== */
+======================================== */
 
 #result {
-    margin-top: 30px;
+    margin-top: 20px;
 
-    margin-bottom: 25px;
+    padding: 18px;
 
-    padding: 22px;
+    border-radius: 10px;
 
-    border-radius: 9px;
+    background: #f8f8f8;
 
-    background: #f5f5f5;
-
-    line-height: 1.7;
-
-    font-size: 16px;
+    line-height: 1.5;
 }
 
-#result p {
-    margin: 0 0 12px 0;
-}
+#result strong {
+    display: block;
 
-#result p:last-child {
-    margin-bottom: 0;
+    margin-bottom: 8px;
 }
 
 
 /* ========================================
-   CHECKPOINT
-   ======================================== */
+   RATIONALE
+======================================== */
 
-.checkpoint {
-    margin-top: 35px;
+#rationale {
+    margin-top: 10px;
 
-    padding: 28px;
+    line-height: 1.6;
 
-    border-top: 1px solid #ddd;
-
-    text-align: center;
-}
-
-.checkpoint h2 {
-    margin-top: 0;
-
-    margin-bottom: 12px;
-}
-
-.checkpoint p {
-    margin-bottom: 25px;
+    color: #444;
 }
 
 
 /* ========================================
-   STOPPED / COMPLETE
-   ======================================== */
+   BUTTONS
+======================================== */
 
-#stoppedScreen,
-#completeScreen {
-    margin-top: 30px;
-
-    padding-top: 30px;
-
-    border-top: 1px solid #ddd;
-
-    text-align: center;
+button {
+    font-family: Arial, sans-serif;
 }
 
-#stoppedScreen h2,
-#completeScreen h2 {
-    margin-top: 0;
+#nextButton,
+#continueButton,
+#retakeButton,
+#completeMenuButton,
+#stoppedMenuButton {
+    display: block;
 
-    margin-bottom: 20px;
-}
-
-#stoppedScore,
-#finalScore,
-#finalPercentage {
-    font-size: 18px;
-
-    line-height: 1.7;
-}
-
-
-/* ========================================
-   BACK BUTTON
-   ======================================== */
-
-.back-button {
-    margin-top: 25px;
+    margin: 25px auto 0;
 
     padding: 12px 22px;
 
@@ -583,34 +485,171 @@ button:hover {
 
     background: #333;
 
-    color: white;
+    color: #ffffff;
 
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        background 0.15s ease,
+        transform 0.1s ease;
+}
+
+#nextButton:hover,
+#continueButton:hover,
+#retakeButton:hover,
+#completeMenuButton:hover,
+#stoppedMenuButton:hover {
+    background: #555;
+}
+
+#nextButton:active,
+#continueButton:active,
+#retakeButton:active,
+#completeMenuButton:active,
+#stoppedMenuButton:active {
+    transform: scale(0.98);
+}
+
+
+/* ========================================
+   BACK BUTTON
+======================================== */
+
+.back-button {
+    display: inline-block;
+
+    margin-top: 15px;
+
+    padding: 10px 18px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 8px;
+
+    background: #ffffff;
+
+    color: #333;
+
+    font-size: 14px;
 
     cursor: pointer;
 }
 
 .back-button:hover {
-    background: #555;
+    background: #f2f2f2;
+}
+
+
+/* ========================================
+   CHECKPOINT
+======================================== */
+
+#checkpoint {
+    text-align: center;
+
+    padding: 30px 10px;
+}
+
+#checkpoint h2 {
+    margin-top: 0;
+
+    font-size: 24px;
+}
+
+#checkpoint p {
+    color: #666;
+
+    line-height: 1.5;
+}
+
+
+/* ========================================
+   STOPPED SCREEN
+======================================== */
+
+#stopped {
+    text-align: center;
+
+    padding: 30px 10px;
+}
+
+#stopped h2 {
+    margin-top: 0;
+
+    font-size: 24px;
+}
+
+#stopped p {
+    color: #666;
+
+    line-height: 1.5;
+}
+
+
+/* ========================================
+   COMPLETE SCREEN
+======================================== */
+
+#complete {
+    text-align: center;
+
+    padding: 30px 10px;
+}
+
+#complete h2 {
+    margin-top: 0;
+
+    font-size: 26px;
+}
+
+#complete p {
+    color: #555;
+
+    line-height: 1.5;
+}
+
+
+/* ========================================
+   SCORE
+======================================== */
+
+#score {
+    font-size: 20px;
+
+    font-weight: 700;
+
+    margin: 20px 0;
+}
+
+
+/* ========================================
+   HIDDEN ELEMENTS
+======================================== */
+
+.hidden {
+    display: none !important;
 }
 
 
 /* ========================================
    TABLET
-   ======================================== */
+======================================== */
 
 @media (max-width: 1100px) {
 
     #quizList {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns:
+            repeat(2, minmax(0, 1fr));
     }
-
 }
 
 
 /* ========================================
    MOBILE
-   ======================================== */
+======================================== */
 
 @media (max-width: 600px) {
 
@@ -619,28 +658,13 @@ button:hover {
     }
 
     .quiz-container {
-        padding: 25px 20px;
+        padding: 20px 15px;
 
         border-radius: 10px;
     }
 
-    h1 {
-        font-size: 25px;
-    }
 
-    #question {
-        font-size: 19px;
-
-        line-height: 1.6;
-    }
-
-    .answer-option {
-        font-size: 16px;
-
-        padding: 15px;
-    }
-
-    /* One topic box per row */
+    /* Topic cards */
 
     #quizList {
         grid-template-columns: 1fr;
@@ -648,9 +672,11 @@ button:hover {
         gap: 15px;
     }
 
+
     .quiz-topic-title {
         font-size: 19px;
     }
+
 
     .quiz-button {
         min-height: 55px;
@@ -658,25 +684,39 @@ button:hover {
         font-size: 13px;
     }
 
-   .quiz-categories {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    align-items: stretch;
-}
 
-.quiz-category {
-    min-width: 0;
-    padding: 14px 10px 16px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-}
+    /* Quiz */
 
-.quiz-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    flex: 1;
-}
+    #question {
+        font-size: 18px;
+    }
 
+
+    .answer-option {
+        padding: 13px;
+
+        font-size: 14px;
+    }
+
+
+    .quiz-header {
+        flex-direction: column;
+
+        gap: 8px;
+
+        text-align: center;
+    }
+
+
+    /* Keep categories side-by-side */
+
+    .quiz-category {
+        padding:
+            12px 8px 14px;
+    }
+
+
+    .quiz-category-title {
+        font-size: 12px;
+    }
 }
