@@ -22,24 +22,29 @@ body {
 
 
 /* ========================================
-   MENU
+   MAIN MENU
 ======================================== */
 
-#menu h1 {
+#menu {
     text-align: center;
+}
+
+#menu h1 {
     margin-top: 0;
-    margin-bottom: 25px;
+    margin-bottom: 28px;
 }
 
 
 /* ========================================
-   QUIZ LIST
+   QUIZ TOPIC GRID
+   4 TOPICS PER ROW
 ======================================== */
 
 #quizList {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 18px;
+    align-items: start;
 }
 
 
@@ -52,6 +57,17 @@ body {
     border: 1px solid #dddddd;
     border-radius: 12px;
     overflow: hidden;
+    box-shadow: 0 2px 7px rgba(0, 0, 0, .06);
+    transition: transform 0.15s ease,
+                box-shadow 0.15s ease;
+}
+
+
+/* Cute little hover effect */
+
+.quiz-topic:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 12px rgba(0, 0, 0, .09);
 }
 
 
@@ -60,10 +76,13 @@ body {
 ======================================== */
 
 .quiz-topic-title {
-    font-size: 18px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
     font-weight: bold;
     text-align: center;
-    padding: 15px;
+
+    padding: 13px 8px;
+
     background: #ffffff;
     border-bottom: 1px solid #dddddd;
 }
@@ -80,33 +99,38 @@ body {
 
 
 /* ========================================
-   CATEGORY AREAS
+   CATEGORY SECTIONS
 ======================================== */
 
 .quiz-category {
-    padding: 16px;
-    min-height: 120px;
+    padding: 12px 9px 14px;
+    min-height: 105px;
+    box-sizing: border-box;
 }
 
 
-/* RETENTION = YELLOW */
+/* ========================================
+   RETENTION = YELLOW
+======================================== */
 
 .quiz-category.retention {
     background: #fff8d6;
 }
 
 
-/* SITUATIONAL = BLUE */
+/* ========================================
+   SITUATIONAL = BLUE
+======================================== */
 
 .quiz-category.situational {
     background: #e8f4ff;
 }
 
 
-/* Divider */
+/* Divider between yellow and blue */
 
 .quiz-category + .quiz-category {
-    border-left: 1px solid #d5d5d5;
+    border-left: 1px solid #d8d8d8;
 }
 
 
@@ -115,15 +139,23 @@ body {
 ======================================== */
 
 .quiz-category-title {
-    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
     font-weight: bold;
     text-align: center;
-    margin-bottom: 12px;
+
+    margin-bottom: 9px;
 }
+
+
+/* Retention */
 
 .quiz-category.retention .quiz-category-title {
     color: #b08a00;
 }
+
+
+/* Situational */
 
 .quiz-category.situational .quiz-category-title {
     color: #3979aa;
@@ -131,30 +163,41 @@ body {
 
 
 /* ========================================
-   QUIZ BUTTONS
+   QUIZ BUTTON AREA
 ======================================== */
 
 .quiz-grid {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 6px;
 }
+
+
+/* ========================================
+   QUIZ BUTTONS
+======================================== */
 
 .quiz-button {
     width: 100%;
-    padding: 11px 12px;
+    box-sizing: border-box;
 
-    font-family: inherit;
-    font-size: 14px;
+    padding: 8px 6px;
 
-    border-radius: 7px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+
+    border-radius: 6px;
+
     cursor: pointer;
 
-    transition: 0.15s;
+    transition: background 0.15s ease,
+                transform 0.1s ease;
 }
 
 
-/* Retention buttons */
+/* ========================================
+   RETENTION BUTTON
+======================================== */
 
 .quiz-category.retention .quiz-button {
     background: #ffffff;
@@ -162,8 +205,15 @@ body {
     color: #725b00;
 }
 
+.quiz-category.retention .quiz-button:hover {
+    background: #fffdf0;
+    transform: translateY(-1px);
+}
 
-/* Situational buttons */
+
+/* ========================================
+   SITUATIONAL BUTTON
+======================================== */
 
 .quiz-category.situational .quiz-button {
     background: #ffffff;
@@ -171,20 +221,15 @@ body {
     color: #2c638e;
 }
 
-
-/* Hover */
-
-.quiz-category.retention .quiz-button:hover {
-    background: #fffdf0;
-}
-
 .quiz-category.situational .quiz-button:hover {
     background: #f5fbff;
+    transform: translateY(-1px);
 }
 
 
 /* ========================================
    QUIZ SCREEN
+   KEEPING EXISTING DESIGN
 ======================================== */
 
 #quizScreen {
@@ -211,7 +256,7 @@ body {
 
 
 /* ========================================
-   ANSWER OPTIONS
+   ANSWER CHOICES
 ======================================== */
 
 #choices {
@@ -252,7 +297,7 @@ body {
 
 
 /* ========================================
-   CORRECT / WRONG
+   CORRECT ANSWER
 ======================================== */
 
 .answer-option.correct-answer {
@@ -260,6 +305,11 @@ body {
     border-color: #2e8b57;
     color: #155724;
 }
+
+
+/* ========================================
+   WRONG ANSWER
+======================================== */
 
 .answer-option.wrong-answer {
     background: #f8d7da;
@@ -292,7 +342,7 @@ body {
 ======================================== */
 
 button {
-    font-family: inherit;
+    font-family: Arial, sans-serif;
 }
 
 #submitButton,
@@ -306,9 +356,13 @@ button {
 #retryButton {
     border: none;
     border-radius: 7px;
+
     padding: 11px 20px;
+
     font-size: 14px;
+
     cursor: pointer;
+
     margin: 5px;
 }
 
@@ -370,6 +424,15 @@ button {
    MOBILE
 ======================================== */
 
+@media (max-width: 900px) {
+
+    #quizList {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+}
+
+
 @media (max-width: 600px) {
 
     body {
@@ -380,17 +443,22 @@ button {
         padding: 20px 15px;
     }
 
-    .quiz-categories {
+    #quizList {
         grid-template-columns: 1fr;
+        gap: 14px;
+    }
+
+    .quiz-categories {
+        grid-template-columns: 1fr 1fr;
     }
 
     .quiz-category + .quiz-category {
-        border-left: none;
-        border-top: 1px solid #d5d5d5;
+        border-left: 1px solid #d8d8d8;
+        border-top: none;
     }
 
     .quiz-topic-title {
-        font-size: 17px;
+        font-size: 16px;
     }
 
     #question {
@@ -400,5 +468,6 @@ button {
     .answer-option {
         padding: 12px;
     }
+
 }
 ```
