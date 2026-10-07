@@ -1,3 +1,9 @@
+
+
+// ========================================
+// QUIZ VARIABLES
+// ========================================
+
 let questions = [];
 let currentQuestion = 0;
 let score = 0;
@@ -27,56 +33,50 @@ async function loadQuizList() {
     quizList.innerHTML =
         "<p class='loading'>Loading quizzes...</p>";
 
-
     try {
 
-        const response =
-            await fetch(GITHUB_API_URL, {
+        const response = await fetch(
+            GITHUB_API_URL,
+            {
                 headers: {
                     "Accept":
                         "application/vnd.github+json"
                 }
-            });
-
+            }
+        );
 
         if (!response.ok) {
 
             throw new Error(
                 "Could not load quizzes from GitHub."
             );
-
         }
-
 
         const files =
             await response.json();
 
 
-        // ====================================
-        // GET ONLY TXT FILES
-        // ====================================
+        // Only use .txt files
 
-        const quizzes =
-            files.filter(file =>
-                file.type === "file" &&
-                file.name
-                    .toLowerCase()
-                    .endsWith(".txt")
-            );
+        const quizzes = files.filter(file =>
+            file.type === "file" &&
+            file.name
+                .toLowerCase()
+                .endsWith(".txt")
+        );
 
 
         quizList.innerHTML = "";
 
 
+        // No quizzes found
+
         if (quizzes.length === 0) {
 
             quizList.innerHTML = `
-
                 <div class="error-message">
 
-                    <strong>
-                        No quizzes found.
-                    </strong>
+                    <strong>No quizzes found.</strong>
 
                     <p>
                         There are no .txt quiz files
@@ -84,16 +84,15 @@ async function loadQuizList() {
                     </p>
 
                 </div>
-
             `;
 
             return;
         }
 
 
-        // ====================================
-        // GROUP QUIZZES BY TOPIC
-        // ====================================
+        // ========================================
+        // GROUP QUIZZES
+        // ========================================
 
         const groupedQuizzes = {};
 
@@ -104,44 +103,34 @@ async function loadQuizList() {
                 quiz.name.toLowerCase();
 
 
-            // =================================
-            // DETERMINE CATEGORY
-            // =================================
-            //
-            // topic_retention.txt
-            //      = Retention
-            //
-            // topic.txt
-            //      = Situational
-            //
+            // Default category
 
-            let category =
-                "Situational";
+            let category = "Situational";
 
+
+            // Files ending in _retention.txt
+            // are Retention quizzes
 
             if (
-                filename.endsWith("_retention.txt")
+                filename.endsWith(
+                    "_retention.txt"
+                )
             ) {
 
-                category =
-                    "Retention";
-
+                category = "Retention";
             }
 
 
-            // =================================
-            // DETERMINE TOPIC NAME
-            // =================================
+            // Get topic name
 
             let topic =
-                quiz.name
-                    .replace(
-                        /\.txt$/i,
-                        ""
-                    );
+                quiz.name.replace(
+                    /\.txt$/i,
+                    ""
+                );
 
 
-            // Remove "_retention"
+            // Remove _retention
 
             topic =
                 topic.replace(
@@ -150,8 +139,7 @@ async function loadQuizList() {
                 );
 
 
-            // Replace underscores and hyphens
-            // with spaces
+            // Replace _ and - with spaces
 
             topic =
                 topic.replace(
@@ -160,9 +148,7 @@ async function loadQuizList() {
                 );
 
 
-            // =================================
-            // FORMAT TOPIC NAME
-            // =================================
+            // Capitalize words
 
             topic =
                 topic.replace(
@@ -172,9 +158,7 @@ async function loadQuizList() {
                 );
 
 
-            // =================================
-            // CREATE TOPIC GROUP
-            // =================================
+            // Create topic group
 
             if (!groupedQuizzes[topic]) {
 
@@ -185,13 +169,8 @@ async function loadQuizList() {
                     Situational: []
 
                 };
-
             }
 
-
-            // =================================
-            // ADD QUIZ TO GROUP
-            // =================================
 
             groupedQuizzes[topic][category]
                 .push(quiz);
@@ -199,18 +178,18 @@ async function loadQuizList() {
         });
 
 
-        // ====================================
+        // ========================================
         // SORT TOPICS
-        // ====================================
+        // ========================================
 
         const sortedTopics =
             Object.keys(groupedQuizzes)
                 .sort();
 
 
-        // ====================================
-        // CREATE MENU
-        // ====================================
+        // ========================================
+        // CREATE TOPIC CARDS
+        // ========================================
 
         sortedTopics.forEach(topic => {
 
@@ -218,29 +197,22 @@ async function loadQuizList() {
                 groupedQuizzes[topic];
 
 
-            // =================================
-            // MAIN TOPIC BOX
-            // =================================
+            // Outer topic card
 
             const topicSection =
                 document.createElement("div");
-
 
             topicSection.className =
                 "quiz-topic";
 
 
-            // =================================
-            // TOPIC TITLE
-            // =================================
+            // Topic title
 
             const topicTitle =
                 document.createElement("h2");
 
-
             topicTitle.className =
                 "quiz-topic-title";
-
 
             topicTitle.textContent =
                 topic;
@@ -251,21 +223,16 @@ async function loadQuizList() {
             );
 
 
-            // =================================
-            // CATEGORY CONTAINER
-            // =================================
+            // Retention / Situational container
 
             const categoriesContainer =
                 document.createElement("div");
-
 
             categoriesContainer.className =
                 "quiz-categories";
 
 
-            // =================================
-            // RETENTION
-            // =================================
+            // Retention
 
             if (
                 topicData.Retention.length > 0
@@ -277,13 +244,10 @@ async function loadQuizList() {
                     topicData.Retention,
                     "retention"
                 );
-
             }
 
 
-            // =================================
-            // SITUATIONAL
-            // =================================
+            // Situational
 
             if (
                 topicData.Situational.length > 0
@@ -295,22 +259,13 @@ async function loadQuizList() {
                     topicData.Situational,
                     "situational"
                 );
-
             }
 
-
-            // =================================
-            // ADD CATEGORIES
-            // =================================
 
             topicSection.appendChild(
                 categoriesContainer
             );
 
-
-            // =================================
-            // ADD TOPIC TO MENU
-            // =================================
 
             quizList.appendChild(
                 topicSection
@@ -318,8 +273,9 @@ async function loadQuizList() {
 
         });
 
+    }
 
-    } catch (error) {
+    catch (error) {
 
         console.error(error);
 
@@ -360,9 +316,7 @@ async function loadQuizList() {
             retryButton.addEventListener(
                 "click",
                 () => {
-
                     loadQuizList();
-
                 }
             );
 
@@ -373,7 +327,7 @@ async function loadQuizList() {
 
 
 // ========================================
-// CREATE QUIZ CATEGORY
+// CREATE RETENTION / SITUATIONAL CATEGORY
 // ========================================
 
 function createQuizCategory(
@@ -386,45 +340,68 @@ function createQuizCategory(
     const category =
         document.createElement("div");
 
-
     category.className =
         `quiz-category ${categoryType}`;
 
 
-    // ====================================
-    // SORT QUIZZES
-    // ====================================
+    // Category title
 
-    quizzes.sort((a, b) =>
-        a.name.localeCompare(b.name)
+    const categoryTitle =
+        document.createElement("h3");
+
+    categoryTitle.className =
+        "quiz-category-title";
+
+    categoryTitle.textContent =
+        categoryName;
+
+
+    category.appendChild(
+        categoryTitle
     );
 
 
-    // ====================================
-    // CREATE CATEGORY BUTTONS
-    // ====================================
+    // Quiz button container
+
+    const quizGrid =
+        document.createElement("div");
+
+    quizGrid.className =
+        "quiz-grid";
+
+
+    category.appendChild(
+        quizGrid
+    );
+
+
+    // Sort quizzes alphabetically
+
+    quizzes.sort(
+        (a, b) =>
+            a.name.localeCompare(b.name)
+    );
+
+
+    // Create individual quiz buttons
 
     quizzes.forEach(quiz => {
 
         const button =
             document.createElement("button");
 
-
         button.className =
             "quiz-button";
 
 
-        // =================================
-        // ONLY SHOW CATEGORY NAME
-        // =================================
+        // Keep the actual quiz name
+        // inside the box
 
         button.textContent =
-            categoryName;
+            formatQuizName(
+                quiz.name
+            );
 
-
-        // =================================
-        // START QUIZ
-        // =================================
 
         button.addEventListener(
             "click",
@@ -432,23 +409,21 @@ function createQuizCategory(
 
                 startQuiz(
                     quiz.download_url,
-                    formatQuizName(quiz.name)
+                    formatQuizName(
+                        quiz.name
+                    )
                 );
 
             }
         );
 
 
-        category.appendChild(
+        quizGrid.appendChild(
             button
         );
 
     });
 
-
-    // ====================================
-    // ADD CATEGORY
-    // ====================================
 
     parent.appendChild(
         category
@@ -469,6 +444,8 @@ function formatQuizName(filename) {
         );
 
 
+    // Remove _retention
+
     name =
         name.replace(
             /_retention$/i,
@@ -476,12 +453,16 @@ function formatQuizName(filename) {
         );
 
 
+    // Replace _ and - with spaces
+
     name =
         name.replace(
             /[_-]+/g,
             " "
         );
 
+
+    // Capitalize words
 
     name =
         name.replace(
@@ -499,10 +480,17 @@ function formatQuizName(filename) {
 // START QUIZ
 // ========================================
 
-function startQuiz(filename, name) {
+function startQuiz(
+    downloadURL,
+    quizName
+) {
 
-    selectedQuiz = filename;
-    selectedQuizName = name;
+    selectedQuiz =
+        downloadURL;
+
+    selectedQuizName =
+        quizName;
+
 
     questions = [];
 
@@ -513,60 +501,66 @@ function startQuiz(filename, name) {
     answeredQuestions = 0;
 
 
-    document.getElementById("menu")
-        .style.display = "none";
+    // Hide menu
+
+    document
+        .getElementById("menu")
+        .classList.add("hidden");
 
 
-    document.getElementById("quizScreen")
-        .style.display = "block";
+    // Hide other screens
+
+    document
+        .getElementById("checkpoint")
+        .classList.add("hidden");
+
+    document
+        .getElementById("stopped")
+        .classList.add("hidden");
+
+    document
+        .getElementById("complete")
+        .classList.add("hidden");
 
 
-    document.getElementById("checkpoint")
-        .style.display = "none";
+    // Show quiz
+
+    document
+        .getElementById("quiz")
+        .classList.remove("hidden");
 
 
-    document.getElementById("stoppedScreen")
-        .style.display = "none";
+    // Show loading
+
+    document
+        .getElementById("question")
+        .textContent =
+        "Loading quiz...";
 
 
-    document.getElementById("completeScreen")
-        .style.display = "none";
-
-
-    document.getElementById("quizTitle")
-        .textContent = name;
-
-
-    document.getElementById("submitButton")
-        .style.display = "block";
-
-
-    document.getElementById("nextButton")
-        .style.display = "none";
-
-
-    document.getElementById("result")
+    document
+        .getElementById("answers")
         .innerHTML = "";
 
 
-    document.getElementById("question")
-        .textContent = "Loading quiz...";
+    document
+        .getElementById("result")
+        .classList.add("hidden");
 
 
-    document.getElementById("choices")
-        .innerHTML = "";
+    document
+        .getElementById("nextButton")
+        .classList.add("hidden");
 
 
-    document.getElementById("questionNumber")
-        .textContent = "";
+    // Load quiz
 
-
-    loadQuiz(filename);
+    loadQuiz(downloadURL);
 }
 
 
 // ========================================
-// LOAD QUIZ TXT FROM GITHUB
+// LOAD QUIZ FILE
 // ========================================
 
 async function loadQuiz(downloadURL) {
@@ -580,9 +574,8 @@ async function loadQuiz(downloadURL) {
         if (!response.ok) {
 
             throw new Error(
-                "Quiz file could not be loaded."
+                "Could not load quiz file."
             );
-
         }
 
 
@@ -590,29 +583,61 @@ async function loadQuiz(downloadURL) {
             await response.text();
 
 
-        parseQuestions(text);
+        questions =
+            parseQuestions(text);
 
 
-        if (questions.length === 0) {
+        if (
+            !questions ||
+            questions.length === 0
+        ) {
 
             throw new Error(
-                "No valid questions were found."
+                "No valid questions found."
             );
-
         }
 
+
+        // Randomize question order
 
         shuffleQuestions();
 
 
+        currentQuestion = 0;
+
+        score = 0;
+
+        answeredQuestions = 0;
+
+
+        // Quiz title
+
+        const quizTitle =
+            document.querySelector(
+                ".quiz-header h2"
+            );
+
+
+        if (quizTitle) {
+
+            quizTitle.textContent =
+                selectedQuizName;
+        }
+
+
+        // Display first question
+
         displayQuestion();
 
+    }
 
-    } catch (error) {
+    catch (error) {
 
         console.error(error);
 
-        showQuizError();
+        showQuizError(
+            "Could not load this quiz."
+        );
 
     }
 }
@@ -622,27 +647,32 @@ async function loadQuiz(downloadURL) {
 // SHOW QUIZ ERROR
 // ========================================
 
-function showQuizError() {
+function showQuizError(message) {
 
-    document.getElementById("question")
+    document
+        .getElementById("quiz")
+        .classList.remove("hidden");
+
+
+    document
+        .getElementById("question")
         .innerHTML = `
 
             <div class="error-message">
 
                 <strong>
-                    Unable to load this quiz.
+                    Quiz Error
                 </strong>
 
                 <p>
-                    The quiz file could not be
-                    found or could not be read.
+                    ${message}
                 </p>
 
                 <button
-                    id="errorBackButton"
+                    id="quizErrorBackButton"
                     class="back-button"
                 >
-                    ← Go Back
+                    Go Back
                 </button>
 
             </div>
@@ -650,28 +680,30 @@ function showQuizError() {
         `;
 
 
-    document.getElementById("choices")
+    document
+        .getElementById("answers")
         .innerHTML = "";
 
 
-    document.getElementById("questionNumber")
-        .textContent = "";
+    document
+        .getElementById("result")
+        .classList.add("hidden");
 
 
-    document.getElementById("submitButton")
-        .style.display = "none";
+    document
+        .getElementById("nextButton")
+        .classList.add("hidden");
 
 
-    document.getElementById("nextButton")
-        .style.display = "none";
+    const backButton =
+        document.getElementById(
+            "quizErrorBackButton"
+        );
 
 
-    document.getElementById("result")
-        .innerHTML = "";
+    if (backButton) {
 
-
-    document.getElementById("errorBackButton")
-        .addEventListener(
+        backButton.addEventListener(
             "click",
             () => {
 
@@ -679,6 +711,8 @@ function showQuizError() {
 
             }
         );
+
+    }
 }
 
 
@@ -688,194 +722,169 @@ function showQuizError() {
 
 function parseQuestions(text) {
 
-    questions = [];
+    const parsedQuestions = [];
 
 
-    const lines =
-        text
-            .replace(/\r/g, "")
-            .split("\n");
+    // Split using END
+
+    const blocks =
+        text.split(/\bEND\b/i);
 
 
-    let current = null;
+    blocks.forEach(block => {
+
+        block =
+            block.trim();
 
 
-    for (let line of lines) {
-
-        line = line.trim();
-
-
-        // ------------------------------
-        // START QUESTION
-        // ------------------------------
-
-        if (line === "[MCQ]") {
-
-            current = {
-
-                type: "MCQ",
-
-                question: "",
-
-                choices: [],
-
-                choice_count: 0,
-
-                correct_answer: -1,
-
-                user_answer: -1,
-
-                is_correct: false,
-
-                rationale: ""
-
-            };
-
-
-            continue;
+        if (!block) {
+            return;
         }
 
 
-        if (!current) {
+        // Only process MCQ blocks
 
-            continue;
+        if (
+            !block
+                .toUpperCase()
+                .includes("[MCQ]")
+        ) {
 
+            return;
         }
 
 
-        // ------------------------------
-        // QUESTION
-        // ------------------------------
-
-        if (line.startsWith("QUESTION:")) {
-
-            current.question =
-                line
-                    .substring(
-                        "QUESTION:".length
-                    )
-                    .trim();
-
-
-            continue;
-        }
-
-
-        // ------------------------------
-        // CHOICES
-        // ------------------------------
-
-        if (/^[A-D]:/.test(line)) {
-
-            const choice =
-                line
-                    .substring(2)
-                    .trim();
-
-
-            current.choices.push(
-                choice
+        const questionMatch =
+            block.match(
+                /QUESTION:\s*([\s\S]*?)(?=\nA:)/i
             );
 
 
-            current.choice_count++;
+        const aMatch =
+            block.match(
+                /A:\s*([\s\S]*?)(?=\nB:)/i
+            );
 
 
-            continue;
-        }
+        const bMatch =
+            block.match(
+                /B:\s*([\s\S]*?)(?=\nC:)/i
+            );
 
 
-        // ------------------------------
-        // ANSWER
-        // ------------------------------
-
-        if (line.startsWith("ANSWER:")) {
-
-            const answer =
-                line
-                    .substring(
-                        "ANSWER:".length
-                    )
-                    .trim()
-                    .toUpperCase();
+        const cMatch =
+            block.match(
+                /C:\s*([\s\S]*?)(?=\nD:)/i
+            );
 
 
-            current.correct_answer =
-                answerToIndex(answer);
+        const dMatch =
+            block.match(
+                /D:\s*([\s\S]*?)(?=\nANSWER:)/i
+            );
 
 
-            continue;
-        }
+        const answerMatch =
+            block.match(
+                /ANSWER:\s*([A-D])/i
+            );
 
 
-        // ------------------------------
-        // RATIONALE
-        // ------------------------------
+        const rationaleMatch =
+            block.match(
+                /RATIONALE:\s*([\s\S]*?)$/i
+            );
+
+
+        // Make sure required fields exist
 
         if (
-            line.startsWith(
-                "RATIONALE:"
-            )
+            !questionMatch ||
+            !aMatch ||
+            !bMatch ||
+            !cMatch ||
+            !dMatch ||
+            !answerMatch
         ) {
 
-            current.rationale =
-                line
-                    .substring(
-                        "RATIONALE:".length
-                    )
-                    .trim();
-
-
-            continue;
+            return;
         }
 
 
-        // ------------------------------
-        // END QUESTION
-        // ------------------------------
+        const question = {
 
-        if (line === "END") {
+            type: "MCQ",
 
-            if (
-                current.question !== "" &&
-                current.choices.length >= 2 &&
-                current.correct_answer >= 0
-            ) {
+            question:
+                questionMatch[1].trim(),
 
-                questions.push(
-                    current
-                );
+            choices: [
 
-            }
+                aMatch[1].trim(),
+
+                bMatch[1].trim(),
+
+                cMatch[1].trim(),
+
+                dMatch[1].trim()
+
+            ],
+
+            correctAnswer:
+                answerToIndex(
+                    answerMatch[1]
+                ),
+
+            userAnswer: null,
+
+            isCorrect: false,
+
+            rationale:
+                rationaleMatch
+                    ? rationaleMatch[1].trim()
+                    : ""
+
+        };
 
 
-            current = null;
+        parsedQuestions.push(
+            question
+        );
+
+    });
 
 
-            continue;
-
-        }
-
-    }
+    return parsedQuestions;
 }
 
 
 // ========================================
-// CONVERT A-D TO INDEX
+// CONVERT A/B/C/D TO INDEX
 // ========================================
 
 function answerToIndex(answer) {
 
-    if (answer === "A") return 0;
+    switch (
+        answer
+            .trim()
+            .toUpperCase()
+    ) {
 
-    if (answer === "B") return 1;
+        case "A":
+            return 0;
 
-    if (answer === "C") return 2;
+        case "B":
+            return 1;
 
-    if (answer === "D") return 3;
+        case "C":
+            return 2;
 
+        case "D":
+            return 3;
 
-    return -1;
+        default:
+            return -1;
+    }
 }
 
 
@@ -900,10 +909,11 @@ function shuffleQuestions() {
         [
             questions[i],
             questions[j]
-        ] =
-        [
+        ] = [
+
             questions[j],
             questions[i]
+
         ];
 
     }
@@ -916,280 +926,263 @@ function shuffleQuestions() {
 
 function displayQuestion() {
 
-    const q =
+    if (
+        currentQuestion >=
+        questions.length
+    ) {
+
+        finishQuiz();
+
+        return;
+    }
+
+
+    const question =
         questions[currentQuestion];
 
 
-    document.getElementById("questionNumber")
-        .textContent =
+    // Update progress
+
+    const progress =
+        document.getElementById(
+            "progress"
+        );
+
+
+    if (progress) {
+
+        progress.textContent =
             `Question ${
                 currentQuestion + 1
             } of ${
                 questions.length
             }`;
+    }
 
 
-    document.getElementById("question")
+    // Display question
+
+    document
+        .getElementById("question")
         .textContent =
-            q.question;
+        question.question;
 
 
-    const choicesContainer =
-        document.getElementById("choices");
+    // Clear answers
+
+    const answers =
+        document.getElementById(
+            "answers"
+        );
 
 
-    choicesContainer.innerHTML = "";
+    answers.innerHTML = "";
 
 
-    q.choices.forEach(
+    // Hide result
+
+    document
+        .getElementById("result")
+        .classList.add("hidden");
+
+
+    // Hide next
+
+    document
+        .getElementById("nextButton")
+        .classList.add("hidden");
+
+
+    // Create answer buttons
+
+    question.choices.forEach(
         (choice, index) => {
 
-            const label =
+            const button =
                 document.createElement(
-                    "label"
+                    "button"
                 );
 
 
-            label.className =
+            button.className =
                 "answer-option";
 
 
-            label.innerHTML = `
-
-                <input
-                    type="radio"
-                    name="answer"
-                    value="${index}"
-                >
-
-                <span>
-                    ${
-                        String.fromCharCode(
-                            65 + index
-                        )
-                    }. ${choice}
-                </span>
-
-            `;
+            button.textContent =
+                `${String.fromCharCode(
+                    65 + index
+                )}. ${choice}`;
 
 
-            choicesContainer.appendChild(
-                label
+            button.addEventListener(
+                "click",
+                () => {
+
+                    selectAnswer(
+                        index
+                    );
+
+                }
+            );
+
+
+            answers.appendChild(
+                button
             );
 
         }
     );
-
-
-    document.getElementById("result")
-        .innerHTML = "";
-
-
-    document.getElementById("submitButton")
-        .style.display = "block";
-
-
-    document.getElementById("nextButton")
-        .style.display = "none";
 }
 
 
 // ========================================
-// SUBMIT ANSWER
+// SELECT ANSWER
 // ========================================
 
-document.getElementById("submitButton")
-    .addEventListener(
-        "click",
-        () => {
+function selectAnswer(
+    selectedAnswer
+) {
 
-            const selected =
-                document.querySelector(
-                    'input[name="answer"]:checked'
-                );
+    const question =
+        questions[currentQuestion];
 
 
-            // ------------------------------
-            // NO ANSWER SELECTED
-            // ------------------------------
+    // Prevent answering twice
 
-            if (!selected) {
+    if (
+        question.userAnswer !== null
+    ) {
 
-                document.getElementById(
-                    "result"
-                ).innerHTML = `
-
-                    <p>
-                        Please select an answer.
-                    </p>
-
-                `;
-
-                return;
-            }
+        return;
+    }
 
 
-            const userAnswer =
-                parseInt(
-                    selected.value
-                );
+    question.userAnswer =
+        selectedAnswer;
 
 
-            const q =
-                questions[currentQuestion];
+    question.isCorrect =
+        selectedAnswer ===
+        question.correctAnswer;
 
 
-            q.user_answer =
-                userAnswer;
+    answeredQuestions++;
 
 
-            q.is_correct =
-                userAnswer ===
-                q.correct_answer;
+    if (question.isCorrect) {
+
+        score++;
+
+    }
 
 
-            // ------------------------------
-            // GET ANSWER OPTIONS
-            // ------------------------------
+    // Get answer buttons
 
-            const answerOptions =
-                document.querySelectorAll(
-                    ".answer-option"
-                );
+    const answerButtons =
+        document.querySelectorAll(
+            ".answer-option"
+        );
 
 
-            // ------------------------------
-            // RECORD ANSWER
-            // ------------------------------
+    // Disable all answers
 
-            answeredQuestions++;
+    answerButtons.forEach(
+        (button, index) => {
 
-
-            // ------------------------------
-            // CORRECT
-            // ------------------------------
-
-            if (q.is_correct) {
-
-                score++;
+            button.disabled = true;
 
 
-                answerOptions[userAnswer]
-                    .classList.add(
-                        "correct-answer"
-                    );
+            // Correct answer
 
+            if (
+                index ===
+                question.correctAnswer
+            ) {
 
-                document.getElementById(
-                    "result"
-                ).innerHTML = `
-
-                    <div class="correct">
-
-                        <strong>
-                            Correct!
-                        </strong>
-
-                        <p>
-                            ${q.rationale}
-                        </p>
-
-                    </div>
-
-                `;
-
-            }
-
-
-            // ------------------------------
-            // INCORRECT
-            // ------------------------------
-
-            else {
-
-                answerOptions[userAnswer]
-                    .classList.add(
-                        "wrong-answer"
-                    );
-
-
-                answerOptions[
-                    q.correct_answer
-                ].classList.add(
+                button.classList.add(
                     "correct-answer"
                 );
 
-
-                document.getElementById(
-                    "result"
-                ).innerHTML = `
-
-                    <div class="wrong">
-
-                        <strong>
-                            Incorrect.
-                        </strong>
-
-                        <p>
-                            Correct answer:
-                            ${
-                                String.fromCharCode(
-                                    65 +
-                                    q.correct_answer
-                                )
-                            }
-                        </p>
-
-                        <p>
-                            ${q.rationale}
-                        </p>
-
-                    </div>
-
-                `;
-
             }
 
 
-            // ------------------------------
-            // DISABLE ANSWERS
-            // ------------------------------
+            // Wrong selected answer
 
-            document.querySelectorAll(
-                'input[name="answer"]'
-            ).forEach(input => {
+            if (
+                index === selectedAnswer &&
+                !question.isCorrect
+            ) {
 
-                input.disabled = true;
+                button.classList.add(
+                    "wrong-answer"
+                );
 
-            });
-
-
-            // ------------------------------
-            // HIDE SUBMIT
-            // ------------------------------
-
-            document.getElementById(
-                "submitButton"
-            ).style.display = "none";
-
-
-            // ------------------------------
-            // SHOW NEXT
-            // ------------------------------
-
-            document.getElementById(
-                "nextButton"
-            ).style.display = "block";
+            }
 
         }
     );
+
+
+    // Show result
+
+    const result =
+        document.getElementById(
+            "result"
+        );
+
+
+    result.classList.remove(
+        "hidden"
+    );
+
+
+    if (question.isCorrect) {
+
+        result.innerHTML = `
+
+            <strong>
+                Correct!
+            </strong>
+
+            <div id="rationale">
+                ${question.rationale}
+            </div>
+
+        `;
+
+    }
+
+    else {
+
+        result.innerHTML = `
+
+            <strong>
+                Incorrect.
+            </strong>
+
+            <div id="rationale">
+                ${question.rationale}
+            </div>
+
+        `;
+
+    }
+
+
+    // Show next button
+
+    document
+        .getElementById("nextButton")
+        .classList.remove("hidden");
+}
 
 
 // ========================================
 // NEXT QUESTION
 // ========================================
 
-document.getElementById("nextButton")
+document
+    .getElementById("nextButton")
     .addEventListener(
         "click",
         () => {
@@ -1197,45 +1190,21 @@ document.getElementById("nextButton")
             currentQuestion++;
 
 
-            // ====================================
-            // CHECKPOINT EVERY 10 QUESTIONS
-            // ====================================
+            // Checkpoint every 10 questions
 
             if (
-                currentQuestion > 0 &&
-                currentQuestion % 10 === 0 &&
                 currentQuestion <
-                    questions.length
+                questions.length &&
+                currentQuestion % 10 === 0
             ) {
 
-                document.getElementById(
-                    "checkpointScore"
-                ).textContent =
-                    `Score: ${
-                        score
-                    } / ${
-                        answeredQuestions
-                    }`;
-
-
-                document.getElementById(
-                    "quizScreen"
-                ).style.display = "none";
-
-
-                document.getElementById(
-                    "checkpoint"
-                ).style.display = "block";
-
+                showCheckpoint();
 
                 return;
-
             }
 
 
-            // ====================================
-            // QUIZ FINISHED
-            // ====================================
+            // End quiz
 
             if (
                 currentQuestion >=
@@ -1245,13 +1214,64 @@ document.getElementById("nextButton")
                 finishQuiz();
 
                 return;
-
             }
 
 
-            // ====================================
-            // NEXT QUESTION
-            // ====================================
+            displayQuestion();
+
+        }
+    );
+
+
+// ========================================
+// CHECKPOINT
+// ========================================
+
+function showCheckpoint() {
+
+    document
+        .getElementById("quiz")
+        .classList.add("hidden");
+
+
+    document
+        .getElementById("checkpoint")
+        .classList.remove("hidden");
+
+
+    const checkpointScore =
+        document.getElementById(
+            "checkpointScore"
+        );
+
+
+    if (checkpointScore) {
+
+        checkpointScore.textContent =
+            `Score: ${score}/${answeredQuestions}`;
+    }
+}
+
+
+// ========================================
+// CONTINUE BUTTON
+// ========================================
+
+document
+    .getElementById("continueButton")
+    .addEventListener(
+        "click",
+        () => {
+
+            document
+                .getElementById("checkpoint")
+                .classList.add("hidden");
+
+
+            document
+                .getElementById("quiz")
+                .classList.remove("hidden");
+
 
             displayQuestion();
 
@@ -1260,62 +1280,41 @@ document.getElementById("nextButton")
 
 
 // ========================================
-// CONTINUE AFTER CHECKPOINT
+// STOP BUTTON
 // ========================================
 
-document.getElementById("continueButton")
+document
+    .getElementById("stopButton")
     .addEventListener(
         "click",
         () => {
 
-            document.getElementById(
-                "checkpoint"
-            ).style.display = "none";
+            document
+                .getElementById("checkpoint")
+                .classList.add("hidden");
 
 
-            document.getElementById(
-                "quizScreen"
-            ).style.display = "block";
+            document
+                .getElementById("quiz")
+                .classList.add("hidden");
 
 
-            displayQuestion();
-
-        }
-    );
-
-
-// ========================================
-// STOP QUIZ
-// ========================================
-
-document.getElementById("stopButton")
-    .addEventListener(
-        "click",
-        () => {
-
-            document.getElementById(
-                "checkpoint"
-            ).style.display = "none";
+            document
+                .getElementById("stopped")
+                .classList.remove("hidden");
 
 
-            document.getElementById(
-                "quizScreen"
-            ).style.display = "none";
+            const stoppedScore =
+                document.getElementById(
+                    "stoppedScore"
+                );
 
 
-            document.getElementById(
-                "stoppedScreen"
-            ).style.display = "block";
+            if (stoppedScore) {
 
-
-            document.getElementById(
-                "stoppedScore"
-            ).textContent =
-                `Score: ${
-                    score
-                } / ${
-                    answeredQuestions
-                }`;
+                stoppedScore.textContent =
+                    `Score: ${score}/${answeredQuestions}`;
+            }
 
         }
     );
@@ -1327,46 +1326,59 @@ document.getElementById("stopButton")
 
 function finishQuiz() {
 
-    document.getElementById(
-        "quizScreen"
-    ).style.display = "none";
+    document
+        .getElementById("quiz")
+        .classList.add("hidden");
 
 
-    document.getElementById(
-        "completeScreen"
-    ).style.display = "block";
+    document
+        .getElementById("checkpoint")
+        .classList.add("hidden");
 
 
-    let percentage = 0;
+    document
+        .getElementById("stopped")
+        .classList.add("hidden");
 
 
-    if (answeredQuestions > 0) {
+    document
+        .getElementById("complete")
+        .classList.remove("hidden");
 
-        percentage =
-            Math.round(
-                (score /
-                    answeredQuestions) *
-                100
-            );
+
+    const finalScore =
+        document.getElementById(
+            "finalScore"
+        );
+
+
+    if (finalScore) {
+
+        finalScore.textContent =
+            `${score} / ${questions.length}`;
 
     }
 
 
-    document.getElementById(
-        "finalScore"
-    ).textContent =
-        `Score: ${
-            score
-        } / ${
-            answeredQuestions
-        }`;
+    const percentage =
+        document.getElementById(
+            "percentage"
+        );
 
 
-    document.getElementById(
-        "finalPercentage"
-    ).textContent =
-        `${percentage}%`;
+    if (percentage) {
 
+        const percent =
+            Math.round(
+                (score /
+                    questions.length) *
+                100
+            );
+
+
+        percentage.textContent =
+            `${percent}%`;
+    }
 }
 
 
@@ -1374,7 +1386,8 @@ function finishQuiz() {
 // RETAKE QUIZ
 // ========================================
 
-document.getElementById("retakeButton")
+document
+    .getElementById("retakeButton")
     .addEventListener(
         "click",
         () => {
@@ -1394,6 +1407,37 @@ document.getElementById("retakeButton")
 
 function returnToMenu() {
 
+    // Hide quiz screens
+
+    document
+        .getElementById("quiz")
+        .classList.add("hidden");
+
+
+    document
+        .getElementById("checkpoint")
+        .classList.add("hidden");
+
+
+    document
+        .getElementById("stopped")
+        .classList.add("hidden");
+
+
+    document
+        .getElementById("complete")
+        .classList.add("hidden");
+
+
+    // Show menu
+
+    document
+        .getElementById("menu")
+        .classList.remove("hidden");
+
+
+    // Reset quiz data
+
     questions = [];
 
     currentQuestion = 0;
@@ -1405,70 +1449,43 @@ function returnToMenu() {
     selectedQuiz = "";
 
     selectedQuizName = "";
-
-
-    document.getElementById(
-        "quizScreen"
-    ).style.display = "none";
-
-
-    document.getElementById(
-        "checkpoint"
-    ).style.display = "none";
-
-
-    document.getElementById(
-        "stoppedScreen"
-    ).style.display = "none";
-
-
-    document.getElementById(
-        "completeScreen"
-    ).style.display = "none";
-
-
-    document.getElementById(
-        "menu"
-    ).style.display = "block";
-
-
-    loadQuizList();
-
 }
 
 
 // ========================================
-// RETURN TO MENU FROM COMPLETION
+// COMPLETION MENU BUTTON
 // ========================================
 
-document.getElementById(
-    "completeMenuButton"
-)
-.addEventListener(
-    "click",
-    () => {
+document
+    .getElementById(
+        "completeMenuButton"
+    )
+    .addEventListener(
+        "click",
+        () => {
 
-        returnToMenu();
+            returnToMenu();
 
-    }
-);
+        }
+    );
 
 
 // ========================================
-// RETURN TO MENU FROM STOPPED SCREEN
+// STOPPED MENU BUTTON
 // ========================================
 
-document.getElementById(
-    "returnMenuButton"
-)
-.addEventListener(
-    "click",
-    () => {
+document
+    .getElementById(
+        "stoppedMenuButton"
+    )
+    .addEventListener(
+        "click",
+        () => {
 
-        returnToMenu();
+            returnToMenu();
 
-    }
-);
+        }
+    );
 
 
 // ========================================
