@@ -277,7 +277,7 @@ async function loadQuizList() {
 
                 createQuizCategory(
                     categoriesContainer,
-                    "📘 Retention",
+                    "Retention",
                     topicData.Retention,
                     "retention"
                 );
@@ -295,7 +295,7 @@ async function loadQuizList() {
 
                 createQuizCategory(
                     categoriesContainer,
-                    "🧠 Situational",
+                    "Situational",
                     topicData.Situational,
                     "situational"
                 );
