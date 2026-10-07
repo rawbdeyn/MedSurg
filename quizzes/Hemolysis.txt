@@ -105,7 +105,7 @@ B: Fibrinogen
 C: NADPH
 D: Albumin
 ANSWER: C
-RATIONALE: C is correct because G6PD catalyzes the first step in the pentose phosphate pathway, converting $NADP^+$ to $NADPH$, which is vital for maintaining reduced glutathione in red blood cells. A is incorrect because insulin is a hormone secreted by pancreatic beta cells. B is incorrect because fibrinogen is a clotting factor synthesized in the liver. D is incorrect because albumin is an oncotic plasma protein produced by hepatocytes.
+RATIONALE: C is correct because G6PD catalyzes the first step in the pentose phosphate pathway, converting NADP+ to NADPH, which is vital for maintaining reduced glutathione in red blood cells. A is incorrect because insulin is a hormone secreted by pancreatic beta cells. B is incorrect because fibrinogen is a clotting factor synthesized in the liver. D is incorrect because albumin is an oncotic plasma protein produced by hepatocytes.
 END
 
 [MCQ]
@@ -145,7 +145,7 @@ B: Autoimmune destruction of intrinsic factor within the gastric mucosa
 C: Excessive renal excretion of total body iron stores via urine
 D: Inability of red blood cells to convert unconjugated bilirubin into conjugated bilirubin
 ANSWER: A
-RATIONALE: A is correct because Thalassemia is a genetic disorder characterized by reduced or absent synthesis of alpha or beta globin chains, leading to underfilled, small (microcytic) red blood cells regardless of iron levels. B is incorrect because intrinsic factor destruction causes pernicious anemia (Vitamin $B_{12}$ deficiency), leading to macrocytic anemia. C is incorrect because iron is not freely excreted in urine under normal conditions or in thalassemia. D is incorrect because bilirubin conjugation occurs in the liver, not inside red blood cells.
+RATIONALE: A is correct because Thalassemia is a genetic disorder characterized by reduced or absent synthesis of alpha or beta globin chains, leading to underfilled, small (microcytic) red blood cells regardless of iron levels. B is incorrect because intrinsic factor destruction causes pernicious anemia (Vitamin B12 deficiency), leading to macrocytic anemia. C is incorrect because iron is not freely excreted in urine under normal conditions or in thalassemia. D is incorrect because bilirubin conjugation occurs in the liver, not inside red blood cells.
 END
 
 [MCQ]
@@ -175,7 +175,7 @@ B: Acute fluid deficit from osmotic diuresis
 C: Complete loss of intestinal glucose absorption
 D: Severe depletion of total body vitamin B12 stores
 ANSWER: A
-RATIONALE: A is correct because each unit of transfused PRBCs contains approximately $200\text{--}250\text{ mg}$ of iron; human bodies lack an active iron excretion mechanism, leading to toxic iron accumulation in heart, liver, and endocrine glands. B is incorrect because repeated transfusions put the patient at risk for fluid volume excess, not fluid volume deficit. C is incorrect because transfusions do not impair intestinal carbohydrate transport. D is incorrect because blood transfusions do not cause vitamin $B_{12}$ depletion.
+RATIONALE: A is correct because each unit of transfused PRBCs contains approximately 200--250 mg of iron; human bodies lack an active iron excretion mechanism, leading to toxic iron accumulation in heart, liver, and endocrine glands. B is incorrect because repeated transfusions put the patient at risk for fluid volume excess, not fluid volume deficit. C is incorrect because transfusions do not impair intestinal carbohydrate transport. D is incorrect because blood transfusions do not cause vitamin B12 depletion.
 END
 
 [MCQ]
@@ -185,11 +185,11 @@ B: Deferasirox
 C: Hydroxyurea
 D: Epoetin alfa
 ANSWER: B
-RATIONALE: B is correct because Deferasirox (or Deferoxamine) is an iron chelating agent that binds excess circulating and tissue iron, allowing excretion via urine and feces. A is incorrect because ferrous gluconate is an iron supplement that would dangerously worsen iron overload. C is incorrect because hydroxyurea increases fetal hemoglobin ($HbF$) synthesis in sickle cell disease and some non-transfusion thalassemias, but is not an iron chelator. D is incorrect because epoetin alfa stimulates RBC production but does not clear total body iron overload.
+RATIONALE: B is correct because Deferasirox (or Deferoxamine) is an iron chelating agent that binds excess circulating and tissue iron, allowing excretion via urine and feces. A is incorrect because ferrous gluconate is an iron supplement that would dangerously worsen iron overload. C is incorrect because hydroxyurea increases fetal hemoglobin (HbF) synthesis in sickle cell disease and some non-transfusion thalassemias, but is not an iron chelator. D is incorrect because epoetin alfa stimulates RBC production but does not clear total body iron overload.
 END
 
 [MCQ]
-QUESTION: A nurse is reviewing dietary instructions with a patient who has Beta-Thalassemia minor and a low baseline hemoglobin ($9.5\text{ g/dL}$). Which patient statement demonstrates proper understanding regarding iron supplementation?
+QUESTION: A nurse is reviewing dietary instructions with a patient who has Beta-Thalassemia minor and a low baseline hemoglobin (9.5 g/dL). Which patient statement demonstrates proper understanding regarding iron supplementation?
 A: "I will take an over-the-counter iron pill twice daily with my orange juice."
 B: "I should take iron supplements only if laboratory testing confirms true iron deficiency."
 C: "I will double my iron intake whenever I feel fatigued or short of breath."
@@ -250,10 +250,10 @@ END
 
 [MCQ]
 QUESTION: A patient with Sickle Cell Disease (SCD) becomes severely dehydrated after working outdoors on a hot day and develops acute vaso-occlusive pain. Which pathophysiologic sequence directly causes this pain?
-A: Dehydration increases plasma volume $\rightarrow$ RBCs dilate $\rightarrow$ arterial thrombosis
-B: Hemoconcentration promotes HbS polymerization $\rightarrow$ rigid sickled RBCs occlude microvasculature $\rightarrow$ tissue ischemia
-C: Excessive platelet production $\rightarrow$ rapid degradation of the endothelial lining $\rightarrow$ severe neuralgia
-D: Increased intracellular oxygen saturation $\rightarrow$ mechanical rupture of venules $\rightarrow$ compartment syndrome
+A: Dehydration increases plasma volume -> RBCs dilate -> arterial thrombosis
+B: Hemoconcentration promotes HbS polymerization -> rigid sickled RBCs occlude microvasculature -> tissue ischemia
+C: Excessive platelet production -> rapid degradation of the endothelial lining -> severe neuralgia
+D: Increased intracellular oxygen saturation -> mechanical rupture of venules -> compartment syndrome
 ANSWER: B
 RATIONALE: B is correct because dehydration increases blood viscosity and promotes HbS deoxygenation and polymerization; sickled erythrocytes adhere to endothelium and block capillary blood flow, causing tissue ischemia and acute pain. A is incorrect because dehydration decreases plasma volume and causes hemoconcentration, not volume expansion or cell dilation. C is incorrect because vaso-occlusion is driven by sickled RBCs and cellular adhesion, not primary platelet-mediated endothelial degradation. D is incorrect because sickling is triggered by deoxygenation (hypoxia), not elevated intracellular oxygen saturation.
 END
@@ -269,13 +269,13 @@ RATIONALE: B is correct because maintaining high fluid intake prevents hemoconce
 END
 
 [MCQ]
-QUESTION: A patient with Sickle Cell Disease presents to the emergency department with a temperature of $38.5^\circ\text{C}$ ($101.3^\circ\text{F}$). Why must the nurse treat fever as a medical emergency in this patient population?
+QUESTION: A patient with Sickle Cell Disease presents to the emergency department with a temperature of 38.5°C (101.3°F). Why must the nurse treat fever as a medical emergency in this patient population?
 A: Fever causes immediate, irreversible breakdown of all circulating iron stores
 B: Functional asplenia from repeated splenic infarctions creates high susceptibility to fatal encapsulated bacterial infections
 C: Fever indicates that the patient has developed complete bone marrow failure
 D: Elevated body temperature permanently converts all HbS into normal HbA
 ANSWER: B
-RATIONALE: B is correct because repeated microvascular occlusion in the spleen causes progressive autosplenectomy (functional asplenia), leaving patients unable to clear encapsulated bacteria (e.g., *Streptococcus pneumoniae*), making fever a sign of potential life-threatening sepsis. A is incorrect because fever does not destroy systemic iron stores. C is incorrect because fever indicates infection/inflammation, not primary aplastic bone marrow failure. D is incorrect because fever does not alter the genetic composition or convert HbS back to normal adult hemoglobin (HbA).
+RATIONALE: B is correct because repeated microvascular occlusion in the spleen causes progressive autosplenectomy (functional asplenia), leaving patients unable to clear encapsulated bacteria (e.g., Streptococcus pneumoniae), making fever a sign of potential life-threatening sepsis. A is incorrect because fever does not destroy systemic iron stores. C is incorrect because fever indicates infection/inflammation, not primary aplastic bone marrow failure. D is incorrect because fever does not alter the genetic composition or convert HbS back to normal adult hemoglobin (HbA).
 END
 
 [MCQ]
@@ -341,51 +341,51 @@ END
 [MCQ]
 QUESTION: A nurse is preparing immunization materials for a pediatric patient with Sickle Cell Disease who has functional asplenia. Which vaccine is specifically emphasized to prevent life-threatening bacterial infections?
 A: Rotavirus vaccine
-B: Pneumococcal conjugate vaccine (*Streptococcus pneumoniae*)
+B: Pneumococcal conjugate vaccine (Streptococcus pneumoniae)
 C: Inactivated poliovirus vaccine
 D: Hepatitis B vaccine
 ANSWER: B
-RATIONALE: B is correct because asplenic individuals cannot efficiently filter and phagocytize encapsulated bacteria; *Streptococcus pneumoniae* is the primary pathogen causing fatal sepsis, making pneumococcal vaccination essential. A, C, and D are important routine vaccines, but pneumococcal vaccination specifically addresses the fatal bacterial sepsis risk caused by functional asplenia.
+RATIONALE: B is correct because asplenic individuals cannot efficiently filter and phagocytize encapsulated bacteria; Streptococcus pneumoniae is the primary pathogen causing fatal sepsis, making pneumococcal vaccination essential. A, C, and D are important routine vaccines, but pneumococcal vaccination specifically addresses the fatal bacterial sepsis risk caused by functional asplenia.
 END
 
 [MCQ]
-QUESTION: Which disease-modifying medication increases the production of fetal hemoglobin ($HbF$) in patients with Sickle Cell Disease to reduce the frequency of painful vaso-occlusive crises?
+QUESTION: Which disease-modifying medication increases the production of fetal hemoglobin (HbF) in patients with Sickle Cell Disease to reduce the frequency of painful vaso-occlusive crises?
 A: Acetaminophen
 B: Hydroxyurea
 C: Ibuprofen
 D: Morphine sulfate
 ANSWER: B
-RATIONALE: B is correct because Hydroxyurea stimulates $HbF$ production, which inhibits $HbS$ polymerization, decreases RBC sickling, and reduces the frequency of painful crises and acute chest syndrome. A, C, and D are analgesics used to manage acute or chronic pain, but they do not alter hemoglobin composition or modify the underlying disease course.
+RATIONALE: B is correct because Hydroxyurea stimulates HbF production, which inhibits HbS polymerization, decreases RBC sickling, and reduces the frequency of painful crises and acute chest syndrome. A, C, and D are analgesics used to manage acute or chronic pain, but they do not alter hemoglobin composition or modify the underlying disease course.
 END
 
 [MCQ]
-QUESTION: A patient with Sickle Cell Disease arrives at the emergency room in severe vaso-occlusive pain ($10/10$). What is the most appropriate nursing priority regarding pain management?
+QUESTION: A patient with Sickle Cell Disease arrives at the emergency room in severe vaso-occlusive pain (10/10). What is the most appropriate nursing priority regarding pain management?
 A: Delay analgesia until all blood and urine cultures are completed
 B: Assess pain promptly and administer prescribed analgesics (such as opioids) without delay
-C: Withhold all pain medications until the patient's oxygen saturation drops below $88\\%$
+C: Withhold all pain medications until the patient's oxygen saturation drops below 88%
 D: Administer high-dose oral iron supplements before giving pain relief
 ANSWER: B
 RATIONALE: B is correct because prompt, aggressive pain management (often using parenteral opioids) is a cornerstone of acute vaso-occlusive crisis care. A is incorrect because pain management should not be delayed for non-urgent diagnostic procedures. C is incorrect because analgesia is indicated for pain regardless of oxygen levels; oxygen does not treat vaso-occlusive pain if hypoxemia is absent. D is incorrect because iron does not relieve sickling pain and can cause iron toxicity if given without documented iron deficiency.
 END
 
 [MCQ]
-QUESTION: A patient in an acute sickle cell vaso-occlusive crisis has an $SpO_2$ of $97\\%$ on room air and no respiratory distress. What is the recommended strategy regarding routine supplemental oxygen therapy?
-A: Routine supplemental oxygen is not indicated unless hypoxemia ($SpO_2 < 92\\%$) or respiratory distress is present
+QUESTION: A patient in an acute sickle cell vaso-occlusive crisis has an SpO2 of 97% on room air and no respiratory distress. What is the recommended strategy regarding routine supplemental oxygen therapy?
+A: Routine supplemental oxygen is not indicated unless hypoxemia (SpO2 < 92%) or respiratory distress is present
 B: High-flow oxygen must be administered continuously to all patients in pain regardless of saturation
 C: Supplemental oxygen replaces the need for IV opioid analgesics
-D: Oxygen therapy should be administered to permanently remove $HbS$ from circulating cells
+D: Oxygen therapy should be administered to permanently remove HbS from circulating cells
 ANSWER: A
-RATIONALE: A is correct because routine oxygen administration in non-hypoxemic patients does not reduce vaso-occlusive pain and can suppress endogenous erythropoiesis. B is incorrect because giving oxygen to non-hypoxemic patients offers no benefit in uncomplicated vaso-occlusive pain. C is incorrect because oxygen does not provide analgesia. D is incorrect because oxygen cannot alter the genetic structure or eliminate $HbS$.
+RATIONALE: A is correct because routine oxygen administration in non-hypoxemic patients does not reduce vaso-occlusive pain and can suppress endogenous erythropoiesis. B is incorrect because giving oxygen to non-hypoxemic patients offers no benefit in uncomplicated vaso-occlusive pain. C is incorrect because oxygen does not provide analgesia. D is incorrect because oxygen cannot alter the genetic structure or eliminate HbS.
 END
 
 [MCQ]
-QUESTION: A patient with Sickle Cell Disease is admitted with acute chest syndrome and has an $SpO_2$ of $87\\%$ on room air. Which intervention is appropriate regarding oxygen administration?
+QUESTION: A patient with Sickle Cell Disease is admitted with acute chest syndrome and has an SpO2 of 87% on room air. Which intervention is appropriate regarding oxygen administration?
 A: Avoid oxygen administration because it has no role in sickle cell management
 B: Administer supplemental oxygen as indicated to correct documented hypoxemia
 C: Restrict fluids and avoid monitoring arterial blood gases
 D: Withhold oxygen until the patient develops visible peripheral cyanosis
 ANSWER: B
-RATIONALE: B is correct because oxygen therapy is indicated when documented hypoxemia ($SpO_2 < 92\\%$) or respiratory compromise is present during acute complications like acute chest syndrome. A is incorrect because oxygen is indicated for true hypoxemia. C is incorrect because hydration is essential during sickling complications and respiratory monitoring is critical. D is incorrect because cyanosis is a late sign; oxygen should be started as soon as hypoxemia is documented.
+RATIONALE: B is correct because oxygen therapy is indicated when documented hypoxemia (SpO2 < 92%) or respiratory compromise is present during acute complications like acute chest syndrome. A is incorrect because oxygen is indicated for true hypoxemia. C is incorrect because hydration is essential during sickling complications and respiratory monitoring is critical. D is incorrect because cyanosis is a late sign; oxygen should be started as soon as hypoxemia is documented.
 END
 
 [MCQ]
@@ -395,17 +395,17 @@ B: Stable room temperatures
 C: Adequate daily fluid intake
 D: Normal ambient oxygen levels
 ANSWER: A
-RATIONALE: A is correct because exposure to extreme cold induces peripheral vasoconstriction, slowing microvascular blood flow and promoting $HbS$ deoxygenation and vaso-occlusion. B, C, and D represent normal/therapeutic conditions that prevent, rather than trigger, sickling.
+RATIONALE: A is correct because exposure to extreme cold induces peripheral vasoconstriction, slowing microvascular blood flow and promoting HbS deoxygenation and vaso-occlusion. B, C, and D represent normal/therapeutic conditions that prevent, rather than trigger, sickling.
 END
 
 [MCQ]
 QUESTION: Why does systemic hypoxemia accelerate the sickling process in patients with Sickle Cell Disease?
-A: Hypoxemia promotes $HbS$ deoxygenation, inducing a conformational change that causes polymerization into rigid rods
-B: Hypoxemia increases normal $HbA$ synthesis immediately
+A: Hypoxemia promotes HbS deoxygenation, inducing a conformational change that causes polymerization into rigid rods
+B: Hypoxemia increases normal HbA synthesis immediately
 C: Hypoxemia prevents erythrocytes from adhering to the vascular endothelium
 D: Hypoxemia increases red blood cell deformability and elasticity
 ANSWER: A
-RATIONALE: A is correct because deoxygenated $HbS$ undergoes a conformational change that exposes hydrophobic patches, causing $HbS$ molecules to polymerize into rigid polymers that distort the RBC into a sickle shape. B is incorrect because hypoxemia does not induce $HbA$ gene expression. C is incorrect because sickled cells show increased adhesion to vessel walls. D is incorrect because sickling decreases red cell flexibility.
+RATIONALE: A is correct because deoxygenated HbS undergoes a conformational change that exposes hydrophobic patches, causing HbS molecules to polymerize into rigid polymers that distort the RBC into a sickle shape. B is incorrect because hypoxemia does not induce HbA gene expression. C is incorrect because sickled cells show increased adhesion to vessel walls. D is incorrect because sickling decreases red cell flexibility.
 END
 
 [MCQ]
