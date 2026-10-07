@@ -1,4 +1,3 @@
-```javascript
 let questions = [];
 let currentQuestion = 0;
 let score = 0;
@@ -22,202 +21,434 @@ const GITHUB_API_URL =
 
 async function loadQuizList() {
 
-    const quizList = document.getElementById("quizList");
+    const quizList =
+        document.getElementById("quizList");
 
-    quizList.innerHTML = "<p>Loading quizzes...</p>";
+    quizList.innerHTML =
+        "<p>Loading quizzes...</p>";
 
     try {
 
-        const response = await fetch(GITHUB_API_URL);
+        const response =
+            await fetch(GITHUB_API_URL, {
+                headers: {
+                    "Accept":
+                        "application/vnd.github+json"
+                }
+            });
+
 
         if (!response.ok) {
-            throw new Error("Unable to load quiz list.");
+
+            throw new Error(
+                "Could not load quizzes from GitHub."
+            );
+
         }
 
-        const files = await response.json();
 
-        const quizFiles = files
-            .filter(file => file.name.toLowerCase().endsWith(".txt"))
-            .sort((a, b) => a.name.localeCompare(b.name));
+        const files =
+            await response.json();
+
+
+        const quizzes =
+            files.filter(file =>
+                file.type === "file" &&
+                file.name
+                    .toLowerCase()
+                    .endsWith(".txt")
+            );
+
+
+        quizList.innerHTML = "";
+
+
+        if (quizzes.length === 0) {
+
+            quizList.innerHTML = `
+
+                <div class="error-message">
+
+                    <strong>
+                        No quizzes found.
+                    </strong>
+
+                    <p>
+                        There are no .txt quiz files
+                        in the GitHub quizzes folder.
+                    </p>
+
+                </div>
+
+            `;
+
+            return;
+        }
 
 
         // ========================================
         // GROUP QUIZZES BY TOPIC
         // ========================================
 
-        const topics = {};
+        const groupedQuizzes = {};
 
-        quizFiles.forEach(quiz => {
 
-            let filename = quiz.name
-                .replace(/\.txt$/i, "");
+        quizzes.forEach((quiz) => {
 
-            let category = "situational";
+            const filename =
+                quiz.name.toLowerCase();
 
-            if (filename.toLowerCase().endsWith("_retention")) {
-                category = "retention";
-                filename = filename.replace(/_retention$/i, "");
+
+            // ------------------------------------
+            // Determine category
+            // ------------------------------------
+
+            let category = "Situational";
+
+
+            if (
+                filename.endsWith("_retention.txt")
+            ) {
+
+                category = "Retention";
+
             }
 
-            // Determine topic name
-            let topic = filename
-                .replace(/_/g, " ")
-                .replace(/-/g, " ")
-                .trim();
 
-            if (!topics[topic]) {
-                topics[topic] = {
-                    retention: [],
-                    situational: []
+            // ------------------------------------
+            // Get topic name
+            // ------------------------------------
+
+            let topic =
+                quiz.name.replace(
+                    /\.txt$/i,
+                    ""
+                );
+
+
+            // Remove _retention from topic
+
+            topic =
+                topic.replace(
+                    /_retention$/i,
+                    ""
+                );
+
+
+            // Replace underscores / hyphens
+
+            topic =
+                topic.replace(
+                    /[_-]+/g,
+                    " "
+                );
+
+
+            // Capitalize each word
+
+            topic =
+                topic.replace(
+                    /\b\w/g,
+                    letter =>
+                        letter.toUpperCase()
+                );
+
+
+            // ------------------------------------
+            // Create topic group if needed
+            // ------------------------------------
+
+            if (!groupedQuizzes[topic]) {
+
+                groupedQuizzes[topic] = {
+
+                    Retention: [],
+
+                    Situational: []
+
                 };
+
             }
 
-            topics[topic][category].push(quiz);
+
+            groupedQuizzes[topic][category]
+                .push(quiz);
+
         });
 
 
-        quizList.innerHTML = "";
+        // ========================================
+        // SORT TOPICS
+        // ========================================
+
+        const sortedTopics =
+            Object.keys(groupedQuizzes)
+                .sort();
 
 
         // ========================================
-        // CREATE TOPIC BOXES
+        // CREATE TOPIC CARDS
         // ========================================
 
-        Object.keys(topics)
-            .sort()
-            .forEach(topic => {
+        sortedTopics.forEach((topic) => {
 
-                const topicBox = document.createElement("div");
-                topicBox.className = "quiz-topic";
+            // ------------------------------------
+            // Outer topic card
+            // ------------------------------------
 
+            const topicSection =
+                document.createElement("div");
 
-                // ========================================
-                // TOPIC TITLE
-                // ========================================
-
-                const topicTitle = document.createElement("div");
-                topicTitle.className = "quiz-topic-title";
-                topicTitle.textContent = formatQuizName(topic);
-
-                topicBox.appendChild(topicTitle);
+            topicSection.className =
+                "quiz-topic";
 
 
-                // ========================================
-                // RETENTION + SITUATIONAL CONTAINER
-                // ========================================
+            // ------------------------------------
+            // Topic title
+            // ------------------------------------
 
-                const categories = document.createElement("div");
-                categories.className = "quiz-categories";
+            const topicTitle =
+                document.createElement("h2");
+
+            topicTitle.className =
+                "quiz-topic-title";
+
+            topicTitle.textContent =
+                topic;
 
 
-                // RETENTION
-                categories.appendChild(
-                    createQuizCategory(
-                        topic,
-                        topics[topic].retention,
-                        "retention"
-                    )
+            topicSection.appendChild(
+                topicTitle
+            );
+
+
+            // ------------------------------------
+            // Retention / Situational container
+            // ------------------------------------
+
+            const categoriesContainer =
+                document.createElement("div");
+
+            categoriesContainer.className =
+                "quiz-categories";
+
+
+            // ------------------------------------
+            // Retention
+            // ------------------------------------
+
+            if (
+                groupedQuizzes[topic]
+                    .Retention.length > 0
+            ) {
+
+                createQuizCategory(
+                    categoriesContainer,
+                    "Retention",
+                    groupedQuizzes[topic]
+                        .Retention,
+                    "retention"
                 );
 
+            }
 
-                // SITUATIONAL
-                categories.appendChild(
-                    createQuizCategory(
-                        topic,
-                        topics[topic].situational,
-                        "situational"
-                    )
+
+            // ------------------------------------
+            // Situational
+            // ------------------------------------
+
+            if (
+                groupedQuizzes[topic]
+                    .Situational.length > 0
+            ) {
+
+                createQuizCategory(
+                    categoriesContainer,
+                    "Situational",
+                    groupedQuizzes[topic]
+                        .Situational,
+                    "situational"
                 );
 
-
-                topicBox.appendChild(categories);
-
-                quizList.appendChild(topicBox);
-            });
+            }
 
 
-    } catch (error) {
-
-        quizList.innerHTML = `
-            <div class="quiz-error">
-                <p>Unable to load quizzes.</p>
-                <button id="retryButton">Retry</button>
-            </div>
-        `;
-
-        document
-            .getElementById("retryButton")
-            .addEventListener("click", loadQuizList);
-    }
-}
+            topicSection.appendChild(
+                categoriesContainer
+            );
 
 
-// ========================================
-// CREATE RETENTION / SITUATIONAL CATEGORY
-// ========================================
-
-function createQuizCategory(topic, quizzes, category) {
-
-    const categoryDiv = document.createElement("div");
-
-    categoryDiv.className =
-        `quiz-category ${category}`;
-
-
-    // ========================================
-    // CATEGORY TITLE
-    // ========================================
-
-    const categoryTitle = document.createElement("div");
-
-    categoryTitle.className =
-        "quiz-category-title";
-
-    categoryTitle.textContent =
-        category === "retention"
-            ? "RETENTION"
-            : "SITUATIONAL";
-
-    categoryDiv.appendChild(categoryTitle);
-
-
-    // ========================================
-    // QUIZ BUTTONS
-    // ========================================
-
-    const quizGrid = document.createElement("div");
-
-    quizGrid.className = "quiz-grid";
-
-
-    quizzes.forEach(quiz => {
-
-        const button = document.createElement("button");
-
-        button.className = "quiz-button";
-
-        button.textContent =
-            formatQuizName(quiz.name);
-
-
-        button.addEventListener("click", () => {
-
-            startQuiz(
-                quiz.download_url,
-                formatQuizName(quiz.name)
+            quizList.appendChild(
+                topicSection
             );
 
         });
 
 
-        quizGrid.appendChild(button);
+    } catch (error) {
+
+        console.error(error);
+
+
+        quizList.innerHTML = `
+
+            <div class="error-message">
+
+                <strong>
+                    Could not load quizzes.
+                </strong>
+
+                <p>
+                    The quiz list could not be
+                    retrieved from GitHub.
+                </p>
+
+                <button
+                    id="retryQuizListButton"
+                    class="back-button"
+                >
+                    Try Again
+                </button>
+
+            </div>
+
+        `;
+
+
+        const retryButton =
+            document.getElementById(
+                "retryQuizListButton"
+            );
+
+
+        if (retryButton) {
+
+            retryButton.addEventListener(
+                "click",
+                () => {
+
+                    loadQuizList();
+
+                }
+            );
+
+        }
+
+    }
+}
+
+
+// ========================================
+// CREATE QUIZ CATEGORY
+// ========================================
+
+function createQuizCategory(
+    parent,
+    categoryName,
+    quizzes,
+    categoryType
+) {
+
+    const category =
+        document.createElement("div");
+
+
+    category.className =
+        `quiz-category ${categoryType}`;
+
+
+    // ------------------------------------
+    // Category title
+    // ------------------------------------
+
+    const categoryTitle =
+        document.createElement("h3");
+
+
+    categoryTitle.className =
+        "quiz-category-title";
+
+
+    categoryTitle.textContent =
+        categoryName;
+
+
+    category.appendChild(
+        categoryTitle
+    );
+
+
+    // ------------------------------------
+    // Quiz buttons container
+    // ------------------------------------
+
+    const quizGrid =
+        document.createElement("div");
+
+
+    quizGrid.className =
+        "quiz-grid";
+
+
+    category.appendChild(
+        quizGrid
+    );
+
+
+    // ------------------------------------
+    // Sort quizzes
+    // ------------------------------------
+
+    quizzes.sort((a, b) =>
+        a.name.localeCompare(b.name)
+    );
+
+
+    // ------------------------------------
+    // Create individual quiz buttons
+    // ------------------------------------
+
+    quizzes.forEach((quiz) => {
+
+        const button =
+            document.createElement("button");
+
+
+        button.className =
+            "quiz-button";
+
+
+        button.textContent =
+            formatQuizName(
+                quiz.name
+            );
+
+
+        button.addEventListener(
+            "click",
+            () => {
+
+                startQuiz(
+                    quiz.download_url,
+                    formatQuizName(
+                        quiz.name
+                    )
+                );
+
+            }
+        );
+
+
+        quizGrid.appendChild(
+            button
+        );
 
     });
 
 
-    categoryDiv.appendChild(quizGrid);
-
-    return categoryDiv;
+    parent.appendChild(
+        category
+    );
 }
 
 
@@ -225,12 +456,39 @@ function createQuizCategory(topic, quizzes, category) {
 // FORMAT QUIZ NAME
 // ========================================
 
-function formatQuizName(name) {
+function formatQuizName(filename) {
 
-    return name
-        .replace(/\.txt$/i, "")
-        .replace(/[_-]/g, " ")
-        .replace(/\b\w/g, char => char.toUpperCase());
+    let name =
+        filename.replace(
+            /\.txt$/i,
+            ""
+        );
+
+
+    // Remove _retention from displayed name
+
+    name =
+        name.replace(
+            /_retention$/i,
+            ""
+        );
+
+
+    name =
+        name.replace(
+            /[_-]+/g,
+            " "
+        );
+
+
+    name =
+        name.replace(
+            /\b\w/g,
+            letter => letter.toUpperCase()
+        );
+
+
+    return name;
 }
 
 
@@ -240,45 +498,64 @@ function formatQuizName(name) {
 
 function startQuiz(filename, name) {
 
-    questions = [];
-    currentQuestion = 0;
-    score = 0;
-    answeredQuestions = 0;
-
     selectedQuiz = filename;
     selectedQuizName = name;
 
+    questions = [];
 
-    document.getElementById("menu").style.display = "none";
+    currentQuestion = 0;
 
-    document.getElementById("quizScreen").style.display = "block";
+    score = 0;
 
-    document.getElementById("checkpoint").style.display = "none";
-
-    document.getElementById("stoppedScreen").style.display = "none";
-
-    document.getElementById("completeScreen").style.display = "none";
+    answeredQuestions = 0;
 
 
-    document.getElementById("quizTitle").textContent =
-        selectedQuizName;
+    document.getElementById("menu")
+        .style.display = "none";
 
 
-    document.getElementById("submitButton").style.display =
-        "inline-block";
-
-    document.getElementById("nextButton").style.display =
-        "none";
+    document.getElementById("quizScreen")
+        .style.display = "block";
 
 
-    document.getElementById("result").innerHTML = "";
+    document.getElementById("checkpoint")
+        .style.display = "none";
 
-    document.getElementById("question").textContent =
-        "Loading quiz...";
 
-    document.getElementById("choices").innerHTML = "";
+    document.getElementById("stoppedScreen")
+        .style.display = "none";
 
-    document.getElementById("questionNumber").textContent = "";
+
+    document.getElementById("completeScreen")
+        .style.display = "none";
+
+
+    document.getElementById("quizTitle")
+        .textContent = name;
+
+
+    document.getElementById("submitButton")
+        .style.display = "block";
+
+
+    document.getElementById("nextButton")
+        .style.display = "none";
+
+
+    document.getElementById("result")
+        .innerHTML = "";
+
+
+    document.getElementById("question")
+        .textContent = "Loading quiz...";
+
+
+    document.getElementById("choices")
+        .innerHTML = "";
+
+
+    document.getElementById("questionNumber")
+        .textContent = "";
 
 
     loadQuiz(filename);
@@ -286,35 +563,51 @@ function startQuiz(filename, name) {
 
 
 // ========================================
-// LOAD QUIZ FILE
+// LOAD QUIZ TXT FROM GITHUB
 // ========================================
 
 async function loadQuiz(downloadURL) {
 
     try {
 
-        const response = await fetch(downloadURL);
+        const response =
+            await fetch(downloadURL);
+
 
         if (!response.ok) {
-            throw new Error("Unable to load quiz.");
+
+            throw new Error(
+                "Quiz file could not be loaded."
+            );
+
         }
 
-        const text = await response.text();
+
+        const text =
+            await response.text();
+
 
         parseQuestions(text);
 
 
         if (questions.length === 0) {
-            throw new Error("No questions found.");
+
+            throw new Error(
+                "No valid questions were found."
+            );
+
         }
 
 
         shuffleQuestions();
 
+
         displayQuestion();
 
 
     } catch (error) {
+
+        console.error(error);
 
         showQuizError();
 
@@ -323,38 +616,66 @@ async function loadQuiz(downloadURL) {
 
 
 // ========================================
-// QUIZ ERROR
+// SHOW QUIZ ERROR
 // ========================================
 
 function showQuizError() {
 
-    document.getElementById("question").innerHTML = `
-        <div class="quiz-error-message">
-            <h3>Quiz Error</h3>
-            <p>Unable to load this quiz.</p>
-            <button id="errorBackButton">
-                Go Back
-            </button>
-        </div>
-    `;
+    document.getElementById("question")
+        .innerHTML = `
+
+            <div class="error-message">
+
+                <strong>
+                    Unable to load this quiz.
+                </strong>
+
+                <p>
+                    The quiz file could not be
+                    found or could not be read.
+                </p>
+
+                <button
+                    id="errorBackButton"
+                    class="back-button"
+                >
+                    ← Go Back
+                </button>
+
+            </div>
+
+        `;
 
 
-    document.getElementById("choices").innerHTML = "";
-
-    document.getElementById("questionNumber").textContent = "";
-
-    document.getElementById("result").innerHTML = "";
-
-    document.getElementById("submitButton").style.display =
-        "none";
-
-    document.getElementById("nextButton").style.display =
-        "none";
+    document.getElementById("choices")
+        .innerHTML = "";
 
 
-    document
-        .getElementById("errorBackButton")
-        .addEventListener("click", returnToMenu);
+    document.getElementById("questionNumber")
+        .textContent = "";
+
+
+    document.getElementById("submitButton")
+        .style.display = "none";
+
+
+    document.getElementById("nextButton")
+        .style.display = "none";
+
+
+    document.getElementById("result")
+        .innerHTML = "";
+
+
+    document.getElementById("errorBackButton")
+        .addEventListener(
+            "click",
+            () => {
+
+                returnToMenu();
+
+            }
+        );
 }
 
 
@@ -366,15 +687,17 @@ function parseQuestions(text) {
 
     questions = [];
 
-    const lines = text
-        .replace(/\r/g, "")
-        .split("\n");
+
+    const lines =
+        text
+            .replace(/\r/g, "")
+            .split("\n");
 
 
     let current = null;
 
 
-    lines.forEach(line => {
+    for (let line of lines) {
 
         line = line.trim();
 
@@ -391,9 +714,9 @@ function parseQuestions(text) {
 
                 choice_count: 0,
 
-                correct_answer: "",
+                correct_answer: -1,
 
-                user_answer: "",
+                user_answer: -1,
 
                 is_correct: false,
 
@@ -401,98 +724,117 @@ function parseQuestions(text) {
 
             };
 
+
+            continue;
         }
 
 
-        else if (current && line.startsWith("QUESTION:")) {
+        if (!current) {
+
+            continue;
+
+        }
+
+
+        if (line.startsWith("QUESTION:")) {
 
             current.question =
-                line.substring(9).trim();
+                line
+                    .substring(
+                        "QUESTION:".length
+                    )
+                    .trim();
 
+
+            continue;
         }
 
 
-        else if (current && /^A:/.test(line)) {
+        if (/^[A-D]:/.test(line)) {
 
-            current.choices[0] =
+            const choice =
                 line.substring(2).trim();
+
+
+            current.choices.push(choice);
 
             current.choice_count++;
 
+
+            continue;
         }
 
 
-        else if (current && /^B:/.test(line)) {
+        if (line.startsWith("ANSWER:")) {
 
-            current.choices[1] =
-                line.substring(2).trim();
+            const answer =
+                line
+                    .substring(
+                        "ANSWER:".length
+                    )
+                    .trim()
+                    .toUpperCase();
 
-            current.choice_count++;
-
-        }
-
-
-        else if (current && /^C:/.test(line)) {
-
-            current.choices[2] =
-                line.substring(2).trim();
-
-            current.choice_count++;
-
-        }
-
-
-        else if (current && /^D:/.test(line)) {
-
-            current.choices[3] =
-                line.substring(2).trim();
-
-            current.choice_count++;
-
-        }
-
-
-        else if (current && line.startsWith("ANSWER:")) {
 
             current.correct_answer =
-                line.substring(7).trim();
+                answerToIndex(answer);
 
+
+            continue;
         }
 
 
-        else if (current && line.startsWith("RATIONALE:")) {
+        if (line.startsWith("RATIONALE:")) {
 
             current.rationale =
-                line.substring(10).trim();
+                line
+                    .substring(
+                        "RATIONALE:".length
+                    )
+                    .trim();
 
+
+            continue;
         }
 
 
-        else if (current && line === "END") {
+        if (line === "END") {
 
-            questions.push(current);
+            if (
+                current.question !== "" &&
+                current.choices.length >= 2 &&
+                current.correct_answer >= 0
+            ) {
+
+                questions.push(current);
+
+            }
+
 
             current = null;
 
         }
 
-    });
+    }
 }
 
 
 // ========================================
-// ANSWER LETTER TO INDEX
+// CONVERT A-D TO INDEX
 // ========================================
 
 function answerToIndex(answer) {
 
-    return {
-        A: 0,
-        B: 1,
-        C: 2,
-        D: 3
-    }[answer.toUpperCase()];
+    if (answer === "A") return 0;
 
+    if (answer === "B") return 1;
+
+    if (answer === "C") return 2;
+
+    if (answer === "D") return 3;
+
+
+    return -1;
 }
 
 
@@ -509,7 +851,10 @@ function shuffleQuestions() {
     ) {
 
         const j =
-            Math.floor(Math.random() * (i + 1));
+            Math.floor(
+                Math.random() * (i + 1)
+            );
+
 
         [
             questions[i],
@@ -534,74 +879,75 @@ function displayQuestion() {
         questions[currentQuestion];
 
 
-    document.getElementById("questionNumber").textContent =
-        `Question ${currentQuestion + 1} of ${questions.length}`;
+    document.getElementById("questionNumber")
+        .textContent =
+            `Question ${
+                currentQuestion + 1
+            } of ${
+                questions.length
+            }`;
 
 
-    document.getElementById("question").textContent =
-        q.question;
+    document.getElementById("question")
+        .textContent =
+            q.question;
 
 
     const choicesContainer =
         document.getElementById("choices");
 
+
     choicesContainer.innerHTML = "";
 
 
-    q.choices.forEach((choice, index) => {
+    q.choices.forEach(
+        (choice, index) => {
 
-        const label =
-            document.createElement("label");
-
-        label.className =
-            "answer-option";
+            const label =
+                document.createElement("label");
 
 
-        const radio =
-            document.createElement("input");
-
-        radio.type = "radio";
-
-        radio.name = "answer";
-
-        radio.value = index;
+            label.className =
+                "answer-option";
 
 
-        const letter =
-            document.createElement("span");
+            label.innerHTML = `
 
-        letter.textContent =
-            String.fromCharCode(65 + index);
+                <input
+                    type="radio"
+                    name="answer"
+                    value="${index}"
+                >
 
+                <span>
+                    ${
+                        String.fromCharCode(
+                            65 + index
+                        )
+                    }. ${choice}
+                </span>
 
-        const text =
-            document.createElement("span");
-
-        text.textContent =
-            choice;
-
-
-        label.appendChild(radio);
-
-        label.appendChild(letter);
-
-        label.appendChild(text);
+            `;
 
 
-        choicesContainer.appendChild(label);
+            choicesContainer.appendChild(
+                label
+            );
 
-    });
-
-
-    document.getElementById("result").innerHTML = "";
-
-
-    document.getElementById("submitButton").style.display =
-        "inline-block";
+        }
+    );
 
 
-    document.getElementById("nextButton").style.display =
-        "none";
+    document.getElementById("result")
+        .innerHTML = "";
+
+
+    document.getElementById("submitButton")
+        .style.display = "block";
+
+
+    document.getElementById("nextButton")
+        .style.display = "none";
 }
 
 
@@ -609,224 +955,264 @@ function displayQuestion() {
 // SUBMIT ANSWER
 // ========================================
 
-document
-    .getElementById("submitButton")
-    .addEventListener("click", function () {
+document.getElementById("submitButton")
+    .addEventListener(
+        "click",
+        () => {
 
-        const selected =
-            document.querySelector(
-                'input[name="answer"]:checked'
-            );
-
-
-        if (!selected) {
-
-            alert("Please select an answer.");
-
-            return;
-
-        }
+            const selected =
+                document.querySelector(
+                    'input[name="answer"]:checked'
+                );
 
 
-        const q =
-            questions[currentQuestion];
+            if (!selected) {
+
+                document.getElementById("result")
+                    .innerHTML = `
+
+                        <p>
+                            Please select an answer.
+                        </p>
+
+                    `;
+
+                return;
+            }
 
 
-        const selectedIndex =
-            parseInt(selected.value);
+            const userAnswer =
+                parseInt(selected.value);
 
 
-        const correctIndex =
-            answerToIndex(q.correct_answer);
+            const q =
+                questions[currentQuestion];
 
 
-        q.user_answer =
-            String.fromCharCode(
-                65 + selectedIndex
-            );
+            q.user_answer =
+                userAnswer;
 
 
-        q.is_correct =
-            selectedIndex === correctIndex;
+            q.is_correct =
+                userAnswer ===
+                q.correct_answer;
 
 
-        answeredQuestions++;
+            const answerOptions =
+                document.querySelectorAll(
+                    ".answer-option"
+                );
 
 
-        const options =
+            answeredQuestions++;
+
+
+            if (q.is_correct) {
+
+                score++;
+
+
+                answerOptions[userAnswer]
+                    .classList.add(
+                        "correct-answer"
+                    );
+
+
+                document.getElementById("result")
+                    .innerHTML = `
+
+                        <div class="correct">
+
+                            <strong>
+                                Correct!
+                            </strong>
+
+                            <p>
+                                ${q.rationale}
+                            </p>
+
+                        </div>
+
+                    `;
+
+            }
+
+
+            else {
+
+                answerOptions[userAnswer]
+                    .classList.add(
+                        "wrong-answer"
+                    );
+
+
+                answerOptions[q.correct_answer]
+                    .classList.add(
+                        "correct-answer"
+                    );
+
+
+                document.getElementById("result")
+                    .innerHTML = `
+
+                        <div class="wrong">
+
+                            <strong>
+                                Incorrect.
+                            </strong>
+
+                            <p>
+                                Correct answer:
+                                ${
+                                    String.fromCharCode(
+                                        65 +
+                                        q.correct_answer
+                                    )
+                                }
+                            </p>
+
+                            <p>
+                                ${q.rationale}
+                            </p>
+
+                        </div>
+
+                    `;
+
+            }
+
+
             document.querySelectorAll(
                 'input[name="answer"]'
-            );
+            ).forEach(input => {
+
+                input.disabled = true;
+
+            });
 
 
-        options.forEach(input => {
-
-            input.disabled = true;
-
-
-            const label =
-                input.closest(".answer-option");
+            document.getElementById("submitButton")
+                .style.display = "none";
 
 
-            const index =
-                parseInt(input.value);
-
-
-            if (index === correctIndex) {
-
-                label.classList.add(
-                    "correct-answer"
-                );
-
-            }
-
-
-            if (
-                index === selectedIndex &&
-                selectedIndex !== correctIndex
-            ) {
-
-                label.classList.add(
-                    "wrong-answer"
-                );
-
-            }
-
-        });
-
-
-        if (q.is_correct) {
-
-            score++;
-
-
-            document.getElementById("result").innerHTML = `
-                <div class="correct-text">
-                    <strong>Correct!</strong>
-                    <p>${q.rationale}</p>
-                </div>
-            `;
-
-        } else {
-
-            document.getElementById("result").innerHTML = `
-                <div class="incorrect-text">
-                    <strong>Incorrect.</strong>
-                    <p>
-                        Correct answer:
-                        ${q.correct_answer}
-                    </p>
-                    <p>${q.rationale}</p>
-                </div>
-            `;
+            document.getElementById("nextButton")
+                .style.display = "block";
 
         }
-
-
-        document.getElementById("submitButton").style.display =
-            "none";
-
-
-        document.getElementById("nextButton").style.display =
-            "inline-block";
-
-    });
+    );
 
 
 // ========================================
 // NEXT QUESTION
 // ========================================
 
-document
-    .getElementById("nextButton")
-    .addEventListener("click", function () {
+document.getElementById("nextButton")
+    .addEventListener(
+        "click",
+        () => {
 
-        currentQuestion++;
-
-
-        // Checkpoint every 10 questions
-        if (
-            currentQuestion % 10 === 0 &&
-            currentQuestion < questions.length
-        ) {
-
-            document.getElementById("checkpointScore").textContent =
-                `Score: ${score} / ${answeredQuestions}`;
+            currentQuestion++;
 
 
-            document.getElementById("quizScreen").style.display =
-                "none";
+            if (
+                currentQuestion > 0 &&
+                currentQuestion % 10 === 0 &&
+                currentQuestion < questions.length
+            ) {
+
+                document.getElementById(
+                    "checkpointScore"
+                ).textContent =
+                    `Score: ${
+                        score
+                    } / ${
+                        answeredQuestions
+                    }`;
 
 
-            document.getElementById("checkpoint").style.display =
-                "block";
+                document.getElementById("quizScreen")
+                    .style.display = "none";
 
 
-            return;
+                document.getElementById("checkpoint")
+                    .style.display = "block";
+
+
+                return;
+            }
+
+
+            if (
+                currentQuestion >=
+                questions.length
+            ) {
+
+                finishQuiz();
+
+                return;
+            }
+
+
+            displayQuestion();
 
         }
-
-
-        // Quiz finished
-        if (currentQuestion >= questions.length) {
-
-            finishQuiz();
-
-            return;
-
-        }
-
-
-        displayQuestion();
-
-    });
+    );
 
 
 // ========================================
-// CONTINUE FROM CHECKPOINT
+// CONTINUE AFTER CHECKPOINT
 // ========================================
 
-document
-    .getElementById("continueButton")
-    .addEventListener("click", function () {
+document.getElementById("continueButton")
+    .addEventListener(
+        "click",
+        () => {
 
-        document.getElementById("checkpoint").style.display =
-            "none";
-
-
-        document.getElementById("quizScreen").style.display =
-            "block";
+            document.getElementById("checkpoint")
+                .style.display = "none";
 
 
-        displayQuestion();
+            document.getElementById("quizScreen")
+                .style.display = "block";
 
-    });
+
+            displayQuestion();
+
+        }
+    );
 
 
 // ========================================
 // STOP QUIZ
 // ========================================
 
-document
-    .getElementById("stopButton")
-    .addEventListener("click", function () {
+document.getElementById("stopButton")
+    .addEventListener(
+        "click",
+        () => {
 
-        document.getElementById("checkpoint").style.display =
-            "none";
-
-
-        document.getElementById("quizScreen").style.display =
-            "none";
+            document.getElementById("checkpoint")
+                .style.display = "none";
 
 
-        document.getElementById("stoppedScreen").style.display =
-            "block";
+            document.getElementById("quizScreen")
+                .style.display = "none";
 
 
-        document.getElementById("stoppedScore").textContent =
-            `Score: ${score} / ${answeredQuestions}`;
+            document.getElementById("stoppedScreen")
+                .style.display = "block";
 
-    });
+
+            document.getElementById("stoppedScore")
+                .textContent =
+                    `Score: ${
+                        score
+                    } / ${
+                        answeredQuestions
+                    }`;
+
+        }
+    );
 
 
 // ========================================
@@ -835,28 +1221,39 @@ document
 
 function finishQuiz() {
 
-    document.getElementById("quizScreen").style.display =
-        "none";
+    document.getElementById("quizScreen")
+        .style.display = "none";
 
 
-    document.getElementById("completeScreen").style.display =
-        "block";
+    document.getElementById("completeScreen")
+        .style.display = "block";
 
 
-    const percentage =
-        answeredQuestions > 0
-            ? Math.round(
+    let percentage = 0;
+
+
+    if (answeredQuestions > 0) {
+
+        percentage =
+            Math.round(
                 (score / answeredQuestions) * 100
-            )
-            : 0;
+            );
+
+    }
 
 
-    document.getElementById("finalScore").textContent =
-        `Score: ${score} / ${answeredQuestions}`;
+    document.getElementById("finalScore")
+        .textContent =
+            `Score: ${
+                score
+            } / ${
+                answeredQuestions
+            }`;
 
 
-    document.getElementById("finalPercentage").textContent =
-        `${percentage}%`;
+    document.getElementById("finalPercentage")
+        .textContent =
+            `${percentage}%`;
 
 }
 
@@ -865,16 +1262,18 @@ function finishQuiz() {
 // RETAKE QUIZ
 // ========================================
 
-document
-    .getElementById("retakeButton")
-    .addEventListener("click", function () {
+document.getElementById("retakeButton")
+    .addEventListener(
+        "click",
+        () => {
 
-        startQuiz(
-            selectedQuiz,
-            selectedQuizName
-        );
+            startQuiz(
+                selectedQuiz,
+                selectedQuizName
+            );
 
-    });
+        }
+    );
 
 
 // ========================================
@@ -896,24 +1295,24 @@ function returnToMenu() {
     selectedQuizName = "";
 
 
-    document.getElementById("quizScreen").style.display =
-        "none";
+    document.getElementById("quizScreen")
+        .style.display = "none";
 
 
-    document.getElementById("checkpoint").style.display =
-        "none";
+    document.getElementById("checkpoint")
+        .style.display = "none";
 
 
-    document.getElementById("stoppedScreen").style.display =
-        "none";
+    document.getElementById("stoppedScreen")
+        .style.display = "none";
 
 
-    document.getElementById("completeScreen").style.display =
-        "none";
+    document.getElementById("completeScreen")
+        .style.display = "none";
 
 
-    document.getElementById("menu").style.display =
-        "block";
+    document.getElementById("menu")
+        .style.display = "block";
 
 
     loadQuizList();
@@ -922,21 +1321,33 @@ function returnToMenu() {
 
 
 // ========================================
-// COMPLETION SCREEN → MENU
+// RETURN TO MENU FROM COMPLETION
 // ========================================
 
-document
-    .getElementById("completeMenuButton")
-    .addEventListener("click", returnToMenu);
+document.getElementById("completeMenuButton")
+    .addEventListener(
+        "click",
+        () => {
+
+            returnToMenu();
+
+        }
+    );
 
 
 // ========================================
-// STOPPED SCREEN → MENU
+// RETURN TO MENU FROM STOPPED SCREEN
 // ========================================
 
-document
-    .getElementById("returnMenuButton")
-    .addEventListener("click", returnToMenu);
+document.getElementById("returnMenuButton")
+    .addEventListener(
+        "click",
+        () => {
+
+            returnToMenu();
+
+        }
+    );
 
 
 // ========================================
@@ -944,4 +1355,3 @@ document
 // ========================================
 
 loadQuizList();
-```
