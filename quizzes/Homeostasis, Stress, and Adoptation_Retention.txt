@@ -1,0 +1,1079 @@
+[MCQ]
+QUESTION: How is homeostasis defined in fundamental biological concepts?
+A: The dynamic acceleration of cellular mutations during stress
+B: The steady state within the body maintained by compensatory mechanisms
+C: The irreversible breakdown of tissue structures caused by aging
+D: The localized inflammatory response to tissue trauma
+ANSWER: B
+RATIONALE: Homeostasis is defined as the steady state within the body where compensatory mechanisms adjust internal environments to maintain constancy. Dynamic cellular acceleration, tissue breakdown, and localized inflammation do not describe homeostasis.
+END
+
+[MCQ]
+QUESTION: What is the primary function of a negative feedback control system?
+A: To intensify a physiological change until systemic disintegration occurs
+B: To monitor the internal environment and restore homeostasis when conditions shift
+C: To stimulate the production of oxytocin during uterine labor
+D: To permanently elevate circulating cortisol levels
+ANSWER: B
+RATIONALE: Negative feedback monitors the internal environment and restores homeostasis when conditions shift out of normal ranges. Intensifying changes and oxytocin release during labor characterize positive feedback loops, and elevating cortisol is a hormonal response to stress.
+END
+
+[MCQ]
+QUESTION: Which physiological process represents a classic example of positive feedback?
+A: Body temperature regulation via sweating
+B: Blood glucose regulation via insulin
+C: Oxytocin release during childbirth
+D: Blood pressure adjustment via arterial stretch receptors
+ANSWER: C
+RATIONALE: Oxytocin release during childbirth is a positive feedback loop because it intensifies the physiological change rather than reversing it. Body temperature regulation, glucose regulation, and blood pressure adjustment are driven by negative feedback mechanisms.
+END
+
+[MCQ]
+QUESTION: Which list correctly identifies major organs involved in homeostatic adjustment?
+A: Heart, lungs, kidneys, liver, GI tract, and skin
+B: Brain, spinal cord, pituitary gland, and thyroid
+C: Spleen, pancreas, gallbladder, and appendix
+D: Bones, joints, tendons, and skeletal muscles
+ANSWER: A
+RATIONALE: The text explicitly lists the heart, lungs, kidneys, liver, GI tract, and skin as major organs of homeostatic adjustment. The other organ groupings do not match the specific list provided in the text for homeostatic adjustment organs.
+END
+
+[MCQ]
+QUESTION: How are cellular maintenance functions distinguished from specialized functions?
+A: Maintenance functions relate to tissues, whereas specialized functions relate to individual cells
+B: Maintenance functions concern the cell itself, whereas specialized functions relate to tissues and organs
+C: Maintenance functions require negative feedback, whereas specialized functions require positive feedback
+D: Maintenance functions occur only during cellular injury, whereas specialized functions occur during health
+ANSWER: B
+RATIONALE: Cellular maintenance functions are activities concerning the cells themselves, while specialized functions are activities performed in relation to tissues and organs. The other options reverse the definitions or attach incorrect biological conditions to cellular functions.
+END
+
+[MCQ]
+QUESTION: According to the provided text, what is a stressor?
+A: The physiological state of total endocrine exhaustion
+B: The stimulus evoking a state produced by an environmental change perceived as challenging, threatening, or damaging
+C: An irreversible cell injury resulting from chemical toxins
+D: A localized vascular response involving leukocyte migration
+ANSWER: B
+RATIONALE: A stressor is defined as the stimulus evoking a state of stress produced by an environmental change perceived as challenging, threatening, or damaging to dynamic equilibrium. Endocrine exhaustion is the final stage of GAS, cell injury is a physical consequence, and leukocyte migration is part of inflammation.
+END
+
+[MCQ]
+QUESTION: Which category of stressor origin involves external circumstances interacting with internal psychological processes?
+A: Physical stressors
+B: Physiologic stressors
+C: Psychosocial stressors
+D: Acute time-limited stressors
+ANSWER: C
+RATIONALE: Psychosocial stressors are defined as external circumstances interacting with internal psychological processes, such as work pressures or interpersonal conflict. Physical and physiologic stressors arise from physical or somatic disruptions, and acute time-limited refers to duration, not origin.
+END
+
+[MCQ]
+QUESTION: Which duration category includes stressors such as work pressures or interpersonal conflicts unfolding over time?
+A: Acute time-limited
+B: Stressor sequence
+C: Chronic intermittent
+D: Psychosocial origin
+ANSWER: C
+RATIONALE: Psychosocial stressors like work pressures and interpersonal conflicts fall under origin, but when categorized by duration, recurring or ongoing pressures represent chronic intermittent or chronic enduring patterns; however, origin classification directly groups work pressures and interpersonal conflict under psychosocial stressors. (Note: Stressors categorized by duration include acute time-limited, stressor sequence, chronic intermittent, or chronic enduring).
+END
+
+[MCQ]
+QUESTION: In Lazarus's Cognitive Appraisal model, what takes place during Primary Appraisal?
+A: Evaluating available coping resources and behavioral options
+B: Assessing what is at stake (non-stressful, stressful, positive, dangerous, or irrelevant)
+C: Modifying previous opinions based on new learning or pacing
+D: Reversing sympathetic nervous system fight-or-flight activation
+ANSWER: B
+RATIONALE: Primary appraisal is the evaluation of what is at stake, determining whether an event is non-stressful, stressful, positive, dangerous, or irrelevant. Evaluating coping resources is secondary appraisal, changing opinions based on learning is reappraisal, and reversing sympathetic activation is a physiological recovery process.
+END
+
+[MCQ]
+QUESTION: What is the primary focus of Secondary Appraisal in Lazarus's model?
+A: Assessing whether an event is dangerous or irrelevant
+B: Evaluating what can be done and analyzing available coping resources
+C: Changing opinions based on new information
+D: Triggering the hypothalamic-pituitary-adrenal axis
+ANSWER: B
+RATIONALE: Secondary appraisal focuses on evaluating what can be done and analyzing available coping resources. Assessing if an event is dangerous is primary appraisal, changing opinions is reappraisal, and HPA axis activation is a physiological response.
+END
+
+[MCQ]
+QUESTION: What process is defined as changing initial opinions based on new information, pacing, or learning?
+A: Primary Appraisal
+B: Secondary Appraisal
+C: Reappraisal
+D: Problem-focused coping
+ANSWER: C
+RATIONALE: Reappraisal is specifically defined as changing opinions based on new information, pacing, or learning. Primary appraisal evaluates what is at stake, secondary appraisal evaluates resources, and problem-focused coping is an active coping behavior.
+END
+
+[MCQ]
+QUESTION: Which coping mechanism includes behaviors such as time management and setting boundaries?
+A: Emotion-focused coping
+B: Problem-focused coping
+C: Local adaptation syndrome
+D: Primary cognitive appraisal
+ANSWER: B
+RATIONALE: Problem-focused coping involves managing demands directly using practical strategies like time management and setting boundaries. Emotion-focused coping manages emotional reactions (e.g., exercise, meditation), LAS is a physical tissue response, and primary appraisal is cognitive evaluation.
+END
+
+[MCQ]
+QUESTION: Exercise and meditation are cited as examples of which type of coping?
+A: Problem-focused coping
+B: Emotion-focused coping
+C: Maladaptive appraisal
+D: Positive feedback coping
+ANSWER: B
+RATIONALE: Exercise and meditation are explicitly listed as examples of emotion-focused coping, which aims to regulate emotional responses to stress. Problem-focused coping involves direct action like time management, while maladaptive appraisal and positive feedback coping are incorrect concepts here.
+END
+
+[MCQ]
+QUESTION: What personal trait and process enables flexibility and control of strong emotional reactions during difficult circumstances?
+A: Resilience
+B: Hyperplasia
+C: Alarm response
+D: Reappraisal
+ANSWER: A
+RATIONALE: Resilience is defined as a personal trait and process enabling flexibility and control of strong emotional reactions during difficult circumstances. Hyperplasia is an increase in cell number, alarm response is the first stage of GAS, and reappraisal is a cognitive evaluation stage.
+END
+
+[MCQ]
+QUESTION: What is the first phase of the General Adaptation Syndrome (GAS)?
+A: Resistance Stage
+B: Exhaustion Stage
+C: Alarm Phase
+D: Local Adaptation Phase
+ANSWER: C
+RATIONALE: The General Adaptation Syndrome consists of three sequential phases: 1. Alarm Phase, 2. Resistance Stage, and 3. Exhaustion Stage. Local Adaptation Phase is part of LAS, not GAS.
+END
+
+[MCQ]
+QUESTION: Which physiological event occurs during the Alarm Phase of GAS?
+A: Adaptation to the stressor with continuous cortisol activity
+B: Sympathetic "fight-or-flight" activation with catecholamines and ACTH release
+C: Complete depletion of energy resources leading to tissue disintegration
+D: Localized scar formation and tissue replacement
+ANSWER: B
+RATIONALE: The Alarm Phase is characterized by the activation of the sympathetic "fight-or-flight" response, releasing catecholamines and ACTH-adrenal cortical responses. Adaptation occurs in the resistance stage, resource depletion occurs in exhaustion, and scar formation occurs in healing.
+END
+
+[MCQ]
+QUESTION: What main hormone activity remains elevated during the Resistance Stage of GAS?
+A: Epinephrine
+B: Insulin
+C: Cortisol
+D: Oxytocin
+ANSWER: C
+RATIONALE: During the Resistance Stage, adaptation to the stressor occurs while cortisol activity remains increased. Epinephrine surges in the alarm phase, insulin is not the primary stress adaptation hormone highlighted in GAS, and oxytocin is involved in positive feedback during labor.
+END
+
+[MCQ]
+QUESTION: What characterizes the Exhaustion Stage of GAS?
+A: Activation of the SAM response to increase mental acuity
+B: Successful resolution of local tissue inflammation
+C: Depletion of resources leading to negative endocrine impacts on body systems
+D: Reappraisal of psychological stressors using problem-focused coping
+ANSWER: C
+RATIONALE: In the Exhaustion Stage, resources are depleted and endocrine activity negatively impacts body systems (circulatory, digestive, immune), potentially leading to death. SAM activation occurs in the alarm phase, inflammation resolution is local healing, and reappraisal is a psychological cognitive stage.
+END
+
+[MCQ]
+QUESTION: Which phenomenon represents a Local Adaptation Syndrome (LAS)?
+A: Systemic fever caused by pyrogen release
+B: Sympathetic activation releasing epinephrine systemically
+C: Inflammatory and repair processes localized to a topical site of injury
+D: Sustained HPA axis activation causing weight gain
+ANSWER: C
+RATIONALE: LAS involves inflammatory and repair processes localized to a small, topical site of tissue injury (such as a reflex pain response or local inflammation). Systemic fever, epinephrine release, and HPA axis activation are generalized systemic responses (GAS).
+END
+
+[MCQ]
+QUESTION: Which brain structure integrates neural and hormonal actions to maintain homeostatic balance?
+A: Limbic System
+B: Hypothalamus
+C: Adrenal Cortex
+D: Pituitary Gland
+ANSWER: B
+RATIONALE: The hypothalamus is defined as the structure that integrates neural and hormonal actions to maintain homeostatic balance. The limbic system regulates emotions, the adrenal cortex releases steroids, and the pituitary gland acts under hypothalamic control.
+END
+
+[MCQ]
+QUESTION: What is the primary role of the Limbic System during stress responses?
+A: Releasing epinephrine into systemic circulation
+B: Regulating emotions and visceral behaviors
+C: Filtering toxic chemical agents from blood plasma
+D: Repairing tissue defects via labile cell regeneration
+ANSWER: B
+RATIONALE: The limbic system is designated specifically for regulating emotions and visceral behaviors. Epinephrine is released by the adrenal medulla, waste filtration is done by kidneys, and cellular regeneration occurs at tissue sites.
+END
+
+[MCQ]
+QUESTION: Which hormones are rapidly released during the Sympathetic-Adrenal-Medullary (SAM) response?
+A: Cortisol and ACTH
+B: Epinephrine and norepinephrine
+C: Oxytocin and endogenous pyrogens
+D: Insulin and glucagon
+ANSWER: B
+RATIONALE: The SAM response is a rapid, short-lived pathway that releases epinephrine and norepinephrine, increasing heart rate, blood pressure, blood glucose, and mental acuity. Cortisol and ACTH belong to the HPA axis, oxytocin/pyrogens have other roles, and insulin/glucagon regulate glucose homeostasis.
+END
+
+[MCQ]
+QUESTION: What is the primary pathway responsible for the longest-acting phase during persistent stress?
+A: Local Adaptation Syndrome (LAS)
+B: Sympathetic-Adrenal-Medullary (SAM) Response
+C: Hypothalamic-Pituitary-Adrenal (HPA) Axis
+D: Positive Feedback Control Loop
+ANSWER: C
+RATIONALE: The Hypothalamic-Pituitary-Adrenal (HPA) axis represents the longest-acting phase for persistent stress, signaling the adrenal cortex to release glucocorticoids (cortisol). SAM is rapid and short-lived, LAS is localized, and positive feedback amplifies changes to an endpoint.
+END
+
+[MCQ]
+QUESTION: Chronic HPA axis dysfunction and elevated cortisol levels are associated with which clinical outcome?
+A: Increased capillary permeability and acute local vasodilation
+B: Insulin resistance, immune dysfunction, mood disorders, and weight gain
+C: Rapid mitotic proliferation of permanent cardiac muscle cells
+D: Conversion of negative feedback loops into positive feedback loops
+ANSWER: B
+RATIONALE: Chronic HPA dysfunction and elevated cortisol are explicitly linked to insulin resistance, immune dysfunction, mood disorders, and weight gain. Local vasodilation is part of local inflammation, permanent cells do not divide rapidly, and feedback loop mechanisms do not structurally convert into one another.
+END
+
+[MCQ]
+QUESTION: Overactivation of the Sympathetic-Adrenal-Medullary (SAM) response leads to which long-term disease state?
+A: Depression and suppressed immunity
+B: Cardiovascular disease
+C: Atrophy of skeletal tissue
+D: Hyperplasia of skin epithelium
+ANSWER: B
+RATIONALE: The text explicitly states that SAM overactivation leads to cardiovascular disease, whereas prolonged ACTH leads to depression, withdrawal, and suppressed immunity. Atrophy and hyperplasia are cellular adaptations, not direct overactivation outcomes of SAM.
+END
+
+[MCQ]
+QUESTION: Prolonged ACTH elevation during excessive stress responses contributes to which condition?
+A: Cardiovascular disease
+B: Reflex pain response
+C: Depression, withdrawal, and suppressed immunity
+D: Rapid wound repair via first-intention healing
+ANSWER: C
+RATIONALE: Prolonged ACTH release leads to depression, withdrawal, and suppressed immunity. SAM overactivation causes cardiovascular disease, reflex pain is part of LAS, and first-intention healing is a clean wound closure mechanism.
+END
+
+[MCQ]
+QUESTION: Which of the following is listed as a cause of cellular injury?
+A: Hypoxia
+B: Hyperplasia
+C: Primary appraisal
+D: Negative feedback
+ANSWER: A
+RATIONALE: Causes of cellular injury explicitly listed include hypoxia, nutritional imbalances, physical agents, chemical agents, infectious agents, immune mechanisms, and genetic defects. Hyperplasia is an adaptive response, primary appraisal is cognitive, and negative feedback is homeostatic control.
+END
+
+[MCQ]
+QUESTION: What type of cellular adaptation is defined as an increase in the number of cells?
+A: Hypertrophy
+B: Atrophy
+C: Hyperplasia
+D: Metaplasia
+ANSWER: C
+RATIONALE: Hyperplasia is explicitly defined as an increase in cell number. Hypertrophy is cell size enlargement, atrophy is cell shrinkage, and metaplasia is conversion to another cell type.
+END
+
+[MCQ]
+QUESTION: Bizarre, irregular cell growth is defined as which type of cellular adaptation?
+A: Dysplasia
+B: Metaplasia
+C: Hypertrophy
+D: Atrophy
+ANSWER: A
+RATIONALE: Dysplasia is defined specifically as bizarre, irregular cell growth. Metaplasia is conversion of mature cell types, hypertrophy is enlargement, and atrophy is reduction in size.
+END
+
+[MCQ]
+QUESTION: What cellular adaptation involves the conversion of one mature cell type to another mature cell type?
+A: Hyperplasia
+B: Dysplasia
+C: Metaplasia
+D: Atrophy
+ANSWER: C
+RATIONALE: Metaplasia is defined as the conversion of one mature cell type to another mature cell type. Hyperplasia increases cell number, dysplasia is bizarre growth, and atrophy is shrinkage.
+END
+
+[MCQ]
+QUESTION: How is inflammation defined in the text?
+A: A systemic endocrine failure caused by chronic exhaustion
+B: A localized, nonspecific protective reaction to neutralize or eliminate harmful agents
+C: A cognitive evaluation of physical environmental stressors
+D: A replacement of parenchymal tissue with permanent connective tissue
+ANSWER: B
+RATIONALE: Inflammation is defined as a localized, nonspecific protective reaction to neutralize or eliminate harmful agents. Endocrine failure relates to exhaustion, cognitive evaluation relates to appraisal, and replacement relates to wound healing.
+END
+
+[MCQ]
+QUESTION: Which group of symptoms represents the local effects of inflammation?
+A: Fever, leukocytosis, and elevated cortisol
+B: Redness, warmth, swelling, pain, and loss of function
+C: Insulin resistance, weight gain, and mood disorders
+D: Shivering, sweating, and positive feedback
+ANSWER: B
+RATIONALE: The local effects of inflammation are explicitly redness, warmth, swelling, pain, and loss of function. Fever and leukocytosis are systemic effects, insulin resistance/weight gain relate to chronic HPA activation, and shivering/sweating relate to thermal negative feedback.
+END
+
+[MCQ]
+QUESTION: What drives the local effects of acute inflammation at the tissue level?
+A: Catecholamines, ACTH, and cortisol release
+B: Vasodilation, increased capillary permeability, and leukocyte migration
+C: Regeneration of permanent muscle fibers
+D: Secondary cognitive appraisal and coping
+ANSWER: B
+RATIONALE: Local inflammatory effects are driven by vasodilation, increased capillary permeability, and leukocyte migration. Catecholamines/cortisol are hormonal stress mediators, permanent muscle cells do not regenerate readily, and appraisal is a cognitive psychological model.
+END
+
+[MCQ]
+QUESTION: What systemic effects occur during an inflammatory response?
+A: Redness and local swelling
+B: Fever (via endogenous pyrogens) and leukocytosis
+C: Atrophy and dysplasia
+D: Time management and setting boundaries
+ANSWER: B
+RATIONALE: Systemic effects of inflammation are explicitly identified as fever (via endogenous pyrogens) and leukocytosis. Redness and swelling are local effects, atrophy/dysplasia are cellular adaptations, and time management is problem-focused coping.
+END
+
+[MCQ]
+QUESTION: What is the characteristic duration of acute inflammation compared to chronic inflammation?
+A: Acute lasts under 2 weeks; chronic lasts months or years
+B: Acute lasts over 6 months; chronic lasts 2 days
+C: Acute lasts 1 hour; chronic lasts under 2 weeks
+D: Acute lasts indefinitely; chronic resolves via positive feedback
+ANSWER: A
+RATIONALE: Acute inflammation lasts under 2 weeks and is protective; chronic inflammation involves persistent injurious agents lasting months or years, causing debilitating damage.
+END
+
+[MCQ]
+QUESTION: Which cellular healing mechanism repairs a defect by proliferating the exact same cell type?
+A: Replacement
+B: Regeneration
+C: First-intention healing
+D: Third-intention healing
+ANSWER: B
+RATIONALE: Regeneration is defined as the repair of a defect by proliferation of the same cell type (labile, stable, or permanent cells). Replacement involves scar/connective tissue formation, and first/third intention are specific operational wound closure techniques.
+END
+
+[MCQ]
+QUESTION: What healing mechanism occurs when tissue is repaired through connective tissue and scar formation?
+A: Regeneration
+B: Replacement
+C: Primary Appraisal
+D: Hyperplasia
+ANSWER: B
+RATIONALE: Replacement is defined as connective tissue/scar formation. Regeneration uses the same cell type, primary appraisal is cognitive, and hyperplasia is an adaptive increase in cell number.
+END
+
+[MCQ]
+QUESTION: Which type of replacement healing occurs in a clean incision with early suturing?
+A: First-intention healing
+B: Second-intention healing
+C: Third-intention healing
+D: Local Adaptation Syndrome
+ANSWER: A
+RATIONALE: First-intention healing occurs via clean incision and early suture approximation. Second-intention occurs in gappy wounds with granulation, and third-intention involves late suturing resulting in a wide scar.
+END
+
+[MCQ]
+QUESTION: A gappy wound healing via granulation tissue formation represents which intention of healing?
+A: First-intention healing
+B: Second-intention healing
+C: Third-intention healing
+D: Regeneration healing
+ANSWER: B
+RATIONALE: Second-intention healing is explicitly described as occurring in gappy wounds with granulation tissue formation. First-intention involves clean incisions/early sutures, and third-intention involves late suturing/wide scars.
+END
+
+[MCQ]
+QUESTION: What characterizes third-intention wound healing?
+A: Clean incision with immediate surgical closure
+B: Proliferation of the exact same cell type without scar tissue
+C: Late suturing resulting in a wide scar
+D: Rapid resolution of systemic fever via pyrogen clearance
+ANSWER: C
+RATIONALE: Third-intention healing is defined as late suturing resulting in a wide scar. Clean incisions describe first-intention, same cell proliferation describes regeneration, and fever clearance is a systemic inflammatory resolution.
+END
+
+[MCQ]
+QUESTION: Which physiological mechanism acts to restore baseline stability when conditions drift away from normal set points?
+A: Positive feedback loop
+B: Negative feedback loop
+C: Stressor sequence
+D: Exhaustion phase
+ANSWER: B
+RATIONALE: Negative feedback monitors the internal environment and restores homeostasis when conditions shift out of normal ranges. Positive feedback intensifies changes, a stressor sequence is a series of stressful events, and the exhaustion phase is resource depletion.
+END
+
+[MCQ]
+QUESTION: Which of the following is categorized as a physical or chemical cause of cellular injury?
+A: Toxins, alcohol, extreme temperature, and trauma
+B: Time management and setting boundaries
+C: Primary appraisal and reappraisal
+D: First-intention and second-intention healing
+ANSWER: A
+RATIONALE: Toxins and alcohol are chemical agents, while extreme temperature and trauma are physical agents causing cellular injury. The other options list coping mechanisms, cognitive appraisal stages, or wound healing types.
+END
+
+[MCQ]
+QUESTION: What is the primary role of ACTH during the physiological alarm phase?
+A: Stimulating the adrenal cortex as part of the initial stress response
+B: Inhibiting the SAM response to reduce blood glucose
+C: Contracting the uterus during childbirth
+D: Clearing necrotic cellular debris through phagocytosis
+ANSWER: A
+RATIONALE: During the alarm phase, ACTH-adrenal cortical responses are released alongside catecholamines to prepare the organism for stress. It does not inhibit SAM, contract the uterus (oxytocin), or directly perform phagocytosis (leukocytes).
+END
+
+[MCQ]
+QUESTION: What term describes a personal trait enabling emotional flexibility during severe stress?
+A: Coping
+B: Resilience
+C: Metaplasia
+D: Homeostasis
+ANSWER: B
+RATIONALE: Resilience is explicitly defined as a personal trait and process enabling flexibility and control of strong emotional reactions during difficult circumstances. Coping refers to cognitive/behavioral efforts, metaplasia is cellular conversion, and homeostasis is internal physiological stability.
+END
+
+[MCQ]
+QUESTION: Endogenous pyrogens are primarily responsible for inducing which systemic effect during inflammation?
+A: Leukocytosis
+B: Fever
+C: Vasodilation
+D: Atrophy
+ANSWER: B
+RATIONALE: Fever is produced systemically via endogenous pyrogens acting on thermoregulatory centers. Leukocytosis is an increased white blood cell count, vasodilation is a local vascular effect, and atrophy is cellular shrinkage.
+END
+
+[MCQ]
+QUESTION: Which cells can participate in cellular regeneration according to the provided text?
+A: Labile, stable, or permanent cells
+B: Only red blood cells and platelets
+C: Epithelial cells undergoing dysplasia
+D: Glucocorticoids and catecholamines
+ANSWER: A
+RATIONALE: The text explicitly lists labile, stable, or permanent cells as the cell categories involved in regeneration. Glucocorticoids/catecholamines are hormones, and dysplastic cells represent atypical growth patterns rather than normal regeneration categories.
+END
+
+[MCQ]
+QUESTION: Increased capillary permeability during acute inflammation directly contributes to which local clinical feature?
+A: Redness
+B: Swelling
+C: Fever
+D: Leukocytosis
+ANSWER: B
+RATIONALE: Increased capillary permeability causes fluid to leak into interstitial spaces, directly driving localized swelling (edema). Redness is primarily driven by vasodilation, while fever and leukocytosis are systemic effects.
+END
+
+[MCQ]
+QUESTION: What physiological shift occurs when an acute stress response fails to resolve and becomes chronic and maladaptive?
+A: Prolonged endocrine activity negatively impacts body systems, increasing risk for conditions like depression and cardiovascular disease
+B: Positive feedback loops permanently replace all negative feedback loops
+C: Cells stop performing maintenance functions and perform only specialized functions
+D: The body shifts permanently into second-intention wound healing
+ANSWER: A
+RATIONALE: Maladaptive chronic stress responses sustained over time fail to promote adaptation, leading to cardiovascular disease (SAM overactivation) or depression and suppressed immunity (prolonged ACTH/HPA axis). Feedback loop mechanics, cellular maintenance requirements, and wound healing categories do not convert in the manner described in the distractor options.
+END
+
+[MCQ]
+QUESTION: Which physiological parameter is regulated via negative feedback mechanisms as listed in the text example?
+A: Body temperature regulation via shivering or sweating
+B: Oxytocin amplification during uterine contractions
+C: Cellular conversion from one mature type to another
+D: Scar tissue formation in third-intention healing
+ANSWER: A
+RATIONALE: The text explicitly provides body temperature regulation via shivering or sweating as an example of negative feedback. Oxytocin release is positive feedback, cellular conversion is metaplasia, and scar formation is replacement healing.
+END
+
+[MCQ]
+QUESTION: What happens to body system resources during the Exhaustion Stage of the General Adaptation Syndrome?
+A: They are fully restored through parasympathetic dominance
+B: They are depleted, causing negative impacts on circulatory, digestive, and immune systems
+C: They are converted into permanent structural scar tissue
+D: They trigger immediate primary appraisal and reappraisal
+ANSWER: B
+RATIONALE: During the Exhaustion Stage, body resources are depleted, and endocrine activity negatively impacts circulatory, digestive, and immune systems, which can potentially lead to death. Parasympathetic restoration does not occur here, resources are not converted to scars, and appraisal is cognitive.
+END
+
+[MCQ]
+QUESTION: What distinguishes acute inflammation from chronic inflammation?
+A: Acute inflammation lasts under 2 weeks and is protective, whereas chronic inflammation lasts months or years and causes debilitating damage.
+B: Acute inflammation causes fever, whereas chronic inflammation causes local redness only.
+C: Acute inflammation involves scar replacement, whereas chronic inflammation involves regeneration only.
+D: Acute inflammation is driven by HPA axis, whereas chronic inflammation is driven by SAM axis.
+ANSWER: A
+RATIONALE: Acute inflammation lasts under 2 weeks and is protective; chronic inflammation involves persistent injurious agents lasting months or years, causing debilitating damage. Systemic effects like fever can accompany both, and inflammation mechanisms are driven by vascular/cellular mediators rather than SAM/HPA stress axes.
+END
+
+[MCQ]
+QUESTION: What type of cellular adaptation involves a decrease in cell size or function?
+A: Hypertrophy
+B: Atrophy
+C: Dysplasia
+D: Metaplasia
+ANSWER: B
+RATIONALE: Atrophy is defined as a reduction or decrease in cellular size and functional activity. Hypertrophy is an increase in size, dysplasia is irregular growth, and metaplasia is conversion of cell type.
+END
+
+[MCQ]
+QUESTION: Which stressor duration category involves a single, short-term stressful event with a clear start and end?
+A: Acute time-limited
+B: Stressor sequence
+C: Chronic intermittent
+D: Chronic enduring
+ANSWER: A
+RATIONALE: Acute time-limited stressors are short-term, discrete events with a definite duration and endpoint. A stressor sequence unfolds in a series, chronic intermittent recurs over time, and chronic enduring persists continuously over long periods.
+END
+
+[MCQ]
+QUESTION: What is the main characteristic of a stressor sequence duration?
+A: A single event lasting less than five minutes
+B: A series of events arising from an initial stressor that unfolds over time
+C: A continuous, unremitting life condition lasting for decades
+D: A localized inflammatory reaction to a thermal burn
+ANSWER: B
+RATIONALE: A stressor sequence is characterized by an initial stressor triggering a cascade or series of subsequent related stressful events over time. Single short events are acute time-limited, decades-long conditions are chronic enduring, and thermal burn reactions are local adaptation syndrome (LAS).
+END
+
+[MCQ]
+QUESTION: What term describes the localized reflex pain response or local inflammatory response to a site of tissue injury?
+A: General Adaptation Syndrome (GAS)
+B: Local Adaptation Syndrome (LAS)
+C: Hypothalamic-Pituitary-Adrenal (HPA) Axis
+D: Sympathetic-Adrenal-Medullary (SAM) Response
+ANSWER: B
+RATIONALE: Local Adaptation Syndrome (LAS) represents localized inflammatory and repair processes at a topical site of tissue injury (e.g., reflex pain response or local inflammatory response). GAS, HPA, and SAM represent systemic organism-wide responses.
+END
+
+[MCQ]
+QUESTION: Which response releases catecholamines (epinephrine and norepinephrine) to rapidly increase blood glucose and mental acuity?
+A: Sympathetic-Adrenal-Medullary (SAM) response
+B: Hypothalamic-Pituitary-Adrenal (HPA) axis
+C: Local Adaptation Syndrome (LAS)
+D: Emotion-focused coping
+ANSWER: A
+RATIONALE: The SAM response is the rapid, short-lived mechanism that releases epinephrine and norepinephrine to increase heart rate, blood pressure, blood glucose, and mental acuity. HPA releases glucocorticoids, LAS is localized tissue repair, and emotion-focused coping is a psychological strategy.
+END
+
+[MCQ]
+QUESTION: Which hormone released via the HPA axis is primarily associated with persistent stress responses?
+A: Oxytocin
+B: Cortisol
+C: Epinephrine
+D: Norepinephrine
+ANSWER: B
+RATIONALE: The Hypothalamic-Pituitary-Adrenal (HPA) axis signals the adrenal cortex to release glucocorticoids, primarily cortisol, for persistent stress. Oxytocin is involved in positive feedback in labor, while epinephrine and norepinephrine are released by the SAM axis.
+END
+
+[MCQ]
+QUESTION: What type of cellular adaptation is characterized by an increase in individual cell size rather than cell number?
+A: Hyperplasia
+B: Hypertrophy
+C: Dysplasia
+D: Metaplasia
+ANSWER: B
+RATIONALE: Hypertrophy is the enlargement of individual cells leading to increased tissue/organ size. Hyperplasia is an increase in the number of cells, dysplasia is irregular growth, and metaplasia is cell type transformation.
+END
+
+[MCQ]
+QUESTION: Leukocyte migration during acute inflammation directly contributes to which outcome?
+A: Systemic release of ACTH
+B: Neutralizing or eliminating harmful agents at the local injury site
+C: Permanent conversion of mature cells into stem cells
+D: Suppression of negative feedback control loops
+ANSWER: B
+RATIONALE: Leukocyte migration brings white blood cells to the local site of injury to neutralize or eliminate harmful agents and clear cellular debris. It does not release ACTH, convert cells into stem cells, or alter systemic negative feedback loops.
+END
+
+[MCQ]
+QUESTION: What is the main feature of second-intention wound healing?
+A: Early suture closure of clean incision edges
+B: Healing of a gappy wound via granulation tissue formation
+C: Proliferation of permanent cells without scar tissue
+D: Delayed closure with late suturing resulting in minimal scar
+ANSWER: B
+RATIONALE: Second-intention healing occurs in gappy wounds that heal through granulation tissue formation and contraction, resulting in a scar. Clean suture closure is first-intention, and late suturing is third-intention.
+END
+
+[MCQ]
+QUESTION: Which coping style directly aims at modifying or managing the stressor itself?
+A: Emotion-focused coping
+B: Problem-focused coping
+C: Primary appraisal
+D: Reappraisal
+ANSWER: B
+RATIONALE: Problem-focused coping targets the stressor directly through practical behavioral and cognitive strategies like time management and setting boundaries. Emotion-focused coping targets the emotional reaction to the stressor.
+END
+
+[MCQ]
+QUESTION: Setting boundaries and practicing time management are clinical examples of:
+A: Emotion-focused coping
+B: Problem-focused coping
+C: Maladaptive stress responses
+D: Local adaptation syndrome
+ANSWER: B
+RATIONALE: Setting boundaries and managing time are practical problem-solving actions classified as problem-focused coping. Emotion-focused coping involves managing emotional distress (e.g., meditation).
+END
+
+[MCQ]
+QUESTION: What is the physiological purpose of vasodilation during acute local inflammation?
+A: Increasing local blood flow, leading to redness and warmth at the injury site
+B: Decreasing vascular permeability to prevent swelling
+C: Triggering systemic cortisol secretion from the adrenal cortex
+D: Accelerating the breakdown of nuclear DNA in labile cells
+ANSWER: A
+RATIONALE: Local vasodilation increases blood flow to the injured area, producing the cardinal local signs of redness and warmth. Capillary permeability increases (not decreases) to allow fluid leakage, and vasodilation is a local vascular event rather than an endocrine or nuclear DNA destruction pathway.
+END
+
+[MCQ]
+QUESTION: Which cellular regenerative category includes cells that divide continuously throughout life?
+A: Permanent cells
+B: Stable cells
+C: Labile cells
+D: Dysplastic cells
+ANSWER: C
+RATIONALE: Labile cells continuously proliferate and divide throughout life to replace worn-out or damaged tissue (e.g., skin, GI tract). Stable cells divide when stimulated, and permanent cells have minimal or no division capacity.
+END
+
+[MCQ]
+QUESTION: Systemic leukocytosis during acute inflammation refers to:
+A: A decrease in red blood cell count
+B: An increase in circulating white blood cells
+C: A localized tissue edema
+D: A decrease in body temperature set point
+ANSWER: B
+RATIONALE: Leukocytosis is a systemic effect of inflammation defined as an elevated count of white blood cells (leukocytes) in the circulation. Decreased red cells is anemia, local edema is swelling, and decreased temperature set point is hypothermia.
+END
+
+[MCQ]
+QUESTION: Which stress response phase is described as rapid, short-lived, and responsible for increasing heart rate and mental acuity?
+A: HPA axis activation
+B: SAM response
+C: Resistance stage of GAS
+D: Exhaustion stage of GAS
+ANSWER: B
+RATIONALE: The Sympathetic-Adrenal-Medullary (SAM) response is rapid and short-lived, releasing epinephrine and norepinephrine to boost heart rate, blood pressure, and mental acuity. HPA is long-acting, resistance is sustained stress adaptation, and exhaustion is resource depletion.
+END
+
+[MCQ]
+QUESTION: What is the defining characteristic of chronic enduring stressors?
+A: Short-term pressures lasting less than a day
+B: Persistent, long-term stressors that extend over months or years without clear resolution
+C: Intermittent episodes of acute pain that resolve completely between occurrences
+D: Localized tissue responses to surgical incisions
+ANSWER: B
+RATIONALE: Chronic enduring stressors persist continuously over long periods (months to years) without predictable resolution. Short-term pressures are acute time-limited, recurring episodes are chronic intermittent, and surgical incision responses are local tissue healing mechanisms.
+END
+
+[MCQ]
+QUESTION: Which organ is primarily responsible for systemic temperature regulation via sweating or shivering?
+A: Heart
+B: Skin
+C: Liver
+D: GI tract
+ANSWER: B
+RATIONALE: The skin is listed as a major organ of adjustment involved in temperature regulation through mechanisms like sweating and vascular adjustments (along with shivering driven by neuromuscular feedback).
+END
+
+[MCQ]
+QUESTION: Which component of Lazarus's model involves analyzing available coping resources to address a stressor?
+A: Primary Appraisal
+B: Secondary Appraisal
+C: Reappraisal
+D: Alarm Phase
+ANSWER: B
+RATIONALE: Secondary appraisal specifically involves analyzing available coping resources and evaluating options to manage demands. Primary appraisal assesses what is at stake, and reappraisal updates evaluations based on new info.
+END
+
+[MCQ]
+QUESTION: What effect does chronic elevated cortisol have on immune system function?
+A: Permanently strengthens immune surveillance
+B: Suppresses immune function
+C: Induces rapid first-intention wound healing
+D: Eliminates systemic pyrogen release
+ANSWER: B
+RATIONALE: Chronic HPA axis activation and elevated cortisol lead to immune dysfunction and suppressed immunity. It does not strengthen immunity or accelerate wound healing.
+END
+
+[MCQ]
+QUESTION: What type of cellular injury cause includes temperature extremes, radiation, and physical trauma?
+A: Chemical agents
+B: Physical agents
+C: Infectious agents
+D: Genetic defects
+ANSWER: B
+RATIONALE: Temperature, radiation, and trauma are explicitly categorized as physical agents causing cellular injury. Chemical agents include toxins/alcohol, infectious agents include pathogens, and genetic defects are genomic.
+END
+
+[MCQ]
+QUESTION: Toxins and alcohol are categorized as which cause of cellular injury?
+A: Physical agents
+B: Chemical agents
+C: Nutritional imbalances
+D: Hypoxia
+ANSWER: B
+RATIONALE: Toxins and alcohol are explicitly categorized as chemical agents of cellular injury.
+END
+
+[MCQ]
+QUESTION: Deficiency or excess of nutrients leading to cellular damage is classified as:
+A: Hypoxia
+B: Nutritional imbalances
+C: Physical agents
+D: Immune mechanisms
+ANSWER: B
+RATIONALE: Nutritional imbalances (both deficiencies and excesses) represent a specific categorized cause of cellular injury in the provided text.
+END
+
+[MCQ]
+QUESTION: A localized, nonspecific protective reaction aimed at eliminating harmful agents describes:
+A: Homeostasis
+B: Inflammation
+C: Resilience
+D: Metaplasia
+ANSWER: B
+RATIONALE: Inflammation is explicitly defined as a localized, nonspecific protective reaction to neutralize or eliminate harmful agents.
+END
+
+[MCQ]
+QUESTION: Which cardinal local effect of inflammation results from vasodilation increasing local blood flow?
+A: Loss of function
+B: Redness and warmth
+C: Swelling
+D: Leukocytosis
+ANSWER: B
+RATIONALE: Increased local blood flow driven by vasodilation produces redness and warmth at the injury site. Swelling is driven by capillary permeability, and leukocytosis is a systemic effect.
+END
+
+[MCQ]
+QUESTION: Pain during acute local inflammation is primarily driven by:
+A: Systemic HPA axis activation
+B: Local tissue pressure and inflammatory chemical mediators acting on nerve endings
+C: Depletion of cellular ATP reserves
+D: Proliferation of dysplastic epithelial cells
+ANSWER: B
+RATIONALE: Local pain in inflammation results from fluid pressure (swelling) and local inflammatory mediators stimulating nerve endings at the injury site. It is not caused directly by systemic stress axes, ATP depletion, or dysplastic growth.
+END
+
+[MCQ]
+QUESTION: What occurs during third-intention wound healing?
+A: Immediate surgical closure of clean wound edges
+B: Delayed closure where a wound is sutured later, creating a wide scar
+C: Simple epidermal regeneration without scar tissue
+D: Rapid resolution of systemic leukocytosis
+ANSWER: B
+RATIONALE: Third-intention healing involves delayed primary closure (late suturing) of a wide or contaminated wound, leaving a broader scar. Immediate closure is first-intention, and regeneration without scar tissue is simple parenchymal repair.
+END
+
+[MCQ]
+QUESTION: Regeneration heals a tissue defect by:
+A: Laying down dense connective tissue scar matrix
+B: Proliferating the exact same mature cell type
+C: Converting mature cells into bizarre dysplastic forms
+D: Activating positive feedback hormonal loops
+ANSWER: B
+RATIONALE: Regeneration is defined as defect repair via proliferation of the same cell type, restoring normal tissue architecture. Scar formation is replacement healing.
+END
+
+[MCQ]
+QUESTION: Replacement heals a tissue defect by:
+A: Proliferating the exact same parenchymal cell type
+B: Forming connective tissue and scar tissue
+C: Eliminating the need for inflammatory mechanisms
+D: Triggering systemic pyrogen secretion
+ANSWER: B
+RATIONALE: Replacement is defined as connective tissue and scar formation. Proliferating the same cell type is regeneration.
+END
+
+[MCQ]
+QUESTION: What is the ultimate goal of compensatory mechanisms in homeostasis?
+A: To induce permanent cellular metaplasia
+B: To ensure organism survival by adjusting internal environments to maintain constancy
+C: To activate the exhaustion stage of the General Adaptation Syndrome
+D: To promote positive feedback loop acceleration
+ANSWER: B
+RATIONALE: Homeostatic compensatory mechanisms function to ensure organism survival by adjusting internal environments to maintain constancy (steady state).
+END
+
+[MCQ]
+QUESTION: Which organ system works as a major adjusting organ by regulating gas exchange to maintain acid-base and homeostatic balance?
+A: Lungs
+B: Skin
+C: Liver
+D: GI tract
+ANSWER: A
+RATIONALE: The lungs are listed among the major organs of adjustment, serving crucial homeostatic roles through respiratory gas exchange and acid-base regulation.
+END
+
+[MCQ]
+QUESTION: Which organ regulates fluid, electrolyte, and waste elimination as a major organ of homeostatic adjustment?
+A: Heart
+B: Kidneys
+C: Skin
+D: Liver
+ANSWER: B
+RATIONALE: The kidneys are major organs of homeostatic adjustment responsible for filtering blood, regulating electrolyte/fluid balance, and excreting waste.
+END
+
+[MCQ]
+QUESTION: What physiological phase follows the Alarm Phase if a stressor persists in the General Adaptation Syndrome?
+A: Exhaustion Stage
+B: Resistance Stage
+C: Local Adaptation Syndrome
+D: Primary Appraisal Phase
+ANSWER: B
+RATIONALE: The sequence of GAS stages is Alarm Phase, followed by Resistance Stage, and ending in Exhaustion Stage if unresolved.
+END
+
+[MCQ]
+QUESTION: What outcome occurs if physiological stress adaptation fails completely in the third stage of GAS?
+A: Complete structural regeneration of all tissues
+B: Depletion of body resources potentially leading to death
+C: Reversion to baseline pre-stress homeostasis
+D: Conversion of psychosocial stressors into physical stressors
+ANSWER: B
+RATIONALE: In the Exhaustion Stage (third stage of GAS), resources are depleted and endocrine activity negatively impacts body systems, which can potentially lead to death.
+END
+
+[MCQ]
+QUESTION: Which stress duration category describes a series of events sparked by a single initial stressor?
+A: Acute time-limited
+B: Stressor sequence
+C: Chronic intermittent
+D: Chronic enduring
+ANSWER: B
+RATIONALE: A stressor sequence is explicitly defined as a cascade or series of stressful events resulting from an initial stressful stimulus.
+END
+
+[MCQ]
+QUESTION: Which stage of Lazarus's cognitive model evaluates new learning or pacing to update stress perceptions?
+A: Primary Appraisal
+B: Secondary Appraisal
+C: Reappraisal
+D: Emotion-focused coping
+ANSWER: C
+RATIONALE: Reappraisal involves changing or updating opinions and appraisals based on new information, pacing, or learning.
+END
+
+[MCQ]
+QUESTION: Managing emotional distress through meditation or exercise is termed:
+A: Problem-focused coping
+B: Emotion-focused coping
+C: Primary appraisal
+D: Maladaptive resistance
+ANSWER: B
+RATIONALE: Managing emotional distress through techniques like exercise or meditation is categorized as emotion-focused coping.
+END
+
+[MCQ]
+QUESTION: Practical efforts like time management to resolve demands are categorized as:
+A: Emotion-focused coping
+B: Problem-focused coping
+C: Secondary appraisal
+D: Reappraisal
+ANSWER: B
+RATIONALE: Time management and setting boundaries represent direct actions to manage demands, known as problem-focused coping.
+END
+
+[MCQ]
+QUESTION: What characterizes the alarm phase of GAS biologically?
+A: Parasympathetic rest-and-digest dominance
+B: Sympathetic fight-or-flight activation releasing catecholamines and ACTH
+C: Fibrous tissue scar formation
+D: Complete cessation of hypothalamic firing
+ANSWER: B
+RATIONALE: The alarm phase is characterized by sympathetic fight-or-flight activation, releasing catecholamines and ACTH-adrenal cortical responses.
+END
+
+[MCQ]
+QUESTION: What hormone maintains sustained elevation during the resistance stage of stress?
+A: Insulin
+B: Cortisol
+C: Oxytocin
+D: Thyroxine
+ANSWER: B
+RATIONALE: Cortisol activity remains increased during the resistance stage as the organism adapts to persistent stress.
+END
+
+[MCQ]
+QUESTION: What is a long-term outcome of chronic SAM overactivation?
+A: Depressive withdrawal
+B: Cardiovascular disease
+C: First-intention wound healing
+D: Local pain reflex
+ANSWER: B
+RATIONALE: Overactivation of the SAM response specifically leads to cardiovascular disease over time.
+END
+
+[MCQ]
+QUESTION: Prolonged ACTH elevation and chronic HPA activation are linked to which systemic issue?
+A: Enhanced cardiac output
+B: Suppressed immunity and depression
+C: Rapid epidermal regeneration
+D: Acute local vasodilation
+ANSWER: B
+RATIONALE: Prolonged ACTH elevation leads to depression, withdrawal, and suppressed immunity.
+END
+
+[MCQ]
+QUESTION: Lack of oxygen to tissues causing cellular injury is termed:
+A: Hypoxia
+B: Dysplasia
+C: Hyperplasia
+D: Metaplasia
+ANSWER: A
+RATIONALE: Hypoxia is the medical term for oxygen deprivation causing cellular injury.
+END
+
+[MCQ]
+QUESTION: An increase in individual cell size is known as:
+A: Atrophy
+B: Hypertrophy
+C: Hyperplasia
+D: Metaplasia
+ANSWER: B
+RATIONALE: Hypertrophy is the increase in cell size.
+END
+
+[MCQ]
+QUESTION: An increase in the total number of cells in a tissue is known as:
+A: Hypertrophy
+B: Hyperplasia
+C: Dysplasia
+D: Atrophy
+ANSWER: B
+RATIONALE: Hyperplasia is the increase in cell number.
+END
+
+[MCQ]
+QUESTION: Reversible conversion of one mature cell type to another mature cell type is:
+A: Dysplasia
+B: Metaplasia
+C: Hypertrophy
+D: Atrophy
+ANSWER: B
+RATIONALE: Metaplasia is the conversion of one mature cell type to another mature cell type.
+END
+
+[MCQ]
+QUESTION: Bizarre, irregular cellular growth patterns are classified as:
+A: Metaplasia
+B: Dysplasia
+C: Hyperplasia
+D: Atrophy
+ANSWER: B
+RATIONALE: Dysplasia is defined as bizarre, irregular cell growth.
+END
+
+[MCQ]
+QUESTION: Local redness and warmth in acute inflammation are caused by:
+A: Vasoconstriction
+B: Vasodilation
+C: Capillary closure
+D: Leukopenia
+ANSWER: B
+RATIONALE: Vasodilation increases blood flow to the local area, causing redness and warmth.
+END
+
+[MCQ]
+QUESTION: Local swelling in inflammation is primarily driven by:
+A: Decreased blood flow
+B: Increased capillary permeability leaking fluid into tissues
+C: Leukocyte destruction
+D: Epinephrine surges
+ANSWER: B
+RATIONALE: Increased capillary permeability allows plasma fluid to escape into interstitial spaces, creating localized swelling.
+END
+
+[MCQ]
+QUESTION: Fever during inflammation is induced systemically by:
+A: Endogenous pyrogens
+B: Catecholamines
+C: Histamine local leakage
+D: Fibroblast proliferation
+ANSWER: A
+RATIONALE: Fever is a systemic inflammatory effect mediated by endogenous pyrogens acting on the hypothalamus.
+END
+
+[MCQ]
+QUESTION: An elevated white blood cell count in response to systemic inflammation is called:
+A: Hypoxia
+B: Leukocytosis
+C: Dysplasia
+D: Hypertrophy
+ANSWER: B
+RATIONALE: Leukocytosis is defined as an abnormally high white blood cell count in circulation.
+END
+
+[MCQ]
+QUESTION: Acute inflammation is protective and typically lasts:
+A: Under 2 weeks
+B: Between 1 to 3 months
+C: For many years
+D: Less than 10 seconds
+ANSWER: A
+RATIONALE: Acute inflammation typically lasts under 2 weeks and functions as a protective mechanism.
+END
+
+[MCQ]
+QUESTION: Inflammation that lasts for months or years causing debilitating damage is categorized as:
+A: Acute inflammation
+B: Chronic inflammation
+C: Local adaptation reflex
+D: Primary appraisal
+ANSWER: B
+RATIONALE: Chronic inflammation involves persistent injurious agents lasting months or years, leading to ongoing damage.
+END
+
+[MCQ]
+QUESTION: Healing of a clean surgical incision closed early with sutures is:
+A: First-intention healing
+B: Second-intention healing
+C: Third-intention healing
+D: Metaplastic healing
+ANSWER: A
+RATIONALE: First-intention healing occurs with clean incisions and early suture closure.
+END
+
+[MCQ]
+QUESTION: Healing of a gappy wound requiring granulation tissue formation is:
+A: First-intention healing
+B: Second-intention healing
+C: Third-intention healing
+D: Primary appraisal
+ANSWER: B
+RATIONALE: Second-intention healing involves gappy wounds that fill with granulation tissue and contract.
+END
+
+[MCQ]
+QUESTION: Delayed suturing of a wide, contaminated wound resulting in a broad scar is:
+A: First-intention healing
+B: Second-intention healing
+C: Third-intention healing
+D: Regeneration
+ANSWER: C
+RATIONALE: Third-intention healing involves late suturing (delayed primary closure) of contaminated/wide wounds resulting in a wide scar.
+END
+
+[MCQ]
+QUESTION: What mechanism repairs tissue by forming scar tissue rather than multiplying original parenchymal cells?
+A: Regeneration
+B: Replacement
+C: Hyperplasia
+D: Reappraisal
+ANSWER: B
+RATIONALE: Replacement repairs defects through connective tissue and scar formation.
+END
+
+[MCQ]
+QUESTION: The steady state within the body regulated by compensatory mechanisms is called:
+A: Stress
+B: Homeostasis
+C: Inflammation
+D: Resilience
+ANSWER: B
+RATIONALE: Homeostasis is defined as the steady state within the body maintained by compensatory mechanisms.
+END
