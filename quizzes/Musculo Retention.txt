@@ -1,0 +1,959 @@
+[MCQ]
+QUESTION: Which specific bone cells are responsible for bone resorption by removing and destroying bone tissue?
+A: Osteoblasts
+B: Osteocytes
+C: Osteoclasts
+D: Osteogenic cells
+ANSWER: C
+RATIONALE: Osteoclasts are specialized cells responsible for bone resorption and tissue destruction. Osteoblasts are bone-forming cells that secrete matrix, osteocytes maintain mature bone in lacunae, and osteogenic cells are stem cell precursors.
+END
+
+[MCQ]
+QUESTION: What fibrous membrane covers the outer surface of bones?
+A: Endosteum
+B: Periosteum
+C: Synovium
+D: Perichondrium
+ANSWER: B
+RATIONALE: The periosteum is the fibrous membrane covering the outer surface of bones. The endosteum lines the internal marrow cavity, the synovium lines joint capsules, and the perichondrium covers cartilage surfaces.
+END
+
+[MCQ]
+QUESTION: Which bones are classified as short bones in the human skeletal system?
+A: Femur and humerus
+B: Skull bones and sternum
+C: Carpals and tarsals
+D: Vertebrae and facial bones
+ANSWER: C
+RATIONALE: Carpals (wrist) and tarsals (ankle) are classified as short bones. Femur and humerus are long bones, skull bones and sternum are flat bones, and vertebrae and facial bones are irregular bones.
+END
+
+[MCQ]
+QUESTION: Where is red bone marrow primarily located in healthy adult humans?
+A: Medullary cavity of long bone diaphysis
+B: Central cavities of ribs, sternum, vertebrae, and portions of the pelvis
+C: Articular cartilage covering bone epiphyses
+D: Haversian canals of compact cortical bone
+ANSWER: B
+RATIONALE: In adults, red bone marrow is located in central cavities including ribs, sternum, vertebrae, and portions of the pelvis, where hemopoiesis occurs. The medullary cavity in adult long bones contains yellow fatty marrow.
+END
+
+[MCQ]
+QUESTION: What structural unit forms the fundamental basis of dense compact (cortical) bone?
+A: Trabeculae
+B: Osteon (Haversian system)
+C: Fibrocartilaginous callus
+D: Sarcomere
+ANSWER: B
+RATIONALE: Compact bone is structured around osteons (Haversian systems), concentric lamellae, and canals. Trabeculae form spongy bone, a fibrocartilaginous callus forms during fracture healing, and a sarcomere is the structural unit of skeletal muscle.
+END
+
+[MCQ]
+QUESTION: Which bone cell type functions primarily as a bone-forming cell that secretes bone matrix?
+A: Osteoclast
+B: Osteocyte
+C: Osteoblast
+D: Osteogenic cell
+ANSWER: C
+RATIONALE: Osteoblasts are bone-forming cells that secrete the osteoid matrix. Osteoclasts resorb bone tissue, osteocytes maintain mature bone, and osteogenic cells act as stem cells.
+END
+
+[MCQ]
+QUESTION: What anatomical structure represents the broadened ends of a long bone?
+A: Diaphysis
+B: Epiphysis
+C: Medullary cavity
+D: Nutrient foramen
+ANSWER: B
+RATIONALE: The epiphysis refers to the broadened ends of a long bone covered by articular cartilage. The diaphysis is the main shaft containing the medullary cavity and nutrient foramina.
+END
+
+[MCQ]
+QUESTION: Which skeletal division includes the skull, inner ear ossicles, hyoid bone, vertebral column, and rib cage?
+A: Appendicular skeleton
+B: Axial skeleton
+C: Pelvic girdle
+D: Shoulder girdle
+ANSWER: B
+RATIONALE: The axial skeleton comprises the skull, inner ear ossicles, hyoid bone, vertebral column, and rib cage. The appendicular skeleton includes the upper/lower extremities and girdles.
+END
+
+[MCQ]
+QUESTION: Which ossification process involves cartilage-like osteoid tissue being formed, reabsorbed, and replaced by bone?
+A: Intramembranous ossification
+B: Endochondral ossification
+C: Trabecular mineralization
+D: Cortical remodeling
+ANSWER: B
+RATIONALE: Endochondral ossification is the process where a cartilage-like osteoid model is formed, reabsorbed, and replaced by bone. Intramembranous ossification develops bone directly within a membrane.
+END
+
+[MCQ]
+QUESTION: Which regulatory factor increases blood calcium by promoting absorption from the GI tract and facilitating osteoid mineralization?
+A: Calcitonin
+B: Parathyroid hormone (PTH)
+C: Vitamin D (Calcitriol)
+D: Epinephrine
+ANSWER: C
+RATIONALE: Vitamin D (calcitriol) increases blood calcium levels by promoting gastrointestinal tract absorption and facilitating osteoid mineralization. Calcitonin decreases blood calcium, while PTH releases calcium from bone.
+END
+
+[MCQ]
+QUESTION: What is the specific physiological role of Parathyroid Hormone (PTH) when blood calcium drops?
+A: Promoting calcium release from bones into extracellular fluid
+B: Inhibiting calcium release from bone and increasing bone deposition
+C: Stimulating osteoblastic matrix secretion exclusively
+D: Halting all bone resorption during physical bed rest
+ANSWER: A
+RATIONALE: Parathyroid hormone (PTH) promotes the release of calcium from bones into the extracellular fluid when blood calcium levels drop. Calcitonin acts to inhibit calcium release from bone.
+END
+
+[MCQ]
+QUESTION: During which stage of fracture healing does a bony callus replace the fibrocartilaginous callus, making it safe for cast removal?
+A: Hematoma formation and inflammation
+B: Fibrocartilaginous callus formation
+C: Callus ossification
+D: Bone remodeling
+ANSWER: C
+RATIONALE: Callus ossification occurs at 3-4 weeks, where bone gradually replaces the fibrocartilaginous callus to form a bony callus, marking the point safe for cast removal. Hematoma formation occurs on days 1-2.
+END
+
+[MCQ]
+QUESTION: What type of cartilage is found on the articulating ends of bones, pubic symphysis, and respiratory passages?
+A: Elastic cartilage
+B: Hyaline cartilage
+C: Fibrocartilage
+D: Dense fibrous connective tissue
+ANSWER: B
+RATIONALE: Hyaline cartilage is pearly white and found on articulating bone ends, the pubic symphysis, and respiratory passages. Elastic cartilage contains elastin fibers, and fibrocartilage forms structures like intervertebral discs.
+END
+
+[MCQ]
+QUESTION: Which type of cartilage forms the intervertebral discs and possesses properties intermediate between dense connective tissue and hyaline cartilage?
+A: Hyaline cartilage
+B: Elastic cartilage
+C: Fibrocartilage
+D: Articular cartilage
+ANSWER: C
+RATIONALE: Fibrocartilage has intermediate properties between dense connective tissue and hyaline cartilage, forming intervertebral discs. Elastic cartilage contains elastin fibers, and hyaline cartilage covers joint articulating ends.
+END
+
+[MCQ]
+QUESTION: Which structural joint classification allows absolutely no movement, as seen in the sutures of the skull?
+A: Amphiarthroses (Cartilaginous joints)
+B: Diarthroses (Synovial joints)
+C: Synarthroses (Fibrous joints)
+D: Condylar joints
+ANSWER: C
+RATIONALE: Synarthroses (fibrous joints) allow no movement, exemplified by skull sutures. Amphiarthroses allow slight movement, and diarthroses are freely movable joints.
+END
+
+[MCQ]
+QUESTION: What term describes freely movable joints characterized by a joint capsule and synovial fluid?
+A: Synarthroses
+B: Amphiarthroses
+C: Diarthroses (Synovial joints)
+D: Symphysis joints
+ANSWER: C
+RATIONALE: Diarthroses are synovial joints that are freely movable and represent the most common joint type in the human body. Synarthroses are immovable, and amphiarthroses allow slight movement.
+END
+
+[MCQ]
+QUESTION: What is the primary function of the synovium (synovial membrane) in a diarthrodial joint?
+A: Lining joint capsules and secreting synovial fluid to lubricate joints and minimize friction
+B: Connecting adjacent bones directly without a joint cavity
+C: Producing red blood cells via hemopoiesis inside the joint space
+D: Acting as a rigid fibrous suture to prevent all movement
+ANSWER: A
+RATIONALE: The synovium lines joint capsules and secretes synovial fluid to lubricate joints and minimize friction. It does not connect bones without cavities or produce red blood cells.
+END
+
+[MCQ]
+QUESTION: Which type of muscle tissue is voluntary, striated, and attached to bones to produce body movement?
+A: Cardiac muscle
+B: Smooth muscle
+C: Skeletal muscle
+D: Visceral muscle
+ANSWER: C
+RATIONALE: Skeletal muscle is voluntary, striated, and attached to bones, responsible for locomotion, posture, stabilization, and heat generation. Cardiac and smooth muscles are involuntary.
+END
+
+[MCQ]
+QUESTION: Where is smooth (visceral) muscle tissue exclusively found in the body?
+A: Attached directly to the appendicular skeleton
+B: In the walls of the heart to pump blood
+C: In the walls of hollow internal organs, blood vessels, and glands
+D: Lining the marrow cavities of long bone shafts
+ANSWER: C
+RATIONALE: Smooth muscle is found in the walls of hollow internal organs, blood vessels, and glands to propel substances. Skeletal muscle attaches to bones, and cardiac muscle is found in the heart.
+END
+
+[MCQ]
+QUESTION: What is the functional unit of a skeletal muscle, extending from one Z-line to another?
+A: Osteon
+B: Sarcomere
+C: Haversian system
+D: Trabeculae
+ANSWER: B
+RATIONALE: The sarcomere is the functional unit of a skeletal muscle, extending from one Z-line to another and composed of actin and myosin myofilaments. Osteons and Haversian systems belong to compact bone.
+END
+
+[MCQ]
+QUESTION: What accumulation during heavy exertion with inadequate oxygen supply leads directly to muscle fatigue?
+A: Calcium phosphate crystals
+B: Lactic acid
+C: Synovial fluid
+D: Yellow fatty marrow
+ANSWER: B
+RATIONALE: Muscle fatigue occurs during heavy exertion with inadequate oxygen supply, leading to glycogen depletion and an accumulation of lactic acid.
+END
+
+[MCQ]
+QUESTION: Which supporting connective tissue consists of strong, dense, flexible fibrous bands connecting bone to bone?
+A: Tendons
+B: Ligaments
+C: Fascia (Epimysium)
+D: Articular cartilage
+ANSWER: B
+RATIONALE: Ligaments are strong, dense, flexible fibrous bands connecting bone to bone. Tendons tie muscles to bones, fascia surrounds muscles, and articular cartilage covers bone ends.
+END
+
+[MCQ]
+QUESTION: What dense fibrous bands tie skeletal muscles directly to bones?
+A: Ligaments
+B: Tendons
+C: Bursae
+D: Volkmann's canals
+ANSWER: B
+RATIONALE: Tendons are dense fibrous bands anchoring muscles to bones. Ligaments connect bone to bone, and bursae are fluid-filled sacs reducing friction.
+END
+
+[MCQ]
+QUESTION: What thin vascular membrane lines the internal marrow cavity of a bone?
+A: Periosteum
+B: Endosteum
+C: Perichondrium
+D: Synovium
+ANSWER: B
+RATIONALE: The endosteum is a thin vascular membrane lining the marrow cavity. The periosteum covers the outer surface of bones.
+END
+
+[MCQ]
+QUESTION: Which bone cells are described as stem cells capable of giving rise to other bone cell types?
+A: Osteoblasts
+B: Osteoclasts
+C: Osteogenic cells
+D: Osteocytes
+ANSWER: C
+RATIONALE: Osteogenic cells are bone stem cells. Osteoblasts form bone, osteoclasts resorb bone, and osteocytes maintain mature bone tissue.
+END
+
+[MCQ]
+QUESTION: What mature bone cells are located in lacunae and maintain bone tissue?
+A: Osteoblasts
+B: Osteocytes
+C: Osteoclasts
+D: Osteogenic cells
+ANSWER: B
+RATIONALE: Osteocytes are mature bone cells residing within lacunae that maintain bone tissue. Osteoblasts form new bone matrix, and osteoclasts destroy/resorb bone.
+END
+
+[MCQ]
+QUESTION: Which classification of bones includes the femur, humerus, radius, ulna, tibia, and fibula?
+A: Short bones
+B: Flat bones
+C: Long bones
+D: Irregular bones
+ANSWER: C
+RATIONALE: The femur, humerus, radius, ulna, tibia, and fibula are long bones. Carpals and tarsals are short bones, skull bones and ribs are flat bones, and vertebrae are irregular bones.
+END
+
+[MCQ]
+QUESTION: Which bones are classified as flat bones in the human body?
+A: Carpals and tarsals
+B: Vertebrae and facial bones
+C: Skull bones, scapulae, sternum, ribs, and pelvic bones
+D: Femur, humerus, and tibia
+ANSWER: C
+RATIONALE: Skull bones, scapulae, sternum, ribs, and pelvic bones are flat bones. Carpals/tarsals are short, vertebrae are irregular, and the femur/humerus are long bones.
+END
+
+[MCQ]
+QUESTION: What bones are categorized as irregular bones?
+A: Carpals and tarsals
+B: Vertebrae, facial bones, and the stirrup ossicle
+C: Femur, radius, and ulna
+D: Ribs, sternum, and scapulae
+ANSWER: B
+RATIONALE: Vertebrae, facial bones, and the stirrup (ossicle) are categorized as irregular bones.
+END
+
+[MCQ]
+QUESTION: What substance fills the medullary cavity of a long bone diaphysis in healthy adults?
+A: Red bone marrow
+B: Yellow fatty marrow
+C: Synovial fluid
+D: Articular cartilage
+ANSWER: B
+RATIONALE: In adults, the medullary cavity of the diaphysis is filled with yellow fatty marrow. Red bone marrow is located in central cavities of flat and irregular bones.
+END
+
+[MCQ]
+QUESTION: What canals run horizontally or obliquely through compact bone to connect central Haversian canals?
+A: Volkmann's canals
+B: Canaliculi
+C: Epiphyseal plates
+D: Nutrient foramina
+ANSWER: A
+RATIONALE: Volkmann's canals connect Haversian canals horizontally or obliquely within compact bone. Canaliculi connect lacunae.
+END
+
+[MCQ]
+QUESTION: What ossification process develops skull and facial bones directly within a membrane without a prior cartilage model?
+A: Endochondral ossification
+B: Intramembranous ossification
+C: Trabecular resorption
+D: Secondary bone remodeling
+ANSWER: B
+RATIONALE: Intramembranous ossification is the process where bone develops directly within fibrous membranes, forming skull and facial bones.
+END
+
+[MCQ]
+QUESTION: What physiological effect does weight-bearing local mechanical stress have on bone tissue?
+A: Stimulates bone formation and remodeling
+B: Causes rapid calcium loss and osteopenia
+C: Triggers immediate osteoclastic resorption without new bone formation
+D: Converts compact bone into elastic cartilage
+ANSWER: A
+RATIONALE: Weight-bearing local stress stimulates bone formation and remodeling, maintaining bone strength and density. Prolonged bed rest causes calcium loss and osteopenia.
+END
+
+[MCQ]
+QUESTION: What specific role does Calcitonin play in mineral regulation?
+A: Promotes calcium release from bones into extracellular fluid
+B: Inhibits calcium release from bone and increases calcium deposition into bones
+C: Increases blood calcium by absorbing it from the GI tract
+D: Stimulates osteoclast activity to break down trabecular bone
+ANSWER: B
+RATIONALE: Calcitonin inhibits calcium release from bone and increases calcium deposition into bones, lowering blood calcium levels. Parathyroid hormone performs the opposite action.
+END
+
+[MCQ]
+QUESTION: What event characterizes the first stage (1–2 days) of fracture healing?
+A: Callus ossification
+B: Hematoma formation and inflammation
+C: Fibrocartilaginous bridging
+D: Complete bone remodeling
+ANSWER: B
+RATIONALE: The first stage of fracture healing (1–2 days) involves hematoma formation and inflammation, where vasoconstriction forms a clot and cytokines trigger fibroblast proliferation.
+END
+
+[MCQ]
+QUESTION: What is the primary cellular action occurring during the final bone remodeling stage of fracture healing (months to years)?
+A: Necrotic bone is cleared by osteoclasts, and cancellous bone is slowly remodeled into compact bone
+B: Rapid endochondral ossification forms a soft cartilage callus
+C: Vasoconstriction creates a primary blood clot and acute inflammation
+D: Fibroblasts secrete dense elastin fibers to form elastic cartilage
+ANSWER: A
+RATIONALE: During the final bone remodeling stage, necrotic bone is cleared by osteoclasts, and cancellous bone is slowly remodeled into compact bone.
+END
+
+[MCQ]
+QUESTION: Which factor does NOT directly affect bone fracture healing time according to the text?
+A: Age and nutritional status
+B: Fracture displacement and site
+C: Local blood supply
+D: Hair and eye color
+ANSWER: D
+RATIONALE: Hair and eye color have no physiological impact on bone healing. Factors affecting healing time include age, displacement, site, nutrition, and blood supply.
+END
+
+[MCQ]
+QUESTION: What percentage of water makes up dense connective tissue cartilage?
+A: 10–20%
+B: 30–40%
+C: 65–80%
+D: 90–95%
+ANSWER: C
+RATIONALE: Cartilage consists of 65–80% water embedded in a strong gel-like substance covering articulating bone ends.
+END
+
+[MCQ]
+QUESTION: Which type of cartilage contains elastin fibers in its intracellular substance?
+A: Hyaline cartilage
+B: Elastic cartilage
+C: Fibrocartilage
+D: Articular cartilage
+ANSWER: B
+RATIONALE: Elastic cartilage contains elastin fibers in its intracellular substance, giving it high flexibility.
+END
+
+[MCQ]
+QUESTION: What structural classification describes cartilaginous joints that allow slight movement, such as intervertebral joints and the pubic symphysis?
+A: Synarthroses
+B: Amphiarthroses
+C: Diarthroses
+D: Suture joints
+ANSWER: B
+RATIONALE: Amphiarthroses are cartilaginous joints allowing slight movement, such as intervertebral joints and the pubic symphysis.
+END
+
+[MCQ]
+QUESTION: What are fluid-filled sacs located around joints to reduce friction, such as the prepatellar bursa, called?
+A: Tendons
+B: Ligaments
+C: Bursae
+D: Synovium
+ANSWER: C
+RATIONALE: Bursae are fluid-filled sacs located around joints to reduce friction during movement.
+END
+
+[MCQ]
+QUESTION: Which muscle type is described as involuntary, striated, and branched, found exclusively in the heart?
+A: Skeletal muscle
+B: Cardiac muscle
+C: Smooth muscle
+D: Visceral muscle
+ANSWER: B
+RATIONALE: Cardiac muscle is involuntary, striated, and branched, found exclusively in the heart to pump blood.
+END
+
+[MCQ]
+QUESTION: What myofilaments primarily compose a sarcomere?
+A: Actin and myosin
+B: Collagen and elastin
+C: Keratin and fibrin
+D: Thrombin and fibronectin
+ANSWER: A
+RATIONALE: Sarcomeres are mainly composed of actin (anchored at Z-disks) and myosin (held by M-lines) myofilaments.
+END
+
+[MCQ]
+QUESTION: What supporting connective tissue surrounds and divides skeletal muscles, also known as epimysium?
+A: Tendon
+B: Ligament
+C: Fascia
+D: Periosteum
+ANSWER: C
+RATIONALE: Fascia (epimysium) surrounds and divides skeletal muscles.
+END
+
+[MCQ]
+QUESTION: Which cellular process is responsible for destroying old red blood cells via phagocytosis in red bone marrow?
+A: Osteoclastic bone resorption
+B: Hemopoiesis and phagocytosis by marrow cells
+C: Endochondral ossification
+D: Sarcomere contraction
+ANSWER: B
+RATIONALE: Red bone marrow produces blood cells and destroys old red blood cells via phagocytosis.
+END
+
+[MCQ]
+QUESTION: What nutrient passageways penetrate the compact bone matrix from the periosteum to Haversian canals?
+A: Volkmann's canals
+B: Lacunae
+C: Canaliculi
+D: Medullary cavities
+ANSWER: A
+RATIONALE: Volkmann's canals provide vascular channels running from the periosteum into Haversian canals within compact bone.
+END
+
+[MCQ]
+QUESTION: What is the primary structural characteristic of cancellous (spongy) bone?
+A: Dense Haversian systems packed tightly without marrow spaces
+B: Trabeculae forming a lattice filled with spaces containing red bone marrow and blood vessels
+C: Solid concentric lamellae lacking any cellular components
+D: Continuous cartilage plates that never ossify
+ANSWER: B
+RATIONALE: Cancellous bone contains trabeculae and open spaces filled with red bone marrow and blood vessels.
+END
+
+[MCQ]
+QUESTION: Which joint subtype is NOT a recognized category of synovial (diarthrodial) joints?
+A: Ball-and-socket joint
+B: Hinge joint
+C: Suture joint
+D: Pivot joint
+ANSWER: C
+RATIONALE: Suture joints are fibrous synarthroses allowing no movement, not synovial joints.
+END
+
+[MCQ]
+QUESTION: What physiological effect does prolonged bed rest have on bone tissue?
+A: Stimulates massive trabecular bone hypertrophy
+B: Causes calcium loss (resorption), leading to osteopenia and weak bones
+C: Accelerates intramembranous ossification in flat bones
+D: Converts yellow marrow into active red bone marrow
+ANSWER: B
+RATIONALE: Prolonged bed rest eliminates weight-bearing stress, causing calcium loss and resorption, leading to osteopenia.
+END
+
+[MCQ]
+QUESTION: During fracture healing, what forms the soft bridge connecting broken bone fragments during weeks 2–3?
+A: Compact cortical bone
+B: Fibrocartilaginous callus
+C: Permanent hyaline cartilage
+D: Elastic elastin fibers
+ANSWER: B
+RATIONALE: During the fibrocartilaginous callus stage, a soft callus bridge connects broken bone fragments before ossification.
+END
+
+[MCQ]
+QUESTION: What is the primary structural function of skeletal muscle besides body movement and heat generation?
+A: Pumping blood through systemic arterial vessels
+B: Propelling substances through hollow internal organs
+C: Posture and joint stabilization
+D: Synthesizing red blood cells in bone marrow
+ANSWER: C
+RATIONALE: Skeletal muscle functions include voluntary locomotion, posture, joint stabilization, and heat generation.
+END
+
+[MCQ]
+QUESTION: Which cells are responsible for secreting the organic bone matrix (osteoid) during bone formation?
+A: Osteocytes
+B: Osteoblasts
+C: Osteoclasts
+D: Osteogenic cells
+ANSWER: B
+RATIONALE: Osteoblasts are bone-forming cells that secrete the osteoid matrix.
+END
+
+[MCQ]
+QUESTION: Where are osteocytes located within mature bone tissue?
+A: Within Haversian canals
+B: Inside lacunae trapped within the bone matrix
+C: Lining the outer fibrous periosteum
+D: Freely circulating in red bone marrow spaces
+ANSWER: B
+RATIONALE: Osteocytes are mature bone cells located inside small cavities called lacunae within the calcified bone matrix.
+END
+
+[MCQ]
+QUESTION: Which skeletal division includes the bones of the upper and lower extremities, shoulder girdle, and pelvic girdle?
+A: Axial skeleton
+B: Appendicular skeleton
+C: Cranial skeleton
+D: Vertebral column
+ANSWER: B
+RATIONALE: The appendicular skeleton includes upper/lower extremities, shoulder girdle, and pelvic girdle.
+END
+
+[MCQ]
+QUESTION: What anatomical structure of a long bone contains the nutrient foramina and medullary cavity filled with yellow fatty marrow in adults?
+A: Epiphysis
+B: Diaphysis
+C: Articular cartilage
+D: Periosteum
+ANSWER: B
+RATIONALE: The diaphysis is the main shaft of a long bone containing the medullary cavity and nutrient foramina.
+END
+
+[MCQ]
+QUESTION: Which vitamin acts as a hormone to increase blood calcium by promoting GI absorption and facilitating mineralization?
+A: Vitamin A
+B: Vitamin C
+C: Vitamin D (Calcitriol)
+D: Vitamin K
+ANSWER: C
+RATIONALE: Vitamin D (calcitriol) increases blood calcium levels by promoting gastrointestinal absorption and facilitating mineralization.
+END
+
+[MCQ]
+QUESTION: What occurs during the fibrocartilaginous callus formation stage of fracture healing?
+A: Granular tissue and a soft callus bridge connect the broken bone fragments
+B: Osteoclasts completely resorb all surrounding cortical bone
+C: Immediate ossification replaces the hematoma with compact Haversian systems
+D: The fracture site undergoes permanent hyaline cartilage metaplasia
+ANSWER: A
+RATIONALE: Granular tissue and a soft fibrocartilaginous callus form a bridge connecting broken bone fragments during stage two.
+END
+
+[MCQ]
+QUESTION: What structural property distinguishes hyaline cartilage from elastic cartilage?
+A: Hyaline cartilage contains an abundance of elastin fibers in its intracellular matrix
+B: Hyaline cartilage is pearly white and found on articulating bone ends without prominent elastin fibers
+C: Hyaline cartilage is exclusively found in intervertebral discs
+D: Hyaline cartilage lacks water entirely
+ANSWER: B
+RATIONALE: Hyaline cartilage is pearly white and covers articulating bone ends without prominent elastin fibers.
+END
+
+[MCQ]
+QUESTION: Which synovial joint shape is exemplified by the knee and elbow joints, allowing movement in one primary plane?
+A: Ball-and-socket joint
+B: Hinge joint
+C: Pivot joint
+D: Saddle joint
+ANSWER: B
+RATIONALE: Hinge joints (like the knee and elbow) allow movement primarily in one plane.
+END
+
+[MCQ]
+QUESTION: What cellular characteristic distinguishes cardiac muscle from skeletal muscle?
+A: Cardiac muscle is involuntary, striated, and branched
+B: Cardiac muscle is voluntary and attached directly to bones
+C: Cardiac muscle lacks striations and is spindle-shaped
+D: Cardiac muscle undergoes rapid fatigue due to massive lactic acid buildup
+ANSWER: A
+RATIONALE: Cardiac muscle is involuntary, striated, and branched, whereas skeletal muscle is voluntary, striated, and unbranched.
+END
+
+[MCQ]
+QUESTION: What role do Z-lines (Z-disks) play in skeletal muscle microscopic structure?
+A: They hold myosin myofilaments together in the center of the sarcomere
+B: They serve as the boundaries marking the ends of a sarcomere, where actin myofilaments are anchored
+C: They secrete synovial fluid to lubricate contracting muscle fibers
+D: They store yellow fatty marrow during heavy exertion
+ANSWER: B
+RATIONALE: Z-lines mark the boundaries of a sarcomere, serving as anchor points for actin myofilaments.
+END
+
+[MCQ]
+QUESTION: What is the primary function of hemopoiesis performed by red bone marrow?
+A: Synthesizing structural collagen fibers in tendons
+B: Producing red blood cells, white blood cells, and platelets
+C: Storing calcium and phosphorus minerals
+D: Lining joint capsules with synovial fluid
+ANSWER: B
+RATIONALE: Hemopoiesis generates red blood cells, white blood cells, and platelets within red bone marrow.
+END
+
+[MCQ]
+QUESTION: Which membrane lines the outer surface of bones and plays a crucial role in bone repair and nutrition?
+A: Endosteum
+B: Periosteum
+C: Synovium
+D: Perichondrium
+ANSWER: B
+RATIONALE: The periosteum is a dense fibrous membrane covering the outer surface of bones containing blood vessels for repair.
+END
+
+[MCQ]
+QUESTION: What structural classification describes the sutures of the skull?
+A: Synarthroses (Fibrous joints)
+B: Amphiarthroses (Cartilaginous joints)
+C: Diarthroses (Synovial joints)
+D: Saddle joints
+ANSWER: A
+RATIONALE: Skull sutures are fibrous joints classified as synarthroses because they allow no movement.
+END
+
+[MCQ]
+QUESTION: Which ion is stored in large quantities within bones to support mineral deposition and physiological homeostasis?
+A: Sodium and potassium
+B: Calcium and phosphorus
+C: Iron and magnesium
+D: Chloride and bicarbonate
+ANSWER: B
+RATIONALE: Bones act as a mineral reservoir storing large quantities of calcium and phosphorus.
+END
+
+[MCQ]
+QUESTION: What process causes the replacement of the fibrocartilaginous callus with a bony callus during weeks 3–4 of fracture healing?
+A: Callus ossification
+B: Hematoma vasoconstriction
+C: Osteoclastic destruction without bone formation
+D: Endothelial myofibril contraction
+ANSWER: A
+RATIONALE: Callus ossification occurs at 3–4 weeks where bone gradually replaces the fibrocartilaginous callus.
+END
+
+[MCQ]
+QUESTION: What structural feature is characteristic of smooth muscle cells?
+A: Striated, branched, and multinucleated
+B: Non-striated, involuntary, and spindle-shaped
+C: Voluntary, striated, and attached to tendons
+D: Interconnected by intercalated discs
+ANSWER: B
+RATIONALE: Smooth muscle cells are involuntary, non-striated, and spindle-shaped, located in hollow organ walls.
+END
+
+[MCQ]
+QUESTION: What is the primary function of osteocytes located within bone lacunae?
+A: Secreting unmineralized osteoid matrix
+B: Resorbing and destroying old mineralized bone tissue
+C: Maintaining bone tissue and monitoring matrix integrity
+D: Undergoing rapid mitotic division to form new osteons
+ANSWER: C
+RATIONALE: Osteocytes are mature bone cells that maintain bone tissue and monitor the surrounding matrix.
+END
+
+[MCQ]
+QUESTION: Which cartilage type forms the articulating ends of bones and respiratory passages?
+A: Elastic cartilage
+B: Hyaline cartilage
+C: Fibrocartilage
+D: Reticular cartilage
+ANSWER: B
+RATIONALE: Hyaline cartilage is pearly white and found on articulating bone ends and respiratory passages.
+END
+
+[MCQ]
+QUESTION: What is the primary function of bursae located around synovial joints?
+A: Secreting synovial fluid to nourish articular cartilage
+B: Reducing friction between moving structures such as tendons, ligaments, and bones
+C: Connecting adjacent articulating bone ends rigidly
+D: Acting as primary stem cell reserves for hemopoiesis
+ANSWER: B
+RATIONALE: Bursae are fluid-filled sacs located around joints to reduce friction during movement.
+END
+
+[MCQ]
+QUESTION: During muscle contraction, myosin myofilaments are primarily held in place at which central structure within the sarcomere?
+A: Z-line (Z-disk)
+B: M-line
+C: Epimysium
+D: Volkmann's canal
+ANSWER: B
+RATIONALE: Myosin myofilaments are held by M-lines in the center of the sarcomere.
+END
+
+[MCQ]
+QUESTION: Which bone cells arise from fusion of precursor white blood cell lineages to perform bone resorption?
+A: Osteoblasts
+B: Osteoclasts
+C: Osteocytes
+D: Osteogenic cells
+ANSWER: B
+RATIONALE: Osteoclasts are multinucleated cells responsible for bone resorption, derived from monocyte/macrophage lineages.
+END
+
+[MCQ]
+QUESTION: What is the primary structural component of the epiphysis of a long bone?
+A: Medullary cavity filled with yellow fat
+B: Cancellous (spongy) bone covered by a thin layer of compact bone and articular cartilage
+C: Dense Haversian systems running parallel to the diaphysis shaft
+D: Fibrocartilaginous callus tissue
+ANSWER: B
+RATIONALE: The epiphysis consists primarily of cancellous bone covered by compact bone and articular cartilage.
+END
+
+[MCQ]
+QUESTION: Which hormone is released by the thyroid gland to lower blood calcium levels by inhibiting bone resorption and increasing calcium deposition?
+A: Parathyroid hormone (PTH)
+B: Calcitonin
+C: Vitamin D (Calcitriol)
+D: Aldosterone
+ANSWER: B
+RATIONALE: Calcitonin lowers blood calcium by inhibiting bone resorption and increasing deposition into bone.
+END
+
+[MCQ]
+QUESTION: What occurs during the hematoma formation and inflammation stage (days 1–2) of a bone fracture?
+A: Vasoconstriction forms a clot, while cytokines trigger fibroblast proliferation and angiogenesis
+B: A hard bony callus completely ossifies and remodels into compact bone
+C: Osteoclasts clear all necrotic bone fragments immediately
+D: Fibrocartilaginous bridging connects the broken bone ends
+ANSWER: A
+RATIONALE: In days 1–2 of fracture healing, vasoconstriction forms a hematoma clot and inflammatory cytokines trigger fibroblast proliferation.
+END
+
+[MCQ]
+QUESTION: Which joint structure is composed of dense fibrous connective tissue and connects bone to bone with high tensile strength?
+A: Tendon
+B: Ligament
+C: Bursae
+D: Synovium
+ANSWER: B
+RATIONALE: Ligaments are strong, dense fibrous bands connecting bone to bone and providing joint stability.
+END
+
+[MCQ]
+QUESTION: What cellular fuel depletion and metabolic byproduct accumulation causes muscle fatigue during heavy exertion?
+A: Glycogen depletion and lactic acid accumulation
+B: Calcium accumulation and protein denaturation
+C: Phosphate depletion and uric acid crystallization
+D: Oxygen surplus and carbon dioxide clearance
+ANSWER: A
+RATIONALE: Muscle fatigue occurs during heavy exertion with inadequate oxygen supply, leading to glycogen depletion and lactic acid accumulation.
+END
+
+[MCQ]
+QUESTION: What membrane lines the marrow cavity inside bones?
+A: Periosteum
+B: Endosteum
+C: Perichondrium
+D: Epicardium
+ANSWER: B
+RATIONALE: The endosteum is a thin vascular membrane lining the internal marrow cavity of bones.
+END
+
+[MCQ]
+QUESTION: Which bones are categorized under the axial skeleton?
+A: Clavicle and scapula
+B: Skull, inner ear ossicles, hyoid bone, vertebral column, and rib cage
+C: Humerus, radius, and ulna
+D: Femur, tibia, and fibula
+ANSWER: B
+RATIONALE: The axial skeleton includes the skull, inner ear ossicles, hyoid bone, vertebral column, and rib cage.
+END
+
+[MCQ]
+QUESTION: What structural canals transmit blood vessels and nerves from the periosteum vertically through compact bone?
+A: Haversian (central) canals
+B: Volkmann's canals
+C: Canaliculi
+D: Medullary cavities
+ANSWER: A
+RATIONALE: Haversian canals run longitudinally through the center of osteons, transmitting blood vessels and nerves.
+END
+
+[MCQ]
+QUESTION: What is the primary characteristic of intramembranous ossification?
+A: Bone develops directly within a fibrous membrane without a cartilage precursor model
+B: Cartilage-like osteoid is formed, reabsorbed, and replaced by bone
+C: Yellow fatty marrow converts directly into compact cortical bone
+D: Epiphyseal plates elongate via chondrocyte proliferation
+ANSWER: A
+RATIONALE: Intramembranous ossification involves bone developing directly within fibrous connective tissue membranes.
+END
+
+[MCQ]
+QUESTION: What role does physical weight-bearing stress play in skeletal health?
+A: Promotes calcium resorption and bone weakening
+B: Stimulates bone formation and remodeling
+C: Triggers premature epiphyseal plate closure
+D: Converts compact bone into elastic cartilage
+ANSWER: B
+RATIONALE: Weight-bearing local stress stimulates bone formation and remodeling, maintaining bone density.
+END
+
+[MCQ]
+QUESTION: Which cartilage type forms intervertebral discs and withstands heavy compression?
+A: Hyaline cartilage
+B: Elastic cartilage
+C: Fibrocartilage
+D: Articular cartilage
+ANSWER: C
+RATIONALE: Fibrocartilage possesses intermediate properties between dense connective tissue and hyaline cartilage, making it ideal for intervertebral discs.
+END
+
+[MCQ]
+QUESTION: What type of diarthrodial joint permits movement in multiple axes, such as the hip and shoulder?
+A: Hinge joint
+B: Pivot joint
+C: Ball-and-socket joint
+D: Plane/gliding joint
+ANSWER: C
+RATIONALE: Ball-and-socket joints allow multi-axial movement, as seen in the shoulder and hip.
+END
+
+[MCQ]
+QUESTION: What distinguishes skeletal muscle from smooth muscle microscopically?
+A: Skeletal muscle is striated and voluntary, whereas smooth muscle is non-striated and involuntary
+B: Skeletal muscle lacks actin and myosin myofilaments entirely
+C: Smooth muscle is attached to bones by dense tendons
+D: Skeletal muscle cells are branched with intercalated discs
+ANSWER: A
+RATIONALE: Skeletal muscle fibers are striated and voluntary, whereas smooth muscle cells are non-striated and involuntary.
+END
+
+[MCQ]
+QUESTION: What structure anchors actin myofilaments at the ends of each sarcomere?
+A: M-line
+B: Z-line (Z-disk)
+C: Haversian canal
+D: Periosteum
+ANSWER: B
+RATIONALE: Z-lines (Z-disks) serve as anchoring boundaries for actin myofilaments at either end of a sarcomere.
+END
+
+[MCQ]
+QUESTION: Which cellular elements in red bone marrow are responsible for destroying old, worn-out red blood cells?
+A: Osteoclasts
+B: Phagocytic marrow cells
+C: Chondrocytes
+D: Osteoblasts
+ANSWER: B
+RATIONALE: Red bone marrow contains phagocytic cells responsible for destroying old red blood cells via phagocytosis.
+END
+
+[MCQ]
+QUESTION: What are the two primary mineral components stored within bone matrix for structural rigidity and homeostasis?
+A: Sodium and chloride
+B: Calcium and phosphorus
+C: Iron and copper
+D: Magnesium and sulfur
+ANSWER: B
+RATIONALE: Calcium and phosphorus are the primary mineral deposits stored in bone matrix.
+END
+
+[MCQ]
+QUESTION: Which type of bone growth or ossification forms long bones during embryonic development?
+A: Intramembranous ossification
+B: Endochondral ossification
+C: Trabecular remodeling
+D: Suture fusion
+ANSWER: B
+RATIONALE: Long bones develop primarily through endochondral ossification, where a cartilage model is replaced by bone.
+END
+
+[MCQ]
+QUESTION: What pathological change occurs in bones during prolonged periods of zero gravity or strict bed rest?
+A: Massive osteoblastic hyper-stimulation
+B: Calcium loss and resorption leading to osteopenia and weak bones
+C: Rapid conversion of compact bone into elastic cartilage
+D: Immediate ossification of all articular cartilages
+ANSWER: B
+RATIONALE: Lack of mechanical weight-bearing stress during prolonged bed rest causes calcium loss and bone resorption, leading to osteopenia.
+END
+
+[MCQ]
+QUESTION: What is the main function of hyaline cartilage when located on the articulating ends of bones?
+A: Providing high elasticity and flexibility during ear bending
+B: Providing a smooth, frictionless surface to cushion bone ends during joint movement
+C: Acting as a rigid fibrous suture connecting skull bones
+D: Pumping blood through vascular lumens
+ANSWER: B
+RATIONALE: Hyaline cartilage covers articulating bone ends to provide a smooth, lubricated surface that reduces friction.
+END
+
+[MCQ]
+QUESTION: Which structural joint classification permits slight movement, such as the pubic symphysis?
+A: Synarthroses
+B: Amphiarthroses
+C: Diarthroses
+D: Suture joints
+ANSWER: B
+RATIONALE: Amphiarthroses permit slight movement, exemplified by the pubic symphysis and intervertebral joints.
+END
+
+[MCQ]
+QUESTION: What is the primary role of fascia (epimysium) in muscular anatomy?
+A: Connecting skeletal muscle directly to bone
+B: Surrounding and dividing skeletal muscles
+C: Secreting synovial fluid inside joint capsules
+D: Storing yellow fatty marrow
+ANSWER: B
+RATIONALE: Fascia (epimysium) is fibrous connective tissue that surrounds and divides skeletal muscles.
+END
+
+[MCQ]
+QUESTION: Which cells secrete the initial cartilage-like matrix (osteoid) during endochondral ossification?
+A: Chondrocytes and osteoblasts
+B: Osteoclasts exclusively
+C: Erythrocytes and platelets
+D: Smooth muscle fibers
+ANSWER: A
+RATIONALE: Endochondral ossification involves cartilage-like tissue formed and subsequently replaced by bone activity involving osteoblasts.
+END
+
+[MCQ]
+QUESTION: What is the primary source of nutrition and blood supply for compact cortical bone?
+A: Synovial fluid within joint spaces
+B: Blood vessels running through Haversian and Volkmann's canals originating from the periosteum
+C: Articular cartilage diffusion from joint capsules
+D: Red bone marrow inside flat skull bones
+ANSWER: B
+RATIONALE: Compact bone receives blood supply via nutrient vessels from the periosteum traveling through Volkmann's and Haversian canals.
+END
+
+[MCQ]
+QUESTION: What clinical term describes the weakening of bones resulting from calcium resorption due to prolonged inactivity?
+A: Osteopenia
+B: Osteogenesis imperfecta
+C: Chondromalacia
+D: Myocardial infarction
+ANSWER: A
+RATIONALE: Prolonged inactivity causes calcium loss and resorption, leading directly to osteopenia and weak bones.
+END

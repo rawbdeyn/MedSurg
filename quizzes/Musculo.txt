@@ -1,0 +1,769 @@
+[MCQ]
+QUESTION: A patient is admitted to the emergency department following a severe motor vehicle collision with a suspected basilar skull fracture. Upon assessment, the nurse notes clear, watery fluid draining from the patient's ears and nose, along with periorbital ecchymosis ("raccoon eyes"). Which nursing intervention is contraindicated for this patient?
+A: Elevating the head of the bed 30 to 45 degrees
+B: Instructing the patient to gently blow their nose to clear the nasal passages
+C: Administering prescribed stool softeners to prevent straining
+D: Monitoring closely for signs of meningitis and central nervous system infection
+ANSWER: B
+RATIONALE: Instructing a patient with a basilar skull fracture and CSF leakage to blow their nose is strictly contraindicated because it increases intracranial pressure and can force pathogens through the cribriform plate, leading to severe intracranial infection. Elevating the head of the bed reduces ICP and CSF leakage, stool softeners prevent Valsalva straining, and monitoring for meningitis is a crucial priority.
+END
+
+[MCQ]
+QUESTION: A trauma patient with multiple rib fractures on the right side is observed to have the right side of the chest moving inward during inhalation and outward during exhalation. The patient exhibits severe respiratory distress and tachypnea. How should the nurse interpret this finding?
+A: The patient is developing a tension pneumothorax requiring immediate chest tube insertion.
+B: The patient has a flail chest resulting from at least three consecutive ribs fractured in two or more places.
+C: The patient is experiencing hypovolemic shock secondary to hemothorax.
+D: The patient is demonstrating normal compensatory paradoxical chest expansion.
+ANSWER: B
+RATIONALE: Paradoxical chest movement—where the injured segment moves inward during inhalation and outward during exhalation—is the hallmark clinical sign of a flail chest, which occurs when at least three consecutive ribs are fractured in two or more places. Tension pneumothorax involves tracheal deviation and absent breath sounds, hemothorax involves blood in the pleural space, and paradoxical movement is never normal or compensatory.
+END
+
+[MCQ]
+QUESTION: A patient who sustained a mid-shaft humeral fracture in a sports accident is evaluated by the nurse. The nurse notes that the patient is unable to extend the wrist or fingers and has sensory loss over the dorsal thumb-side of the hand. Which nerve injury should the nurse suspect?
+A: Median nerve injury resulting in "ape hand"
+B: Ulnar nerve injury resulting in "claw hand"
+C: Radial nerve injury resulting in "wrist drop"
+D: Sciatic nerve injury resulting in foot drop
+ANSWER: C
+RATIONALE: The radial nerve runs in close proximity to the humeral shaft; injury to this nerve causes "wrist drop," which is the inability to extend the wrist or fingers, along with sensory changes on the dorsal thumb-side of the hand. Median nerve injury causes ape hand/hand of benediction, ulnar nerve injury causes claw hand, and sciatic nerve injury affects the lower extremity.
+END
+
+[MCQ]
+QUESTION: A patient is admitted with a closed mid-shaft femur fracture. Twenty-four hours post-injury, the nurse notes the patient is restless, confused, tachycardic, and has developed a petechial rash across the chest and anterior axillary folds. What complication should the nurse immediately suspect and prepare to manage?
+A: Acute compartment syndrome of the calf
+B: Fat embolism syndrome (FES)
+C: Osteomyelitis of the femoral shaft
+D: Deep vein thrombosis (DVT) progressing to pulmonary embolism
+ANSWER: B
+RATIONALE: The classic clinical triad of Fat Embolism Syndrome (FES)—which commonly occurs 24–72 hours following a long-bone or femoral fracture—consists of hypoxemia, neurologic abnormalities (confusion, restlessness), and a petechial rash over the chest, axilla, and hard palate. Compartment syndrome causes deep throbbing pain and paresthesia, DVT typically presents with unilateral limb swelling and calf pain, and osteomyelitis presents with localized bone infection signs later in recovery.
+END
+
+[MCQ]
+QUESTION: A patient with a long leg cast applied yesterday for a tibial fracture reports deep, throbbing, unrelenting pain in the calf that is completely unrelieved by prescribed opioid analgesics. Upon assessment, the nurse notes that the toes are pale, cool, and exhibit diminished sensation to touch, though weak distal pulses remain palpable. How should the nurse prioritize their clinical actions?
+A: Reassure the patient that postoperative pain is normal and administer the next scheduled dose of opioids.
+B: Elevate the leg above the heart on multiple pillows to maximize lymphatic fluid drainage.
+C: Immediately notify the physician and prepare for emergency cast bivalving or fasciotomy, recognizing that palpable pulses do not rule out compartment syndrome.
+D: Apply warm compresses to the calf to promote localized vasodilation and muscle relaxation.
+ANSWER: C
+RATIONALE: Unrelenting pain disproportionate to the injury and unresponsive to narcotics, combined with paresthesia and pallor, indicates acute compartment syndrome, a surgical emergency. Palpable pulses are a late finding and do not rule out compartment syndrome because arterial pressure is higher than tissue pressure initially. Elevating the leg above the heart is contraindicated because it decreases arterial perfusion pressure and worsens ischemia. Warm compresses are contraindicated as they increase metabolic demand in ischemic tissue.
+END
+
+[MCQ]
+QUESTION: A nurse is managing a patient in balanced skeletal traction for a displaced femoral shaft fracture. During routine morning rounds, the nurse observes that the 35-pound traction weights are resting on the floor, and the ropes are frayed over the metal pulleys. What is the nurse's immediate corrective action?
+A: Remove the weights entirely to relieve tension on the bone pins.
+B: Lift and reposition the weights so they hang freely without touching the floor, and inspect/realign the ropes and pulleys.
+C: Increase the traction weight by 5 pounds to compensate for the slack in the system.
+D: Push the patient upward toward the head of the bed to restore correct alignment.
+ANSWER: B
+RATIONALE: Traction weights must always hang freely and never touch the floor; if weights touch the floor, traction is ineffective. The nurse must reposition the weights to hang freely and ensure ropes and pulleys are functioning smoothly. Nurses must never remove traction weights without a specific physician order.
+END
+
+[MCQ]
+QUESTION: A patient has just had a long arm Plaster of Paris cast applied for a complex forearm fracture. Which nursing action is essential during the immediate 24 to 48-hour drying and post-application phase?
+A: Handle the wet cast using fingertips to support the heavy weight securely.
+B: Cover the cast tightly with warm blankets to accelerate plaster crystallization and hardening.
+C: Handle the wet cast exclusively with the palms of the hands and elevate the extremity on pillows to prevent indentations and edema.
+D: Use a high-heat blow dryer held directly against the plaster surface to dry it within 15 minutes.
+ANSWER: C
+RATIONALE: A wet Plaster of Paris cast must be handled using the palms (never fingertips, which create indentations that press on underlying skin and cause pressure necrosis) and elevated on pillows to prevent edema. High heat should be avoided as it causes uneven drying and burns; low, cool air can be used if needed.
+END
+
+[MCQ]
+QUESTION: A patient undergoing diagnostic evaluation for severe lower back pain and suspected herniated intervertebral disc is scheduled for a myelography procedure using a water-based radiopaque dye (Amipaque). Following the lumbar puncture and dye instillation, how should the nurse position the patient post-test?
+A: Flat in bed in a strict dorsal recumbent position for 12 continuous hours
+B: With the head of the bed elevated 30 to 45 degrees to prevent the water-based contrast from migrating into the cranial vault
+C: In Trendelenburg position with the feet elevated above the head
+D: Prone on the abdomen with sandbags stabilizing the lumbar spine
+ANSWER: B
+RATIONALE: Following myelography with a water-based dye (such as Amipaque), the patient must keep the head of the bed elevated 30 to 45 degrees for several hours to prevent the radiopaque contrast material from irritating the meninges and causing seizures. Keeping the patient completely flat for 12 hours is specifically required if an oil-based dye is used.
+END
+
+[MCQ]
+QUESTION: A patient is admitted with severe knee pain and suspected internal derangement of the meniscus. The physician orders an arthroscopy. Following the procedure, what are the key post-test nursing priorities?
+A: Maintain absolute strict bed rest for 72 hours with continuous skin traction.
+B: Monitor the puncture site dressings, encourage early ambulation as soon as the patient is fully awake, apply ice, and manage mild joint soreness.
+C: Administer oral barium sulfate and keep the patient NPO for 24 hours.
+D: Perform immediate closed reduction of the patella.
+ANSWER: B
+RATIONALE: Post-arthroscopy care involves monitoring surgical dressings, managing mild joint soreness (expected for 2 days), applying ice and rest, and encouraging early ambulation as soon as the patient is fully awake. Strict bed rest and barium are incorrect.
+END
+
+[MCQ]
+QUESTION: A patient presents with acute gouty arthritis affecting the metatarsophalangeal joint of the great toe. Which laboratory finding should the nurse anticipate being elevated in this patient?
+A: Serum Calcium above 10.5 mg/dL
+B: Serum Uric Acid above normal limits (e.g., >7–8 mg/dL)
+C: Erythrocyte Sedimentation Rate (ESR) remaining at 0 mm/hr
+D: Serum Phosphorus below 2.5 mEq/L
+ANSWER: B
+RATIONALE: Gout is characterized by hyperuricemia; serum uric acid levels are elevated (normal is approximately 2.2–7 mg/dL for females and 4.2–8 mg/100 mL for males). While ESR may be elevated due to inflammation, uric acid is the specific hallmark test for gout.
+END
+
+[MCQ]
+QUESTION: A patient with advanced Rheumatoid Arthritis is evaluated in the clinic. Which blood test is a specific latex fixation test that detects autoantibodies, with higher titers indicating a greater degree of active joint inflammation?
+A: Anti-Nuclear Antibody (ANA) titer
+B: Rheumatoid Factor (RF)
+C: Creatine Phosphokinase (CK-3)
+D: Alkaline Phosphatase (ALP-2)
+ANSWER: B
+RATIONALE: Rheumatoid Factor (RF) is a latex fixation test detecting autoantibodies linked to connective tissue diseases; positive RF and higher titers strongly suggest active Rheumatoid Arthritis (RA). ANA is a general marker for SLE and autoimmune conditions, while CK-3 evaluates muscle trauma.
+END
+
+[MCQ]
+QUESTION: A patient is prescribed crutch walking using a 3-point gait following a non-weight-bearing right ankle fracture. How should the nurse instruct the patient to execute this gait correctly?
+A: Advance both crutches and the weaker (right) leg simultaneously, then advance the stronger (left) leg.
+B: Move the left crutch, then the right foot, then the right crutch, and finally the left foot.
+C: Advance both crutches forward, then swing both legs past the crutches.
+D: Move the right crutch and left foot together simultaneously.
+ANSWER: A
+RATIONALE: A 3-point gait is used for non-weight-bearing injuries; the patient advances both crutches and the weaker/injured leg together, and then steps forward with the stronger, weight-bearing leg.
+END
+
+[MCQ]
+QUESTION: A patient using a cane for right-sided lower extremity weakness asks the nurse how to hold and walk with the cane. What is the correct instruction?
+A: Hold the cane in the right hand and move the cane simultaneously with the right foot.
+B: Hold the cane in the left (unaffected/opposite) hand, keep the elbow flexed 15–30 degrees, and advance the cane and the right (affected) leg together.
+C: Hold the cane in both hands across the chest while hopping on the left foot.
+D: Hold the cane on the affected side and step with the strong leg first.
+ANSWER: B
+RATIONALE: Canes should always be held on the unaffected (opposite) side of the weak/affected leg. The patient flexes the elbow 15–30 degrees, holds the cane 4–6 inches to the side, and moves the cane and affected leg together.
+END
+
+[MCQ]
+QUESTION: A nurse is caring for an elderly patient who has been immobilized on strict bed rest for three weeks following pelvic surgery. What physiological bone alteration should the nurse anticipate due to this prolonged immobility?
+A: Massive osteoblastic stimulation resulting in thick cortical bone hypertrophy
+B: Calcium resorption exceeding bone formation, leading to osteopenia, bone weakening, and hypercalcemia risk
+C: Rapid conversion of yellow marrow into active red bone marrow
+D: Acceleration of endochondral ossification across epiphyseal plates
+ANSWER: B
+RATIONALE: Prolonged bed rest and lack of weight-bearing mechanical stress eliminate the stimulus for bone formation, leading to increased osteoclastic calcium resorption, osteopenia, and bone weakening.
+END
+
+[MCQ]
+QUESTION: A patient with an open tibial fracture Grade III is admitted to the surgical unit and placed in skeletal traction with an external fixator frame. What is the most critical nursing priority when inspecting the pin insertion sites?
+A: Remove the metal fixation pins daily to check for deep bone healing.
+B: Clean pin sites using sterile technique with prescribed solutions (e.g., normal saline or chlorhexidine/peroxide) and monitor for signs of pin-site infection or loosening.
+C: Apply waterproof occlusive adhesive tape directly over the uncleaned pin sites to seal out air.
+D: Apply heavy friction massage around the pins to stimulate local circulation.
+ANSWER: B
+RATIONALE: Pin-site care is crucial in external fixation and skeletal traction to prevent osteomyelitis and pin-site infection; nurses must clean pin sites using sterile technique with prescribed solutions and monitor for infection or loosening. Pins should never be removed by nurses.
+END
+
+[MCQ]
+QUESTION: A nurse is assessing muscle strength in a patient recovering from a stroke. The patient is able to contract the muscle slightly, and a muscle flicker is visible and palpable, but no joint movement is produced against gravity. How should the nurse document this muscle strength grade?
+A: Grade 5
+B: Grade 3
+C: Grade 1
+D: Grade 0
+ANSWER: C
+RATIONALE: Muscle strength grading scale assigns Grade 1 to a slight visible or palpable muscle contraction with no joint movement produced. Grade 0 is complete paralysis, Grade 3 is movement against gravity only, and Grade 5 is normal strength.
+END
+
+[MCQ]
+QUESTION: A patient sustaining a severe contusion to the quadriceps muscle from a blunt sports impact presents to the clinic. The nurse teaches the patient about the R.I.C.E. + Heat management protocol. When should the nurse instruct the patient to transition from cold compresses to heat application?
+A: Apply heat immediately during the first hour, followed by ice for the next 7 days.
+B: Apply a cold compress for the first 24 hours, and apply heat after 6 hours (per protocol) or subsequent days to promote vasodilation and muscle relaxation.
+C: Apply continuous heat for 48 hours without ever using ice.
+D: Alternate ice and heat every 2 minutes during the first week.
+ANSWER: B
+RATIONALE: Cold compresses are applied for the first 24 hours to induce vasoconstriction, minimize edema, and reduce bleeding. Heat is applied after 6 hours (or per protocol) to promote reabsorption via vasodilation, relax muscles, and reduce stiffness.
+END
+
+[MCQ]
+QUESTION: A patient sustains a severe ankle sprain resulting in complete rupture of the lateral ligaments, severe pain, dramatic loss of joint function, and significant instability. How should the nurse classify this soft tissue injury?
+A: First-degree strain
+B: Second-degree sprain
+C: Third-degree sprain
+D: First-degree contusion
+ANSWER: C
+RATIONALE: A third-degree sprain involves the complete rupture of ligaments, causing severe pain, severe edema, dramatic loss of function, and complete loss of joint integrity. First-degree involves minimal tearing, and second-degree involves up to half of the ligaments torn.
+END
+
+[MCQ]
+QUESTION: A patient with a long arm cast reports a burning sensation and severe pain over the bony prominence of the elbow, accompanied by a foul, hot odor emanating from beneath the plaster. What complication is the patient most likely experiencing?
+A: Systemic fat embolism syndrome
+B: Plaster sore (pressure ulcer underneath the cast) leading to localized skin necrosis and infection
+C: Normal bone remodeling phase of fracture healing
+D: Arterial vasodilation secondary to RICE therapy
+ANSWER: B
+RATIONALE: Severe localized burning pain, hot spots, offensive odor, and discharge beneath a cast are classic warning signs of a plaster sore (pressure ulcer) causing localized tissue ischemia and secondary infection.
+END
+
+[MCQ]
+QUESTION: A patient in a body spica cast exhibits prolonged nausea, repeated vomiting after meals, abdominal distension, and absent bowel sounds. What condition should the nurse immediately suspect?
+A: Appendicitis
+B: Cast syndrome (superior mesenteric artery syndrome)
+C: Compartment syndrome of the abdomen
+D: Bilateral femoral shaft refracture
+ANSWER: B
+RATIONALE: Cast syndrome involves compression of the duodenum by the superior mesenteric artery against the vertebral column, precipitated by body or spica casts, resulting in nausea, vomiting, abdominal distension, and bowel obstruction ileus.
+END
+
+[MCQ]
+QUESTION: A patient with Paget's disease of the bone is admitted for evaluation. Which laboratory enzyme test would the nurse expect to be significantly elevated due to accelerated bone turnover and osteoblastic activity?
+A: Serum Uric Acid
+B: Alkaline Phosphatase (ALP-2)
+C: Erythrocyte Sedimentation Rate (ESR)
+D: Creatine Phosphokinase (CK-3)
+ANSWER: B
+RATIONALE: Alkaline Phosphatase (ALP-2) is significantly elevated in conditions involving high bone turnover and osteoblastic activity, such as Paget's disease, osteomalacia, and bone cancer.
+END
+
+[MCQ]
+QUESTION: A patient is scheduled for a bone scan utilizing an IV radioactive isotope (such as technetium-99m) to evaluate metastatic bone lesions. What pre-test and post-test nursing instructions are essential?
+A: Keep the patient NPO for 48 hours post-scan and restrict all fluid intake.
+B: Inform the patient about a 2-hour waiting period between IV isotope injection and the actual scan, and encourage high fluid intake post-test to excrete the isotope.
+C: Administer oral barium contrast 12 hours prior to the scan.
+D: Ensure the patient remains in Trendelenburg position for 6 hours following isotope injection.
+ANSWER: B
+RATIONALE: Bone scans require an IV radioisotope injection followed by a 2-hour waiting period for bone uptake before the 30–60 minute scan; post-test nursing care requires increasing fluid intake to flush and eliminate the radioactive material from the kidneys.
+END
+
+[MCQ]
+QUESTION: A patient is admitted with severe progressive muscular dystrophy following extensive trauma. Which laboratory enzyme test specifically reflects severe skeletal muscle injury and necrosis?
+A: Serum Alkaline Phosphatase
+B: Creatine Phosphokinase (CK-3 or CK-MM)
+C: Serum Calcium
+D: Anti-Nuclear Antibody (ANA)
+ANSWER: B
+RATIONALE: Creatine Phosphokinase (CK-3 or CK-MM) is the specific muscle enzyme whose serum concentrations are highest in traumatic skeletal muscle injuries and progressive muscular dystrophy.
+END
+
+[MCQ]
+QUESTION: A patient with severe scoliosis is fitted with a Milwaukee brace. What is the primary clinical objective of this orthotic device?
+A: To deliver 40 pounds of skeletal skull traction
+B: To provide mechanical trunk support, maintain spinal alignment, and correct spinal deformity without surgery
+C: To completely immobilize the cervical spine following basilar skull fracture
+D: To replace internal medullary nails in femoral shaft fractures
+ANSWER: B
+RATIONALE: Spinal braces like the Milwaukee brace provide mechanical support for weakened muscles and bones, immobilize the spine, maintain alignment, and help correct deformities such as scoliosis.
+END
+
+[MCQ]
+QUESTION: A patient with severe osteoarthritis of the knee is evaluated by the nurse, who notes a grating, crunching sound with palpable vibration when moving the joint through its range of motion. How should the nurse document this finding?
+A: Clonus
+B: Crepitus
+C: Ecchymosis
+D: Paresthesia
+ANSWER: B
+RATIONALE: Crepitus is the grating sound or rough sensation heard or felt during joint palpation when articulating cartilage surfaces are damaged or worn away.
+END
+
+[MCQ]
+QUESTION: A patient is scheduled for a muscle biopsy of the iliac crest. Which coagulation laboratory values must the nurse carefully review before and after the procedure?
+A: Hemoglobin and Hematocrit
+B: Prothrombin Time (PT) and Partial Thromboplastin Time (PTT)
+C: Serum Calcium and Phosphorus
+D: White Blood Cell count and differential
+ANSWER: B
+RATIONALE: Muscle and bone biopsies are invasive procedures performed under local anesthesia; nurses must check coagulation profiles (PT and PTT) to ensure coagulants are managed safely 2–3 days before and after the procedure to prevent hemorrhage.
+END
+
+[MCQ]
+QUESTION: A patient recovering from knee surgery is instructed to perform isometric exercises for the quadriceps muscles. How should the nurse explain this exercise to the patient?
+A: "Bend and straighten your knee completely through its full range of motion against heavy resistance."
+B: "Alternately contract and relax your leg muscles firmly without moving or bending the knee joint."
+C: "Walk on the treadmill for 30 minutes at a fast pace."
+D: "Use your stronger leg to passively move your weaker leg back and forth."
+ANSWER: B
+RATIONALE: Isometric exercises involve the alternate contraction and relaxation of muscles with no resulting joint movement (e.g., quadriceps sets), maintaining muscle tone without stressing healing joint structures. Isotonic exercises involve changes in muscle length and joint movement.
+END
+
+[MCQ]
+QUESTION: A patient with severe rheumatoid arthritis has significant hand deformities, making self-feeding difficult. When assisting the patient at mealtime, what nursing intervention is most appropriate?
+A: Feed the patient entirely to prevent fatigue and food spillage.
+B: Place the patient in Fowler's position, provide adaptive feeding devices, and offer easily handled finger foods.
+C: Keep the patient flat in bed and restrict oral intake to liquids only.
+D: Administer intravenous nutrition and avoid oral meals.
+ANSWER: B
+RATIONALE: Managing feeding problems in disabled or arthritic patients involves positioning the patient in Fowler's position, providing assistive devices, offering finger foods, supervising mealtime, and keeping suction equipment ready.
+END
+
+[MCQ]
+QUESTION: A patient with an open tibial fracture is treated with an external fixator frame. The nurse is turning the patient in bed. What specific positioning rule must the nurse follow?
+A: Turn the patient to either the operative or unoperative side every 2 hours indiscriminately.
+B: Turn the patient every 2 hours exclusively to the unoperative side and ensure no weight is borne on the affected limb.
+C: Keep the patient strictly supine with no position changes allowed for 6 weeks.
+D: Place the patient prone with the external frame resting directly on pillows.
+ANSWER: B
+RATIONALE: When managing an external fixator, nurses must turn the patient every 2 hours to the unoperative side only to protect the fixation pins and frame, and ensure absolute avoidance of weight-bearing on affected limbs.
+END
+
+[MCQ]
+QUESTION: A patient is admitted with a comminuted fracture of the proximal third of the femur. Due to powerful deforming muscle forces acting on the fractured fragments, how does the iliopsoas muscle affect the proximal fragment?
+A: Abducts the proximal fragment laterally
+B: Flexes and externally rotates the proximal fragment via the lesser trochanter
+C: Exerts strong axial compression loads on the distal fragment
+D: Pulls the distal fragment posteriorly into the popliteal fossa
+ANSWER: B
+RATIONALE: Deforming muscle forces on femoral shaft fractures dictate fragment displacement; the iliopsoas flexes and externally rotates the proximal fragment via its insertion at the lesser trochanter, while abductors pull laterally and adductors exert varus loads.
+END
+
+[MCQ]
+QUESTION: A patient with a severe crush injury of the lower leg is at high risk for Acute Compartment Syndrome. The nurse notes that the patient's dorsalis pedis pulses are strong and easily palpable (2+). Can the nurse safely rule out compartment syndrome based on these palpable pulses?
+A: Yes, compartment syndrome always obliterates arterial pulses immediately.
+B: No, palpable pulses are a normal finding in early compartment syndrome because arterial pressure exceeds tissue pressure; pulselessness is a very late sign.
+C: Yes, if pulses are present, tissue pressure is normal.
+D: No, but palpable pulses mean fasciotomy is never required.
+ANSWER: B
+RATIONALE: A patient can have palpable arterial pulses and still suffer from acute compartment syndrome because arterial pressure is much higher than intercompartmental tissue pressure initially; pulselessness is a very late and ominous sign.
+END
+
+[MCQ]
+QUESTION: A patient is scheduled for a bone marrow aspiration to evaluate for aplastic anemia. Which anatomical sites are the most common and standard puncture locations for this procedure?
+A: Sternum and iliac crest
+B: Distal femur and proximal tibia
+C: Shaft of the humerus and clavicle
+D: Spinous processes of the cervical vertebrae
+ANSWER: A
+RATIONALE: Bone marrow aspiration is routinely performed at the sternum and the posterior or anterior iliac crest.
+END
+
+[MCQ]
+QUESTION: What is the primary structural difference between compact (cortical) bone and cancellous (spongy) bone?
+A: Compact bone contains red bone marrow exclusively, while cancellous bone contains yellow fat.
+B: Compact bone is dense and structured around Haversian osteons, whereas cancellous bone consists of a lattice of trabeculae enclosing spaces filled with red bone marrow.
+C: Cancellous bone lacks calcium and phosphorus entirely.
+D: Compact bone is found exclusively in flat skull bones.
+ANSWER: B
+RATIONALE: Compact bone is dense and heavy, built of osteons and lamellae; cancellous bone is spongy, composed of trabeculae and marrow-filled spaces.
+END
+
+[MCQ]
+QUESTION: A patient with osteoporosis undergoes DEXA scanning. What is the primary clinical purpose of this diagnostic study?
+A: To visualize joint menisci and cruciate ligaments directly
+B: To assess bone mineral density (BMD) and diagnose osteoporosis using low-dose radiation
+C: To measure serum alkaline phosphatase and uric acid levels
+D: To detect active bone metastases using technetium isotopes
+ANSWER: B
+RATIONALE: DEXA (Dual-Energy X-ray Absorptiometry) uses low-dose X-rays to assess bone mineral density, providing a definitive diagnostic score for osteoporosis.
+END
+
+[MCQ]
+QUESTION: A patient sustained a transverse fracture of the radius. The physician performs a closed reduction and applies a short arm cast. What is the primary mechanical purpose of applying this cast (retention)?
+A: To stimulate immediate endochondral ossification across the fracture site
+B: To maintain anatomical bone fragment alignment and immobilize the fracture during healing
+C: To deliver IV radioactive isotopes directly into the fracture line
+D: To dissolve necrotic bone via osteoclastic activation
+ANSWER: B
+RATIONALE: Retention in fracture management (via casts, splints, or internal/external fixation) maintains bone fragment alignment and immobilizes the site to allow successful healing.
+END
+
+[MCQ]
+QUESTION: A patient presents with severe right hip pain and inability to bear weight following a fall. Physical examination reveals external rotation and visible shortening of the right lower extremity. Which orthopedic injury do these clinical manifestations strongly indicate?
+A: Colles' fracture of the wrist
+B: Fracture of the femur (hip/femoral neck/shaft fracture)
+C: Supracondylar humerus fracture
+D: Flail chest injury
+ANSWER: B
+RATIONALE: Femur and hip fractures classically present with severe hip/thigh pain, inability to bear weight, limb shortening, and external rotation due to deforming muscle pulls.
+END
+
+[MCQ]
+QUESTION: A patient with rheumatoid arthritis has elevated Erythrocyte Sedimentation Rate (ESR) and positive Rheumatoid Factor. What pathological process do these laboratory findings reflect?
+A: Systemic autoimmune-driven inflammation and connective tissue destruction
+B: Acute bacterial osteomyelitis of the long bones
+C: Uncontrolled osteoblastic bone tumor proliferation
+D: Normal physiological bone remodeling following weight-bearing stress
+ANSWER: A
+RATIONALE: Elevated ESR and positive RF reflect systemic autoimmune-driven inflammation and connective tissue destruction characteristic of rheumatoid arthritis and related collagen vascular diseases.
+END
+
+[MCQ]
+QUESTION: A patient with a long leg cast reports tingling and numbness in the toes, along with inability to move the toes upward. The nurse recognizes these symptoms as neurovascular compromise. What intervention should the nurse perform first?
+A: Administer an oral dose of narcotic analgesic.
+B: Assess neurovascular status (6 P's), notify the physician, and prepare to check cast tightness or bivalve the cast if pressure is elevated.
+C: Submerge the casted leg in a warm water bath to relax the muscles.
+D: Remove the traction weights attached to the cast.
+ANSWER: B
+RATIONALE: Paresthesia (tingling/numbness) and paralysis (inability to move toes) are critical neurovascular signs of nerve compression or compartment syndrome. The nurse must assess the 6 P's, notify the physician, and assist in relieving cast pressure immediately.
+END
+
+[MCQ]
+QUESTION: A patient with severe osteoarthritis is scheduled for an arthroscopic knee debridement. What immediate post-test nursing care should be provided?
+A: Keep the patient NPO for 48 hours and maintain strict bed rest.
+B: Monitor puncture site dressings, manage mild joint soreness with ice and rest, and encourage early ambulation as soon as the patient is fully awake.
+C: Apply a rigid body spica cast from chest to toes.
+D: Administer radioactive gallium IV and wait 2 hours.
+ANSWER: B
+RATIONALE: Post-arthroscopy care focuses on dressing checks, ice and rest for mild joint soreness (expected for 2 days), and encouraging early ambulation once the patient is fully awake.
+END
+
+[MCQ]
+QUESTION: Which cell type in bone tissue is responsible for forming new bone by secreting the organic osteoid matrix before mineralization?
+A: Osteoclast
+B: Osteocyte
+C: Osteoblast
+D: Osteogenic cell
+ANSWER: C
+RATIONALE: Osteoblasts are the bone-forming cells responsible for synthesizing and secreting the unmineralized osteoid matrix.
+END
+
+[MCQ]
+QUESTION: A patient is placed in Buck's extension traction following a hip fracture prior to surgical repair. What is the primary purpose of applying this skin traction?
+A: To reduce muscle spasms, immobilize the hip joint, and maintain alignment preoperatively
+B: To provide permanent surgical internal fixation without metal plates
+C: To deliver up to 40 pounds of direct skeletal bone traction
+D: To cure underlying osteoporosis permanently
+ANSWER: A
+RATIONALE: Buck's extension is a type of skin traction (supporting up to 7 lbs) used primarily to immobilize the hip, reduce painful muscle spasms, and maintain alignment prior to surgery.
+END
+
+[MCQ]
+QUESTION: A patient with severe back pain undergoes a lumbar myelography using an oil-based radiopaque contrast dye. Following the procedure, what strict post-test positioning must the nurse enforce?
+A: Keep the head of the bed elevated 45 degrees at all times.
+B: Keep the patient completely flat in bed in a dorsal recumbent position for 12 continuous hours.
+C: Turn the patient every 2 hours to the operative side only.
+D: Place the patient in Trendelenburg position.
+ANSWER: B
+RATIONALE: When an oil-based dye is used for myelography, the nurse must keep the patient completely flat in bed for 12 hours to prevent CSF leakage and severe headaches. Water-based dyes require head elevation.
+END
+
+[MCQ]
+QUESTION: A patient presents with a severe crush injury to the hand. The physician suspects carpal tunnel syndrome resulting from median nerve compression. Which clinical finding should the nurse expect during physical assessment?
+A: Wrist drop with inability to extend the fingers
+B: Numbness, tingling, and sensory changes in the median nerve distribution of the hand
+C: Claw hand affecting little and ring fingers
+D: Inability to pronate the arm or flex the elbow
+ANSWER: B
+RATIONALE: Carpal tunnel syndrome involves compression of the median nerve in the wrist, resulting in sensory changes, numbness, tingling, and pain in the median nerve distribution.
+END
+
+[MCQ]
+QUESTION: What are the primary mineral ions stored within the extracellular matrix of bone tissue?
+A: Sodium and Potassium
+B: Calcium and Phosphorus
+C: Iron and Magnesium
+D: Chloride and Bicarbonate
+ANSWER: B
+RATIONALE: Bone serves as the body's primary mineral reservoir, storing massive quantities of calcium and phosphorus for structural rigidity and systemic homeostasis.
+END
+
+[MCQ]
+QUESTION: A patient is diagnosed with osteomalacia. Which blood laboratory alterations in calcium and phosphorus should the nurse anticipate?
+A: Elevated calcium and elevated phosphorus
+B: Decreased or low-normal calcium and decreased phosphorus levels
+C: Normal calcium and massive elevation in uric acid
+D: Extremely elevated alkaline phosphatase and decreased CK-3
+ANSWER: B
+RATIONALE: Osteomalacia (softening of bones due to impaired mineralization, often vitamin D deficiency) typically presents with decreased or low-normal serum calcium and decreased serum phosphorus, alongside elevated alkaline phosphatase.
+END
+
+[MCQ]
+QUESTION: A patient recovering from a proximal humeral fracture asks the nurse what muscle group is responsible for shoulder abduction and arm movement. Which anatomical structure functions as a skeletal muscle?
+A: Involuntary, non-striated smooth muscle in vessel walls
+B: Voluntary, striated skeletal muscle attached to bones via tendons
+C: Involuntary, branched cardiac muscle found exclusively in the heart
+D: Dense fibrocartilaginous intervertebral disc tissue
+ANSWER: B
+RATIONALE: Skeletal muscle is voluntary, striated, and attached to bones via tendons, responsible for body movement, posture, and joint stabilization.
+END
+
+[MCQ]
+QUESTION: A patient with a femoral shaft fracture is at risk for developing hypovolemic shock. What primary pathological mechanism drives this early complication?
+A: Massive internal hemorrhage and blood loss into the soft tissues of the thigh surrounding the fracture site
+B: Uncontrolled systemic infection from open skin lesions
+C: Complete cessation of cardiac muscle contraction
+D: Acute allergic reaction to fiberglass cast material
+ANSWER: A
+RATIONALE: Femoral shaft fractures can result in significant blood loss (often 1,000 to 1,500 mL or more) sequestered directly into the soft tissues of the thigh, leading to hypovolemic shock.
+END
+
+[MCQ]
+QUESTION: What structural element connects skeletal muscle directly to bone?
+A: Ligament
+B: Tendon
+C: Bursal sac
+D: Synovial membrane
+ANSWER: B
+RATIONALE: Tendons are dense fibrous bands of connective tissue that anchor skeletal muscles directly to bones. Ligaments connect bone to bone.
+END
+
+[MCQ]
+QUESTION: A patient with a cervical spine fracture is placed in head halter traction. What is a key nursing consideration for skin traction applied to the head and neck?
+A: Apply up to 40 pounds of weight directly to cranial skull pins.
+B: Ensure proper fit of the halter, maintain neutral head alignment, and monitor the skin and ears frequently for pressure breakdown.
+C: Remove the halter every 30 minutes for neck exercises.
+D: Elevate the foot of the bed to use gravity as traction counter-pull.
+ANSWER: B
+RATIONALE: Head halter traction is a form of cervical skin traction; nursing care requires maintaining neutral alignment, ensuring correct halter fit, and inspecting skin and ears for pressure ulcers.
+END
+
+[MCQ]
+QUESTION: A patient is diagnosed with osteoporosis based on DEXA scan findings. Which cellular activity is disproportionately outstripping bone formation in this condition?
+A: Osteoblastic bone matrix secretion
+B: Osteoclastic bone resorption
+C: Chondrocytic hyaline cartilage proliferation
+D: Sarcomere contraction
+ANSWER: B
+RATIONALE: In osteoporosis, osteoclastic bone resorption outpaces osteoblastic bone formation, leading to net bone mass loss and skeletal fragility.
+END
+
+[MCQ]
+QUESTION: A patient with a severe elbow injury is diagnosed with a hinge joint disruption. Which anatomical example represents a normal hinge joint in the human body?
+A: Shoulder joint (ball-and-socket)
+B: Elbow and knee joints
+C: Skull suture joints
+D: Carpal plane gliding joints
+ANSWER: B
+RATIONALE: The elbow and knee joints are classic examples of hinge joints, which allow movement primarily in one single plane.
+END
+
+[MCQ]
+QUESTION: A patient with a distal radius fracture is instructed on arm elevation and finger exercises. What is the physiological rationale for encouraging active finger movement and elevation?
+A: To prevent venous stasis, minimize hand edema, and promote distal neurovascular circulation
+B: To stimulate immediate endochondral ossification in the humerus
+C: To increase intracranial pressure and CSF flow
+D: To replace the need for bone mineral density testing
+ANSWER: A
+RATIONALE: Elevating the extremity and encouraging active finger movement promote venous return, reduce edema, prevent stiffness, and maintain neurovascular function.
+END
+
+[MCQ]
+QUESTION: A patient presents with severe skeletal muscle trauma following a crush injury. Which specific serum enzyme test should the nurse monitor to evaluate muscle fiber breakdown?
+A: Serum Uric Acid
+B: Creatine Phosphokinase (CK-3 or CK-MM)
+C: Anti-Nuclear Antibody
+D: Erythrocyte Sedimentation Rate
+ANSWER: B
+RATIONALE: CK-3 (CK-MM) is the specific enzyme elevated in traumatic muscle injuries and rhabdomyolysis/muscular dystrophy.
+END
+
+[MCQ]
+QUESTION: A patient with a long bone fracture develops a fever, tachycardia, tachypnea, and confusion 48 hours post-injury. Laboratory tests show mild hypoxemia. Which diagnosis best fits this clinical picture?
+A: Acute appendicitis
+B: Fat Embolism Syndrome (FES)
+C: Chronic gouty arthritis
+D: Osteomalacia
+ANSWER: B
+RATIONALE: Hypoxemia, neurological changes (confusion), tachycardia, tachypnea, and fever appearing within 24–72 hours of a long bone fracture are classic indicators of Fat Embolism Syndrome.
+END
+
+[MCQ]
+QUESTION: What is the primary function of articular cartilage covering the epiphyseal ends of long bones?
+A: To secrete synovial fluid into the joint capsule
+B: To provide a smooth, lubricated, weight-bearing surface that cushions bone ends and reduces friction during movement
+C: To anchor skeletal muscles directly to the joint line
+D: To perform hemopoiesis and store red blood cells
+ANSWER: B
+RATIONALE: Articular cartilage provides a smooth, slippery, weight-bearing surface covering bone ends to absorb shock and minimize friction during joint articulation.
+END
+
+[MCQ]
+QUESTION: A patient with a history of chronic renal failure presents with hyperphosphatemia and bone pain. How does chronic renal failure impact serum phosphorus levels based on the provided text?
+A: CRF causes serum phosphorus levels to decrease significantly.
+B: CRF causes serum phosphorus levels to increase.
+C: CRF has zero impact on phosphorus, affecting only uric acid.
+D: CRF converts phosphorus into calcium deposits in muscles.
+ANSWER: B
+RATIONALE: The text explicitly notes that serum phosphorus is increased in Chronic Renal Failure (CRF), healing fractures, and bone tumors.
+END
+
+[MCQ]
+QUESTION: A patient is evaluated for spinal curvature abnormalities. The nurse notes an exaggerated inward curve of the lumbar spine ("swayback"). How is this documented?
+A: Kyphosis
+B: Lordosis
+C: Scoliosis
+D: Genu varum
+ANSWER: B
+RATIONALE: Lordosis is "swayback," an exaggeration of the lumbar spinal curve. Kyphosis is thoracic convexity (hunchback), and scoliosis is lateral curvature.
+END
+
+[MCQ]
+QUESTION: A patient is instructed on crutch walking using a 2-point gait. How does the patient coordinate their movements?
+A: Advance both crutches and both legs simultaneously.
+B: Advance the left crutch and the right foot together, then advance the right crutch and the left foot together.
+C: Advance the weaker leg, then both crutches, then the stronger leg.
+D: Swing both legs past the crutches in a single motion.
+ANSWER: B
+RATIONALE: A 2-point gait is faster and involves moving the left crutch and right foot simultaneously, followed by the right crutch and left foot together.
+END
+
+[MCQ]
+QUESTION: What anatomical structure connects bone to bone with high tensile strength?
+A: Tendon
+B: Ligament
+C: Epimysium fascia
+D: Articular cartilage
+ANSWER: B
+RATIONALE: Ligaments are strong, dense, flexible fibrous bands that connect bone to bone. Tendons connect muscle to bone.
+END
+
+[MCQ]
+QUESTION: A patient with a proximal humerus fracture is assessed for neurological function. Injury to which nerve pathway can result in "claw hand" and wasting of the hypothenar eminence?
+A: Radial nerve
+B: Ulnar nerve
+C: Median nerve
+D: Sciatic nerve
+ANSWER: B
+RATIONALE: Ulnar nerve injury results in "claw hand," wasting of the hypothenar eminence, and inability to extend fingers at the IP joint (affecting the little and ring fingers).
+END
+
+[MCQ]
+QUESTION: A patient is admitted with a severe crush injury to the hand. The physician suspects median nerve damage. Which physical sign indicates median nerve injury?
+A: Wrist drop
+B: Claw hand
+C: Ape hand / hand of benediction
+D: Foot drop
+ANSWER: C
+RATIONALE: Median nerve injury causes "ape hand" or "hand of benediction," characterized by wasting of the anterior forearm and thenar eminence.
+END
+
+[MCQ]
+QUESTION: What is the primary nursing goal when managing a patient with chronic musculoskeletal disability or chronic illness?
+A: Promoting complete patient dependency on healthcare providers
+B: Encouraging independence, personal empowerment, and functional adaptation
+C: Enforcing strict bed rest without physical therapy
+D: Utilizing medical models that view disability as a personal defect needing a cure
+ANSWER: B
+RATIONALE: Nursing care for chronic illness and disability emphasizes independence, personal empowerment, person-first language, and supporting the individual to direct their own solutions.
+END
+
+[MCQ]
+QUESTION: A patient with a severe comminuted femur fracture is placed in skeletal traction using a metal pin through the distal femur. What is the maximum weight capacity typically associated with skeletal traction?
+A: Up to 7 lbs
+B: Up to 15 lbs
+C: Up to 40 lbs
+D: Up to 100 lbs
+ANSWER: C
+RATIONALE: Skeletal traction applied directly to bone using wires, pins, or tongs can support a maximum weight of up to 40 lbs. Skin traction supports up to 7 lbs.
+END
+
+[MCQ]
+QUESTION: A patient with a tibial shaft fracture is treated with a functional cast. What is the primary purpose of casting in fracture care?
+A: To provide permanent metal internal fixation
+B: To immobilize a body part, exert uniform tissue compression, provide early mobilization of unaffected parts, and stabilize unstable joints
+C: To perform open surgical reduction of bone fragments
+D: To dissolve hematomas and stimulate red bone marrow hemopoiesis
+ANSWER: B
+RATIONALE: Purposes of casting include immobilizing body parts in specific positions, exerting uniform tissue compression, enabling early mobilization of unaffected parts, correcting deformities, and stabilizing unstable joints.
+END
+
+[MCQ]
+QUESTION: A patient recovering from a spinal fusion is prescribed a Jewett brace. What body region does this brace support and immobilize?
+A: Cervical and upper thoracic spine
+B: Thoracolumbar spine
+C: Lumbar and sacral pelvis only
+D: Cervical neck region exclusively
+ANSWER: B
+RATIONALE: The Jewett brace is a spinal orthosis designed to provide mechanical support and prevent forward flexion (hyperextension brace) for thoracolumbar spinal injuries.
+END
+
+[MCQ]
+QUESTION: A patient with a clubfoot deformity is fitted with a Denis Browne splint. What patient population is this specific orthopedic device designed for?
+A: Geriatric patients with severe hip osteoarthritis
+B: Pediatric patients with clubfoot deformities
+C: Adults recovering from compound skull fractures
+D: Athletes with severe hamstring strains
+ANSWER: B
+RATIONALE: The Denis Browne splint is a specialized pediatric device used in the management and correction of clubfoot (talipes equinovarus).
+END
+
+[MCQ]
+QUESTION: A patient with rheumatoid arthritis presents with chronic joint inflammation and elevated inflammatory markers. Which laboratory test measures non-specific inflammation and is typically elevated in RA?
+A: Erythrocyte Sedimentation Rate (ESR)
+B: Serum Uric Acid
+C: Serum Calcium
+D: Creatine Phosphokinase (CK-3)
+ANSWER: A
+RATIONALE: Erythrocyte Sedimentation Rate (ESR) is a non-specific blood test that detects and monitors inflammation in the body (Normal: Females 0–20 mm/hr, Males 0–10 mm/hr).
+END
+
+[MCQ]
+QUESTION: A patient with severe osteoporosis undergoes a DEXA scan. What is the primary advantage of DEXA over standard X-rays in diagnosing osteoporosis?
+A: DEXA uses radioactive gallium IV to scan soft tissue tumors.
+B: DEXA measures precise bone mineral density (BMD) using very low-dose radiation, allowing early detection of bone mass loss.
+C: DEXA requires lumbar puncture and radiopaque dye injection.
+D: DEXA evaluates active joint synovial inflammation.
+ANSWER: B
+RATIONALE: DEXA assesses bone mineral density to diagnose osteoporosis using low-dose radiation, providing quantitative BMD data superior to plain X-rays.
+END
+
+[MCQ]
+QUESTION: A patient with an open tibial fracture is admitted for surgical debridement and external fixation. Why is immediate aggressive wound debridement essential for open fractures?
+A: To remove devitalized tissue and foreign contaminants, thereby preventing osteomyelitis and severe infection
+B: To stimulate immediate endochondral bone formation across the skin
+C: To convert skeletal muscle into smooth cardiac tissue
+D: To eliminate the need for neurovascular checks
+ANSWER: A
+RATIONALE: Debridement of open fractures removes devitalized tissue, dirt, and bacteria, which is critical for preventing wound infection and osteomyelitis.
+END
+
+[MCQ]
+QUESTION: A nurse is evaluating a patient's risk for deep vein thrombosis (DVT) following major lower extremity orthopedic surgery. What nursing intervention helps prevent venous stasis and thrombus formation?
+A: Maintaining absolute strict bed rest without leg movement for two weeks
+B: Encouraging early ambulation, leg exercises, and applying prescribed anti-embolism stockings or sequential compression devices
+C: Applying maximum skeletal traction weights exceeding 50 lbs
+D: Keeping the affected extremity dependent below the heart at all times
+ANSWER: B
+RATIONALE: Preventing venous stasis and DVT involves encouraging early ambulation, active/passive leg exercises, and utilizing anti-embolism stockings or sequential compression devices (SCDs).
+END
+
+[MCQ]
+QUESTION: A patient with a displaced intertrochanteric hip fracture is treated surgically with a dynamic hip screw. What bone structure was primarily involved in this fracture pattern?
+A: The mid-shaft diaphysis of the humerus
+B: The proximal femur between the greater and lesser trochanters
+C: The distal articular surface of the tibia (pilon)
+D: The distal radius (Colles' area)
+ANSWER: B
+RATIONALE: Intertrochanteric hip fractures occur in the proximal femur specifically between the greater and lesser trochanters, commonly managed with a dynamic hip screw or cephalomedullary nail.
+END
+
+[MCQ]
+QUESTION: A patient with a distal tibia fracture is diagnosed with a pilon fracture. What characterizes a pilon fracture?
+A: A fracture involving the distal tibial articular surface, often caused by vertical axial impact (e.g., falling from a height)
+B: A hairline stress fracture of the calcaneus caused by running
+C: A greenstick fracture of the ulnar shaft
+D: A transverse fracture of the patella
+ANSWER: A
+RATIONALE: Pilon fractures involve the distal tibial articular surface and metaphysis, resulting from severe axial loading or vertical impact (e.g., falls from heights or motor vehicle crashes).
+END
+
+[MCQ]
+QUESTION: A patient is admitted to the rehabilitation unit following an acute stroke resulting in spastic hemiparesis. During physical assessment, the nurse observes a specific gait abnormality. How is a spastic hemiparesis gait characterized?
+A: A shuffling, festinating gait with forward-flexed posture
+B: Stiff, circular swinging motion of the leg (circumduction) due to extensor spasticity on the affected side
+C: High-stepping "steppage" gait caused by foot drop
+D: Unsteady antalgic limp due to hip pain
+ANSWER: B
+RATIONALE: Spastic hemiparesis gait (commonly seen post-stroke) involves unilateral spasticity where the leg is stiff and swung outward in a semicircle (circumduction) during walking.
+END
+
+[MCQ]
+QUESTION: A patient with Parkinson's disease is evaluated for walking difficulties. Which characteristic gait pattern is typically associated with Parkinson's disease?
+A: Steppage gait with high knee lifting
+B: Shuffling gait with a forward-flexed posture and hesitant initiation
+C: Spastic circumduction gait
+D: Ataxic wide-based staggering gait
+ANSWER: B
+RATIONALE: Parkinson's disease is classically associated with a shuffling gait characterized by a forward-flexed posture, reduced arm swing, and difficulty stopping or turning.
+END
+
+[MCQ]
+QUESTION: A patient with lower motor neuron disease affecting the peroneal nerve exhibits a high-stepping gait where the foot slaps the ground because they cannot dorsiflex the ankle. What is this gait called?
+A: Steppage gait
+B: Spastic hemiparesis gait
+C: Shuffling gait
+D: Antalgic gait
+ANSWER: A
+RATIONALE: A steppage gait is caused by lower motor neuron disease and foot drop, where the patient lifts the leg high to clear the dropped foot, causing a slapping sound when stepping down.
+END
+
+[MCQ]
+QUESTION: A patient is scheduled for an arththrography of the shoulder joint. What does this radiographic diagnostic procedure involve?
+A: Injecting contrast dye and/or air directly into the joint capsule to outline soft tissues, rotator cuff, and joint structures
+B: Withdrawing CSF via lumbar puncture and replacing with oil-based dye
+C: Administering IV technetium-99m isotopes for total body bone scanning
+D: Measuring bone mineral density via low-dose X-ray absorption
+ANSWER: A
+RATIONALE: Arthrography is a radiographic examination of a joint following the injection of a radiopaque contrast material and/or air into the joint space to outline soft tissues, cartilage, and ligaments.
+END
+
+[MCQ]
+QUESTION: A patient with a suspected bone tumor in the pelvis undergoes a CT scan and an MRI. What is the primary diagnostic advantage of an MRI over a CT scan in musculoskeletal evaluations?
+A: MRI is superior for visualizing fine detail in soft tissues, ligaments, tendons, and discs, often utilizing Gadolinium contrast.
+B: MRI uses high-dose radiation to image cortical bone hardness.
+C: MRI takes only 30 seconds and requires no patient positioning.
+D: MRI cannot be used for joint evaluations.
+ANSWER: A
+RATIONALE: MRI provides superior imaging resolution for soft tissues, muscles, ligaments, tendons, and neural structures compared to CT scans, which excel primarily at bone detail.
+END
